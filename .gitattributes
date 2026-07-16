@@ -1,4 +1,5 @@
 * text=auto
+public/data/streams/** binary
 *.png binary
 *.jpg binary
 *.jpeg binary
