@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_07_17_22_58_17",
+    "title": "今天有无堡？",
+    "date": "2026-07-17",
+    "time": "22:58:17",
+    "startTime": "22:58",
+    "endTime": "01:11",
+    "duration": 7989,
+    "durationStr": "2.2 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_07_17_22_58_17/录制-24872476-20260717-225817-388-今天有无堡？.xml",
+    "cover": "/data/streams/nightin/2026_07_17_22_58_17/录制-24872476-20260717-225817-388-今天有无堡？.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_07_17_22_58_17/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_17_22_58_17/录制-24872476-20260717-225817-388-今天有无堡？_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_07_17_22_58_17/录制-24872476-20260717-225817-388-今天有无堡？_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_17_22_42_19",
+    "title": "今天有无堡？",
+    "date": "2026-07-17",
+    "time": "22:42:19",
+    "startTime": "22:42",
+    "endTime": "22:57",
+    "duration": 947,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_07_17_22_42_19/录制-24872476-20260717-224219-744-今天有无堡？.xml",
+    "cover": "/data/streams/nightin/2026_07_17_22_42_19/录制-24872476-20260717-224219-744-今天有无堡？.cover.jpg",
+    "highlights": null,
+    "images": [
+      "/data/streams/nightin/2026_07_17_22_42_19/录制-24872476-20260717-142122-195-【午杂】小猪降临直播间_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_07_17_22_42_19/录制-24872476-20260717-142122-195-【午杂】小猪降临直播间_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_17_14_21_22",
     "title": "【午杂】小猪降临直播间",
     "date": "2026-07-17",

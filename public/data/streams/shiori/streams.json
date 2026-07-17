@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026_07_17_21_47_42",
+    "title": "小栞来！",
+    "date": "2026-07-17",
+    "time": "21:47:42",
+    "startTime": "21:47",
+    "endTime": "00:10",
+    "duration": 8603,
+    "durationStr": "2.4 小时",
+    "srt": null,
+    "xml": "/data/streams/shiori/2026_07_17_21_47_42/录制-26966466-20260717-214742-063-小栞来！.xml",
+    "cover": "/data/streams/shiori/2026_07_17_21_47_42/录制-26966466-20260717-214742-063-小栞来！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_07_17_21_47_42/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_07_17_21_47_42/录制-26966466-20260717-214742-063-小栞来！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_07_17_21_47_42/录制-26966466-20260717-214742-063-小栞来！_SCREENSHOTS.jpg",
+      "/data/streams/shiori/2026_07_17_21_47_42/录制-26966466-20260717-101823-738-小栞来！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_07_17_21_47_42/录制-26966466-20260717-101823-738-小栞来！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_17_10_18_23",
     "title": "小栞来！",
     "date": "2026-07-17",

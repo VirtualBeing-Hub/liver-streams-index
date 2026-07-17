@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026_07_17_21_42_29",
+    "title": "生存报告",
+    "date": "2026-07-17",
+    "time": "21:42:29",
+    "startTime": "21:42",
+    "endTime": "23:42",
+    "duration": 7211,
+    "durationStr": "2.0 小时",
+    "srt": null,
+    "xml": "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260717-214229-272-生存报告.xml",
+    "cover": "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260717-214229-272-生存报告.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_07_17_21_42_29/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260717-214229-272-生存报告_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260717-214229-272-生存报告_SCREENSHOTS.jpg",
+      "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260715-221605-940-打电话_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_15_22_16_05",
     "title": "打电话",
     "date": "2026-07-15",
