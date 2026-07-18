@@ -1,19 +1,37 @@
 [
   {
+    "id": "2026_07_18_21_07_02",
+    "title": "3D后日谈+谢礼物",
+    "date": "2026-07-18",
+    "time": "21:07:02",
+    "startTime": "21:07",
+    "endTime": "01:51",
+    "duration": 17045,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/rhea/2026_07_18_21_07_02/录制-23260993-20260718-210702-084-3D后日谈+谢礼物_merged.srt",
+    "xml": "/data/streams/rhea/2026_07_18_21_07_02/录制-23260993-20260718-210702-084-3D后日谈+谢礼物_merged.xml",
+    "cover": "/data/streams/rhea/2026_07_18_21_07_02/录制-23260993-20260718-210702-084-3D后日谈+谢礼物.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_07_18_21_07_02/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_07_18_21_07_02/录制-23260993-20260718-210702-084-3D后日谈+谢礼物_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_07_18_21_07_02/录制-23260993-20260718-210702-084-3D后日谈+谢礼物_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_17_19_57_24",
     "title": "瑞瑞瑞五周年3D纪念LIVE！",
     "date": "2026-07-17",
     "time": "19:57:24",
     "startTime": "19:57",
-    "endTime": "20:53",
-    "duration": 3365,
-    "durationStr": "0.9 小时",
-    "srt": null,
+    "endTime": "22:56",
+    "duration": 10799,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/rhea/2026_07_17_19_57_24/录制-23260993-20260717-195724-586-瑞瑞瑞五周年3D纪念LIVE！.srt",
     "xml": "/data/streams/rhea/2026_07_17_19_57_24/录制-23260993-20260717-195724-586-瑞瑞瑞五周年3D纪念LIVE！.xml",
     "cover": "/data/streams/rhea/2026_07_17_19_57_24/录制-23260993-20260717-195724-586-瑞瑞瑞五周年3D纪念LIVE！.cover.jpg",
-    "highlights": null,
+    "highlights": "/data/streams/rhea/2026_07_17_19_57_24/highlights.md",
     "images": [
-      "/data/streams/rhea/2026_07_17_19_57_24/录制-23260993-20260717-000034-005-工作累了，我垫脚凳在哪_merged_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_17_19_57_24/录制-23260993-20260717-195724-586-瑞瑞瑞五周年3D纪念LIVE！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -25,34 +43,30 @@
     "endTime": "00:40",
     "duration": 2450,
     "durationStr": "0.7 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_07_17_00_00_34/录制-23260993-20260717-000034-005-工作累了，我垫脚凳在哪_merged.srt",
     "xml": "/data/streams/rhea/2026_07_17_00_00_34/录制-23260993-20260717-000034-005-工作累了，我垫脚凳在哪_merged.xml",
     "cover": "/data/streams/rhea/2026_07_17_00_00_34/录制-23260993-20260717-000034-005-工作累了，我垫脚凳在哪.cover.jpg",
     "highlights": "/data/streams/rhea/2026_07_17_00_00_34/highlights.md",
     "images": [
-      "/data/streams/rhea/2026_07_17_00_00_34/录制-23260993-20260717-000034-005-工作累了，我垫脚凳在哪_merged_SCREENSHOTS.jpg",
-      "/data/streams/rhea/2026_07_17_00_00_34/录制-23260993-20260714-211219-103-画画画点点点，明天出发去彩排_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_17_00_00_34/录制-23260993-20260714-211219-103-画画画点点点，明天出发去彩排_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_17_00_00_34/录制-23260993-20260717-000034-005-工作累了，我垫脚凳在哪_merged_SCREENSHOTS.jpg"
     ]
   },
   {
     "id": "2026_07_14_21_12_19",
-    "title": "画画画点点点，明天出发去彩排",
+    "title": "工作累了，我垫脚凳在哪",
     "date": "2026-07-14",
     "time": "21:12:19",
     "startTime": "21:12",
     "endTime": "01:20",
     "duration": 14922,
     "durationStr": "4.1 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_07_14_21_12_19/录制-23260993-20260714-211219-103-画画画点点点，明天出发去彩排.srt",
     "xml": "/data/streams/rhea/2026_07_14_21_12_19/录制-23260993-20260714-211219-103-画画画点点点，明天出发去彩排.xml",
     "cover": "/data/streams/rhea/2026_07_14_21_12_19/录制-23260993-20260714-211219-103-画画画点点点，明天出发去彩排.cover.jpg",
     "highlights": "/data/streams/rhea/2026_07_14_21_12_19/highlights.md",
     "images": [
       "/data/streams/rhea/2026_07_14_21_12_19/录制-23260993-20260714-211219-103-画画画点点点，明天出发去彩排_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_14_21_12_19/录制-23260993-20260714-211219-103-画画画点点点，明天出发去彩排_SCREENSHOTS.jpg",
-      "/data/streams/rhea/2026_07_14_21_12_19/录制-23260993-20260713-205259-878-轴伊的忙碌之中一起完结《寒蝉》_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_14_21_12_19/录制-23260993-20260713-205259-878-轴伊的忙碌之中一起完结《寒蝉》_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_14_21_12_19/录制-23260993-20260714-211219-103-画画画点点点，明天出发去彩排_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -64,15 +78,13 @@
     "endTime": "01:26",
     "duration": 16484,
     "durationStr": "4.6 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_07_13_20_52_59/录制-23260993-20260713-205259-878-轴伊的忙碌之中一起完结《寒蝉》.srt",
     "xml": "/data/streams/rhea/2026_07_13_20_52_59/录制-23260993-20260713-205259-878-轴伊的忙碌之中一起完结《寒蝉》.xml",
     "cover": "/data/streams/rhea/2026_07_13_20_52_59/录制-23260993-20260713-205259-878-轴伊的忙碌之中一起完结《寒蝉》.cover.jpg",
     "highlights": "/data/streams/rhea/2026_07_13_20_52_59/highlights.md",
     "images": [
       "/data/streams/rhea/2026_07_13_20_52_59/录制-23260993-20260713-205259-878-轴伊的忙碌之中一起完结《寒蝉》_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_13_20_52_59/录制-23260993-20260713-205259-878-轴伊的忙碌之中一起完结《寒蝉》_SCREENSHOTS.jpg",
-      "/data/streams/rhea/2026_07_13_20_52_59/录制-23260993-20260712-214016-373-有气无力轻声细语_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_13_20_52_59/录制-23260993-20260712-214016-373-有气无力轻声细语_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_13_20_52_59/录制-23260993-20260713-205259-878-轴伊的忙碌之中一起完结《寒蝉》_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -84,7 +96,7 @@
     "endTime": "02:40",
     "duration": 18052,
     "durationStr": "5.0 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_07_12_21_40_16/录制-23260993-20260712-214016-373-有气无力轻声细语.srt",
     "xml": "/data/streams/rhea/2026_07_12_21_40_16/录制-23260993-20260712-214016-373-有气无力轻声细语.xml",
     "cover": "/data/streams/rhea/2026_07_12_21_40_16/录制-23260993-20260712-214016-373-有气无力轻声细语.cover.jpg",
     "highlights": "/data/streams/rhea/2026_07_12_21_40_16/highlights.md",
@@ -107,9 +119,7 @@
     "cover": "/data/streams/rhea/2026_07_12_04_54_52/录制-23260993-20260712-045452-557-成功通宵，和白毛大前辈看挪威VS英格兰.cover.jpg",
     "highlights": null,
     "images": [
-      "/data/streams/rhea/2026_07_12_04_54_52/录制-23260993-20260712-045452-557-成功通宵，和白毛大前辈看挪威VS英格兰_merged_SCREENSHOTS.jpg",
-      "/data/streams/rhea/2026_07_12_04_54_52/录制-23260993-20260711-214033-560-不眠之夜  5点能看到挪威VS英格兰吗_merged_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_12_04_54_52/录制-23260993-20260711-214033-560-不眠之夜  5点能看到挪威VS英格兰吗_merged_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_12_04_54_52/录制-23260993-20260712-045452-557-成功通宵，和白毛大前辈看挪威VS英格兰_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -148,17 +158,16 @@
     "date": "2026-07-11",
     "time": "21:40:33",
     "startTime": "21:40",
-    "endTime": "21:41",
-    "duration": 97,
-    "durationStr": "1 分钟",
-    "srt": null,
-    "xml": "/data/streams/rhea/2026_07_11_21_40_33/录制-23260993-20260711-214033-560-不眠之夜  5点能看到挪威VS英格兰吗.xml",
+    "endTime": "04:52",
+    "duration": 25938,
+    "durationStr": "7.2 小时",
+    "srt": "/data/streams/rhea/2026_07_11_21_40_33/录制-23260993-20260711-214033-560-不眠之夜  5点能看到挪威VS英格兰吗_merged.srt",
+    "xml": "/data/streams/rhea/2026_07_11_21_40_33/录制-23260993-20260711-214033-560-不眠之夜  5点能看到挪威VS英格兰吗_merged.xml",
     "cover": "/data/streams/rhea/2026_07_11_21_40_33/录制-23260993-20260711-214033-560-不眠之夜  5点能看到挪威VS英格兰吗.cover.jpg",
-    "highlights": null,
+    "highlights": "/data/streams/rhea/2026_07_11_21_40_33/highlights.md",
     "images": [
-      "/data/streams/rhea/2026_07_11_21_40_33/录制-23260993-20260711-000028-158-OMG极限但是我来了_merged_topic_2-1_011914_字幕放大测试.jpg",
-      "/data/streams/rhea/2026_07_11_21_40_33/录制-23260993-20260711-000028-158-OMG极限但是我来了_merged_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_11_21_40_33/录制-23260993-20260711-000028-158-OMG极限但是我来了_merged_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_11_21_40_33/录制-23260993-20260711-214033-560-不眠之夜  5点能看到挪威VS英格兰吗_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_07_11_21_40_33/录制-23260993-20260711-214033-560-不眠之夜  5点能看到挪威VS英格兰吗_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -170,16 +179,13 @@
     "endTime": "02:19",
     "duration": 8340,
     "durationStr": "2.3 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_07_11_00_00_28/录制-23260993-20260711-000028-158-OMG极限但是我来了_merged.srt",
     "xml": "/data/streams/rhea/2026_07_11_00_00_28/录制-23260993-20260711-000028-158-OMG极限但是我来了_merged.xml",
     "cover": "/data/streams/rhea/2026_07_11_00_00_28/录制-23260993-20260711-000028-158-OMG极限但是我来了.cover.jpg",
     "highlights": "/data/streams/rhea/2026_07_11_00_00_28/highlights.md",
     "images": [
-      "/data/streams/rhea/2026_07_11_00_00_28/录制-23260993-20260711-000028-158-OMG极限但是我来了_merged_topic_2-1_011914_字幕放大测试.jpg",
       "/data/streams/rhea/2026_07_11_00_00_28/录制-23260993-20260711-000028-158-OMG极限但是我来了_merged_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_11_00_00_28/录制-23260993-20260711-000028-158-OMG极限但是我来了_merged_SCREENSHOTS.jpg",
-      "/data/streams/rhea/2026_07_11_00_00_28/录制-23260993-20260709-230543-892-出差日_merged_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_11_00_00_28/录制-23260993-20260709-230543-892-出差日_merged_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_11_00_00_28/录制-23260993-20260711-000028-158-OMG极限但是我来了_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -191,35 +197,31 @@
     "endTime": "00:20",
     "duration": 4516,
     "durationStr": "1.3 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_07_09_23_05_43/录制-23260993-20260709-230543-892-出差日_merged.srt",
     "xml": "/data/streams/rhea/2026_07_09_23_05_43/录制-23260993-20260709-230543-892-出差日_merged.xml",
     "cover": "/data/streams/rhea/2026_07_09_23_05_43/录制-23260993-20260709-230543-892-出差日.cover.jpg",
     "highlights": "/data/streams/rhea/2026_07_09_23_05_43/highlights.md",
     "images": [
       "/data/streams/rhea/2026_07_09_23_05_43/录制-23260993-20260709-230543-892-出差日_merged_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_09_23_05_43/录制-23260993-20260709-230543-892-出差日_merged_SCREENSHOTS.jpg",
-      "/data/streams/rhea/2026_07_09_23_05_43/录制-23260993-20260708-204749-538-巴威BW_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_09_23_05_43/录制-23260993-20260708-204749-538-巴威BW_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_09_23_05_43/录制-23260993-20260709-230543-892-出差日_merged_SCREENSHOTS.jpg"
     ]
   },
   {
     "id": "2026_07_08_20_47_49",
-    "title": "巴威BW",
+    "title": "出差日",
     "date": "2026-07-08",
     "time": "20:47:49",
     "startTime": "20:47",
     "endTime": "02:47",
     "duration": 21629,
     "durationStr": "6.0 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_07_08_20_47_49/录制-23260993-20260708-204749-538-巴威BW.srt",
     "xml": "/data/streams/rhea/2026_07_08_20_47_49/录制-23260993-20260708-204749-538-巴威BW.xml",
     "cover": "/data/streams/rhea/2026_07_08_20_47_49/录制-23260993-20260708-204749-538-巴威BW.cover.jpg",
     "highlights": "/data/streams/rhea/2026_07_08_20_47_49/highlights.md",
     "images": [
       "/data/streams/rhea/2026_07_08_20_47_49/录制-23260993-20260708-204749-538-巴威BW_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_08_20_47_49/录制-23260993-20260708-204749-538-巴威BW_SCREENSHOTS.jpg",
-      "/data/streams/rhea/2026_07_08_20_47_49/录制-23260993-20260707-215709-788-检测到空间不稳定_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_08_20_47_49/录制-23260993-20260707-215709-788-检测到空间不稳定_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_08_20_47_49/录制-23260993-20260708-204749-538-巴威BW_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -231,13 +233,12 @@
     "endTime": "01:14",
     "duration": 11865,
     "durationStr": "3.3 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_07_07_21_57_09/录制-23260993-20260707-215709-788-检测到空间不稳定.srt",
     "xml": "/data/streams/rhea/2026_07_07_21_57_09/录制-23260993-20260707-215709-788-检测到空间不稳定.xml",
     "cover": "/data/streams/rhea/2026_07_07_21_57_09/录制-23260993-20260707-215709-788-检测到空间不稳定.cover.jpg",
     "highlights": "/data/streams/rhea/2026_07_07_21_57_09/highlights.md",
     "images": [
-      "/data/streams/rhea/2026_07_07_21_57_09/录制-23260993-20260707-215709-788-检测到空间不稳定_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_07_21_57_09/录制-23260993-20260707-215709-788-检测到空间不稳定_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_07_21_57_09/录制-23260993-20260707-215709-788-检测到空间不稳定_COMIC_FACTORY.png"
     ]
   },
   {
@@ -264,14 +265,12 @@
     "endTime": "21:16",
     "duration": 2072,
     "durationStr": "0.6 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_07_07_20_42_42/录制-23260993-20260707-204242-488-检测到空间不稳定.srt",
     "xml": "/data/streams/rhea/2026_07_07_20_42_42/录制-23260993-20260707-204242-488-检测到空间不稳定.xml",
     "cover": "/data/streams/rhea/2026_07_07_20_42_42/录制-23260993-20260707-204242-488-检测到空间不稳定.cover.jpg",
     "highlights": "/data/streams/rhea/2026_07_07_20_42_42/highlights.md",
     "images": [
-      "/data/streams/rhea/2026_07_07_20_42_42/录制-23260993-20260707-204242-488-检测到空间不稳定_SCREENSHOTS.jpg",
-      "/data/streams/rhea/2026_07_07_20_42_42/录制-23260993-20260706-211038-852-炎炎夏日的轻声细语_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_07_20_42_42/录制-23260993-20260706-211038-852-炎炎夏日的轻声细语_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_07_20_42_42/录制-23260993-20260707-204242-488-检测到空间不稳定_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -283,15 +282,13 @@
     "endTime": "00:22",
     "duration": 11528,
     "durationStr": "3.2 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_07_06_21_10_38/录制-23260993-20260706-211038-852-炎炎夏日的轻声细语.srt",
     "xml": "/data/streams/rhea/2026_07_06_21_10_38/录制-23260993-20260706-211038-852-炎炎夏日的轻声细语.xml",
     "cover": "/data/streams/rhea/2026_07_06_21_10_38/录制-23260993-20260706-211038-852-炎炎夏日的轻声细语.cover.jpg",
     "highlights": "/data/streams/rhea/2026_07_06_21_10_38/highlights.md",
     "images": [
       "/data/streams/rhea/2026_07_06_21_10_38/录制-23260993-20260706-211038-852-炎炎夏日的轻声细语_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_06_21_10_38/录制-23260993-20260706-211038-852-炎炎夏日的轻声细语_SCREENSHOTS.jpg",
-      "/data/streams/rhea/2026_07_06_21_10_38/录制-23260993-20260704-224046-838-胡言乱语周六_COMIC_FACTORY.png",
-      "/data/streams/rhea/2026_07_06_21_10_38/录制-23260993-20260704-224046-838-胡言乱语周六_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_07_06_21_10_38/录制-23260993-20260706-211038-852-炎炎夏日的轻声细语_SCREENSHOTS.jpg"
     ]
   },
   {

@@ -1,5 +1,69 @@
 [
   {
+    "id": "2026_07_18_21_09_30",
+    "title": "晚上好；；耳失小绒",
+    "date": "2026-07-18",
+    "time": "21:09:30",
+    "startTime": "21:09",
+    "endTime": "00:29",
+    "duration": 12019,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mofu/2026_07_18_21_09_30/录制-1791260716-20260718-210930-702-晚上好；；耳失小绒_merged.srt",
+    "xml": "/data/streams/mofu/2026_07_18_21_09_30/录制-1791260716-20260718-210930-702-晚上好；；耳失小绒_merged.xml",
+    "cover": "/data/streams/mofu/2026_07_18_21_09_30/录制-1791260716-20260718-210930-702-晚上好；；耳失小绒.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_07_18_21_09_30/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_07_18_21_09_30/录制-1791260716-20260718-210930-702-晚上好；；耳失小绒_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_07_18_13_46_09",
+    "title": "中午好=w=",
+    "date": "2026-07-18",
+    "time": "13:46:09",
+    "startTime": "13:46",
+    "endTime": "15:07",
+    "duration": 4901,
+    "durationStr": "1.4 小时",
+    "srt": "/data/streams/mofu/2026_07_18_13_46_09/录制-1791260716-20260718-134609-168-中午好=w=_merged.srt",
+    "xml": "/data/streams/mofu/2026_07_18_13_46_09/录制-1791260716-20260718-134609-168-中午好=w=_merged.xml",
+    "cover": "/data/streams/mofu/2026_07_18_13_46_09/录制-1791260716-20260718-134609-168-中午好=w=.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_07_18_13_46_09/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_07_18_13_46_09/录制-1791260716-20260718-134609-168-中午好=w=_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_07_18_12_12_03",
+    "title": "中午好=w=",
+    "date": "2026-07-18",
+    "time": "12:12:03",
+    "startTime": "12:12",
+    "endTime": "13:45",
+    "duration": 5620,
+    "durationStr": "1.6 小时",
+    "srt": null,
+    "xml": "/data/streams/mofu/2026_07_18_12_12_03/录制-1791260716-20260718-121203-427-中午好=w=.xml",
+    "cover": "/data/streams/mofu/2026_07_18_12_12_03/录制-1791260716-20260718-121203-427-中午好=w=.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_18_12_02_22",
+    "title": "中午好=w=",
+    "date": "2026-07-18",
+    "time": "12:02:22",
+    "startTime": "12:02",
+    "endTime": "12:11",
+    "duration": 575,
+    "durationStr": "0.2 小时",
+    "srt": null,
+    "xml": "/data/streams/mofu/2026_07_18_12_02_22/录制-1791260716-20260718-120222-978-中午好=w=.xml",
+    "cover": "/data/streams/mofu/2026_07_18_12_02_22/录制-1791260716-20260718-120222-978-中午好=w=.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_07_17_22_33_33",
     "title": "【3D麦】久违的煮煮面！",
     "date": "2026-07-17",
@@ -8,7 +72,7 @@
     "endTime": "00:03",
     "duration": 5458,
     "durationStr": "1.5 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_17_22_33_33/录制-1791260716-20260717-223333-192-【3D麦】久违的煮煮面！.srt",
     "xml": "/data/streams/mofu/2026_07_17_22_33_33/录制-1791260716-20260717-223333-192-【3D麦】久违的煮煮面！.xml",
     "cover": "/data/streams/mofu/2026_07_17_22_33_33/录制-1791260716-20260717-223333-192-【3D麦】久违的煮煮面！.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_17_22_33_33/highlights.md",
@@ -26,15 +90,13 @@
     "endTime": "14:03",
     "duration": 7154,
     "durationStr": "2.0 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_17_12_04_13/录制-1791260716-20260717-120413-268-中午好-w-虚弱小绒的温柔午台.srt",
     "xml": "/data/streams/mofu/2026_07_17_12_04_13/录制-1791260716-20260717-120413-268-中午好-w-虚弱小绒的温柔午台.xml",
     "cover": "/data/streams/mofu/2026_07_17_12_04_13/录制-1791260716-20260717-120413-268-中午好-w-虚弱小绒的温柔午台.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_17_12_04_13/highlights.md",
     "images": [
       "/data/streams/mofu/2026_07_17_12_04_13/录制-1791260716-20260717-120413-268-中午好-w-虚弱小绒的温柔午台_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_17_12_04_13/录制-1791260716-20260717-120413-268-中午好-w-虚弱小绒的温柔午台_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_17_12_04_13/录制-1791260716-20260715-223319-539-【3D麦】久违的煮煮面！_merged_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_17_12_04_13/录制-1791260716-20260715-223319-539-【3D麦】久违的煮煮面！_merged_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_17_12_04_13/录制-1791260716-20260717-120413-268-中午好-w-虚弱小绒的温柔午台_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -46,7 +108,7 @@
     "endTime": "00:01",
     "duration": 5283,
     "durationStr": "1.5 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_15_22_33_19/录制-1791260716-20260715-223319-539-【3D麦】久违的煮煮面！_merged.srt",
     "xml": "/data/streams/mofu/2026_07_15_22_33_19/录制-1791260716-20260715-223319-539-【3D麦】久违的煮煮面！_merged.xml",
     "cover": "/data/streams/mofu/2026_07_15_22_33_19/录制-1791260716-20260715-223319-539-【3D麦】久违的煮煮面！.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_15_22_33_19/highlights.md",
@@ -64,15 +126,13 @@
     "endTime": "14:29",
     "duration": 8599,
     "durationStr": "2.4 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_15_12_06_26/录制-1791260716-20260715-120626-194-我去！有狗！.srt",
     "xml": "/data/streams/mofu/2026_07_15_12_06_26/录制-1791260716-20260715-120626-194-我去！有狗！.xml",
     "cover": "/data/streams/mofu/2026_07_15_12_06_26/录制-1791260716-20260715-120626-194-我去！有狗！.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_15_12_06_26/highlights.md",
     "images": [
       "/data/streams/mofu/2026_07_15_12_06_26/录制-1791260716-20260715-120626-194-我去！有狗！_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_15_12_06_26/录制-1791260716-20260715-120626-194-我去！有狗！_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_15_12_06_26/录制-1791260716-20260714-210720-522-晚上好！-u-_merged_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_15_12_06_26/录制-1791260716-20260714-210720-522-晚上好！-u-_merged_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_15_12_06_26/录制-1791260716-20260715-120626-194-我去！有狗！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -84,7 +144,7 @@
     "endTime": "23:34",
     "duration": 8864,
     "durationStr": "2.5 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_14_21_07_20/录制-1791260716-20260714-210720-522-晚上好！-u-_merged.srt",
     "xml": "/data/streams/mofu/2026_07_14_21_07_20/录制-1791260716-20260714-210720-522-晚上好！-u-_merged.xml",
     "cover": "/data/streams/mofu/2026_07_14_21_07_20/录制-1791260716-20260714-210720-522-晚上好！-u-.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_14_21_07_20/highlights.md",
@@ -102,15 +162,13 @@
     "endTime": "18:53",
     "duration": 6990,
     "durationStr": "1.9 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_14_16_57_22/录制-1791260716-20260714-165722-671-下午好我是苏狗.srt",
     "xml": "/data/streams/mofu/2026_07_14_16_57_22/录制-1791260716-20260714-165722-671-下午好我是苏狗.xml",
     "cover": "/data/streams/mofu/2026_07_14_16_57_22/录制-1791260716-20260714-165722-671-下午好我是苏狗.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_14_16_57_22/highlights.md",
     "images": [
       "/data/streams/mofu/2026_07_14_16_57_22/录制-1791260716-20260714-165722-671-下午好我是苏狗_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_14_16_57_22/录制-1791260716-20260714-165722-671-下午好我是苏狗_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_14_16_57_22/录制-1791260716-20260712-203706-839-晚上好我是沪上小狗_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_14_16_57_22/录制-1791260716-20260712-203706-839-晚上好我是沪上小狗_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_14_16_57_22/录制-1791260716-20260714-165722-671-下午好我是苏狗_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -122,15 +180,13 @@
     "endTime": "23:04",
     "duration": 8843,
     "durationStr": "2.5 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_12_20_37_06/录制-1791260716-20260712-203706-839-晚上好我是沪上小狗.srt",
     "xml": "/data/streams/mofu/2026_07_12_20_37_06/录制-1791260716-20260712-203706-839-晚上好我是沪上小狗.xml",
     "cover": "/data/streams/mofu/2026_07_12_20_37_06/录制-1791260716-20260712-203706-839-晚上好我是沪上小狗.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_12_20_37_06/highlights.md",
     "images": [
       "/data/streams/mofu/2026_07_12_20_37_06/录制-1791260716-20260712-203706-839-晚上好我是沪上小狗_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_12_20_37_06/录制-1791260716-20260712-203706-839-晚上好我是沪上小狗_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_12_20_37_06/录制-1791260716-20260711-120440-724-枣上豪！_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_12_20_37_06/录制-1791260716-20260711-120440-724-枣上豪！_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_12_20_37_06/录制-1791260716-20260712-203706-839-晚上好我是沪上小狗_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -142,15 +198,13 @@
     "endTime": "14:31",
     "duration": 8868,
     "durationStr": "2.5 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_11_12_04_40/录制-1791260716-20260711-120440-724-枣上豪！.srt",
     "xml": "/data/streams/mofu/2026_07_11_12_04_40/录制-1791260716-20260711-120440-724-枣上豪！.xml",
     "cover": "/data/streams/mofu/2026_07_11_12_04_40/录制-1791260716-20260711-120440-724-枣上豪！.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_11_12_04_40/highlights.md",
     "images": [
       "/data/streams/mofu/2026_07_11_12_04_40/录制-1791260716-20260711-120440-724-枣上豪！_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_11_12_04_40/录制-1791260716-20260711-120440-724-枣上豪！_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_11_12_04_40/录制-1791260716-20260710-203734-831-杂杂_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_11_12_04_40/录制-1791260716-20260710-203734-831-杂杂_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_11_12_04_40/录制-1791260716-20260711-120440-724-枣上豪！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -162,15 +216,13 @@
     "endTime": "00:11",
     "duration": 12896,
     "durationStr": "3.6 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_10_20_37_34/录制-1791260716-20260710-203734-831-杂杂.srt",
     "xml": "/data/streams/mofu/2026_07_10_20_37_34/录制-1791260716-20260710-203734-831-杂杂.xml",
     "cover": "/data/streams/mofu/2026_07_10_20_37_34/录制-1791260716-20260710-203734-831-杂杂.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_10_20_37_34/highlights.md",
     "images": [
       "/data/streams/mofu/2026_07_10_20_37_34/录制-1791260716-20260710-203734-831-杂杂_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_10_20_37_34/录制-1791260716-20260710-203734-831-杂杂_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_10_20_37_34/录制-1791260716-20260709-212233-245-又聋又瞎又哑_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_10_20_37_34/录制-1791260716-20260709-212233-245-又聋又瞎又哑_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_10_20_37_34/录制-1791260716-20260710-203734-831-杂杂_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -182,7 +234,7 @@
     "endTime": "00:56",
     "duration": 12885,
     "durationStr": "3.6 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_09_21_22_33/录制-1791260716-20260709-212233-245-又聋又瞎又哑.srt",
     "xml": "/data/streams/mofu/2026_07_09_21_22_33/录制-1791260716-20260709-212233-245-又聋又瞎又哑.xml",
     "cover": "/data/streams/mofu/2026_07_09_21_22_33/录制-1791260716-20260709-212233-245-又聋又瞎又哑.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_09_21_22_33/highlights.md",
@@ -215,15 +267,13 @@
     "endTime": "14:24",
     "duration": 8373,
     "durationStr": "2.3 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_09_12_05_00/录制-1791260716-20260709-120500-698-中午好狗来！_merged.srt",
     "xml": "/data/streams/mofu/2026_07_09_12_05_00/录制-1791260716-20260709-120500-698-中午好狗来！_merged.xml",
     "cover": "/data/streams/mofu/2026_07_09_12_05_00/录制-1791260716-20260709-120500-698-中午好狗来！.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_09_12_05_00/highlights.md",
     "images": [
       "/data/streams/mofu/2026_07_09_12_05_00/录制-1791260716-20260709-120500-698-中午好狗来！_merged_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_09_12_05_00/录制-1791260716-20260709-120500-698-中午好狗来！_merged_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_09_12_05_00/录制-1791260716-20260708-215642-780-；；呜呜_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_09_12_05_00/录制-1791260716-20260708-215642-780-；；呜呜_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_09_12_05_00/录制-1791260716-20260709-120500-698-中午好狗来！_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -235,7 +285,7 @@
     "endTime": "00:26",
     "duration": 9053,
     "durationStr": "2.5 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_08_21_56_42/录制-1791260716-20260708-215642-780-；；呜呜.srt",
     "xml": "/data/streams/mofu/2026_07_08_21_56_42/录制-1791260716-20260708-215642-780-；；呜呜.xml",
     "cover": "/data/streams/mofu/2026_07_08_21_56_42/录制-1791260716-20260708-215642-780-；；呜呜.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_08_21_56_42/highlights.md",
@@ -253,15 +303,13 @@
     "endTime": "13:59",
     "duration": 6260,
     "durationStr": "1.7 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_08_12_15_24/录制-1791260716-20260708-121524-413-；；呜呜.srt",
     "xml": "/data/streams/mofu/2026_07_08_12_15_24/录制-1791260716-20260708-121524-413-；；呜呜.xml",
     "cover": "/data/streams/mofu/2026_07_08_12_15_24/录制-1791260716-20260708-121524-413-；；呜呜.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_08_12_15_24/highlights.md",
     "images": [
       "/data/streams/mofu/2026_07_08_12_15_24/录制-1791260716-20260708-121524-413-；；呜呜_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_08_12_15_24/录制-1791260716-20260708-121524-413-；；呜呜_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_08_12_15_24/录制-1791260716-20260707-120437-371-哈喽小狗_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_08_12_15_24/录制-1791260716-20260707-120437-371-哈喽小狗_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_08_12_15_24/录制-1791260716-20260708-121524-413-；；呜呜_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -273,14 +321,13 @@
     "endTime": "14:01",
     "duration": 7058,
     "durationStr": "2.0 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_07_12_04_37/录制-1791260716-20260707-120437-371-哈喽小狗.srt",
     "xml": "/data/streams/mofu/2026_07_07_12_04_37/录制-1791260716-20260707-120437-371-哈喽小狗.xml",
     "cover": "/data/streams/mofu/2026_07_07_12_04_37/录制-1791260716-20260707-120437-371-哈喽小狗.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_07_12_04_37/highlights.md",
     "images": [
       "/data/streams/mofu/2026_07_07_12_04_37/录制-1791260716-20260707-120437-371-哈喽小狗_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_07_12_04_37/录制-1791260716-20260707-120437-371-哈喽小狗_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_07_12_04_37/录制-1791260716-20260706-223249-976-【3D麦】来睡觉觉_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_07_12_04_37/录制-1791260716-20260707-120437-371-哈喽小狗_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -292,14 +339,12 @@
     "endTime": "23:59",
     "duration": 5250,
     "durationStr": "1.5 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_06_22_32_49/录制-1791260716-20260706-223249-976-【3D麦】来睡觉觉.srt",
     "xml": "/data/streams/mofu/2026_07_06_22_32_49/录制-1791260716-20260706-223249-976-【3D麦】来睡觉觉.xml",
     "cover": "/data/streams/mofu/2026_07_06_22_32_49/录制-1791260716-20260706-223249-976-【3D麦】来睡觉觉.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_06_22_32_49/highlights.md",
     "images": [
-      "/data/streams/mofu/2026_07_06_22_32_49/录制-1791260716-20260706-223249-976-【3D麦】来睡觉觉_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_06_22_32_49/录制-1791260716-20260705-210742-452-来啦030_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_06_22_32_49/录制-1791260716-20260705-210742-452-来啦030_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_06_22_32_49/录制-1791260716-20260706-223249-976-【3D麦】来睡觉觉_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -311,7 +356,7 @@
     "endTime": "23:28",
     "duration": 8482,
     "durationStr": "2.4 小时",
-    "srt": null,
+    "srt": "/data/streams/mofu/2026_07_05_21_07_42/录制-1791260716-20260705-210742-452-来啦030.srt",
     "xml": "/data/streams/mofu/2026_07_05_21_07_42/录制-1791260716-20260705-210742-452-来啦030.xml",
     "cover": "/data/streams/mofu/2026_07_05_21_07_42/录制-1791260716-20260705-210742-452-来啦030.cover.jpg",
     "highlights": "/data/streams/mofu/2026_07_05_21_07_42/highlights.md",
@@ -334,9 +379,7 @@
     "cover": "/data/streams/mofu/2026_07_05_12_02_48/录制-1791260716-20260705-120248-834-我真的特别爱你；；.cover.jpg",
     "highlights": null,
     "images": [
-      "/data/streams/mofu/2026_07_05_12_02_48/录制-1791260716-20260705-120248-834-我真的特别爱你；；_SCREENSHOTS.jpg",
-      "/data/streams/mofu/2026_07_05_12_02_48/录制-1791260716-20260704-211714-163-晚上好哦晚上好_COMIC_FACTORY.png",
-      "/data/streams/mofu/2026_07_05_12_02_48/录制-1791260716-20260704-211714-163-晚上好哦晚上好_SCREENSHOTS.jpg"
+      "/data/streams/mofu/2026_07_05_12_02_48/录制-1791260716-20260705-120248-834-我真的特别爱你；；_SCREENSHOTS.jpg"
     ]
   },
   {

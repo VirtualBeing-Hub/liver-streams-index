@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_18_22_34_32",
+    "title": "下雨天睡觉",
+    "date": "2026-07-18",
+    "time": "22:34:32",
+    "startTime": "22:34",
+    "endTime": "00:45",
+    "duration": 7897,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/nana7mi/2026_07_18_22_34_32/录制-21452505-20260718-223432-830-下雨天睡觉_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_07_18_22_34_32/录制-21452505-20260718-223432-830-下雨天睡觉_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_07_18_22_34_32/录制-21452505-20260718-223432-830-下雨天睡觉.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_07_18_22_34_32/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_07_18_22_34_32/录制-21452505-20260718-223432-830-下雨天睡觉_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_07_18_22_34_32/录制-21452505-20260718-223432-830-下雨天睡觉_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_16_20_32_13",
     "title": "新衣服玩杖剑传说！",
     "date": "2026-07-16",
@@ -8,33 +26,31 @@
     "endTime": "03:33",
     "duration": 25278,
     "durationStr": "7.0 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_16_20_32_13/录制-21452505-20260716-203213-163-新衣服玩杖剑传说！_merged.srt",
     "xml": "/data/streams/nana7mi/2026_07_16_20_32_13/录制-21452505-20260716-203213-163-新衣服玩杖剑传说！_merged.xml",
     "cover": "/data/streams/nana7mi/2026_07_16_20_32_13/录制-21452505-20260716-203213-163-新衣服玩杖剑传说！.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_16_20_32_13/highlights.md",
     "images": [
       "/data/streams/nana7mi/2026_07_16_20_32_13/录制-21452505-20260716-203213-163-新衣服玩杖剑传说！_merged_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_16_20_32_13/录制-21452505-20260716-203213-163-新衣服玩杖剑传说！_merged_SCREENSHOTS.jpg",
-      "/data/streams/nana7mi/2026_07_16_20_32_13/录制-21452505-20260715-205850-606-【生日新衣】简简单单发布一个！_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_16_20_32_13/录制-21452505-20260715-205850-606-【生日新衣】简简单单发布一个！_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_16_20_32_13/录制-21452505-20260716-203213-163-新衣服玩杖剑传说！_merged_SCREENSHOTS.jpg"
     ]
   },
   {
     "id": "2026_07_15_20_58_50",
-    "title": "【生日新衣】简简单单发布一个！",
+    "title": "【生日新衣】黑屏看球中",
     "date": "2026-07-15",
     "time": "20:58:50",
     "startTime": "20:58",
-    "endTime": "03:58",
-    "duration": 25249,
-    "durationStr": "7.0 小时",
-    "srt": null,
+    "endTime": "06:07",
+    "duration": 32950,
+    "durationStr": "9.2 小时",
+    "srt": "/data/streams/nana7mi/2026_07_15_20_58_50/录制-21452505-20260715-205850-606-【生日新衣】简简单单发布一个！.srt",
     "xml": "/data/streams/nana7mi/2026_07_15_20_58_50/录制-21452505-20260715-205850-606-【生日新衣】简简单单发布一个！.xml",
     "cover": "/data/streams/nana7mi/2026_07_15_20_58_50/录制-21452505-20260715-205850-606-【生日新衣】简简单单发布一个！.cover.jpg",
-    "highlights": null,
+    "highlights": "/data/streams/nana7mi/2026_07_15_20_58_50/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_07_15_20_58_50/录制-21452505-20260715-035041-622-黑屏看球中_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_15_20_58_50/录制-21452505-20260715-035041-622-黑屏看球中_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_15_20_58_50/录制-21452505-20260715-205850-606-【生日新衣】简简单单发布一个！_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_07_15_20_58_50/录制-21452505-20260715-205850-606-【生日新衣】简简单单发布一个！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -43,14 +59,16 @@
     "date": "2026-07-14",
     "time": "03:50:41",
     "startTime": "03:50",
-    "endTime": "03:59",
-    "duration": 542,
-    "durationStr": "0.2 小时",
-    "srt": null,
+    "endTime": "05:04",
+    "duration": 4454,
+    "durationStr": "1.2 小时",
+    "srt": "/data/streams/nana7mi/2026_07_15_03_50_41/录制-21452505-20260715-035041-622-黑屏看球中.srt",
     "xml": "/data/streams/nana7mi/2026_07_15_03_50_41/录制-21452505-20260715-035041-622-黑屏看球中.xml",
     "cover": "/data/streams/nana7mi/2026_07_15_03_50_41/录制-21452505-20260715-035041-622-黑屏看球中.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_07_15_03_50_41/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_07_15_03_50_41/录制-21452505-20260715-035041-622-黑屏看球中_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_07_15_00_54_16",
@@ -61,14 +79,12 @@
     "endTime": "02:00",
     "duration": 3981,
     "durationStr": "1.1 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_15_00_54_16/录制-21452505-20260715-005416-903-生日了哦耶.srt",
     "xml": "/data/streams/nana7mi/2026_07_15_00_54_16/录制-21452505-20260715-005416-903-生日了哦耶.xml",
     "cover": "/data/streams/nana7mi/2026_07_15_00_54_16/录制-21452505-20260715-005416-903-生日了哦耶.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_15_00_54_16/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_07_15_00_54_16/录制-21452505-20260715-005416-903-生日了哦耶_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_15_00_54_16/录制-21452505-20260715-005416-903-生日了哦耶_SCREENSHOTS.jpg",
-      "/data/streams/nana7mi/2026_07_15_00_54_16/录制-21452505-20260714-193511-380-【峰雨舞组】足小子唱歌_merged_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_15_00_54_16/录制-21452505-20260715-005416-903-生日了哦耶_COMIC_FACTORY.png"
     ]
   },
   {
@@ -80,13 +96,12 @@
     "endTime": "00:53",
     "duration": 19123,
     "durationStr": "5.3 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_14_19_35_11/录制-21452505-20260714-193511-380-【峰雨舞组】足小子唱歌_merged.srt",
     "xml": "/data/streams/nana7mi/2026_07_14_19_35_11/录制-21452505-20260714-193511-380-【峰雨舞组】足小子唱歌_merged.xml",
     "cover": "/data/streams/nana7mi/2026_07_14_19_35_11/录制-21452505-20260714-193511-380-【峰雨舞组】足小子唱歌.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_14_19_35_11/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_07_14_19_35_11/录制-21452505-20260714-193511-380-【峰雨舞组】足小子唱歌_merged_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_14_19_35_11/录制-21452505-20260714-034517-546-小婴儿逃出_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_14_19_35_11/录制-21452505-20260714-193511-380-【峰雨舞组】足小子唱歌_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -119,9 +134,7 @@
     "xml": "/data/streams/nana7mi/2026_07_14_01_54_22/录制-21452505-20260714-015422-021-小婴儿逃出.xml",
     "cover": "/data/streams/nana7mi/2026_07_14_01_54_22/录制-21452505-20260714-015422-021-小婴儿逃出.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/nana7mi/2026_07_14_01_54_22/录制-21452505-20260713-230804-458-看动画片儿_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_13_23_08_04",
@@ -132,7 +145,7 @@
     "endTime": "01:52",
     "duration": 9864,
     "durationStr": "2.7 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_13_23_08_04/录制-21452505-20260713-230804-458-看动画片儿.srt",
     "xml": "/data/streams/nana7mi/2026_07_13_23_08_04/录制-21452505-20260713-230804-458-看动画片儿.xml",
     "cover": "/data/streams/nana7mi/2026_07_13_23_08_04/录制-21452505-20260713-230804-458-看动画片儿.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_13_23_08_04/highlights.md",
@@ -183,10 +196,7 @@
     "xml": "/data/streams/nana7mi/2026_07_13_22_03_11/录制-21452505-20260713-220311-141-看动画片儿.xml",
     "cover": "/data/streams/nana7mi/2026_07_13_22_03_11/录制-21452505-20260713-220311-141-看动画片儿.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/nana7mi/2026_07_13_22_03_11/录制-21452505-20260712-223341-172-边下棋边聊天_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_13_22_03_11/录制-21452505-20260712-223341-172-边下棋边聊天_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_12_22_33_41",
@@ -197,14 +207,13 @@
     "endTime": "03:54",
     "duration": 19283,
     "durationStr": "5.4 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_12_22_33_41/录制-21452505-20260712-223341-172-边下棋边聊天.srt",
     "xml": "/data/streams/nana7mi/2026_07_12_22_33_41/录制-21452505-20260712-223341-172-边下棋边聊天.xml",
     "cover": "/data/streams/nana7mi/2026_07_12_22_33_41/录制-21452505-20260712-223341-172-边下棋边聊天.cover.jpg",
-    "highlights": null,
+    "highlights": "/data/streams/nana7mi/2026_07_12_22_33_41/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_07_12_22_33_41/录制-21452505-20260712-223341-172-边下棋边聊天_SCREENSHOTS.jpg",
-      "/data/streams/nana7mi/2026_07_12_22_33_41/录制-21452505-20260710-230219-566-bw好玩吗_merged_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_12_22_33_41/录制-21452505-20260710-230219-566-bw好玩吗_merged_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_12_22_33_41/录制-21452505-20260712-223341-172-边下棋边聊天_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_07_12_22_33_41/录制-21452505-20260712-223341-172-边下棋边聊天_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -216,15 +225,13 @@
     "endTime": "01:03",
     "duration": 7294,
     "durationStr": "2.0 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_10_23_02_19/录制-21452505-20260710-230219-566-bw好玩吗_merged.srt",
     "xml": "/data/streams/nana7mi/2026_07_10_23_02_19/录制-21452505-20260710-230219-566-bw好玩吗_merged.xml",
     "cover": "/data/streams/nana7mi/2026_07_10_23_02_19/录制-21452505-20260710-230219-566-bw好玩吗.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_10_23_02_19/highlights.md",
     "images": [
       "/data/streams/nana7mi/2026_07_10_23_02_19/录制-21452505-20260710-230219-566-bw好玩吗_merged_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_10_23_02_19/录制-21452505-20260710-230219-566-bw好玩吗_merged_SCREENSHOTS.jpg",
-      "/data/streams/nana7mi/2026_07_10_23_02_19/录制-21452505-20260709-080231-534-刺客信条_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_10_23_02_19/录制-21452505-20260709-080231-534-刺客信条_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_10_23_02_19/录制-21452505-20260710-230219-566-bw好玩吗_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -236,15 +243,13 @@
     "endTime": "10:01",
     "duration": 7179,
     "durationStr": "2.0 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_09_08_02_31/录制-21452505-20260709-080231-534-刺客信条.srt",
     "xml": "/data/streams/nana7mi/2026_07_09_08_02_31/录制-21452505-20260709-080231-534-刺客信条.xml",
     "cover": "/data/streams/nana7mi/2026_07_09_08_02_31/录制-21452505-20260709-080231-534-刺客信条.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_09_08_02_31/highlights.md",
     "images": [
       "/data/streams/nana7mi/2026_07_09_08_02_31/录制-21452505-20260709-080231-534-刺客信条_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_09_08_02_31/录制-21452505-20260709-080231-534-刺客信条_SCREENSHOTS.jpg",
-      "/data/streams/nana7mi/2026_07_09_08_02_31/录制-21452505-20260708-000303-598-你看球我下棋_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_09_08_02_31/录制-21452505-20260708-000303-598-你看球我下棋_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_09_08_02_31/录制-21452505-20260709-080231-534-刺客信条_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -253,15 +258,16 @@
     "date": "2026-07-07",
     "time": "00:03:03",
     "startTime": "00:03",
-    "endTime": "04:00",
-    "duration": 14220,
+    "endTime": "04:01",
+    "duration": 14331,
     "durationStr": "4.0 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_08_00_03_03/录制-21452505-20260708-000303-598-你看球我下棋.srt",
     "xml": "/data/streams/nana7mi/2026_07_08_00_03_03/录制-21452505-20260708-000303-598-你看球我下棋.xml",
     "cover": null,
-    "highlights": null,
+    "highlights": "/data/streams/nana7mi/2026_07_08_00_03_03/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_07_08_00_03_03/录制-21452505-20260706-073121-800-下棋看球_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_08_00_03_03/录制-21452505-20260708-000303-598-你看球我下棋_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_07_08_00_03_03/录制-21452505-20260708-000303-598-你看球我下棋_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -273,7 +279,7 @@
     "endTime": "08:03",
     "duration": 1967,
     "durationStr": "0.5 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_06_07_31_21/录制-21452505-20260706-073121-800-下棋看球.srt",
     "xml": "/data/streams/nana7mi/2026_07_06_07_31_21/录制-21452505-20260706-073121-800-下棋看球.xml",
     "cover": "/data/streams/nana7mi/2026_07_06_07_31_21/录制-21452505-20260706-073121-800-下棋看球.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_06_07_31_21/highlights.md",
@@ -294,27 +300,22 @@
     "xml": "/data/streams/nana7mi/2026_07_06_04_20_44/录制-21452505-20260706-042044-257-下棋看球.xml",
     "cover": "/data/streams/nana7mi/2026_07_06_04_20_44/录制-21452505-20260706-042044-257-下棋看球.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/nana7mi/2026_07_06_04_20_44/录制-21452505-20260706-011838-485-偷偷滴偷_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_06_04_20_44/录制-21452505-20260706-011838-485-偷偷滴偷_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_06_02_23_44",
-    "title": "偷偷滴偷",
+    "title": "哥斯拉",
     "date": "2026-07-05",
     "time": "02:23:44",
     "startTime": "02:23",
-    "endTime": "03:59",
-    "duration": 5790,
-    "durationStr": "1.6 小时",
+    "endTime": "04:18",
+    "duration": 6901,
+    "durationStr": "1.9 小时",
     "srt": null,
     "xml": "/data/streams/nana7mi/2026_07_06_02_23_44/录制-21452505-20260706-022344-546-偷偷滴偷.xml",
     "cover": "/data/streams/nana7mi/2026_07_06_02_23_44/录制-21452505-20260706-022344-546-偷偷滴偷.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/nana7mi/2026_07_06_02_23_44/录制-21452505-20260706-011838-485-偷偷滴偷_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_06_01_18_38",
@@ -325,13 +326,12 @@
     "endTime": "02:21",
     "duration": 3791,
     "durationStr": "1.1 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_06_01_18_38/录制-21452505-20260706-011838-485-偷偷滴偷.srt",
     "xml": "/data/streams/nana7mi/2026_07_06_01_18_38/录制-21452505-20260706-011838-485-偷偷滴偷.xml",
     "cover": "/data/streams/nana7mi/2026_07_06_01_18_38/录制-21452505-20260706-011838-485-偷偷滴偷.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_06_01_18_38/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_07_06_01_18_38/录制-21452505-20260706-011838-485-偷偷滴偷_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_06_01_18_38/录制-21452505-20260705-220213-599-偷偷滴偷_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_06_01_18_38/录制-21452505-20260706-011838-485-偷偷滴偷_COMIC_FACTORY.png"
     ]
   },
   {
@@ -347,9 +347,7 @@
     "xml": "/data/streams/nana7mi/2026_07_06_01_10_24/录制-21452505-20260706-011024-493-偷偷滴偷.xml",
     "cover": "/data/streams/nana7mi/2026_07_06_01_10_24/录制-21452505-20260706-011024-493-偷偷滴偷.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/nana7mi/2026_07_06_01_10_24/录制-21452505-20260706-011224-390-偷偷滴偷_merged_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_05_22_02_13",
@@ -360,14 +358,12 @@
     "endTime": "01:08",
     "duration": 11169,
     "durationStr": "3.1 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_05_22_02_13/录制-21452505-20260705-220213-599-偷偷滴偷.srt",
     "xml": "/data/streams/nana7mi/2026_07_05_22_02_13/录制-21452505-20260705-220213-599-偷偷滴偷.xml",
     "cover": "/data/streams/nana7mi/2026_07_05_22_02_13/录制-21452505-20260705-220213-599-偷偷滴偷.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_05_22_02_13/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_07_05_22_02_13/录制-21452505-20260705-220213-599-偷偷滴偷_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_05_22_02_13/录制-21452505-20260704-220218-602-节奏天国随缘完美挑战！_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_05_22_02_13/录制-21452505-20260704-220218-602-节奏天国随缘完美挑战！_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_05_22_02_13/录制-21452505-20260705-220213-599-偷偷滴偷_COMIC_FACTORY.png"
     ]
   },
   {

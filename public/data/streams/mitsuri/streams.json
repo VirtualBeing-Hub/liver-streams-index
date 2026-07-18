@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_07_18_19_00_22",
+    "title": "嘟嘟嘟！！",
+    "date": "2026-07-18",
+    "time": "19:00:22",
+    "startTime": "19:00",
+    "endTime": "23:47",
+    "duration": 17265,
+    "durationStr": "4.8 小时",
+    "srt": "/data/streams/mitsuri/2026_07_18_19_00_22/录制-1967216004-20260718-190022-957-一起看鸣潮演唱会！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_07_18_19_00_22/录制-1967216004-20260718-190022-957-一起看鸣潮演唱会！！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_07_18_19_00_22/录制-1967216004-20260718-190022-957-一起看鸣潮演唱会！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_07_18_19_00_22/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_07_18_19_00_22/录制-1967216004-20260718-190022-957-一起看鸣潮演唱会！！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_17_22_56_55",
     "title": "额啊啊看恐怖电影!",
     "date": "2026-07-17",
@@ -8,7 +25,7 @@
     "endTime": "01:21",
     "duration": 8717,
     "durationStr": "2.4 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_17_22_56_55/录制-1967216004-20260717-225655-667-嘟嘟歌杂time!.srt",
     "xml": "/data/streams/mitsuri/2026_07_17_22_56_55/录制-1967216004-20260717-225655-667-嘟嘟歌杂time!.xml",
     "cover": "/data/streams/mitsuri/2026_07_17_22_56_55/录制-1967216004-20260717-225655-667-嘟嘟歌杂time!.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_17_22_56_55/highlights.md",
@@ -22,17 +39,14 @@
     "date": "2026-07-17",
     "time": "20:04:49",
     "startTime": "20:04",
-    "endTime": "20:52",
-    "duration": 2914,
-    "durationStr": "0.8 小时",
+    "endTime": "22:56",
+    "duration": 10322,
+    "durationStr": "2.9 小时",
     "srt": null,
     "xml": "/data/streams/mitsuri/2026_07_17_20_04_49/录制-1967216004-20260717-200449-843-嘟嘟歌杂time!.xml",
     "cover": "/data/streams/mitsuri/2026_07_17_20_04_49/录制-1967216004-20260717-200449-843-嘟嘟歌杂time!.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/mitsuri/2026_07_17_20_04_49/录制-1967216004-20260716-211824-085-嘟嘟嘟！！！_merged_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_17_20_04_49/录制-1967216004-20260716-211824-085-嘟嘟嘟！！！_merged_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_16_21_18_24",
@@ -43,15 +57,13 @@
     "endTime": "00:37",
     "duration": 11993,
     "durationStr": "3.3 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_16_21_18_24/录制-1967216004-20260716-211824-085-嘟嘟嘟！！！_merged.srt",
     "xml": "/data/streams/mitsuri/2026_07_16_21_18_24/录制-1967216004-20260716-211824-085-嘟嘟嘟！！！_merged.xml",
     "cover": "/data/streams/mitsuri/2026_07_16_21_18_24/录制-1967216004-20260716-211824-085-嘟嘟嘟！！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_16_21_18_24/highlights.md",
     "images": [
       "/data/streams/mitsuri/2026_07_16_21_18_24/录制-1967216004-20260716-211824-085-嘟嘟嘟！！！_merged_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_16_21_18_24/录制-1967216004-20260716-211824-085-嘟嘟嘟！！！_merged_SCREENSHOTS.jpg",
-      "/data/streams/mitsuri/2026_07_16_21_18_24/录制-1967216004-20260715-215419-563-嘟嘟嘟！！！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_16_21_18_24/录制-1967216004-20260715-215419-563-嘟嘟嘟！！！_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_07_16_21_18_24/录制-1967216004-20260716-211824-085-嘟嘟嘟！！！_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -63,7 +75,7 @@
     "endTime": "01:43",
     "duration": 13798,
     "durationStr": "3.8 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_15_21_54_19/录制-1967216004-20260715-215419-563-嘟嘟嘟！！！.srt",
     "xml": "/data/streams/mitsuri/2026_07_15_21_54_19/录制-1967216004-20260715-215419-563-嘟嘟嘟！！！.xml",
     "cover": "/data/streams/mitsuri/2026_07_15_21_54_19/录制-1967216004-20260715-215419-563-嘟嘟嘟！！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_15_21_54_19/highlights.md",
@@ -81,14 +93,13 @@
     "endTime": "16:50",
     "duration": 14214,
     "durationStr": "3.9 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_15_12_54_20/录制-1967216004-20260715-125420-691-师徒杯决赛！！！_merged.srt",
     "xml": "/data/streams/mitsuri/2026_07_15_12_54_20/录制-1967216004-20260715-125420-691-师徒杯决赛！！！_merged.xml",
     "cover": "/data/streams/mitsuri/2026_07_15_12_54_20/录制-1967216004-20260715-125420-691-师徒杯决赛！！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_15_12_54_20/highlights.md",
     "images": [
       "/data/streams/mitsuri/2026_07_15_12_54_20/录制-1967216004-20260715-125420-691-师徒杯决赛！！！_merged_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_15_12_54_20/录制-1967216004-20260715-125420-691-师徒杯决赛！！！_merged_SCREENSHOTS.jpg",
-      "/data/streams/mitsuri/2026_07_15_12_54_20/录制-1967216004-20260714-210446-785-师徒杯！我可以！_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_07_15_12_54_20/录制-1967216004-20260715-125420-691-师徒杯决赛！！！_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -100,7 +111,7 @@
     "endTime": "21:12",
     "duration": 511,
     "durationStr": "0.1 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_14_21_04_46/录制-1967216004-20260714-210446-785-师徒杯！我可以！.srt",
     "xml": "/data/streams/mitsuri/2026_07_14_21_04_46/录制-1967216004-20260714-210446-785-师徒杯！我可以！.xml",
     "cover": "/data/streams/mitsuri/2026_07_14_21_04_46/录制-1967216004-20260714-210446-785-师徒杯！我可以！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_14_21_04_46/highlights.md",
@@ -117,13 +128,12 @@
     "endTime": "19:55",
     "duration": 12801,
     "durationStr": "3.6 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_14_16_22_55/录制-1967216004-20260714-162255-408-师徒杯！我可以！_merged.srt",
     "xml": "/data/streams/mitsuri/2026_07_14_16_22_55/录制-1967216004-20260714-162255-408-师徒杯！我可以！_merged.xml",
     "cover": "/data/streams/mitsuri/2026_07_14_16_22_55/录制-1967216004-20260714-162255-408-师徒杯！我可以！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_14_16_22_55/highlights.md",
     "images": [
-      "/data/streams/mitsuri/2026_07_14_16_22_55/录制-1967216004-20260714-162255-408-师徒杯！我可以！_merged_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_14_16_22_55/录制-1967216004-20260714-162255-408-师徒杯！我可以！_merged_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_07_14_16_22_55/录制-1967216004-20260714-162255-408-师徒杯！我可以！_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -139,10 +149,7 @@
     "xml": "/data/streams/mitsuri/2026_07_14_13_57_19/录制-1967216004-20260714-135719-486-师徒杯！我可以！.xml",
     "cover": "/data/streams/mitsuri/2026_07_14_13_57_19/录制-1967216004-20260714-135719-486-师徒杯！我可以！.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/mitsuri/2026_07_14_13_57_19/录制-1967216004-20260713-213201-255-来！！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_14_13_57_19/录制-1967216004-20260713-213201-255-来！！_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_13_21_32_01",
@@ -153,14 +160,13 @@
     "endTime": "02:01",
     "duration": 16162,
     "durationStr": "4.5 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_13_21_32_01/录制-1967216004-20260713-213201-255-来！！.srt",
     "xml": "/data/streams/mitsuri/2026_07_13_21_32_01/录制-1967216004-20260713-213201-255-来！！.xml",
     "cover": "/data/streams/mitsuri/2026_07_13_21_32_01/录制-1967216004-20260713-213201-255-来！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_13_21_32_01/highlights.md",
     "images": [
       "/data/streams/mitsuri/2026_07_13_21_32_01/录制-1967216004-20260713-213201-255-来！！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_13_21_32_01/录制-1967216004-20260713-213201-255-来！！_SCREENSHOTS.jpg",
-      "/data/streams/mitsuri/2026_07_13_21_32_01/录制-1967216004-20260711-235252-052-bilibili主播的直播间_merged_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_07_13_21_32_01/录制-1967216004-20260713-213201-255-来！！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -172,14 +178,12 @@
     "endTime": "01:38",
     "duration": 6365,
     "durationStr": "1.8 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_11_23_52_52/录制-1967216004-20260711-235252-052-bilibili主播的直播间_merged.srt",
     "xml": "/data/streams/mitsuri/2026_07_11_23_52_52/录制-1967216004-20260711-235252-052-bilibili主播的直播间_merged.xml",
     "cover": "/data/streams/mitsuri/2026_07_11_23_52_52/录制-1967216004-20260711-235252-052-bilibili主播的直播间.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_11_23_52_52/highlights.md",
     "images": [
-      "/data/streams/mitsuri/2026_07_11_23_52_52/录制-1967216004-20260711-235252-052-bilibili主播的直播间_merged_SCREENSHOTS.jpg",
-      "/data/streams/mitsuri/2026_07_11_23_52_52/录制-1967216004-20260710-210320-314-嘟嘟登场！！！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_11_23_52_52/录制-1967216004-20260710-210320-314-嘟嘟登场！！！_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_07_11_23_52_52/录制-1967216004-20260711-235252-052-bilibili主播的直播间_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -191,15 +195,13 @@
     "endTime": "23:17",
     "duration": 8088,
     "durationStr": "2.2 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_10_21_03_20/录制-1967216004-20260710-210320-314-嘟嘟登场！！！.srt",
     "xml": "/data/streams/mitsuri/2026_07_10_21_03_20/录制-1967216004-20260710-210320-314-嘟嘟登场！！！.xml",
     "cover": "/data/streams/mitsuri/2026_07_10_21_03_20/录制-1967216004-20260710-210320-314-嘟嘟登场！！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_10_21_03_20/highlights.md",
     "images": [
       "/data/streams/mitsuri/2026_07_10_21_03_20/录制-1967216004-20260710-210320-314-嘟嘟登场！！！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_10_21_03_20/录制-1967216004-20260710-210320-314-嘟嘟登场！！！_SCREENSHOTS.jpg",
-      "/data/streams/mitsuri/2026_07_10_21_03_20/录制-1967216004-20260709-215222-746-努力！！！_merged_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_10_21_03_20/录制-1967216004-20260709-215222-746-努力！！！_merged_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_07_10_21_03_20/录制-1967216004-20260710-210320-314-嘟嘟登场！！！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -211,7 +213,7 @@
     "endTime": "01:46",
     "duration": 14073,
     "durationStr": "3.9 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_09_21_52_22/录制-1967216004-20260709-215222-746-努力！！！_merged.srt",
     "xml": "/data/streams/mitsuri/2026_07_09_21_52_22/录制-1967216004-20260709-215222-746-努力！！！_merged.xml",
     "cover": "/data/streams/mitsuri/2026_07_09_21_52_22/录制-1967216004-20260709-215222-746-努力！！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_09_21_52_22/highlights.md",
@@ -229,15 +231,13 @@
     "endTime": "20:13",
     "duration": 9512,
     "durationStr": "2.6 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_09_17_35_17/录制-1967216004-20260709-173517-615-唱歌！！！.srt",
     "xml": "/data/streams/mitsuri/2026_07_09_17_35_17/录制-1967216004-20260709-173517-615-唱歌！！！.xml",
     "cover": "/data/streams/mitsuri/2026_07_09_17_35_17/录制-1967216004-20260709-173517-615-唱歌！！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_09_17_35_17/highlights.md",
     "images": [
       "/data/streams/mitsuri/2026_07_09_17_35_17/录制-1967216004-20260709-173517-615-唱歌！！！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_09_17_35_17/录制-1967216004-20260709-173517-615-唱歌！！！_SCREENSHOTS.jpg",
-      "/data/streams/mitsuri/2026_07_09_17_35_17/录制-1967216004-20260708-143827-120-新的一天冲！！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_09_17_35_17/录制-1967216004-20260708-143827-120-新的一天冲！！_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_07_09_17_35_17/录制-1967216004-20260709-173517-615-唱歌！！！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -249,7 +249,7 @@
     "endTime": "00:47",
     "duration": 36551,
     "durationStr": "10.2 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_08_14_38_27/录制-1967216004-20260708-143827-120-新的一天冲！！.srt",
     "xml": "/data/streams/mitsuri/2026_07_08_14_38_27/录制-1967216004-20260708-143827-120-新的一天冲！！.xml",
     "cover": "/data/streams/mitsuri/2026_07_08_14_38_27/录制-1967216004-20260708-143827-120-新的一天冲！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_08_14_38_27/highlights.md",
@@ -302,9 +302,7 @@
     "cover": "/data/streams/mitsuri/2026_07_07_14_13_18/录制-1967216004-20260707-141318-902-嘟嘟登场！！.cover.jpg",
     "highlights": null,
     "images": [
-      "/data/streams/mitsuri/2026_07_07_14_13_18/录制-1967216004-20260707-141318-902-嘟嘟登场！！_SCREENSHOTS.jpg",
-      "/data/streams/mitsuri/2026_07_07_14_13_18/录制-1967216004-20260706-190249-158-嘟嘟登场！！_SCREENSHOTS.jpg",
-      "/data/streams/mitsuri/2026_07_07_14_13_18/录制-1967216004-20260707-001751-205-嘟嘟登场！！_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_07_07_14_13_18/录制-1967216004-20260707-141318-902-嘟嘟登场！！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -320,9 +318,7 @@
     "xml": "/data/streams/mitsuri/2026_07_06_23_58_46/录制-1967216004-20260706-235846-866-嘟嘟登场！！.xml",
     "cover": "/data/streams/mitsuri/2026_07_06_23_58_46/录制-1967216004-20260706-235846-866-嘟嘟登场！！.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/mitsuri/2026_07_06_23_58_46/录制-1967216004-20260707-001751-205-嘟嘟登场！！_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_06_19_02_49",
@@ -333,7 +329,7 @@
     "endTime": "23:57",
     "duration": 17756,
     "durationStr": "4.9 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_06_19_02_49/录制-1967216004-20260706-190249-158-嘟嘟登场！！.srt",
     "xml": "/data/streams/mitsuri/2026_07_06_19_02_49/录制-1967216004-20260706-190249-158-嘟嘟登场！！.xml",
     "cover": "/data/streams/mitsuri/2026_07_06_19_02_49/录制-1967216004-20260706-190249-158-嘟嘟登场！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_06_19_02_49/highlights.md",
@@ -350,15 +346,12 @@
     "endTime": "17:09",
     "duration": 10878,
     "durationStr": "3.0 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_06_14_08_46/录制-1967216004-20260706-140846-437-师徒杯训练赛！.srt",
     "xml": "/data/streams/mitsuri/2026_07_06_14_08_46/录制-1967216004-20260706-140846-437-师徒杯训练赛！.xml",
     "cover": "/data/streams/mitsuri/2026_07_06_14_08_46/录制-1967216004-20260706-140846-437-师徒杯训练赛！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_06_14_08_46/highlights.md",
     "images": [
-      "/data/streams/mitsuri/2026_07_06_14_08_46/录制-1967216004-20260706-140846-437-师徒杯训练赛！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_06_14_08_46/录制-1967216004-20260706-140846-437-师徒杯训练赛！_SCREENSHOTS.jpg",
-      "/data/streams/mitsuri/2026_07_06_14_08_46/录制-1967216004-20260705-182231-546-all in五排！！_merged_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_06_14_08_46/录制-1967216004-20260705-182231-546-all in五排！！_merged_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_07_06_14_08_46/录制-1967216004-20260706-140846-437-师徒杯训练赛！_COMIC_FACTORY.png"
     ]
   },
   {
@@ -385,7 +378,7 @@
     "endTime": "01:17",
     "duration": 24914,
     "durationStr": "6.9 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_05_18_22_31/录制-1967216004-20260705-182231-546-all in五排！！_merged.srt",
     "xml": "/data/streams/mitsuri/2026_07_05_18_22_31/录制-1967216004-20260705-182231-546-all in五排！！_merged.xml",
     "cover": "/data/streams/mitsuri/2026_07_05_18_22_31/录制-1967216004-20260705-182231-546-all in五排！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_05_18_22_31/highlights.md",
@@ -403,15 +396,13 @@
     "endTime": "16:45",
     "duration": 9675,
     "durationStr": "2.7 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_07_05_14_04_23/录制-1967216004-20260705-140423-136-嘟嘟歌台！.srt",
     "xml": "/data/streams/mitsuri/2026_07_05_14_04_23/录制-1967216004-20260705-140423-136-嘟嘟歌台！.xml",
     "cover": "/data/streams/mitsuri/2026_07_05_14_04_23/录制-1967216004-20260705-140423-136-嘟嘟歌台！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_07_05_14_04_23/highlights.md",
     "images": [
       "/data/streams/mitsuri/2026_07_05_14_04_23/录制-1967216004-20260705-140423-136-嘟嘟歌台！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_05_14_04_23/录制-1967216004-20260705-140423-136-嘟嘟歌台！_SCREENSHOTS.jpg",
-      "/data/streams/mitsuri/2026_07_05_14_04_23/录制-1967216004-20260704-211510-762-师徒杯团建！！！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_07_05_14_04_23/录制-1967216004-20260704-211510-762-师徒杯团建！！！_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_07_05_14_04_23/录制-1967216004-20260705-140423-136-嘟嘟歌台！_SCREENSHOTS.jpg"
     ]
   },
   {

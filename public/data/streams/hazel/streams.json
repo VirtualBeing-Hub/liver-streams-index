@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_18_18_28_54",
+    "title": "短暂的repo+随便看看",
+    "date": "2026-07-18",
+    "time": "18:28:54",
+    "startTime": "18:28",
+    "endTime": "23:09",
+    "duration": 16910,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/hazel/2026_07_18_18_28_54/录制-1713546334-20260718-182854-177-短暂的repo+随便看看_merged.srt",
+    "xml": "/data/streams/hazel/2026_07_18_18_28_54/录制-1713546334-20260718-182854-177-短暂的repo+随便看看_merged.xml",
+    "cover": "/data/streams/hazel/2026_07_18_18_28_54/录制-1713546334-20260718-182854-177-短暂的repo+随便看看.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_07_18_18_28_54/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_07_18_18_28_54/录制-1713546334-20260718-182854-177-短暂的repo+随便看看_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_07_18_18_28_54/录制-1713546334-20260718-182854-177-短暂的repo+随便看看_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_17_21_42_29",
     "title": "生存报告",
     "date": "2026-07-17",
@@ -8,14 +26,13 @@
     "endTime": "23:42",
     "duration": 7211,
     "durationStr": "2.0 小时",
-    "srt": null,
+    "srt": "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260717-214229-272-生存报告.srt",
     "xml": "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260717-214229-272-生存报告.xml",
     "cover": "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260717-214229-272-生存报告.cover.jpg",
     "highlights": "/data/streams/hazel/2026_07_17_21_42_29/highlights.md",
     "images": [
       "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260717-214229-272-生存报告_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260717-214229-272-生存报告_SCREENSHOTS.jpg",
-      "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260715-221605-940-打电话_merged_SCREENSHOTS.jpg"
+      "/data/streams/hazel/2026_07_17_21_42_29/录制-1713546334-20260717-214229-272-生存报告_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -27,34 +44,30 @@
     "endTime": "23:15",
     "duration": 3555,
     "durationStr": "1.0 小时",
-    "srt": null,
+    "srt": "/data/streams/hazel/2026_07_15_22_16_05/录制-1713546334-20260715-221605-940-打电话_merged.srt",
     "xml": "/data/streams/hazel/2026_07_15_22_16_05/录制-1713546334-20260715-221605-940-打电话_merged.xml",
     "cover": "/data/streams/hazel/2026_07_15_22_16_05/录制-1713546334-20260715-221605-940-打电话.cover.jpg",
     "highlights": "/data/streams/hazel/2026_07_15_22_16_05/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_07_15_22_16_05/录制-1713546334-20260715-221605-940-打电话_merged_SCREENSHOTS.jpg",
-      "/data/streams/hazel/2026_07_15_22_16_05/录制-1713546334-20260713-223724-983-病弱电台_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_07_15_22_16_05/录制-1713546334-20260713-223724-983-病弱电台_SCREENSHOTS.jpg"
+      "/data/streams/hazel/2026_07_15_22_16_05/录制-1713546334-20260715-221605-940-打电话_merged_SCREENSHOTS.jpg"
     ]
   },
   {
     "id": "2026_07_13_22_37_24",
-    "title": "病弱电台",
+    "title": "打电话",
     "date": "2026-07-13",
     "time": "22:37:24",
     "startTime": "22:37",
     "endTime": "23:52",
     "duration": 4526,
     "durationStr": "1.3 小时",
-    "srt": null,
+    "srt": "/data/streams/hazel/2026_07_13_22_37_24/录制-1713546334-20260713-223724-983-病弱电台.srt",
     "xml": "/data/streams/hazel/2026_07_13_22_37_24/录制-1713546334-20260713-223724-983-病弱电台.xml",
     "cover": "/data/streams/hazel/2026_07_13_22_37_24/录制-1713546334-20260713-223724-983-病弱电台.cover.jpg",
     "highlights": "/data/streams/hazel/2026_07_13_22_37_24/highlights.md",
     "images": [
       "/data/streams/hazel/2026_07_13_22_37_24/录制-1713546334-20260713-223724-983-病弱电台_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_07_13_22_37_24/录制-1713546334-20260713-223724-983-病弱电台_SCREENSHOTS.jpg",
-      "/data/streams/hazel/2026_07_13_22_37_24/录制-1713546334-20260707-115811-813-伪装电话_merged_SCREENSHOTS.jpg",
-      "/data/streams/hazel/2026_07_13_22_37_24/录制-1713546334-20260711-002610-710-伪装电话_SCREENSHOTS.jpg"
+      "/data/streams/hazel/2026_07_13_22_37_24/录制-1713546334-20260713-223724-983-病弱电台_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -66,7 +79,7 @@
     "endTime": "12:01",
     "duration": 198,
     "durationStr": "3 分钟",
-    "srt": null,
+    "srt": "/data/streams/hazel/2026_07_07_11_58_11/录制-1713546334-20260707-115811-813-伪装电话_merged.srt",
     "xml": "/data/streams/hazel/2026_07_07_11_58_11/录制-1713546334-20260707-115811-813-伪装电话_merged.xml",
     "cover": "/data/streams/hazel/2026_07_07_11_58_11/录制-1713546334-20260707-115811-813-伪装电话.cover.jpg",
     "highlights": "/data/streams/hazel/2026_07_07_11_58_11/highlights.md",
@@ -83,32 +96,29 @@
     "endTime": "11:11",
     "duration": 105,
     "durationStr": "1 分钟",
-    "srt": null,
+    "srt": "/data/streams/hazel/2026_07_07_11_10_42/录制-1713546334-20260707-111042-563-伪装电话.srt",
     "xml": "/data/streams/hazel/2026_07_07_11_10_42/录制-1713546334-20260707-111042-563-伪装电话.xml",
     "cover": "/data/streams/hazel/2026_07_07_11_10_42/录制-1713546334-20260707-111042-563-伪装电话.cover.jpg",
     "highlights": "/data/streams/hazel/2026_07_07_11_10_42/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_07_07_11_10_42/录制-1713546334-20260707-111042-563-伪装电话_SCREENSHOTS.jpg",
-      "/data/streams/hazel/2026_07_07_11_10_42/录制-1713546334-20260705-230757-192-夜聊_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_07_07_11_10_42/录制-1713546334-20260705-230757-192-夜聊_SCREENSHOTS.jpg"
+      "/data/streams/hazel/2026_07_07_11_10_42/录制-1713546334-20260707-111042-563-伪装电话_SCREENSHOTS.jpg"
     ]
   },
   {
     "id": "2026_07_05_23_07_57",
-    "title": "夜聊",
+    "title": "伪装电话",
     "date": "2026-07-05",
     "time": "23:07:57",
     "startTime": "23:07",
     "endTime": "01:27",
     "duration": 8404,
     "durationStr": "2.3 小时",
-    "srt": null,
+    "srt": "/data/streams/hazel/2026_07_05_23_07_57/录制-1713546334-20260705-230757-192-夜聊.srt",
     "xml": "/data/streams/hazel/2026_07_05_23_07_57/录制-1713546334-20260705-230757-192-夜聊.xml",
     "cover": "/data/streams/hazel/2026_07_05_23_07_57/录制-1713546334-20260705-230757-192-夜聊.cover.jpg",
     "highlights": "/data/streams/hazel/2026_07_05_23_07_57/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_07_05_23_07_57/录制-1713546334-20260705-230757-192-夜聊_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_07_05_23_07_57/录制-1713546334-20260705-230757-192-夜聊_SCREENSHOTS.jpg"
+      "/data/streams/hazel/2026_07_05_23_07_57/录制-1713546334-20260705-230757-192-夜聊_COMIC_FACTORY.png"
     ]
   },
   {
@@ -135,7 +145,7 @@
     "endTime": "22:59",
     "duration": 3019,
     "durationStr": "0.8 小时",
-    "srt": null,
+    "srt": "/data/streams/hazel/2026_07_05_22_09_41/录制-1713546334-20260705-220941-159-夜聊.srt",
     "xml": "/data/streams/hazel/2026_07_05_22_09_41/录制-1713546334-20260705-220941-159-夜聊.xml",
     "cover": "/data/streams/hazel/2026_07_05_22_09_41/录制-1713546334-20260705-220941-159-夜聊.cover.jpg",
     "highlights": "/data/streams/hazel/2026_07_05_22_09_41/highlights.md",
@@ -167,19 +177,17 @@
     "endTime": "22:06",
     "duration": 241,
     "durationStr": "4 分钟",
-    "srt": null,
+    "srt": "/data/streams/hazel/2026_07_05_22_02_35/录制-1713546334-20260705-220235-381-夜聊.srt",
     "xml": "/data/streams/hazel/2026_07_05_22_02_35/录制-1713546334-20260705-220235-381-夜聊.xml",
     "cover": "/data/streams/hazel/2026_07_05_22_02_35/录制-1713546334-20260705-220235-381-夜聊.cover.jpg",
     "highlights": "/data/streams/hazel/2026_07_05_22_02_35/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_07_05_22_02_35/录制-1713546334-20260705-220235-381-夜聊_SCREENSHOTS.jpg",
-      "/data/streams/hazel/2026_07_05_22_02_35/录制-1713546334-20260704-220520-954-晚上好_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_07_05_22_02_35/录制-1713546334-20260704-220520-954-晚上好_SCREENSHOTS.jpg"
+      "/data/streams/hazel/2026_07_05_22_02_35/录制-1713546334-20260705-220235-381-夜聊_SCREENSHOTS.jpg"
     ]
   },
   {
     "id": "2026_07_05_02_00_25",
-    "title": "晚上好",
+    "title": "夜聊",
     "date": "2026-07-04",
     "time": "02:00:25",
     "startTime": "02:00",
@@ -190,9 +198,7 @@
     "xml": "/data/streams/hazel/2026_07_05_02_00_25/录制-1713546334-20260705-020025-287-晚上好.xml",
     "cover": "/data/streams/hazel/2026_07_05_02_00_25/录制-1713546334-20260705-020025-287-晚上好.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/hazel/2026_07_05_02_00_25/录制-1713546334-20260704-220520-954-晚上好_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_04_22_05_20",

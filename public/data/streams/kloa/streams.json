@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_07_18_19_46_31",
+    "title": "生日前夜祭凸待！",
+    "date": "2026-07-18",
+    "time": "19:46:31",
+    "startTime": "19:46",
+    "endTime": "23:22",
+    "duration": 13004,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/kloa/2026_07_18_19_46_31/录制-1986461465-20260718-194631-045-生日前夜祭凸待！_merged.srt",
+    "xml": "/data/streams/kloa/2026_07_18_19_46_31/录制-1986461465-20260718-194631-045-生日前夜祭凸待！_merged.xml",
+    "cover": "/data/streams/kloa/2026_07_18_19_46_31/录制-1986461465-20260718-194631-045-生日前夜祭凸待！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_07_18_19_46_31/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_07_18_19_46_31/录制-1986461465-20260718-194631-045-生日前夜祭凸待！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_18_15_02_36",
+    "title": "萤火虫小电视互动~",
+    "date": "2026-07-18",
+    "time": "15:02:36",
+    "startTime": "15:02",
+    "endTime": "16:58",
+    "duration": 7017,
+    "durationStr": "1.9 小时",
+    "srt": "/data/streams/kloa/2026_07_18_15_02_36/录制-1986461465-20260718-150236-783-萤火虫小电视互动~.srt",
+    "xml": "/data/streams/kloa/2026_07_18_15_02_36/录制-1986461465-20260718-150236-783-萤火虫小电视互动~.xml",
+    "cover": "/data/streams/kloa/2026_07_18_15_02_36/录制-1986461465-20260718-150236-783-萤火虫小电视互动~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_07_18_15_02_36/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_07_18_15_02_36/录制-1986461465-20260718-150236-783-萤火虫小电视互动~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_07_18_15_02_36/录制-1986461465-20260718-150236-783-萤火虫小电视互动~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_17_21_02_42",
     "title": "晚安zzz咕嘟咕嘟",
     "date": "2026-07-17",
@@ -8,13 +43,12 @@
     "endTime": "22:32",
     "duration": 5439,
     "durationStr": "1.5 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_17_21_02_42/录制-1986461465-20260717-210242-789-晚安zzz咕嘟咕嘟_merged.srt",
     "xml": "/data/streams/kloa/2026_07_17_21_02_42/录制-1986461465-20260717-210242-789-晚安zzz咕嘟咕嘟_merged.xml",
     "cover": "/data/streams/kloa/2026_07_17_21_02_42/录制-1986461465-20260717-210242-789-晚安zzz咕嘟咕嘟.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_17_21_02_42/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_07_17_21_02_42/录制-1986461465-20260717-210242-789-晚安zzz咕嘟咕嘟_merged_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_17_21_02_42/录制-1986461465-20260717-105034-583-早上好！萤火虫小推车！_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_17_21_02_42/录制-1986461465-20260717-210242-789-晚安zzz咕嘟咕嘟_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -26,14 +60,12 @@
     "endTime": "14:38",
     "duration": 13735,
     "durationStr": "3.8 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_17_10_50_34/录制-1986461465-20260717-105034-583-早上好！萤火虫小推车！.srt",
     "xml": "/data/streams/kloa/2026_07_17_10_50_34/录制-1986461465-20260717-105034-583-早上好！萤火虫小推车！.xml",
     "cover": "/data/streams/kloa/2026_07_17_10_50_34/录制-1986461465-20260717-105034-583-早上好！萤火虫小推车！.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_17_10_50_34/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_07_17_10_50_34/录制-1986461465-20260717-105034-583-早上好！萤火虫小推车！_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_17_10_50_34/录制-1986461465-20260716-213325-194-唱歌歌~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_17_10_50_34/录制-1986461465-20260716-213325-194-唱歌歌~_merged_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_17_10_50_34/录制-1986461465-20260717-105034-583-早上好！萤火虫小推车！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -45,15 +77,13 @@
     "endTime": "00:29",
     "duration": 10582,
     "durationStr": "2.9 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_16_21_33_25/录制-1986461465-20260716-213325-194-唱歌歌~_merged.srt",
     "xml": "/data/streams/kloa/2026_07_16_21_33_25/录制-1986461465-20260716-213325-194-唱歌歌~_merged.xml",
     "cover": "/data/streams/kloa/2026_07_16_21_33_25/录制-1986461465-20260716-213325-194-唱歌歌~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_16_21_33_25/highlights.md",
     "images": [
       "/data/streams/kloa/2026_07_16_21_33_25/录制-1986461465-20260716-213325-194-唱歌歌~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_16_21_33_25/录制-1986461465-20260716-213325-194-唱歌歌~_merged_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_16_21_33_25/录制-1986461465-20260715-202413-466-聊聊天~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_16_21_33_25/录制-1986461465-20260715-202413-466-聊聊天~_merged_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_16_21_33_25/录制-1986461465-20260716-213325-194-唱歌歌~_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -65,7 +95,7 @@
     "endTime": "00:23",
     "duration": 14376,
     "durationStr": "4.0 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_15_20_24_13/录制-1986461465-20260715-202413-466-聊聊天~_merged.srt",
     "xml": "/data/streams/kloa/2026_07_15_20_24_13/录制-1986461465-20260715-202413-466-聊聊天~_merged.xml",
     "cover": "/data/streams/kloa/2026_07_15_20_24_13/录制-1986461465-20260715-202413-466-聊聊天~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_15_20_24_13/highlights.md",
@@ -83,16 +113,13 @@
     "endTime": "13:36",
     "duration": 12474,
     "durationStr": "3.5 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_15_10_09_17/录制-1986461465-20260715-100917-568-健身环~_merged.srt",
     "xml": "/data/streams/kloa/2026_07_15_10_09_17/录制-1986461465-20260715-100917-568-健身环~_merged.xml",
     "cover": "/data/streams/kloa/2026_07_15_10_09_17/录制-1986461465-20260715-100917-568-健身环~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_15_10_09_17/highlights.md",
     "images": [
       "/data/streams/kloa/2026_07_15_10_09_17/录制-1986461465-20260715-100917-568-健身环~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_15_10_09_17/录制-1986461465-20260715-100917-568-健身环~_merged_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_15_10_09_17/录制-1986461465-20260714-102117-459-女生的购物车~最近的购物分享~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_15_10_09_17/录制-1986461465-20260714-200212-240-唱歌歌~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_15_10_09_17/录制-1986461465-20260714-200212-240-唱歌歌~_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_15_10_09_17/录制-1986461465-20260715-100917-568-健身环~_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -104,7 +131,7 @@
     "endTime": "00:13",
     "duration": 15060,
     "durationStr": "4.2 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_14_20_02_12/录制-1986461465-20260714-200212-240-唱歌歌~.srt",
     "xml": "/data/streams/kloa/2026_07_14_20_02_12/录制-1986461465-20260714-200212-240-唱歌歌~.xml",
     "cover": "/data/streams/kloa/2026_07_14_20_02_12/录制-1986461465-20260714-200212-240-唱歌歌~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_14_20_02_12/highlights.md",
@@ -122,7 +149,7 @@
     "endTime": "12:11",
     "duration": 6601,
     "durationStr": "1.8 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_14_10_21_17/录制-1986461465-20260714-102117-459-女生的购物车~最近的购物分享~.srt",
     "xml": "/data/streams/kloa/2026_07_14_10_21_17/录制-1986461465-20260714-102117-459-女生的购物车~最近的购物分享~.xml",
     "cover": "/data/streams/kloa/2026_07_14_10_21_17/录制-1986461465-20260714-102117-459-女生的购物车~最近的购物分享~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_14_10_21_17/highlights.md",
@@ -144,10 +171,7 @@
     "xml": "/data/streams/kloa/2026_07_14_09_09_17/录制-1986461465-20260714-090917-310-女生的购物车~最近的购物分享~.xml",
     "cover": "/data/streams/kloa/2026_07_14_09_09_17/录制-1986461465-20260714-090917-310-女生的购物车~最近的购物分享~.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/kloa/2026_07_14_09_09_17/录制-1986461465-20260713-220016-299-帕鲁VR服！_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_14_09_09_17/录制-1986461465-20260713-220016-299-帕鲁VR服！_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_13_22_00_16",
@@ -158,13 +182,12 @@
     "endTime": "00:47",
     "duration": 10032,
     "durationStr": "2.8 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_13_22_00_16/录制-1986461465-20260713-220016-299-帕鲁VR服！.srt",
     "xml": "/data/streams/kloa/2026_07_13_22_00_16/录制-1986461465-20260713-220016-299-帕鲁VR服！.xml",
     "cover": "/data/streams/kloa/2026_07_13_22_00_16/录制-1986461465-20260713-220016-299-帕鲁VR服！.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_13_22_00_16/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_07_13_22_00_16/录制-1986461465-20260713-220016-299-帕鲁VR服！_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_13_22_00_16/录制-1986461465-20260713-220016-299-帕鲁VR服！_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_13_22_00_16/录制-1986461465-20260713-220016-299-帕鲁VR服！_COMIC_FACTORY.png"
     ]
   },
   {
@@ -180,10 +203,7 @@
     "xml": "/data/streams/kloa/2026_07_13_20_08_49/录制-1986461465-20260713-200849-737-帕鲁VR服！.xml",
     "cover": "/data/streams/kloa/2026_07_13_20_08_49/录制-1986461465-20260713-200849-737-帕鲁VR服！.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/kloa/2026_07_13_20_08_49/录制-1986461465-20260712-200455-863-狠狠的歌！_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_13_20_08_49/录制-1986461465-20260712-200455-863-狠狠的歌！_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_12_20_04_55",
@@ -194,15 +214,13 @@
     "endTime": "01:51",
     "duration": 20871,
     "durationStr": "5.8 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_12_20_04_55/录制-1986461465-20260712-200455-863-狠狠的歌！.srt",
     "xml": "/data/streams/kloa/2026_07_12_20_04_55/录制-1986461465-20260712-200455-863-狠狠的歌！.xml",
     "cover": "/data/streams/kloa/2026_07_12_20_04_55/录制-1986461465-20260712-200455-863-狠狠的歌！.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_12_20_04_55/highlights.md",
     "images": [
       "/data/streams/kloa/2026_07_12_20_04_55/录制-1986461465-20260712-200455-863-狠狠的歌！_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_12_20_04_55/录制-1986461465-20260712-200455-863-狠狠的歌！_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_12_20_04_55/录制-1986461465-20260711-200643-447-晚间杂谈~qwq_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_12_20_04_55/录制-1986461465-20260711-200643-447-晚间杂谈~qwq_merged_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_12_20_04_55/录制-1986461465-20260712-200455-863-狠狠的歌！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -214,7 +232,7 @@
     "endTime": "00:37",
     "duration": 16264,
     "durationStr": "4.5 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_11_20_06_43/录制-1986461465-20260711-200643-447-晚间杂谈~qwq_merged.srt",
     "xml": "/data/streams/kloa/2026_07_11_20_06_43/录制-1986461465-20260711-200643-447-晚间杂谈~qwq_merged.xml",
     "cover": "/data/streams/kloa/2026_07_11_20_06_43/录制-1986461465-20260711-200643-447-晚间杂谈~qwq.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_11_20_06_43/highlights.md",
@@ -232,14 +250,12 @@
     "endTime": "13:55",
     "duration": 8644,
     "durationStr": "2.4 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_11_11_31_24/录制-1986461465-20260711-113124-787-试图玩一下港诡.srt",
     "xml": "/data/streams/kloa/2026_07_11_11_31_24/录制-1986461465-20260711-113124-787-试图玩一下港诡.xml",
     "cover": "/data/streams/kloa/2026_07_11_11_31_24/录制-1986461465-20260711-113124-787-试图玩一下港诡.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_11_11_31_24/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_07_11_11_31_24/录制-1986461465-20260711-113124-787-试图玩一下港诡_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_11_11_31_24/录制-1986461465-20260710-210428-124-浴汤电台_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_11_11_31_24/录制-1986461465-20260710-210428-124-浴汤电台_merged_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_11_11_31_24/录制-1986461465-20260711-113124-787-试图玩一下港诡_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -251,7 +267,7 @@
     "endTime": "00:59",
     "duration": 14148,
     "durationStr": "3.9 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_10_21_04_28/录制-1986461465-20260710-210428-124-浴汤电台_merged.srt",
     "xml": "/data/streams/kloa/2026_07_10_21_04_28/录制-1986461465-20260710-210428-124-浴汤电台_merged.xml",
     "cover": "/data/streams/kloa/2026_07_10_21_04_28/录制-1986461465-20260710-210428-124-浴汤电台.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_10_21_04_28/highlights.md",
@@ -269,15 +285,13 @@
     "endTime": "13:10",
     "duration": 14451,
     "durationStr": "4.0 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_10_09_10_17/录制-1986461465-20260710-091017-858-早安歌！_merged.srt",
     "xml": "/data/streams/kloa/2026_07_10_09_10_17/录制-1986461465-20260710-091017-858-早安歌！_merged.xml",
     "cover": "/data/streams/kloa/2026_07_10_09_10_17/录制-1986461465-20260710-091017-858-早安歌！.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_10_09_10_17/highlights.md",
     "images": [
       "/data/streams/kloa/2026_07_10_09_10_17/录制-1986461465-20260710-091017-858-早安歌！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_10_09_10_17/录制-1986461465-20260710-091017-858-早安歌！_merged_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_10_09_10_17/录制-1986461465-20260709-212232-071-夜间杂谈~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_10_09_10_17/录制-1986461465-20260709-212232-071-夜间杂谈~_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_10_09_10_17/录制-1986461465-20260710-091017-858-早安歌！_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -289,7 +303,7 @@
     "endTime": "23:27",
     "duration": 7538,
     "durationStr": "2.1 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_09_21_22_32/录制-1986461465-20260709-212232-071-夜间杂谈~.srt",
     "xml": "/data/streams/kloa/2026_07_09_21_22_32/录制-1986461465-20260709-212232-071-夜间杂谈~.xml",
     "cover": "/data/streams/kloa/2026_07_09_21_22_32/录制-1986461465-20260709-212232-071-夜间杂谈~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_09_21_22_32/highlights.md",
@@ -322,15 +336,13 @@
     "endTime": "12:35",
     "duration": 11668,
     "durationStr": "3.2 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_09_09_21_20/录制-1986461465-20260709-092120-368-早安歌杂~_merged.srt",
     "xml": "/data/streams/kloa/2026_07_09_09_21_20/录制-1986461465-20260709-092120-368-早安歌杂~_merged.xml",
     "cover": "/data/streams/kloa/2026_07_09_09_21_20/录制-1986461465-20260709-092120-368-早安歌杂~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_09_09_21_20/highlights.md",
     "images": [
       "/data/streams/kloa/2026_07_09_09_21_20/录制-1986461465-20260709-092120-368-早安歌杂~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_09_09_21_20/录制-1986461465-20260709-092120-368-早安歌杂~_merged_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_09_09_21_20/录制-1986461465-20260708-220317-262-唱歌！！_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_09_09_21_20/录制-1986461465-20260708-220317-262-唱歌！！_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_09_09_21_20/录制-1986461465-20260709-092120-368-早安歌杂~_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -342,7 +354,7 @@
     "endTime": "01:05",
     "duration": 10948,
     "durationStr": "3.0 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_08_22_03_17/录制-1986461465-20260708-220317-262-唱歌！！.srt",
     "xml": "/data/streams/kloa/2026_07_08_22_03_17/录制-1986461465-20260708-220317-262-唱歌！！.xml",
     "cover": "/data/streams/kloa/2026_07_08_22_03_17/录制-1986461465-20260708-220317-262-唱歌！！.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_08_22_03_17/highlights.md",
@@ -360,15 +372,13 @@
     "endTime": "13:11",
     "duration": 11031,
     "durationStr": "3.1 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_08_10_08_29/录制-1986461465-20260708-100829-912-健身环~.srt",
     "xml": "/data/streams/kloa/2026_07_08_10_08_29/录制-1986461465-20260708-100829-912-健身环~.xml",
     "cover": "/data/streams/kloa/2026_07_08_10_08_29/录制-1986461465-20260708-100829-912-健身环~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_08_10_08_29/highlights.md",
     "images": [
       "/data/streams/kloa/2026_07_08_10_08_29/录制-1986461465-20260708-100829-912-健身环~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_08_10_08_29/录制-1986461465-20260708-100829-912-健身环~_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_08_10_08_29/录制-1986461465-20260708-001218-310-晚间杂谈~277旅游后日谈_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_08_10_08_29/录制-1986461465-20260708-001218-310-晚间杂谈~277旅游后日谈_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_08_10_08_29/录制-1986461465-20260708-100829-912-健身环~_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -380,13 +390,12 @@
     "endTime": "01:20",
     "duration": 4108,
     "durationStr": "1.1 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_08_00_12_18/录制-1986461465-20260708-001218-310-晚间杂谈~277旅游后日谈.srt",
     "xml": "/data/streams/kloa/2026_07_08_00_12_18/录制-1986461465-20260708-001218-310-晚间杂谈~277旅游后日谈.xml",
     "cover": "/data/streams/kloa/2026_07_08_00_12_18/录制-1986461465-20260708-001218-310-晚间杂谈~277旅游后日谈.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_08_00_12_18/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_07_08_00_12_18/录制-1986461465-20260708-001218-310-晚间杂谈~277旅游后日谈_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_08_00_12_18/录制-1986461465-20260708-001218-310-晚间杂谈~277旅游后日谈_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_08_00_12_18/录制-1986461465-20260708-001218-310-晚间杂谈~277旅游后日谈_COMIC_FACTORY.png"
     ]
   },
   {
@@ -433,8 +442,7 @@
     "cover": "/data/streams/kloa/2026_07_07_20_00_17/录制-1986461465-20260707-200017-844-晚间杂谈~277旅游后日谈.cover.jpg",
     "highlights": null,
     "images": [
-      "/data/streams/kloa/2026_07_07_20_00_17/录制-1986461465-20260707-200017-844-晚间杂谈~277旅游后日谈_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_07_20_00_17/录制-1986461465-20260706-104634-914-早上好！（大声）_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_07_20_00_17/录制-1986461465-20260707-200017-844-晚间杂谈~277旅游后日谈_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -476,7 +484,7 @@
     "endTime": "11:24",
     "duration": 2309,
     "durationStr": "0.6 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_06_10_46_34/录制-1986461465-20260706-104634-914-早上好！（大声）.srt",
     "xml": "/data/streams/kloa/2026_07_06_10_46_34/录制-1986461465-20260706-104634-914-早上好！（大声）.xml",
     "cover": "/data/streams/kloa/2026_07_06_10_46_34/录制-1986461465-20260706-104634-914-早上好！（大声）.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_06_10_46_34/highlights.md",
@@ -508,13 +516,12 @@
     "endTime": "10:24",
     "duration": 1218,
     "durationStr": "0.3 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_06_10_04_36/录制-1986461465-20260706-100436-747-早上好！（大声）.srt",
     "xml": "/data/streams/kloa/2026_07_06_10_04_36/录制-1986461465-20260706-100436-747-早上好！（大声）.xml",
     "cover": "/data/streams/kloa/2026_07_06_10_04_36/录制-1986461465-20260706-100436-747-早上好！（大声）.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_06_10_04_36/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_07_06_10_04_36/录制-1986461465-20260706-100436-747-早上好！（大声）_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_06_10_04_36/录制-1986461465-20260705-202425-939-好困呜啊啊啊啊_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_06_10_04_36/录制-1986461465-20260706-100436-747-早上好！（大声）_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -571,36 +578,30 @@
     "endTime": "20:44",
     "duration": 1226,
     "durationStr": "0.3 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_05_20_24_25/录制-1986461465-20260705-202425-939-好困呜啊啊啊啊.srt",
     "xml": "/data/streams/kloa/2026_07_05_20_24_25/录制-1986461465-20260705-202425-939-好困呜啊啊啊啊.xml",
     "cover": "/data/streams/kloa/2026_07_05_20_24_25/录制-1986461465-20260705-202425-939-好困呜啊啊啊啊.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_05_20_24_25/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_07_05_20_24_25/录制-1986461465-20260705-202425-939-好困呜啊啊啊啊_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_05_20_24_25/录制-1986461465-20260705-202016-806-好困呜啊啊啊啊_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_05_20_24_25/录制-1986461465-20260705-002917-404-晚间杂谈~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_05_20_24_25/录制-1986461465-20260705-002917-404-晚间杂谈~_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_05_20_24_25/录制-1986461465-20260705-202425-939-好困呜啊啊啊啊_SCREENSHOTS.jpg"
     ]
   },
   {
     "id": "2026_07_05_00_29_17",
-    "title": "晚间杂谈~",
+    "title": "好困呜啊啊啊啊",
     "date": "2026-07-04",
     "time": "00:29:17",
     "startTime": "00:29",
     "endTime": "01:40",
     "duration": 4275,
     "durationStr": "1.2 小时",
-    "srt": null,
+    "srt": "/data/streams/kloa/2026_07_05_00_29_17/录制-1986461465-20260705-002917-404-晚间杂谈~.srt",
     "xml": "/data/streams/kloa/2026_07_05_00_29_17/录制-1986461465-20260705-002917-404-晚间杂谈~.xml",
     "cover": "/data/streams/kloa/2026_07_05_00_29_17/录制-1986461465-20260705-002917-404-晚间杂谈~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_07_05_00_29_17/highlights.md",
     "images": [
       "/data/streams/kloa/2026_07_05_00_29_17/录制-1986461465-20260705-002917-404-晚间杂谈~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_05_00_29_17/录制-1986461465-20260705-002917-404-晚间杂谈~_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_05_00_29_17/录制-1986461465-20260703-233417-371-晚间歌杂~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_07_05_00_29_17/录制-1986461465-20260704-025352-936-晚间歌杂~_merged_SCREENSHOTS.jpg",
-      "/data/streams/kloa/2026_07_05_00_29_17/录制-1986461465-20260704-031729-186-晚间歌杂~_SCREENSHOTS.jpg"
+      "/data/streams/kloa/2026_07_05_00_29_17/录制-1986461465-20260705-002917-404-晚间杂谈~_SCREENSHOTS.jpg"
     ]
   },
   {

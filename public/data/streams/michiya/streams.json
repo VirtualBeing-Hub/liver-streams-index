@@ -1,20 +1,36 @@
 [
   {
+    "id": "2026_07_18_21_34_12",
+    "title": "又饿又困的repo",
+    "date": "2026-07-18",
+    "time": "21:34:12",
+    "startTime": "21:34",
+    "endTime": "22:46",
+    "duration": 4361,
+    "durationStr": "1.2 小时",
+    "srt": "/data/streams/michiya/2026_07_18_21_34_12/录制-27628030-20260718-213412-135-又饿又困的repo_merged.srt",
+    "xml": "/data/streams/michiya/2026_07_18_21_34_12/录制-27628030-20260718-213412-135-又饿又困的repo_merged.xml",
+    "cover": "/data/streams/michiya/2026_07_18_21_34_12/录制-27628030-20260718-213412-135-又饿又困的repo.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_07_18_21_34_12/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_07_18_21_34_12/录制-27628030-20260718-213412-135-又饿又困的repo_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_16_20_55_29",
-    "title": "上海弥补了人类不能在空气炸锅里的遗憾",
+    "title": "又饿又困的repo",
     "date": "2026-07-16",
     "time": "20:55:29",
     "startTime": "20:55",
     "endTime": "23:08",
     "duration": 8018,
     "durationStr": "2.2 小时",
-    "srt": null,
+    "srt": "/data/streams/michiya/2026_07_16_20_55_29/录制-27628030-20260716-205529-925-上海弥补了人类不能在空气炸锅里的遗憾.srt",
     "xml": "/data/streams/michiya/2026_07_16_20_55_29/录制-27628030-20260716-205529-925-上海弥补了人类不能在空气炸锅里的遗憾.xml",
     "cover": "/data/streams/michiya/2026_07_16_20_55_29/录制-27628030-20260716-205529-925-上海弥补了人类不能在空气炸锅里的遗憾.cover.jpg",
     "highlights": "/data/streams/michiya/2026_07_16_20_55_29/highlights.md",
     "images": [
-      "/data/streams/michiya/2026_07_16_20_55_29/录制-27628030-20260716-205529-925-上海弥补了人类不能在空气炸锅里的遗憾_SCREENSHOTS.jpg",
-      "/data/streams/michiya/2026_07_16_20_55_29/录制-27628030-20260715-235426-404-刚到家，吃个饭就撤退_SCREENSHOTS.jpg"
+      "/data/streams/michiya/2026_07_16_20_55_29/录制-27628030-20260716-205529-925-上海弥补了人类不能在空气炸锅里的遗憾_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -26,13 +42,12 @@
     "endTime": "00:12",
     "duration": 1131,
     "durationStr": "0.3 小时",
-    "srt": null,
+    "srt": "/data/streams/michiya/2026_07_15_23_54_26/录制-27628030-20260715-235426-404-刚到家，吃个饭就撤退.srt",
     "xml": "/data/streams/michiya/2026_07_15_23_54_26/录制-27628030-20260715-235426-404-刚到家，吃个饭就撤退.xml",
     "cover": "/data/streams/michiya/2026_07_15_23_54_26/录制-27628030-20260715-235426-404-刚到家，吃个饭就撤退.cover.jpg",
     "highlights": "/data/streams/michiya/2026_07_15_23_54_26/highlights.md",
     "images": [
-      "/data/streams/michiya/2026_07_15_23_54_26/录制-27628030-20260715-235426-404-刚到家，吃个饭就撤退_SCREENSHOTS.jpg",
-      "/data/streams/michiya/2026_07_15_23_54_26/录制-27628030-20260713-194933-424-重振vr服_SCREENSHOTS.jpg"
+      "/data/streams/michiya/2026_07_15_23_54_26/录制-27628030-20260715-235426-404-刚到家，吃个饭就撤退_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -44,13 +59,12 @@
     "endTime": "00:55",
     "duration": 18412,
     "durationStr": "5.1 小时",
-    "srt": null,
+    "srt": "/data/streams/michiya/2026_07_13_19_49_33/录制-27628030-20260713-194933-424-重振vr服.srt",
     "xml": "/data/streams/michiya/2026_07_13_19_49_33/录制-27628030-20260713-194933-424-重振vr服.xml",
     "cover": "/data/streams/michiya/2026_07_13_19_49_33/录制-27628030-20260713-194933-424-重振vr服.cover.jpg",
     "highlights": "/data/streams/michiya/2026_07_13_19_49_33/highlights.md",
     "images": [
-      "/data/streams/michiya/2026_07_13_19_49_33/录制-27628030-20260713-194933-424-重振vr服_SCREENSHOTS.jpg",
-      "/data/streams/michiya/2026_07_13_19_49_33/录制-27628030-20260712-225302-534-好多人啊_SCREENSHOTS.jpg"
+      "/data/streams/michiya/2026_07_13_19_49_33/录制-27628030-20260713-194933-424-重振vr服_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -62,13 +76,12 @@
     "endTime": "00:26",
     "duration": 5587,
     "durationStr": "1.6 小时",
-    "srt": null,
+    "srt": "/data/streams/michiya/2026_07_12_22_53_02/录制-27628030-20260712-225302-534-好多人啊.srt",
     "xml": "/data/streams/michiya/2026_07_12_22_53_02/录制-27628030-20260712-225302-534-好多人啊.xml",
     "cover": "/data/streams/michiya/2026_07_12_22_53_02/录制-27628030-20260712-225302-534-好多人啊.cover.jpg",
     "highlights": "/data/streams/michiya/2026_07_12_22_53_02/highlights.md",
     "images": [
-      "/data/streams/michiya/2026_07_12_22_53_02/录制-27628030-20260712-225302-534-好多人啊_SCREENSHOTS.jpg",
-      "/data/streams/michiya/2026_07_12_22_53_02/录制-27628030-20260710-122724-153-不要告诉我老板上午上班请假来打游戏好吗_SCREENSHOTS.jpg"
+      "/data/streams/michiya/2026_07_12_22_53_02/录制-27628030-20260712-225302-534-好多人啊_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -80,13 +93,12 @@
     "endTime": "14:32",
     "duration": 7511,
     "durationStr": "2.1 小时",
-    "srt": null,
+    "srt": "/data/streams/michiya/2026_07_10_12_27_24/录制-27628030-20260710-122724-153-不要告诉我老板上午上班请假来打游戏好吗.srt",
     "xml": "/data/streams/michiya/2026_07_10_12_27_24/录制-27628030-20260710-122724-153-不要告诉我老板上午上班请假来打游戏好吗.xml",
     "cover": "/data/streams/michiya/2026_07_10_12_27_24/录制-27628030-20260710-122724-153-不要告诉我老板上午上班请假来打游戏好吗.cover.jpg",
     "highlights": "/data/streams/michiya/2026_07_10_12_27_24/highlights.md",
     "images": [
-      "/data/streams/michiya/2026_07_10_12_27_24/录制-27628030-20260710-122724-153-不要告诉我老板上午上班请假来打游戏好吗_SCREENSHOTS.jpg",
-      "/data/streams/michiya/2026_07_10_12_27_24/录制-27628030-20260708-161224-478-喵喵喵喵_SCREENSHOTS.jpg"
+      "/data/streams/michiya/2026_07_10_12_27_24/录制-27628030-20260710-122724-153-不要告诉我老板上午上班请假来打游戏好吗_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -98,13 +110,12 @@
     "endTime": "18:01",
     "duration": 6574,
     "durationStr": "1.8 小时",
-    "srt": null,
+    "srt": "/data/streams/michiya/2026_07_08_16_12_24/录制-27628030-20260708-161224-478-喵喵喵喵.srt",
     "xml": "/data/streams/michiya/2026_07_08_16_12_24/录制-27628030-20260708-161224-478-喵喵喵喵.xml",
     "cover": "/data/streams/michiya/2026_07_08_16_12_24/录制-27628030-20260708-161224-478-喵喵喵喵.cover.jpg",
     "highlights": "/data/streams/michiya/2026_07_08_16_12_24/highlights.md",
     "images": [
-      "/data/streams/michiya/2026_07_08_16_12_24/录制-27628030-20260708-161224-478-喵喵喵喵_SCREENSHOTS.jpg",
-      "/data/streams/michiya/2026_07_08_16_12_24/录制-27628030-20260707-235611-636-我才不糯！！！_SCREENSHOTS.jpg"
+      "/data/streams/michiya/2026_07_08_16_12_24/录制-27628030-20260708-161224-478-喵喵喵喵_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -116,13 +127,12 @@
     "endTime": "01:24",
     "duration": 5284,
     "durationStr": "1.5 小时",
-    "srt": null,
+    "srt": "/data/streams/michiya/2026_07_07_23_56_11/录制-27628030-20260707-235611-636-我才不糯！！！.srt",
     "xml": "/data/streams/michiya/2026_07_07_23_56_11/录制-27628030-20260707-235611-636-我才不糯！！！.xml",
     "cover": "/data/streams/michiya/2026_07_07_23_56_11/录制-27628030-20260707-235611-636-我才不糯！！！.cover.jpg",
     "highlights": "/data/streams/michiya/2026_07_07_23_56_11/highlights.md",
     "images": [
-      "/data/streams/michiya/2026_07_07_23_56_11/录制-27628030-20260707-235611-636-我才不糯！！！_SCREENSHOTS.jpg",
-      "/data/streams/michiya/2026_07_07_23_56_11/录制-27628030-20260706-002240-848-今天过后就开启下一个三周年倒数-3-_SCREENSHOTS.jpg"
+      "/data/streams/michiya/2026_07_07_23_56_11/录制-27628030-20260707-235611-636-我才不糯！！！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -134,7 +144,7 @@
     "endTime": "00:53",
     "duration": 1888,
     "durationStr": "0.5 小时",
-    "srt": null,
+    "srt": "/data/streams/michiya/2026_07_06_00_22_40/录制-27628030-20260706-002240-848-今天过后就开启下一个三周年倒数-3-.srt",
     "xml": "/data/streams/michiya/2026_07_06_00_22_40/录制-27628030-20260706-002240-848-今天过后就开启下一个三周年倒数-3-.xml",
     "cover": "/data/streams/michiya/2026_07_06_00_22_40/录制-27628030-20260706-002240-848-今天过后就开启下一个三周年倒数-3-.cover.jpg",
     "highlights": "/data/streams/michiya/2026_07_06_00_22_40/highlights.md",
@@ -166,14 +176,12 @@
     "endTime": "23:07",
     "duration": 9100,
     "durationStr": "2.5 小时",
-    "srt": null,
+    "srt": "/data/streams/michiya/2026_07_05_20_36_57/录制-27628030-20260705-203657-914-今天过后就开启下一个三周年倒数.srt",
     "xml": "/data/streams/michiya/2026_07_05_20_36_57/录制-27628030-20260705-203657-914-今天过后就开启下一个三周年倒数.xml",
     "cover": "/data/streams/michiya/2026_07_05_20_36_57/录制-27628030-20260705-203657-914-今天过后就开启下一个三周年倒数.cover.jpg",
     "highlights": "/data/streams/michiya/2026_07_05_20_36_57/highlights.md",
     "images": [
-      "/data/streams/michiya/2026_07_05_20_36_57/录制-27628030-20260705-203657-914-今天过后就开启下一个三周年倒数_SCREENSHOTS.jpg",
-      "/data/streams/michiya/2026_07_05_20_36_57/录制-27628030-20260704-191721-605-练会-3-_COMIC_FACTORY.png",
-      "/data/streams/michiya/2026_07_05_20_36_57/录制-27628030-20260704-191721-605-练会-3-_SCREENSHOTS.jpg"
+      "/data/streams/michiya/2026_07_05_20_36_57/录制-27628030-20260705-203657-914-今天过后就开启下一个三周年倒数_SCREENSHOTS.jpg"
     ]
   },
   {

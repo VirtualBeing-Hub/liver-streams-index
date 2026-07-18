@@ -1,18 +1,55 @@
 [
   {
+    "id": "2026_07_18_20_34_54",
+    "title": "久违的台词回！",
+    "date": "2026-07-18",
+    "time": "20:34:54",
+    "startTime": "20:34",
+    "endTime": "23:47",
+    "duration": 11622,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/izayoi/2026_07_18_20_34_54/录制-1741667419-20260718-203454-666-久违的台词回！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_07_18_20_34_54/录制-1741667419-20260718-203454-666-久违的台词回！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_07_18_20_34_54/录制-1741667419-20260718-203454-666-久违的台词回！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_18_20_34_54/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_18_20_34_54/录制-1741667419-20260718-203454-666-久违的台词回！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_18_11_53_13",
+    "title": "萤火虫1v1展台互动",
+    "date": "2026-07-18",
+    "time": "11:53:13",
+    "startTime": "11:53",
+    "endTime": "13:08",
+    "duration": 4557,
+    "durationStr": "1.3 小时",
+    "srt": "/data/streams/izayoi/2026_07_18_11_53_13/录制-1741667419-20260718-115313-428-萤火虫1v1展台互动.srt",
+    "xml": "/data/streams/izayoi/2026_07_18_11_53_13/录制-1741667419-20260718-115313-428-萤火虫1v1展台互动.xml",
+    "cover": "/data/streams/izayoi/2026_07_18_11_53_13/录制-1741667419-20260718-115313-428-萤火虫1v1展台互动.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_18_11_53_13/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_18_11_53_13/录制-1741667419-20260718-115313-428-萤火虫1v1展台互动_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_17_20_02_36",
     "title": "小唱一下",
     "date": "2026-07-17",
     "time": "20:02:36",
     "startTime": "20:02",
-    "endTime": "20:52",
-    "duration": 3031,
-    "durationStr": "0.8 小时",
-    "srt": null,
-    "xml": "/data/streams/izayoi/2026_07_17_20_02_36/录制-1741667419-20260717-200236-859-小唱一下.xml",
+    "endTime": "00:23",
+    "duration": 15681,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/izayoi/2026_07_17_20_02_36/录制-1741667419-20260717-200236-859-小唱一下_merged.srt",
+    "xml": "/data/streams/izayoi/2026_07_17_20_02_36/录制-1741667419-20260717-200236-859-小唱一下_merged.xml",
     "cover": "/data/streams/izayoi/2026_07_17_20_02_36/录制-1741667419-20260717-200236-859-小唱一下.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/izayoi/2026_07_17_20_02_36/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_17_20_02_36/录制-1741667419-20260717-200236-859-小唱一下_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_07_17_20_02_36/录制-1741667419-20260717-200236-859-小唱一下_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_07_17_15_26_53",
@@ -23,7 +60,7 @@
     "endTime": "17:04",
     "duration": 5914,
     "durationStr": "1.6 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_17_15_26_53/录制-1741667419-20260717-152653-194-小推车来啦 ！.srt",
     "xml": "/data/streams/izayoi/2026_07_17_15_26_53/录制-1741667419-20260717-152653-194-小推车来啦 ！.xml",
     "cover": "/data/streams/izayoi/2026_07_17_15_26_53/录制-1741667419-20260717-152653-194-小推车来啦 ！.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_17_15_26_53/highlights.md",
@@ -41,27 +78,25 @@
     "endTime": "11:23",
     "duration": 7734,
     "durationStr": "2.1 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_17_09_15_42/录制-1741667419-20260717-091542-846-早上好哦_merged.srt",
     "xml": "/data/streams/izayoi/2026_07_17_09_15_42/录制-1741667419-20260717-091542-846-早上好哦_merged.xml",
     "cover": "/data/streams/izayoi/2026_07_17_09_15_42/录制-1741667419-20260717-091542-846-早上好哦.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_17_09_15_42/highlights.md",
     "images": [
       "/data/streams/izayoi/2026_07_17_09_15_42/录制-1741667419-20260717-091542-846-早上好哦_merged_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_17_09_15_42/录制-1741667419-20260717-091542-846-早上好哦_merged_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_17_09_15_42/录制-1741667419-20260716-205848-206-搬完家好累的说——_merged_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_17_09_15_42/录制-1741667419-20260716-211311-536-搬完家好累的说——_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_17_09_15_42/录制-1741667419-20260717-091542-846-早上好哦_merged_SCREENSHOTS.jpg"
     ]
   },
   {
     "id": "2026_07_16_21_13_11",
-    "title": "搬完家好累的说——",
+    "title": "早上好哦",
     "date": "2026-07-16",
     "time": "21:13:11",
     "startTime": "21:13",
     "endTime": "21:22",
     "duration": 596,
     "durationStr": "0.2 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_16_21_13_11/录制-1741667419-20260716-211311-536-搬完家好累的说——.srt",
     "xml": "/data/streams/izayoi/2026_07_16_21_13_11/录制-1741667419-20260716-211311-536-搬完家好累的说——.xml",
     "cover": "/data/streams/izayoi/2026_07_16_21_13_11/录制-1741667419-20260716-211311-536-搬完家好累的说——.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_16_21_13_11/highlights.md",
@@ -78,7 +113,7 @@
     "endTime": "21:10",
     "duration": 726,
     "durationStr": "0.2 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_16_20_58_48/录制-1741667419-20260716-205848-206-搬完家好累的说——_merged.srt",
     "xml": "/data/streams/izayoi/2026_07_16_20_58_48/录制-1741667419-20260716-205848-206-搬完家好累的说——_merged.xml",
     "cover": "/data/streams/izayoi/2026_07_16_20_58_48/录制-1741667419-20260716-205848-206-搬完家好累的说——.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_16_20_58_48/highlights.md",
@@ -96,15 +131,13 @@
     "endTime": "12:05",
     "duration": 11144,
     "durationStr": "3.1 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_16_09_00_24/录制-1741667419-20260716-090024-099-早茶第七十五天.srt",
     "xml": "/data/streams/izayoi/2026_07_16_09_00_24/录制-1741667419-20260716-090024-099-早茶第七十五天.xml",
     "cover": "/data/streams/izayoi/2026_07_16_09_00_24/录制-1741667419-20260716-090024-099-早茶第七十五天.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_16_09_00_24/highlights.md",
     "images": [
       "/data/streams/izayoi/2026_07_16_09_00_24/录制-1741667419-20260716-090024-099-早茶第七十五天_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_16_09_00_24/录制-1741667419-20260716-090024-099-早茶第七十五天_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_16_09_00_24/录制-1741667419-20260715-200022-003-晚点来港诡！_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_16_09_00_24/录制-1741667419-20260715-200022-003-晚点来港诡！_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_16_09_00_24/录制-1741667419-20260716-090024-099-早茶第七十五天_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -116,7 +149,7 @@
     "endTime": "23:41",
     "duration": 13293,
     "durationStr": "3.7 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_15_20_00_22/录制-1741667419-20260715-200022-003-晚点来港诡！.srt",
     "xml": "/data/streams/izayoi/2026_07_15_20_00_22/录制-1741667419-20260715-200022-003-晚点来港诡！.xml",
     "cover": "/data/streams/izayoi/2026_07_15_20_00_22/录制-1741667419-20260715-200022-003-晚点来港诡！.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_15_20_00_22/highlights.md",
@@ -134,14 +167,12 @@
     "endTime": "11:41",
     "duration": 9700,
     "durationStr": "2.7 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_15_09_00_22/录制-1741667419-20260715-090022-718-早茶第七十四天_merged.srt",
     "xml": "/data/streams/izayoi/2026_07_15_09_00_22/录制-1741667419-20260715-090022-718-早茶第七十四天_merged.xml",
     "cover": "/data/streams/izayoi/2026_07_15_09_00_22/录制-1741667419-20260715-090022-718-早茶第七十四天.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_15_09_00_22/highlights.md",
     "images": [
-      "/data/streams/izayoi/2026_07_15_09_00_22/录制-1741667419-20260715-090022-718-早茶第七十四天_merged_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_15_09_00_22/录制-1741667419-20260713-195904-370-久违的来画画头像_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_15_09_00_22/录制-1741667419-20260713-195904-370-久违的来画画头像_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_15_09_00_22/录制-1741667419-20260715-090022-718-早茶第七十四天_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -153,7 +184,7 @@
     "endTime": "01:54",
     "duration": 21341,
     "durationStr": "5.9 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_13_19_59_04/录制-1741667419-20260713-195904-370-久违的来画画头像.srt",
     "xml": "/data/streams/izayoi/2026_07_13_19_59_04/录制-1741667419-20260713-195904-370-久违的来画画头像.xml",
     "cover": "/data/streams/izayoi/2026_07_13_19_59_04/录制-1741667419-20260713-195904-370-久违的来画画头像.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_13_19_59_04/highlights.md",
@@ -171,15 +202,13 @@
     "endTime": "11:35",
     "duration": 9358,
     "durationStr": "2.6 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_13_09_00_52/录制-1741667419-20260713-090052-904-早茶第七十三天.srt",
     "xml": "/data/streams/izayoi/2026_07_13_09_00_52/录制-1741667419-20260713-090052-904-早茶第七十三天.xml",
     "cover": "/data/streams/izayoi/2026_07_13_09_00_52/录制-1741667419-20260713-090052-904-早茶第七十三天.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_13_09_00_52/highlights.md",
     "images": [
       "/data/streams/izayoi/2026_07_13_09_00_52/录制-1741667419-20260713-090052-904-早茶第七十三天_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_13_09_00_52/录制-1741667419-20260713-090052-904-早茶第七十三天_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_13_09_00_52/录制-1741667419-20260712-200227-243-小唱一下！_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_13_09_00_52/录制-1741667419-20260712-200227-243-小唱一下！_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_13_09_00_52/录制-1741667419-20260713-090052-904-早茶第七十三天_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -191,15 +220,13 @@
     "endTime": "01:01",
     "duration": 17989,
     "durationStr": "5.0 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_12_20_02_27/录制-1741667419-20260712-200227-243-小唱一下！.srt",
     "xml": "/data/streams/izayoi/2026_07_12_20_02_27/录制-1741667419-20260712-200227-243-小唱一下！.xml",
     "cover": "/data/streams/izayoi/2026_07_12_20_02_27/录制-1741667419-20260712-200227-243-小唱一下！.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_12_20_02_27/highlights.md",
     "images": [
       "/data/streams/izayoi/2026_07_12_20_02_27/录制-1741667419-20260712-200227-243-小唱一下！_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_12_20_02_27/录制-1741667419-20260712-200227-243-小唱一下！_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_12_20_02_27/录制-1741667419-20260711-202628-199-一起来躲猫猫！_merged_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_12_20_02_27/录制-1741667419-20260711-202628-199-一起来躲猫猫！_merged_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_12_20_02_27/录制-1741667419-20260712-200227-243-小唱一下！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -211,13 +238,12 @@
     "endTime": "23:46",
     "duration": 12038,
     "durationStr": "3.3 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_11_20_26_28/录制-1741667419-20260711-202628-199-一起来躲猫猫！_merged.srt",
     "xml": "/data/streams/izayoi/2026_07_11_20_26_28/录制-1741667419-20260711-202628-199-一起来躲猫猫！_merged.xml",
     "cover": "/data/streams/izayoi/2026_07_11_20_26_28/录制-1741667419-20260711-202628-199-一起来躲猫猫！.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_11_20_26_28/highlights.md",
     "images": [
-      "/data/streams/izayoi/2026_07_11_20_26_28/录制-1741667419-20260711-202628-199-一起来躲猫猫！_merged_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_11_20_26_28/录制-1741667419-20260711-202628-199-一起来躲猫猫！_merged_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_11_20_26_28/录制-1741667419-20260711-202628-199-一起来躲猫猫！_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -229,7 +255,7 @@
     "endTime": "17:09",
     "duration": 2147,
     "durationStr": "0.6 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_11_16_34_54/录制-1741667419-20260711-163454-198-浅尝港鬼.srt",
     "xml": "/data/streams/izayoi/2026_07_11_16_34_54/录制-1741667419-20260711-163454-198-浅尝港鬼.xml",
     "cover": "/data/streams/izayoi/2026_07_11_16_34_54/录制-1741667419-20260711-163454-198-浅尝港鬼.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_11_16_34_54/highlights.md",
@@ -265,10 +291,7 @@
     "xml": "/data/streams/izayoi/2026_07_11_14_00_42/录制-1741667419-20260711-140042-540-重启健身浣.xml",
     "cover": "/data/streams/izayoi/2026_07_11_14_00_42/录制-1741667419-20260711-140042-540-重启健身浣.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/izayoi/2026_07_11_14_00_42/录制-1741667419-20260710-200231-332-难吃的钥匙____COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_11_14_00_42/录制-1741667419-20260710-200231-332-难吃的钥匙____SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_10_20_02_31",
@@ -279,7 +302,7 @@
     "endTime": "23:36",
     "duration": 12893,
     "durationStr": "3.6 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_10_20_02_31/录制-1741667419-20260710-200231-332-难吃的钥匙___.srt",
     "xml": "/data/streams/izayoi/2026_07_10_20_02_31/录制-1741667419-20260710-200231-332-难吃的钥匙___.xml",
     "cover": "/data/streams/izayoi/2026_07_10_20_02_31/录制-1741667419-20260710-200231-332-难吃的钥匙___.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_10_20_02_31/highlights.md",
@@ -297,15 +320,13 @@
     "endTime": "11:52",
     "duration": 10129,
     "durationStr": "2.8 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_10_09_04_28/录制-1741667419-20260710-090428-656-早茶第七十二天.srt",
     "xml": "/data/streams/izayoi/2026_07_10_09_04_28/录制-1741667419-20260710-090428-656-早茶第七十二天.xml",
     "cover": "/data/streams/izayoi/2026_07_10_09_04_28/录制-1741667419-20260710-090428-656-早茶第七十二天.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_10_09_04_28/highlights.md",
     "images": [
       "/data/streams/izayoi/2026_07_10_09_04_28/录制-1741667419-20260710-090428-656-早茶第七十二天_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_10_09_04_28/录制-1741667419-20260710-090428-656-早茶第七十二天_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_10_09_04_28/录制-1741667419-20260709-212235-949-1616我们喜浣你_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_10_09_04_28/录制-1741667419-20260709-212235-949-1616我们喜浣你_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_10_09_04_28/录制-1741667419-20260710-090428-656-早茶第七十二天_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -317,7 +338,7 @@
     "endTime": "00:04",
     "duration": 9743,
     "durationStr": "2.7 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_09_21_22_35/录制-1741667419-20260709-212235-949-1616我们喜浣你.srt",
     "xml": "/data/streams/izayoi/2026_07_09_21_22_35/录制-1741667419-20260709-212235-949-1616我们喜浣你.xml",
     "cover": "/data/streams/izayoi/2026_07_09_21_22_35/录制-1741667419-20260709-212235-949-1616我们喜浣你.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_09_21_22_35/highlights.md",
@@ -350,15 +371,13 @@
     "endTime": "11:22",
     "duration": 8301,
     "durationStr": "2.3 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_09_09_04_21/录制-1741667419-20260709-090421-693-成功复活早茶.srt",
     "xml": "/data/streams/izayoi/2026_07_09_09_04_21/录制-1741667419-20260709-090421-693-成功复活早茶.xml",
     "cover": "/data/streams/izayoi/2026_07_09_09_04_21/录制-1741667419-20260709-090421-693-成功复活早茶.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_09_09_04_21/highlights.md",
     "images": [
       "/data/streams/izayoi/2026_07_09_09_04_21/录制-1741667419-20260709-090421-693-成功复活早茶_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_09_09_04_21/录制-1741667419-20260709-090421-693-成功复活早茶_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_09_09_04_21/录制-1741667419-20260708-220050-397-1616我们喜浣你_merged_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_09_09_04_21/录制-1741667419-20260708-220050-397-1616我们喜浣你_merged_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_09_09_04_21/录制-1741667419-20260709-090421-693-成功复活早茶_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -370,7 +389,7 @@
     "endTime": "00:28",
     "duration": 8893,
     "durationStr": "2.5 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_08_22_00_50/录制-1741667419-20260708-220050-397-1616我们喜浣你_merged.srt",
     "xml": "/data/streams/izayoi/2026_07_08_22_00_50/录制-1741667419-20260708-220050-397-1616我们喜浣你_merged.xml",
     "cover": "/data/streams/izayoi/2026_07_08_22_00_50/录制-1741667419-20260708-220050-397-1616我们喜浣你.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_08_22_00_50/highlights.md",
@@ -388,7 +407,7 @@
     "endTime": "15:24",
     "duration": 14800,
     "durationStr": "4.1 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_08_11_18_17/录制-1741667419-20260708-111817-544-闹钟完全没响...._merged.srt",
     "xml": "/data/streams/izayoi/2026_07_08_11_18_17/录制-1741667419-20260708-111817-544-闹钟完全没响...._merged.xml",
     "cover": "/data/streams/izayoi/2026_07_08_11_18_17/录制-1741667419-20260708-111817-544-闹钟完全没响.....cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_08_11_18_17/highlights.md",
@@ -435,7 +454,7 @@
     "endTime": "21:16",
     "duration": 1259,
     "durationStr": "0.3 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_07_20_56_41/录制-1741667419-20260707-205641-768-睡饱了！.srt",
     "xml": "/data/streams/izayoi/2026_07_07_20_56_41/录制-1741667419-20260707-205641-768-睡饱了！.xml",
     "cover": "/data/streams/izayoi/2026_07_07_20_56_41/录制-1741667419-20260707-205641-768-睡饱了！.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_07_20_56_41/highlights.md",
@@ -452,15 +471,12 @@
     "endTime": "17:30",
     "duration": 7355,
     "durationStr": "2.0 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_07_15_28_25/录制-1741667419-20260707-152825-458-浣熊回到了她忠诚的咖啡馆！.srt",
     "xml": "/data/streams/izayoi/2026_07_07_15_28_25/录制-1741667419-20260707-152825-458-浣熊回到了她忠诚的咖啡馆！.xml",
     "cover": "/data/streams/izayoi/2026_07_07_15_28_25/录制-1741667419-20260707-152825-458-浣熊回到了她忠诚的咖啡馆！.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_07_15_28_25/highlights.md",
     "images": [
-      "/data/streams/izayoi/2026_07_07_15_28_25/录制-1741667419-20260707-152825-458-浣熊回到了她忠诚的咖啡馆！_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_07_15_28_25/录制-1741667419-20260707-152825-458-浣熊回到了她忠诚的咖啡馆！_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_07_15_28_25/录制-1741667419-20260706-103918-735-早上好————_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_07_15_28_25/录制-1741667419-20260706-103918-735-早上好————_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_07_15_28_25/录制-1741667419-20260707-152825-458-浣熊回到了她忠诚的咖啡馆！_COMIC_FACTORY.png"
     ]
   },
   {
@@ -472,14 +488,13 @@
     "endTime": "12:38",
     "duration": 7149,
     "durationStr": "2.0 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_06_10_39_18/录制-1741667419-20260706-103918-735-早上好————.srt",
     "xml": "/data/streams/izayoi/2026_07_06_10_39_18/录制-1741667419-20260706-103918-735-早上好————.xml",
     "cover": "/data/streams/izayoi/2026_07_06_10_39_18/录制-1741667419-20260706-103918-735-早上好————.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_06_10_39_18/highlights.md",
     "images": [
       "/data/streams/izayoi/2026_07_06_10_39_18/录制-1741667419-20260706-103918-735-早上好————_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_06_10_39_18/录制-1741667419-20260706-103918-735-早上好————_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_06_10_39_18/录制-1741667419-20260705-223853-113-今晚吃烤串！_merged_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_06_10_39_18/录制-1741667419-20260706-103918-735-早上好————_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -506,7 +521,7 @@
     "endTime": "22:52",
     "duration": 870,
     "durationStr": "0.2 小时",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_05_22_38_53/录制-1741667419-20260705-223853-113-今晚吃烤串！_merged.srt",
     "xml": "/data/streams/izayoi/2026_07_05_22_38_53/录制-1741667419-20260705-223853-113-今晚吃烤串！_merged.xml",
     "cover": "/data/streams/izayoi/2026_07_05_22_38_53/录制-1741667419-20260705-223853-113-今晚吃烤串！.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_05_22_38_53/highlights.md",
@@ -525,7 +540,7 @@
     "durationStr": "0.6 小时",
     "srt": null,
     "xml": "/data/streams/izayoi/2026_07_05_15_24_02/录制-1741667419-20260705-152402-667-悄悄地.xml",
-    "cover": "/data/streams/izayoi/2026_07_05_15_24_02/录制-1741667419-20260705-152402-667-悄悄地.cover.jpg",
+    "cover": "/data/streams/izayoi/2026_07_05_15_24_02/录制-1741667419-20260705-152402-652-悄悄地.cover.jpg",
     "highlights": null,
     "images": []
   },
@@ -538,14 +553,12 @@
     "endTime": "15:23",
     "duration": 220,
     "durationStr": "3 分钟",
-    "srt": null,
+    "srt": "/data/streams/izayoi/2026_07_05_15_20_22/录制-1741667419-20260705-152022-034-悄悄地.srt",
     "xml": "/data/streams/izayoi/2026_07_05_15_20_22/录制-1741667419-20260705-152022-034-悄悄地.xml",
     "cover": "/data/streams/izayoi/2026_07_05_15_20_22/录制-1741667419-20260705-152022-034-悄悄地.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_07_05_15_20_22/highlights.md",
     "images": [
-      "/data/streams/izayoi/2026_07_05_15_20_22/录制-1741667419-20260705-152022-034-悄悄地_SCREENSHOTS.jpg",
-      "/data/streams/izayoi/2026_07_05_15_20_22/录制-1741667419-20260703-233322-752-好困好困好困哦_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_07_05_15_20_22/录制-1741667419-20260703-233322-752-好困好困好困哦_SCREENSHOTS.jpg"
+      "/data/streams/izayoi/2026_07_05_15_20_22/录制-1741667419-20260705-152022-034-悄悄地_SCREENSHOTS.jpg"
     ]
   },
   {

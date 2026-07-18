@@ -1,18 +1,38 @@
 [
   {
+    "id": "2026_07_18_20_28_38",
+    "title": "兔兔来咯",
+    "date": "2026-07-18",
+    "time": "20:28:38",
+    "startTime": "20:28",
+    "endTime": "02:30",
+    "duration": 21738,
+    "durationStr": "6.0 小时",
+    "srt": "/data/streams/liko/2026_07_18_20_28_38/录制-1713548468-20260718-202838-506-兔兔来咯_merged.srt",
+    "xml": "/data/streams/liko/2026_07_18_20_28_38/录制-1713548468-20260718-202838-506-兔兔来咯_merged.xml",
+    "cover": "/data/streams/liko/2026_07_18_20_28_38/录制-1713548468-20260718-202838-506-兔兔来咯.cover.jpg",
+    "highlights": "/data/streams/liko/2026_07_18_20_28_38/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_07_18_20_28_38/录制-1713548468-20260718-202838-506-兔兔来咯_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_07_18_20_28_38/录制-1713548468-20260718-202838-506-兔兔来咯_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_17_19_53_39",
     "title": "玩一下纸嫁衣9",
     "date": "2026-07-17",
     "time": "19:53:39",
     "startTime": "19:53",
-    "endTime": "20:52",
-    "duration": 3575,
-    "durationStr": "1.0 小时",
-    "srt": null,
+    "endTime": "01:06",
+    "duration": 18813,
+    "durationStr": "5.2 小时",
+    "srt": "/data/streams/liko/2026_07_17_19_53_39/录制-1713548468-20260717-195339-978-玩一下纸嫁衣9.srt",
     "xml": "/data/streams/liko/2026_07_17_19_53_39/录制-1713548468-20260717-195339-978-玩一下纸嫁衣9.xml",
     "cover": "/data/streams/liko/2026_07_17_19_53_39/录制-1713548468-20260717-195339-978-玩一下纸嫁衣9.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/liko/2026_07_17_19_53_39/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_07_17_19_53_39/录制-1713548468-20260717-195339-978-玩一下纸嫁衣9_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_07_17_11_58_27",
@@ -27,10 +47,7 @@
     "xml": "/data/streams/liko/2026_07_17_11_58_27/录制-1713548468-20260717-115827-857-早呀！萤火虫展台来咯~.xml",
     "cover": "/data/streams/liko/2026_07_17_11_58_27/录制-1713548468-20260717-115827-857-早呀！萤火虫展台来咯~.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/liko/2026_07_17_11_58_27/录制-1713548468-20260715-202515-742-迟到了歌杂来啦_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_17_11_58_27/录制-1713548468-20260715-202515-742-迟到了歌杂来啦_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_15_20_25_15",
@@ -41,7 +58,7 @@
     "endTime": "00:32",
     "duration": 14824,
     "durationStr": "4.1 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_15_20_25_15/录制-1713548468-20260715-202515-742-迟到了歌杂来啦.srt",
     "xml": "/data/streams/liko/2026_07_15_20_25_15/录制-1713548468-20260715-202515-742-迟到了歌杂来啦.xml",
     "cover": "/data/streams/liko/2026_07_15_20_25_15/录制-1713548468-20260715-202515-742-迟到了歌杂来啦.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_15_20_25_15/highlights.md",
@@ -59,16 +76,13 @@
     "endTime": "15:41",
     "duration": 13363,
     "durationStr": "3.7 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_15_11_59_28/录制-1713548468-20260715-115928-818-迟到了迟到了_merged.srt",
     "xml": "/data/streams/liko/2026_07_15_11_59_28/录制-1713548468-20260715-115928-818-迟到了迟到了_merged.xml",
     "cover": "/data/streams/liko/2026_07_15_11_59_28/录制-1713548468-20260715-115928-818-迟到了迟到了.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_15_11_59_28/highlights.md",
     "images": [
       "/data/streams/liko/2026_07_15_11_59_28/录制-1713548468-20260715-115928-818-迟到了迟到了_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_15_11_59_28/录制-1713548468-20260715-115928-818-迟到了迟到了_merged_SCREENSHOTS.jpg",
-      "/data/streams/liko/2026_07_15_11_59_28/录制-1713548468-20260714-200905-088-兔兔出击！_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_15_11_59_28/录制-1713548468-20260714-211323-361-兔兔出击！_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_15_11_59_28/录制-1713548468-20260714-211323-361-兔兔出击！_SCREENSHOTS.jpg"
+      "/data/streams/liko/2026_07_15_11_59_28/录制-1713548468-20260715-115928-818-迟到了迟到了_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -80,7 +94,7 @@
     "endTime": "01:16",
     "duration": 14591,
     "durationStr": "4.1 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_14_21_13_23/录制-1713548468-20260714-211323-361-兔兔出击！.srt",
     "xml": "/data/streams/liko/2026_07_14_21_13_23/录制-1713548468-20260714-211323-361-兔兔出击！.xml",
     "cover": "/data/streams/liko/2026_07_14_21_13_23/录制-1713548468-20260714-211323-361-兔兔出击！.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_14_21_13_23/highlights.md",
@@ -98,7 +112,7 @@
     "endTime": "21:09",
     "duration": 3645,
     "durationStr": "1.0 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_14_20_09_05/录制-1713548468-20260714-200905-088-兔兔出击！_merged.srt",
     "xml": "/data/streams/liko/2026_07_14_20_09_05/录制-1713548468-20260714-200905-088-兔兔出击！_merged.xml",
     "cover": "/data/streams/liko/2026_07_14_20_09_05/录制-1713548468-20260714-200905-088-兔兔出击！.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_14_20_09_05/highlights.md",
@@ -121,9 +135,7 @@
     "cover": "/data/streams/liko/2026_07_14_11_12_13/录制-1713548468-20260714-111213-865-唠嗑然后生化危机4.cover.jpg",
     "highlights": null,
     "images": [
-      "/data/streams/liko/2026_07_14_11_12_13/录制-1713548468-20260714-111213-865-唠嗑然后生化危机4_SCREENSHOTS.jpg",
-      "/data/streams/liko/2026_07_14_11_12_13/录制-1713548468-20260713-202101-032-当一下帕鲁_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_14_11_12_13/录制-1713548468-20260713-202101-032-当一下帕鲁_SCREENSHOTS.jpg"
+      "/data/streams/liko/2026_07_14_11_12_13/录制-1713548468-20260714-111213-865-唠嗑然后生化危机4_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -135,15 +147,13 @@
     "endTime": "00:57",
     "duration": 16571,
     "durationStr": "4.6 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_13_20_21_01/录制-1713548468-20260713-202101-032-当一下帕鲁.srt",
     "xml": "/data/streams/liko/2026_07_13_20_21_01/录制-1713548468-20260713-202101-032-当一下帕鲁.xml",
     "cover": "/data/streams/liko/2026_07_13_20_21_01/录制-1713548468-20260713-202101-032-当一下帕鲁.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_13_20_21_01/highlights.md",
     "images": [
       "/data/streams/liko/2026_07_13_20_21_01/录制-1713548468-20260713-202101-032-当一下帕鲁_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_13_20_21_01/录制-1713548468-20260713-202101-032-当一下帕鲁_SCREENSHOTS.jpg",
-      "/data/streams/liko/2026_07_13_20_21_01/录制-1713548468-20260712-200617-428-虚弱播一会儿_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_13_20_21_01/录制-1713548468-20260712-200617-428-虚弱播一会儿_SCREENSHOTS.jpg"
+      "/data/streams/liko/2026_07_13_20_21_01/录制-1713548468-20260713-202101-032-当一下帕鲁_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -155,15 +165,13 @@
     "endTime": "00:52",
     "duration": 17179,
     "durationStr": "4.8 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_12_20_06_17/录制-1713548468-20260712-200617-428-虚弱播一会儿.srt",
     "xml": "/data/streams/liko/2026_07_12_20_06_17/录制-1713548468-20260712-200617-428-虚弱播一会儿.xml",
     "cover": "/data/streams/liko/2026_07_12_20_06_17/录制-1713548468-20260712-200617-428-虚弱播一会儿.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_12_20_06_17/highlights.md",
     "images": [
       "/data/streams/liko/2026_07_12_20_06_17/录制-1713548468-20260712-200617-428-虚弱播一会儿_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_12_20_06_17/录制-1713548468-20260712-200617-428-虚弱播一会儿_SCREENSHOTS.jpg",
-      "/data/streams/liko/2026_07_12_20_06_17/录制-1713548468-20260711-201653-470-虚弱播一会儿_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_12_20_06_17/录制-1713548468-20260711-201653-470-虚弱播一会儿_merged_SCREENSHOTS.jpg"
+      "/data/streams/liko/2026_07_12_20_06_17/录制-1713548468-20260712-200617-428-虚弱播一会儿_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -175,7 +183,7 @@
     "endTime": "00:05",
     "duration": 13749,
     "durationStr": "3.8 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_11_20_16_53/录制-1713548468-20260711-201653-470-虚弱播一会儿_merged.srt",
     "xml": "/data/streams/liko/2026_07_11_20_16_53/录制-1713548468-20260711-201653-470-虚弱播一会儿_merged.xml",
     "cover": "/data/streams/liko/2026_07_11_20_16_53/录制-1713548468-20260711-201653-470-虚弱播一会儿.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_11_20_16_53/highlights.md",
@@ -193,15 +201,12 @@
     "endTime": "14:14",
     "duration": 11053,
     "durationStr": "3.1 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_11_11_10_34/录制-1713548468-20260711-111034-218-虚弱播一会儿.srt",
     "xml": "/data/streams/liko/2026_07_11_11_10_34/录制-1713548468-20260711-111034-218-虚弱播一会儿.xml",
     "cover": "/data/streams/liko/2026_07_11_11_10_34/录制-1713548468-20260711-111034-218-虚弱播一会儿.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_11_11_10_34/highlights.md",
     "images": [
-      "/data/streams/liko/2026_07_11_11_10_34/录制-1713548468-20260711-111034-218-虚弱播一会儿_SCREENSHOTS.jpg",
-      "/data/streams/liko/2026_07_11_11_10_34/录制-1713548468-20260710-120648-559-兔兔贴贴_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_11_11_10_34/录制-1713548468-20260710-202731-921-兔兔贴贴_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_11_11_10_34/录制-1713548468-20260710-202731-921-兔兔贴贴_SCREENSHOTS.jpg"
+      "/data/streams/liko/2026_07_11_11_10_34/录制-1713548468-20260711-111034-218-虚弱播一会儿_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -213,7 +218,7 @@
     "endTime": "00:29",
     "duration": 14575,
     "durationStr": "4.0 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_10_20_27_31/录制-1713548468-20260710-202731-921-兔兔贴贴.srt",
     "xml": "/data/streams/liko/2026_07_10_20_27_31/录制-1713548468-20260710-202731-921-兔兔贴贴.xml",
     "cover": "/data/streams/liko/2026_07_10_20_27_31/录制-1713548468-20260710-202731-921-兔兔贴贴.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_10_20_27_31/highlights.md",
@@ -231,15 +236,13 @@
     "endTime": "16:02",
     "duration": 14207,
     "durationStr": "3.9 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_10_12_06_48/录制-1713548468-20260710-120648-559-兔兔贴贴.srt",
     "xml": "/data/streams/liko/2026_07_10_12_06_48/录制-1713548468-20260710-120648-559-兔兔贴贴.xml",
     "cover": "/data/streams/liko/2026_07_10_12_06_48/录制-1713548468-20260710-120648-559-兔兔贴贴.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_10_12_06_48/highlights.md",
     "images": [
       "/data/streams/liko/2026_07_10_12_06_48/录制-1713548468-20260710-120648-559-兔兔贴贴_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_10_12_06_48/录制-1713548468-20260710-120648-559-兔兔贴贴_SCREENSHOTS.jpg",
-      "/data/streams/liko/2026_07_10_12_06_48/录制-1713548468-20260709-212235-511-兔兔贴贴_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_10_12_06_48/录制-1713548468-20260709-212235-511-兔兔贴贴_SCREENSHOTS.jpg"
+      "/data/streams/liko/2026_07_10_12_06_48/录制-1713548468-20260710-120648-559-兔兔贴贴_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -251,7 +254,7 @@
     "endTime": "00:58",
     "duration": 13001,
     "durationStr": "3.6 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_09_21_22_35/录制-1713548468-20260709-212235-511-兔兔贴贴.srt",
     "xml": "/data/streams/liko/2026_07_09_21_22_35/录制-1713548468-20260709-212235-511-兔兔贴贴.xml",
     "cover": "/data/streams/liko/2026_07_09_21_22_35/录制-1713548468-20260709-212235-511-兔兔贴贴.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_09_21_22_35/highlights.md",
@@ -284,15 +287,13 @@
     "endTime": "16:02",
     "duration": 13911,
     "durationStr": "3.9 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_09_12_11_15/录制-1713548468-20260709-121115-533-激情健身环.srt",
     "xml": "/data/streams/liko/2026_07_09_12_11_15/录制-1713548468-20260709-121115-533-激情健身环.xml",
     "cover": "/data/streams/liko/2026_07_09_12_11_15/录制-1713548468-20260709-121115-533-激情健身环.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_09_12_11_15/highlights.md",
     "images": [
       "/data/streams/liko/2026_07_09_12_11_15/录制-1713548468-20260709-121115-533-激情健身环_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_09_12_11_15/录制-1713548468-20260709-121115-533-激情健身环_SCREENSHOTS.jpg",
-      "/data/streams/liko/2026_07_09_12_11_15/录制-1713548468-20260708-220106-176-睡醒波波_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_09_12_11_15/录制-1713548468-20260708-220106-176-睡醒波波_SCREENSHOTS.jpg"
+      "/data/streams/liko/2026_07_09_12_11_15/录制-1713548468-20260709-121115-533-激情健身环_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -304,7 +305,7 @@
     "endTime": "01:14",
     "duration": 11603,
     "durationStr": "3.2 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_08_22_01_06/录制-1713548468-20260708-220106-176-睡醒波波.srt",
     "xml": "/data/streams/liko/2026_07_08_22_01_06/录制-1713548468-20260708-220106-176-睡醒波波.xml",
     "cover": "/data/streams/liko/2026_07_08_22_01_06/录制-1713548468-20260708-220106-176-睡醒波波.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_08_22_01_06/highlights.md",
@@ -322,7 +323,7 @@
     "endTime": "15:02",
     "duration": 13895,
     "durationStr": "3.9 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_08_11_11_24/录制-1713548468-20260708-111124-170-睡醒波波.srt",
     "xml": "/data/streams/liko/2026_07_08_11_11_24/录制-1713548468-20260708-111124-170-睡醒波波.xml",
     "cover": "/data/streams/liko/2026_07_08_11_11_24/录制-1713548468-20260708-111124-170-睡醒波波.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_08_11_11_24/highlights.md",
@@ -355,15 +356,12 @@
     "endTime": "11:35",
     "duration": 4303,
     "durationStr": "1.2 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_07_10_24_19/录制-1713548468-20260707-102419-358-准备回家.srt",
     "xml": "/data/streams/liko/2026_07_07_10_24_19/录制-1713548468-20260707-102419-358-准备回家.xml",
     "cover": "/data/streams/liko/2026_07_07_10_24_19/录制-1713548468-20260707-102419-358-准备回家.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_07_10_24_19/highlights.md",
     "images": [
-      "/data/streams/liko/2026_07_07_10_24_19/录制-1713548468-20260707-102419-358-准备回家_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_07_10_24_19/录制-1713548468-20260707-102419-358-准备回家_SCREENSHOTS.jpg",
-      "/data/streams/liko/2026_07_07_10_24_19/录制-1713548468-20260706-103915-992-起床咯_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_07_10_24_19/录制-1713548468-20260706-103915-992-起床咯_SCREENSHOTS.jpg"
+      "/data/streams/liko/2026_07_07_10_24_19/录制-1713548468-20260707-102419-358-准备回家_COMIC_FACTORY.png"
     ]
   },
   {
@@ -375,14 +373,13 @@
     "endTime": "12:38",
     "duration": 7191,
     "durationStr": "2.0 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_06_10_39_15/录制-1713548468-20260706-103915-992-起床咯.srt",
     "xml": "/data/streams/liko/2026_07_06_10_39_15/录制-1713548468-20260706-103915-992-起床咯.xml",
     "cover": "/data/streams/liko/2026_07_06_10_39_15/录制-1713548468-20260706-103915-992-起床咯.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_06_10_39_15/highlights.md",
     "images": [
       "/data/streams/liko/2026_07_06_10_39_15/录制-1713548468-20260706-103915-992-起床咯_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_07_06_10_39_15/录制-1713548468-20260706-103915-992-起床咯_SCREENSHOTS.jpg",
-      "/data/streams/liko/2026_07_06_10_39_15/录制-1713548468-20260705-215012-556-到上海啦_SCREENSHOTS.jpg"
+      "/data/streams/liko/2026_07_06_10_39_15/录制-1713548468-20260706-103915-992-起床咯_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -394,7 +391,7 @@
     "endTime": "22:11",
     "duration": 1279,
     "durationStr": "0.4 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_05_21_50_12/录制-1713548468-20260705-215012-556-到上海啦.srt",
     "xml": "/data/streams/liko/2026_07_05_21_50_12/录制-1713548468-20260705-215012-556-到上海啦.xml",
     "cover": "/data/streams/liko/2026_07_05_21_50_12/录制-1713548468-20260705-215012-556-到上海啦.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_05_21_50_12/highlights.md",
@@ -411,7 +408,7 @@
     "endTime": "21:47",
     "duration": 1501,
     "durationStr": "0.4 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_05_21_22_34/录制-1713548468-20260705-212234-147-到上海啦.srt",
     "xml": "/data/streams/liko/2026_07_05_21_22_34/录制-1713548468-20260705-212234-147-到上海啦.xml",
     "cover": "/data/streams/liko/2026_07_05_21_22_34/录制-1713548468-20260705-212234-147-到上海啦.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_05_21_22_34/highlights.md",
@@ -428,13 +425,12 @@
     "endTime": "21:19",
     "duration": 3343,
     "durationStr": "0.9 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_07_05_20_24_46/录制-1713548468-20260705-202446-392-到上海啦.srt",
     "xml": "/data/streams/liko/2026_07_05_20_24_46/录制-1713548468-20260705-202446-392-到上海啦.xml",
     "cover": "/data/streams/liko/2026_07_05_20_24_46/录制-1713548468-20260705-202446-392-到上海啦.cover.jpg",
     "highlights": "/data/streams/liko/2026_07_05_20_24_46/highlights.md",
     "images": [
-      "/data/streams/liko/2026_07_05_20_24_46/录制-1713548468-20260705-202446-392-到上海啦_SCREENSHOTS.jpg",
-      "/data/streams/liko/2026_07_05_20_24_46/录制-1713548468-20260704-020327-392-兔子来咯_SCREENSHOTS.jpg"
+      "/data/streams/liko/2026_07_05_20_24_46/录制-1713548468-20260705-202446-392-到上海啦_SCREENSHOTS.jpg"
     ]
   },
   {
