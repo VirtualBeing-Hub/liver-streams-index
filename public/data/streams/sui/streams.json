@@ -1,20 +1,56 @@
 [
   {
+    "id": "2026_07_18_14_06_44",
+    "title": "午间的鸟儿 萤火虫舞台互动！",
+    "date": "2026-07-18",
+    "time": "14:06:44",
+    "startTime": "14:06",
+    "endTime": "15:02",
+    "duration": 3399,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/sui/2026_07_18_14_06_44/录制-25788785-20260718-140644-103-午间的鸟儿 萤火虫舞台互动！_merged.srt",
+    "xml": "/data/streams/sui/2026_07_18_14_06_44/录制-25788785-20260718-140644-103-午间的鸟儿 萤火虫舞台互动！_merged.xml",
+    "cover": "/data/streams/sui/2026_07_18_14_06_44/录制-25788785-20260718-140644-103-午间的鸟儿 萤火虫舞台互动！.cover.jpg",
+    "highlights": "/data/streams/sui/2026_07_18_14_06_44/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_07_18_14_06_44/录制-25788785-20260718-140644-103-午间的鸟儿 萤火虫舞台互动！_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_07_18_14_06_44/录制-25788785-20260718-140644-103-午间的鸟儿 萤火虫舞台互动！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_18_10_59_35",
+    "title": "早起的鸟儿 云逛萤火虫！",
+    "date": "2026-07-18",
+    "time": "10:59:35",
+    "startTime": "10:59",
+    "endTime": "12:13",
+    "duration": 4441,
+    "durationStr": "1.2 小时",
+    "srt": "/data/streams/sui/2026_07_18_10_59_35/录制-25788785-20260718-105935-615-早起的鸟儿 云逛萤火虫！.srt",
+    "xml": "/data/streams/sui/2026_07_18_10_59_35/录制-25788785-20260718-105935-615-早起的鸟儿 云逛萤火虫！.xml",
+    "cover": "/data/streams/sui/2026_07_18_10_59_35/录制-25788785-20260718-105935-615-早起的鸟儿 云逛萤火虫！.cover.jpg",
+    "highlights": "/data/streams/sui/2026_07_18_10_59_35/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_07_18_10_59_35/录制-25788785-20260718-105935-615-早起的鸟儿 云逛萤火虫！_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_07_18_10_59_35/录制-25788785-20260718-105935-615-早起的鸟儿 云逛萤火虫！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_17_19_59_07",
     "title": "陪你这个猪过周⑤",
     "date": "2026-07-17",
     "time": "19:59:07",
     "startTime": "19:59",
-    "endTime": "20:51",
-    "duration": 3129,
-    "durationStr": "0.9 小时",
-    "srt": null,
-    "xml": "/data/streams/sui/2026_07_17_19_59_07/录制-25788785-20260717-195907-920-陪你这个猪过周⑤.xml",
+    "endTime": "00:27",
+    "duration": 16108,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/sui/2026_07_17_19_59_07/录制-25788785-20260717-195907-920-陪你这个猪过周⑤_merged.srt",
+    "xml": "/data/streams/sui/2026_07_17_19_59_07/录制-25788785-20260717-195907-920-陪你这个猪过周⑤_merged.xml",
     "cover": "/data/streams/sui/2026_07_17_19_59_07/录制-25788785-20260717-195907-920-陪你这个猪过周⑤.cover.jpg",
-    "highlights": null,
+    "highlights": "/data/streams/sui/2026_07_17_19_59_07/highlights.md",
     "images": [
-      "/data/streams/sui/2026_07_17_19_59_07/录制-25788785-20260716-195853-578-陪你这个可爱饼过周四_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_17_19_59_07/录制-25788785-20260716-195853-578-陪你这个可爱饼过周四_merged_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_17_19_59_07/录制-25788785-20260717-195907-920-陪你这个猪过周⑤_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_07_17_19_59_07/录制-25788785-20260717-195907-920-陪你这个猪过周⑤_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -26,15 +62,13 @@
     "endTime": "01:29",
     "duration": 19918,
     "durationStr": "5.5 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_16_19_58_53/录制-25788785-20260716-195853-578-陪你这个可爱饼过周四_merged.srt",
     "xml": "/data/streams/sui/2026_07_16_19_58_53/录制-25788785-20260716-195853-578-陪你这个可爱饼过周四_merged.xml",
     "cover": "/data/streams/sui/2026_07_16_19_58_53/录制-25788785-20260716-195853-578-陪你这个可爱饼过周四.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_16_19_58_53/highlights.md",
     "images": [
       "/data/streams/sui/2026_07_16_19_58_53/录制-25788785-20260716-195853-578-陪你这个可爱饼过周四_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_16_19_58_53/录制-25788785-20260716-195853-578-陪你这个可爱饼过周四_merged_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_16_19_58_53/录制-25788785-20260714-200352-365-陪你这个猪过周二！_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_16_19_58_53/录制-25788785-20260714-200352-365-陪你这个猪过周二！_merged_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_16_19_58_53/录制-25788785-20260716-195853-578-陪你这个可爱饼过周四_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -46,15 +80,13 @@
     "endTime": "00:22",
     "duration": 15590,
     "durationStr": "4.3 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_14_20_03_52/录制-25788785-20260714-200352-365-陪你这个猪过周二！_merged.srt",
     "xml": "/data/streams/sui/2026_07_14_20_03_52/录制-25788785-20260714-200352-365-陪你这个猪过周二！_merged.xml",
     "cover": "/data/streams/sui/2026_07_14_20_03_52/录制-25788785-20260714-200352-365-陪你这个猪过周二！.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_14_20_03_52/highlights.md",
     "images": [
       "/data/streams/sui/2026_07_14_20_03_52/录制-25788785-20260714-200352-365-陪你这个猪过周二！_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_14_20_03_52/录制-25788785-20260714-200352-365-陪你这个猪过周二！_merged_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_14_20_03_52/录制-25788785-20260713-195851-426-陪你这个猪过周一！_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_14_20_03_52/录制-25788785-20260713-195851-426-陪你这个猪过周一！_merged_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_14_20_03_52/录制-25788785-20260714-200352-365-陪你这个猪过周二！_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -66,15 +98,13 @@
     "endTime": "01:05",
     "duration": 18472,
     "durationStr": "5.1 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_13_19_58_51/录制-25788785-20260713-195851-426-陪你这个猪过周一！_merged.srt",
     "xml": "/data/streams/sui/2026_07_13_19_58_51/录制-25788785-20260713-195851-426-陪你这个猪过周一！_merged.xml",
     "cover": "/data/streams/sui/2026_07_13_19_58_51/录制-25788785-20260713-195851-426-陪你这个猪过周一！.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_13_19_58_51/highlights.md",
     "images": [
       "/data/streams/sui/2026_07_13_19_58_51/录制-25788785-20260713-195851-426-陪你这个猪过周一！_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_13_19_58_51/录制-25788785-20260713-195851-426-陪你这个猪过周一！_merged_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_13_19_58_51/录制-25788785-20260712-201048-516-陪你这个猪过周日!_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_13_19_58_51/录制-25788785-20260712-201048-516-陪你这个猪过周日!_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_13_19_58_51/录制-25788785-20260713-195851-426-陪你这个猪过周一！_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -86,15 +116,13 @@
     "endTime": "23:59",
     "duration": 13757,
     "durationStr": "3.8 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_12_20_10_48/录制-25788785-20260712-201048-516-陪你这个猪过周日!.srt",
     "xml": "/data/streams/sui/2026_07_12_20_10_48/录制-25788785-20260712-201048-516-陪你这个猪过周日!.xml",
     "cover": "/data/streams/sui/2026_07_12_20_10_48/录制-25788785-20260712-201048-516-陪你这个猪过周日!.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_12_20_10_48/highlights.md",
     "images": [
       "/data/streams/sui/2026_07_12_20_10_48/录制-25788785-20260712-201048-516-陪你这个猪过周日!_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_12_20_10_48/录制-25788785-20260712-201048-516-陪你这个猪过周日!_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_12_20_10_48/录制-25788785-20260711-195356-562-好久不见 回来陪你这个猪了_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_12_20_10_48/录制-25788785-20260711-195356-562-好久不见 回来陪你这个猪了_merged_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_12_20_10_48/录制-25788785-20260712-201048-516-陪你这个猪过周日!_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -106,46 +134,13 @@
     "endTime": "01:02",
     "duration": 18582,
     "durationStr": "5.2 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_11_19_53_56/录制-25788785-20260711-195356-562-好久不见 回来陪你这个猪了_merged.srt",
     "xml": "/data/streams/sui/2026_07_11_19_53_56/录制-25788785-20260711-195356-562-好久不见 回来陪你这个猪了_merged.xml",
     "cover": "/data/streams/sui/2026_07_11_19_53_56/录制-25788785-20260711-195356-562-好久不见 回来陪你这个猪了.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_11_19_53_56/highlights.md",
     "images": [
       "/data/streams/sui/2026_07_11_19_53_56/录制-25788785-20260711-195356-562-好久不见 回来陪你这个猪了_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_11_19_53_56/录制-25788785-20260711-195356-562-好久不见 回来陪你这个猪了_merged_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/录制-25788785-20260709-230645-993-来陪你这个猪过周四！_merged_fun_07_004758.static-frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/clip27_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/clip28_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/clip29_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/clip30_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/clip31_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/clip32_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/s5_27_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/s5_28_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/s5_29_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/s5_30_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/s5_31_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/s5_32_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/test_sub_check.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v2_27_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v2_28_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v2_29_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v2_30_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v2_31_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v2_32_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v3_27_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v3_28_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v3_29_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v3_30_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v3_31_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v3_32_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v4_27_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v4_28_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v4_29_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v4_30_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v4_31_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/v4_32_frame.jpg",
-      "/data/streams/sui/2026_07_11_19_53_56/录制-25788785-20260709-230645-993-来陪你这个猪过周四！_merged_COMIC_FACTORY.png"
+      "/data/streams/sui/2026_07_11_19_53_56/录制-25788785-20260711-195356-562-好久不见 回来陪你这个猪了_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -157,26 +152,25 @@
     "endTime": "00:10",
     "duration": 3896,
     "durationStr": "1.1 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_09_23_06_45/录制-25788785-20260709-230645-993-来陪你这个猪过周四！_merged.srt",
     "xml": "/data/streams/sui/2026_07_09_23_06_45/录制-25788785-20260709-230645-993-来陪你这个猪过周四！_merged.xml",
     "cover": "/data/streams/sui/2026_07_09_23_06_45/录制-25788785-20260709-230645-993-来陪你这个猪过周四！.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_09_23_06_45/highlights.md",
     "images": [
       "/data/streams/sui/2026_07_09_23_06_45/录制-25788785-20260709-230645-993-来陪你这个猪过周四！_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_09_23_06_45/录制-25788785-20260708-221708-772-煮死你这个猪_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_09_23_06_45/录制-25788785-20260708-221708-772-煮死你这个猪_merged_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_09_23_06_45/test_sub_check.jpg"
     ]
   },
   {
     "id": "2026_07_08_22_17_08",
-    "title": "不煮死你这个猪周三",
+    "title": "来陪你这个猪过周四！",
     "date": "2026-07-08",
     "time": "22:17:08",
     "startTime": "22:17",
     "endTime": "00:17",
     "duration": 7236,
     "durationStr": "2.0 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_08_22_17_08/录制-25788785-20260708-221708-772-煮死你这个猪_merged.srt",
     "xml": "/data/streams/sui/2026_07_08_22_17_08/录制-25788785-20260708-221708-772-煮死你这个猪_merged.xml",
     "cover": "/data/streams/sui/2026_07_08_22_17_08/录制-25788785-20260708-221708-772-煮死你这个猪.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_08_22_17_08/highlights.md",
@@ -194,16 +188,12 @@
     "endTime": "16:54",
     "duration": 7888,
     "durationStr": "2.2 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_08_14_43_54/录制-25788785-20260708-144354-944-高手玩空洞洞 陪你这个猪周三摸鱼_merged.srt",
     "xml": "/data/streams/sui/2026_07_08_14_43_54/录制-25788785-20260708-144354-944-高手玩空洞洞 陪你这个猪周三摸鱼_merged.xml",
     "cover": "/data/streams/sui/2026_07_08_14_43_54/录制-25788785-20260708-144354-944-高手玩空洞洞 陪你这个猪周三摸鱼.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_08_14_43_54/highlights.md",
     "images": [
-      "/data/streams/sui/2026_07_08_14_43_54/录制-25788785-20260708-144354-944-高手玩空洞洞 陪你这个猪周三摸鱼_merged_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_08_14_43_54/录制-25788785-20260707-195340-757-陪陪你这个猪度过周2！_merged_full_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_08_14_43_54/录制-25788785-20260707-211743-539-陪陪你这个猪度过周2！_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_08_14_43_54/录制-25788785-20260707-211743-539-陪陪你这个猪度过周2！_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_08_14_43_54/录制-25788785-20260707-215707-348-陪陪你这个猪度过周2！_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_08_14_43_54/录制-25788785-20260708-144354-944-高手玩空洞洞 陪你这个猪周三摸鱼_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -232,7 +222,7 @@
     "endTime": "21:55",
     "duration": 2300,
     "durationStr": "0.6 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_07_21_17_43/录制-25788785-20260707-211743-539-陪陪你这个猪度过周2！.srt",
     "xml": "/data/streams/sui/2026_07_07_21_17_43/录制-25788785-20260707-211743-539-陪陪你这个猪度过周2！.xml",
     "cover": "/data/streams/sui/2026_07_07_21_17_43/录制-25788785-20260707-211743-539-陪陪你这个猪度过周2！.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_07_21_17_43/highlights.md",
@@ -254,9 +244,7 @@
     "xml": "/data/streams/sui/2026_07_07_20_08_32/录制-25788785-20260707-200832-682-陪陪你这个猪度过周2！.xml",
     "cover": "/data/streams/sui/2026_07_07_20_08_32/录制-25788785-20260707-200832-682-陪陪你这个猪度过周2！.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/sui/2026_07_07_20_08_32/录制-25788785-20260707-195340-757-陪陪你这个猪度过周2！_merged_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_07_19_53_40",
@@ -267,16 +255,13 @@
     "endTime": "00:48",
     "duration": 17701,
     "durationStr": "4.9 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_07_19_53_40/录制-25788785-20260707-195340-757-陪陪你这个猪度过周2！_merged.srt",
     "xml": "/data/streams/sui/2026_07_07_19_53_40/录制-25788785-20260707-195340-757-陪陪你这个猪度过周2！_merged_full.xml",
     "cover": "/data/streams/sui/2026_07_07_19_53_40/录制-25788785-20260707-195340-757-陪陪你这个猪度过周2！_merged_full.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_07_19_53_40/highlights.md",
     "images": [
       "/data/streams/sui/2026_07_07_19_53_40/录制-25788785-20260707-195340-757-陪陪你这个猪度过周2！_merged_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_07_19_53_40/录制-25788785-20260707-195340-757-陪陪你这个猪度过周2！_merged_full_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_07_19_53_40/录制-25788785-20260706-202744-921-陪陪你这个猪度过周一！_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_07_19_53_40/录制-25788785-20260707-003047-543-陪陪你这个猪度过周一！_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_07_19_53_40/录制-25788785-20260707-004053-048-陪陪你这个猪度过周一！_merged_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_07_19_53_40/录制-25788785-20260707-195340-757-陪陪你这个猪度过周2！_merged_full_COMIC_FACTORY.png"
     ]
   },
   {
@@ -292,11 +277,7 @@
     "xml": "/data/streams/sui/2026_07_07_00_31_29/录制-25788785-20260707-003129-328-陪陪你这个猪度过周一！.xml",
     "cover": "/data/streams/sui/2026_07_07_00_31_29/录制-25788785-20260707-003129-328-陪陪你这个猪度过周一！.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/sui/2026_07_07_00_31_29/录制-25788785-20260706-202744-921-陪陪你这个猪度过周一！_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_07_00_31_29/录制-25788785-20260707-003047-543-陪陪你这个猪度过周一！_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_07_00_31_29/录制-25788785-20260707-004053-048-陪陪你这个猪度过周一！_merged_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_06_23_50_47",
@@ -311,9 +292,7 @@
     "xml": "/data/streams/sui/2026_07_06_23_50_47/录制-25788785-20260706-235047-404-陪陪你这个猪度过周一！.xml",
     "cover": "/data/streams/sui/2026_07_06_23_50_47/录制-25788785-20260706-235047-404-陪陪你这个猪度过周一！.cover.jpg",
     "highlights": null,
-    "images": [
-      "/data/streams/sui/2026_07_06_23_50_47/录制-25788785-20260706-202744-921-陪陪你这个猪度过周一！_SCREENSHOTS.jpg"
-    ]
+    "images": []
   },
   {
     "id": "2026_07_06_20_27_44",
@@ -324,14 +303,12 @@
     "endTime": "23:48",
     "duration": 12094,
     "durationStr": "3.4 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_06_20_27_44/录制-25788785-20260706-202744-921-陪陪你这个猪度过周一！.srt",
     "xml": "/data/streams/sui/2026_07_06_20_27_44/录制-25788785-20260706-202744-921-陪陪你这个猪度过周一！.xml",
     "cover": "/data/streams/sui/2026_07_06_20_27_44/录制-25788785-20260706-202744-921-陪陪你这个猪度过周一！.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_06_20_27_44/highlights.md",
     "images": [
-      "/data/streams/sui/2026_07_06_20_27_44/录制-25788785-20260706-202744-921-陪陪你这个猪度过周一！_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_06_20_27_44/录制-25788785-20260705-195552-887-陪陪你这个饼度过周日！_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_06_20_27_44/录制-25788785-20260705-195552-887-陪陪你这个饼度过周日！_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_06_20_27_44/录制-25788785-20260706-202744-921-陪陪你这个猪度过周一！_COMIC_FACTORY.png"
     ]
   },
   {
@@ -343,15 +320,13 @@
     "endTime": "00:57",
     "duration": 18169,
     "durationStr": "5.0 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_05_19_55_52/录制-25788785-20260705-195552-887-陪陪你这个饼度过周日！.srt",
     "xml": "/data/streams/sui/2026_07_05_19_55_52/录制-25788785-20260705-195552-887-陪陪你这个饼度过周日！.xml",
     "cover": "/data/streams/sui/2026_07_05_19_55_52/录制-25788785-20260705-195552-887-陪陪你这个饼度过周日！.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_05_19_55_52/highlights.md",
     "images": [
       "/data/streams/sui/2026_07_05_19_55_52/录制-25788785-20260705-195552-887-陪陪你这个饼度过周日！_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_05_19_55_52/录制-25788785-20260705-195552-887-陪陪你这个饼度过周日！_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_05_19_55_52/录制-25788785-20260704-195117-167-陪陪你这个猪度过周六！_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_05_19_55_52/录制-25788785-20260704-195117-167-陪陪你这个猪度过周六！_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_05_19_55_52/录制-25788785-20260705-195552-887-陪陪你这个饼度过周日！_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -363,15 +338,13 @@
     "endTime": "00:28",
     "duration": 16667,
     "durationStr": "4.6 小时",
-    "srt": null,
+    "srt": "/data/streams/sui/2026_07_04_19_51_17/录制-25788785-20260704-195117-167-陪陪你这个猪度过周六！.srt",
     "xml": "/data/streams/sui/2026_07_04_19_51_17/录制-25788785-20260704-195117-167-陪陪你这个猪度过周六！.xml",
     "cover": "/data/streams/sui/2026_07_04_19_51_17/录制-25788785-20260704-195117-167-陪陪你这个猪度过周六！.cover.jpg",
     "highlights": "/data/streams/sui/2026_07_04_19_51_17/highlights.md",
     "images": [
       "/data/streams/sui/2026_07_04_19_51_17/录制-25788785-20260704-195117-167-陪陪你这个猪度过周六！_COMIC_FACTORY.png",
-      "/data/streams/sui/2026_07_04_19_51_17/录制-25788785-20260704-195117-167-陪陪你这个猪度过周六！_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_04_19_51_17/录制-25788785-20260703-015255-674-陪陪你这个猪_SCREENSHOTS.jpg",
-      "/data/streams/sui/2026_07_04_19_51_17/录制-25788785-20260703-015917-043-陪陪你这个猪_SCREENSHOTS.jpg"
+      "/data/streams/sui/2026_07_04_19_51_17/录制-25788785-20260704-195117-167-陪陪你这个猪度过周六！_SCREENSHOTS.jpg"
     ]
   },
   {
