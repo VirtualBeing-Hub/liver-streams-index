@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_19_20_01_15",
+    "title": "克罗雅的第一个生日！！",
+    "date": "2026-07-19",
+    "time": "20:01:15",
+    "startTime": "20:01",
+    "endTime": "00:02",
+    "duration": 14503,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/kloa/2026_07_19_20_01_15/录制-1986461465-20260719-200115-979-克罗雅的第一个生日！！_merged.srt",
+    "xml": "/data/streams/kloa/2026_07_19_20_01_15/录制-1986461465-20260719-200115-979-克罗雅的第一个生日！！_merged.xml",
+    "cover": null,
+    "highlights": "/data/streams/kloa/2026_07_19_20_01_15/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_07_19_20_01_15/录制-1986461465-20260719-200115-979-克罗雅的第一个生日！！_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_07_19_20_01_15/录制-1986461465-20260719-200115-979-克罗雅的第一个生日！！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_19_11_03_22",
     "title": "早安~今天生日豪华舰礼捏~",
     "date": "2026-07-19",

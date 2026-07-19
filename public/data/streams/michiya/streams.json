@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_07_19_20_02_11",
+    "title": "来人，捂住我的双眼",
+    "date": "2026-07-19",
+    "time": "20:02:11",
+    "startTime": "20:02",
+    "endTime": "22:32",
+    "duration": 9024,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/michiya/2026_07_19_20_02_11/录制-27628030-20260719-200211-641-来人，捂住我的双眼.srt",
+    "xml": "/data/streams/michiya/2026_07_19_20_02_11/录制-27628030-20260719-200211-641-来人，捂住我的双眼.xml",
+    "cover": "/data/streams/michiya/2026_07_19_20_02_11/录制-27628030-20260719-200211-641-来人，捂住我的双眼.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_07_19_20_02_11/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_07_19_20_02_11/录制-27628030-20260719-200211-641-来人，捂住我的双眼_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_07_19_14_27_27",
+    "title": "oki那不睡了",
+    "date": "2026-07-19",
+    "time": "14:27:27",
+    "startTime": "14:27",
+    "endTime": "15:06",
+    "duration": 2380,
+    "durationStr": "0.7 小时",
+    "srt": "/data/streams/michiya/2026_07_19_14_27_27/录制-27628030-20260719-142727-961-oki那不睡了.srt",
+    "xml": "/data/streams/michiya/2026_07_19_14_27_27/录制-27628030-20260719-142727-961-oki那不睡了.xml",
+    "cover": "/data/streams/michiya/2026_07_19_14_27_27/录制-27628030-20260719-142727-961-oki那不睡了.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_07_19_14_27_27/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_07_19_14_27_27/录制-27628030-20260719-142727-961-oki那不睡了_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_19_12_36_37",
     "title": "oki那不睡了",
     "date": "2026-07-19",

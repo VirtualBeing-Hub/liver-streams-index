@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_07_19_20_03_24",
+    "title": "来唱一下！",
+    "date": "2026-07-19",
+    "time": "20:03:24",
+    "startTime": "20:03",
+    "endTime": "00:20",
+    "duration": 15449,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/izayoi/2026_07_19_20_03_24/录制-1741667419-20260719-200324-106-来唱一下！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_07_19_20_03_24/录制-1741667419-20260719-200324-106-来唱一下！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_07_19_20_03_24/录制-1741667419-20260719-200324-106-来唱一下！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_19_20_03_24/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_19_20_03_24/录制-1741667419-20260719-200324-106-来唱一下！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_19_11_03_35",
     "title": "十六家今天中午的饭",
     "date": "2026-07-19",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_07_19_21_02_45",
+    "title": "歌杂一下⭐",
+    "date": "2026-07-19",
+    "time": "21:02:45",
+    "startTime": "21:02",
+    "endTime": "00:27",
+    "duration": 12315,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/mizuki/2026_07_19_21_02_45/录制-30655190-20260719-210245-174-歌杂一下⭐.srt",
+    "xml": "/data/streams/mizuki/2026_07_19_21_02_45/录制-30655190-20260719-210245-174-歌杂一下⭐.xml",
+    "cover": "/data/streams/mizuki/2026_07_19_21_02_45/录制-30655190-20260719-210245-174-歌杂一下⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_07_19_21_02_45/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_07_19_21_02_45/录制-30655190-20260719-210245-174-歌杂一下⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_07_19_21_02_45/录制-30655190-20260719-210245-174-歌杂一下⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_19_14_27_25",
+    "title": "下午的虚度哟⭐",
+    "date": "2026-07-19",
+    "time": "14:27:25",
+    "startTime": "14:27",
+    "endTime": "18:02",
+    "duration": 12944,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/mizuki/2026_07_19_14_27_25/录制-30655190-20260719-142725-689-萤火虫1V1电视互动⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_07_19_14_27_25/录制-30655190-20260719-142725-689-萤火虫1V1电视互动⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_07_19_14_27_25/录制-30655190-20260719-142725-689-萤火虫1V1电视互动⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_07_19_14_27_25/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_07_19_14_27_25/录制-30655190-20260719-142725-689-萤火虫1V1电视互动⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_07_19_14_27_25/录制-30655190-20260719-142725-689-萤火虫1V1电视互动⭐_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_19_13_26_45",
     "title": "萤火虫1V1电视互动⭐",
     "date": "2026-07-19",
@@ -28,7 +64,8 @@
     "cover": "/data/streams/mizuki/2026_07_19_11_04_18/录制-30655190-20260719-110418-278-萤火虫小推车⭐.cover.jpg",
     "highlights": "/data/streams/mizuki/2026_07_19_11_04_18/highlights.md",
     "images": [
-      "/data/streams/mizuki/2026_07_19_11_04_18/录制-30655190-20260719-110418-278-萤火虫小推车⭐_COMIC_FACTORY.png"
+      "/data/streams/mizuki/2026_07_19_11_04_18/录制-30655190-20260719-110418-278-萤火虫小推车⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_07_19_11_04_18/录制-30655190-20260719-110418-278-萤火虫小推车⭐_SCREENSHOTS.jpg"
     ]
   },
   {

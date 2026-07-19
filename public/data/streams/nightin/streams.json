@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026_07_20_03_28_48",
+    "title": "睡醒！看看决赛写id",
+    "date": "2026-07-19",
+    "time": "03:28:48",
+    "startTime": "03:28",
+    "endTime": "03:56",
+    "duration": 1694,
+    "durationStr": "0.5 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_07_20_03_28_48/录制-24872476-20260720-032848-875-睡醒！看看决赛写id.xml",
+    "cover": "/data/streams/nightin/2026_07_20_03_28_48/录制-24872476-20260720-032848-875-睡醒！看看决赛写id.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_20_02_51_31",
+    "title": "睡醒！看看决赛写id",
+    "date": "2026-07-19",
+    "time": "02:51:31",
+    "startTime": "02:51",
+    "endTime": "03:27",
+    "duration": 2189,
+    "durationStr": "0.6 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_07_20_02_51_31/录制-24872476-20260720-025131-638-睡醒！看看决赛写id.xml",
+    "cover": "/data/streams/nightin/2026_07_20_02_51_31/录制-24872476-20260720-025131-638-睡醒！看看决赛写id.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_19_18_05_22",
+    "title": "【晚杂】N来！",
+    "date": "2026-07-19",
+    "time": "18:05:22",
+    "startTime": "18:05",
+    "endTime": "21:18",
+    "duration": 11586,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/nightin/2026_07_19_18_05_22/录制-24872476-20260719-180522-001-【晚杂】N来！.srt",
+    "xml": "/data/streams/nightin/2026_07_19_18_05_22/录制-24872476-20260719-180522-001-【晚杂】N来！.xml",
+    "cover": "/data/streams/nightin/2026_07_19_18_05_22/录制-24872476-20260719-180522-001-【晚杂】N来！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_07_19_18_05_22/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_19_18_05_22/录制-24872476-20260719-180522-001-【晚杂】N来！_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_07_17_22_58_17",
     "title": "今天有无堡？",
     "date": "2026-07-17",

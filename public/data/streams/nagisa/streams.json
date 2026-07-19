@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_07_19_21_11_07",
+    "title": "「节奏天国 奇迹之星」集齐奖牌",
+    "date": "2026-07-19",
+    "time": "21:11:07",
+    "startTime": "21:11",
+    "endTime": "02:21",
+    "duration": 18656,
+    "durationStr": "5.2 小时",
+    "srt": "/data/streams/nagisa/2026_07_19_21_11_07/录制-31368705-20260719-211107-597-「节奏天国 奇迹之星」集齐奖牌_merged.srt",
+    "xml": "/data/streams/nagisa/2026_07_19_21_11_07/录制-31368705-20260719-211107-597-「节奏天国 奇迹之星」集齐奖牌_merged.xml",
+    "cover": "/data/streams/nagisa/2026_07_19_21_11_07/录制-31368705-20260719-211107-597-「节奏天国 奇迹之星」集齐奖牌.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_07_19_21_11_07/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_07_19_21_11_07/录制-31368705-20260719-211107-597-「节奏天国 奇迹之星」集齐奖牌_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_19_15_09_14",
+    "title": "「黎明」当人",
+    "date": "2026-07-19",
+    "time": "15:09:14",
+    "startTime": "15:09",
+    "endTime": "18:03",
+    "duration": 10494,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/nagisa/2026_07_19_15_09_14/录制-31368705-20260719-150914-333-「黎明」当人.srt",
+    "xml": "/data/streams/nagisa/2026_07_19_15_09_14/录制-31368705-20260719-150914-333-「黎明」当人.xml",
+    "cover": "/data/streams/nagisa/2026_07_19_15_09_14/录制-31368705-20260719-150914-333-「黎明」当人.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_07_19_15_09_14/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_07_19_15_09_14/录制-31368705-20260719-150914-333-「黎明」当人_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_18_21_44_32",
     "title": "周六练练歌",
     "date": "2026-07-18",
