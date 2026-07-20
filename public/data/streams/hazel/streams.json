@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_07_20_15_35_01",
+    "title": "简短的萤火虫repo",
+    "date": "2026-07-20",
+    "time": "15:35:01",
+    "startTime": "15:35",
+    "endTime": "16:16",
+    "duration": 2477,
+    "durationStr": "0.7 小时",
+    "srt": "/data/streams/hazel/2026_07_20_15_35_01/录制-1713546334-20260720-153501-826-简短的萤火虫repo.srt",
+    "xml": "/data/streams/hazel/2026_07_20_15_35_01/录制-1713546334-20260720-153501-826-简短的萤火虫repo.xml",
+    "cover": "/data/streams/hazel/2026_07_20_15_35_01/录制-1713546334-20260720-153501-826-简短的萤火虫repo.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_07_20_15_35_01/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_07_20_15_35_01/录制-1713546334-20260720-153501-826-简短的萤火虫repo_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_19_18_09_19",
     "title": "随便读读",
     "date": "2026-07-19",

@@ -1,5 +1,42 @@
 [
   {
+    "id": "2026_07_20_21_03_07",
+    "title": "一口吃饱S2⭐",
+    "date": "2026-07-20",
+    "time": "21:03:07",
+    "startTime": "21:03",
+    "endTime": "00:53",
+    "duration": 13858,
+    "durationStr": "3.8 小时",
+    "srt": "/data/streams/mizuki/2026_07_20_21_03_07/录制-30655190-20260720-210307-190-一口吃饱S2⭐.srt",
+    "xml": "/data/streams/mizuki/2026_07_20_21_03_07/录制-30655190-20260720-210307-190-一口吃饱S2⭐.xml",
+    "cover": "/data/streams/mizuki/2026_07_20_21_03_07/录制-30655190-20260720-210307-190-一口吃饱S2⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_07_20_21_03_07/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_07_20_21_03_07/录制-30655190-20260720-210307-190-一口吃饱S2⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_07_20_21_03_07/录制-30655190-20260720-210307-190-一口吃饱S2⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_20_15_02_55",
+    "title": "以撒 第一回⭐",
+    "date": "2026-07-20",
+    "time": "15:02:55",
+    "startTime": "15:02",
+    "endTime": "18:16",
+    "duration": 11663,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/mizuki/2026_07_20_15_02_55/录制-30655190-20260720-150255-874-以撒 第一回⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_07_20_15_02_55/录制-30655190-20260720-150255-874-以撒 第一回⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_07_20_15_02_55/录制-30655190-20260720-150255-874-以撒 第一回⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_07_20_15_02_55/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_07_20_15_02_55/录制-30655190-20260720-150255-874-以撒 第一回⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_07_20_15_02_55/录制-30655190-20260720-150255-874-以撒 第一回⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_07_20_15_02_55/录制-30655190-20260720-150255-874-以撒 第一回⭐_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_19_21_02_45",
     "title": "歌杂一下⭐",
     "date": "2026-07-19",

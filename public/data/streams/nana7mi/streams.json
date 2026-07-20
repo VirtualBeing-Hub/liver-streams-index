@@ -1,13 +1,30 @@
 [
   {
+    "id": "2026_07_20_04_22_34",
+    "title": "下棋足小子",
+    "date": "2026-07-19",
+    "time": "04:22:34",
+    "startTime": "04:22",
+    "endTime": "06:51",
+    "duration": 8955,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/nana7mi/2026_07_20_04_22_34/录制-21452505-20260720-042234-263-下棋足小子.srt",
+    "xml": "/data/streams/nana7mi/2026_07_20_04_22_34/录制-21452505-20260720-042234-263-下棋足小子.xml",
+    "cover": "/data/streams/nana7mi/2026_07_20_04_22_34/录制-21452505-20260720-042234-263-下棋足小子.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_07_20_04_22_34/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_07_20_04_22_34/录制-21452505-20260720-042234-263-下棋足小子_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_07_20_03_28_48",
     "title": "下棋足小子",
     "date": "2026-07-19",
     "time": "03:28:48",
     "startTime": "03:28",
-    "endTime": "04:00",
-    "duration": 1922,
-    "durationStr": "0.5 小时",
+    "endTime": "04:19",
+    "duration": 3088,
+    "durationStr": "0.9 小时",
     "srt": null,
     "xml": "/data/streams/nana7mi/2026_07_20_03_28_48/录制-21452505-20260720-032848-531-下棋足小子.xml",
     "cover": "/data/streams/nana7mi/2026_07_20_03_28_48/录制-21452505-20260720-032848-531-下棋足小子.cover.jpg",
@@ -23,11 +40,13 @@
     "endTime": "03:28",
     "duration": 4567,
     "durationStr": "1.3 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_07_20_02_12_26/录制-21452505-20260720-021226-944-下棋足小子.srt",
     "xml": "/data/streams/nana7mi/2026_07_20_02_12_26/录制-21452505-20260720-021226-944-下棋足小子.xml",
     "cover": "/data/streams/nana7mi/2026_07_20_02_12_26/录制-21452505-20260720-021226-944-下棋足小子.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_07_20_02_12_26/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_07_20_02_12_26/录制-21452505-20260720-021226-944-下棋足小子_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_07_19_23_24_24",

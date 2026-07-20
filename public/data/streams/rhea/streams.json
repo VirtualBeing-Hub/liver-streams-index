@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_07_20_21_05_16",
+    "title": "「神之天平」初见",
+    "date": "2026-07-20",
+    "time": "21:05:16",
+    "startTime": "21:05",
+    "endTime": "02:43",
+    "duration": 20280,
+    "durationStr": "5.6 小时",
+    "srt": "/data/streams/rhea/2026_07_20_21_05_16/录制-23260993-20260720-210516-359-「神之天平」初见.srt",
+    "xml": "/data/streams/rhea/2026_07_20_21_05_16/录制-23260993-20260720-210516-359-「神之天平」初见.xml",
+    "cover": "/data/streams/rhea/2026_07_20_21_05_16/录制-23260993-20260720-210516-359-「神之天平」初见.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_07_20_21_05_16/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_07_20_21_05_16/录制-23260993-20260720-210516-359-「神之天平」初见_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_07_20_21_05_16/录制-23260993-20260720-210516-359-「神之天平」初见_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_20_04_33_08",
+    "title": "被speed追砂乐",
+    "date": "2026-07-19",
+    "time": "04:33:08",
+    "startTime": "04:33",
+    "endTime": "07:05",
+    "duration": 9131,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/rhea/2026_07_20_04_33_08/录制-23260993-20260720-043308-111-被speed追砂乐.srt",
+    "xml": "/data/streams/rhea/2026_07_20_04_33_08/录制-23260993-20260720-043308-111-被speed追砂乐.xml",
+    "cover": "/data/streams/rhea/2026_07_20_04_33_08/录制-23260993-20260720-043308-111-被speed追砂乐.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_07_20_04_33_08/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_07_20_04_33_08/录制-23260993-20260720-043308-111-被speed追砂乐_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_07_20_03_28_52",
     "title": "我的头好痛……现在是几几年",
     "date": "2026-07-19",
@@ -20,14 +55,16 @@
     "date": "2026-07-19",
     "time": "22:06:16",
     "startTime": "22:06",
-    "endTime": "03:28",
-    "duration": 19335,
-    "durationStr": "5.4 小时",
-    "srt": null,
-    "xml": "/data/streams/rhea/2026_07_19_22_06_16/录制-23260993-20260719-220616-487-我的头好痛……现在是几几年.xml",
+    "endTime": "04:28",
+    "duration": 22971,
+    "durationStr": "6.4 小时",
+    "srt": "/data/streams/rhea/2026_07_19_22_06_16/录制-23260993-20260719-220616-487-我的头好痛……现在是几几年_merged.srt",
+    "xml": "/data/streams/rhea/2026_07_19_22_06_16/录制-23260993-20260719-220616-487-我的头好痛……现在是几几年_merged.xml",
     "cover": "/data/streams/rhea/2026_07_19_22_06_16/录制-23260993-20260719-220616-487-我的头好痛……现在是几几年.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/rhea/2026_07_19_22_06_16/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_07_19_22_06_16/录制-23260993-20260719-220616-487-我的头好痛……现在是几几年_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_07_19_14_27_17",

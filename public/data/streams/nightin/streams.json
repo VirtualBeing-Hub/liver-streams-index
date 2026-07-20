@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_20_18_06_35",
+    "title": "你好",
+    "date": "2026-07-20",
+    "time": "18:06:35",
+    "startTime": "18:06",
+    "endTime": "23:48",
+    "duration": 20552,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/nightin/2026_07_20_18_06_35/录制-24872476-20260720-180635-480-你好_merged.srt",
+    "xml": "/data/streams/nightin/2026_07_20_18_06_35/录制-24872476-20260720-180635-480-你好_merged.xml",
+    "cover": "/data/streams/nightin/2026_07_20_18_06_35/录制-24872476-20260720-180635-480-你好.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_07_20_18_06_35/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_20_18_06_35/录制-24872476-20260720-180635-480-你好_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_07_20_18_06_35/录制-24872476-20260720-180635-480-你好_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_20_03_28_48",
     "title": "睡醒！看看决赛写id",
     "date": "2026-07-19",
@@ -20,14 +38,16 @@
     "date": "2026-07-19",
     "time": "02:51:31",
     "startTime": "02:51",
-    "endTime": "03:27",
-    "duration": 2189,
-    "durationStr": "0.6 小时",
-    "srt": null,
-    "xml": "/data/streams/nightin/2026_07_20_02_51_31/录制-24872476-20260720-025131-638-睡醒！看看决赛写id.xml",
+    "endTime": "06:49",
+    "duration": 14313,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/nightin/2026_07_20_02_51_31/录制-24872476-20260720-025131-638-睡醒！看看决赛写id_merged.srt",
+    "xml": "/data/streams/nightin/2026_07_20_02_51_31/录制-24872476-20260720-025131-638-睡醒！看看决赛写id_merged.xml",
     "cover": "/data/streams/nightin/2026_07_20_02_51_31/录制-24872476-20260720-025131-638-睡醒！看看决赛写id.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nightin/2026_07_20_02_51_31/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_20_02_51_31/录制-24872476-20260720-025131-638-睡醒！看看决赛写id_merged_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_07_19_18_05_22",
