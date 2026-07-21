@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_21_20_12_45",
+    "title": "唉",
+    "date": "2026-07-21",
+    "time": "20:12:45",
+    "startTime": "20:12",
+    "endTime": "00:54",
+    "duration": 16977,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_07_21_20_12_45/录制-25034104-20260721-201245-312-唉.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_07_21_20_12_45/录制-25034104-20260721-201245-312-唉.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_07_21_20_12_45/录制-25034104-20260721-201245-312-唉.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_07_21_20_12_45/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_07_21_20_12_45/录制-25034104-20260721-201245-312-唉_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_07_21_20_12_45/录制-25034104-20260721-201245-312-唉_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_19_18_45_19",
     "title": "认真读书信我",
     "date": "2026-07-19",

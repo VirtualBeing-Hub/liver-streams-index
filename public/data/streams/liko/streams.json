@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_07_21_20_17_31",
+    "title": "兔子帕鲁中",
+    "date": "2026-07-21",
+    "time": "20:17:31",
+    "startTime": "20:17",
+    "endTime": "00:59",
+    "duration": 16978,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/liko/2026_07_21_20_17_31/录制-1713548468-20260721-201731-202-兔子帕鲁中_merged.srt",
+    "xml": "/data/streams/liko/2026_07_21_20_17_31/录制-1713548468-20260721-201731-202-兔子帕鲁中_merged.xml",
+    "cover": "/data/streams/liko/2026_07_21_20_17_31/录制-1713548468-20260721-201731-202-兔子帕鲁中.cover.jpg",
+    "highlights": "/data/streams/liko/2026_07_21_20_17_31/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_07_21_20_17_31/录制-1713548468-20260721-201731-202-兔子帕鲁中_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_07_21_20_17_31/录制-1713548468-20260721-201731-202-兔子帕鲁中_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_21_11_11_10",
+    "title": "兔子波波!",
+    "date": "2026-07-21",
+    "time": "11:11:10",
+    "startTime": "11:11",
+    "endTime": "15:11",
+    "duration": 14450,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/liko/2026_07_21_11_11_10/录制-1713548468-20260721-111110-466-兔子波波!.srt",
+    "xml": "/data/streams/liko/2026_07_21_11_11_10/录制-1713548468-20260721-111110-466-兔子波波!.xml",
+    "cover": "/data/streams/liko/2026_07_21_11_11_10/录制-1713548468-20260721-111110-466-兔子波波!.cover.jpg",
+    "highlights": "/data/streams/liko/2026_07_21_11_11_10/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_07_21_11_11_10/录制-1713548468-20260721-111110-466-兔子波波!_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_07_21_11_11_10/录制-1713548468-20260721-111110-466-兔子波波!_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_20_20_10_43",
     "title": "兔子波波!",
     "date": "2026-07-20",

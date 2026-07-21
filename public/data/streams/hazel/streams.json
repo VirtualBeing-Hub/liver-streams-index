@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_21_19_20_32",
+    "title": "正在游玩INSIDE",
+    "date": "2026-07-21",
+    "time": "19:20:32",
+    "startTime": "19:20",
+    "endTime": "21:49",
+    "duration": 8996,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/hazel/2026_07_21_19_20_32/录制-1713546334-20260721-192032-290-正在游玩INSIDE.srt",
+    "xml": "/data/streams/hazel/2026_07_21_19_20_32/录制-1713546334-20260721-192032-290-正在游玩INSIDE.xml",
+    "cover": "/data/streams/hazel/2026_07_21_19_20_32/录制-1713546334-20260721-192032-290-正在游玩INSIDE.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_07_21_19_20_32/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_07_21_19_20_32/录制-1713546334-20260721-192032-290-正在游玩INSIDE_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_07_21_19_20_32/录制-1713546334-20260721-192032-290-正在游玩INSIDE_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_20_15_35_01",
     "title": "简短的萤火虫repo",
     "date": "2026-07-20",

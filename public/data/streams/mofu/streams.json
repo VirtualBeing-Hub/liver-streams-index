@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026_07_21_19_34_48",
+    "title": "好狗-u0",
+    "date": "2026-07-21",
+    "time": "19:34:48",
+    "startTime": "19:34",
+    "endTime": "00:02",
+    "duration": 16136,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/mofu/2026_07_21_19_34_48/录制-1791260716-20260721-193448-337-好狗-u0.srt",
+    "xml": "/data/streams/mofu/2026_07_21_19_34_48/录制-1791260716-20260721-193448-337-好狗-u0.xml",
+    "cover": "/data/streams/mofu/2026_07_21_19_34_48/录制-1791260716-20260721-193448-337-好狗-u0.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_07_21_19_34_48/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_07_21_19_34_48/录制-1791260716-20260721-193448-337-好狗-u0_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_07_21_19_34_48/录制-1791260716-20260721-193448-337-好狗-u0_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_21_12_11_14",
+    "title": "好狗-u0",
+    "date": "2026-07-21",
+    "time": "12:11:14",
+    "startTime": "12:11",
+    "endTime": "15:28",
+    "duration": 11863,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mofu/2026_07_21_12_11_14/录制-1791260716-20260721-121114-982-好狗-u0.srt",
+    "xml": "/data/streams/mofu/2026_07_21_12_11_14/录制-1791260716-20260721-121114-982-好狗-u0.xml",
+    "cover": "/data/streams/mofu/2026_07_21_12_11_14/录制-1791260716-20260721-121114-982-好狗-u0.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_07_21_12_11_14/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_07_21_12_11_14/录制-1791260716-20260721-121114-982-好狗-u0_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_07_21_12_11_14/录制-1791260716-20260721-121114-982-好狗-u0_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_21_12_00_35",
+    "title": "好狗-u0",
+    "date": "2026-07-21",
+    "time": "12:00:35",
+    "startTime": "12:00",
+    "endTime": "12:08",
+    "duration": 533,
+    "durationStr": "0.1 小时",
+    "srt": "/data/streams/mofu/2026_07_21_12_00_35/录制-1791260716-20260721-120035-578-做一下饭_merged.srt",
+    "xml": "/data/streams/mofu/2026_07_21_12_00_35/录制-1791260716-20260721-120035-578-做一下饭_merged.xml",
+    "cover": "/data/streams/mofu/2026_07_21_12_00_35/录制-1791260716-20260721-120035-578-做一下饭.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_07_21_12_00_35/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_07_21_12_00_35/录制-1791260716-20260721-120035-578-做一下饭_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_20_22_29_06",
     "title": "晚上汪0u=",
     "date": "2026-07-20",

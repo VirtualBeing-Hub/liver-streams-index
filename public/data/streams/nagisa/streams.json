@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_07_21_21_06_23",
+    "title": "「加利宅邸悬案」初见",
+    "date": "2026-07-21",
+    "time": "21:06:23",
+    "startTime": "21:06",
+    "endTime": "01:31",
+    "duration": 15935,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/nagisa/2026_07_21_21_06_23/录制-31368705-20260721-210623-637-「加利宅邸悬案」初见.srt",
+    "xml": "/data/streams/nagisa/2026_07_21_21_06_23/录制-31368705-20260721-210623-637-「加利宅邸悬案」初见.xml",
+    "cover": "/data/streams/nagisa/2026_07_21_21_06_23/录制-31368705-20260721-210623-637-「加利宅邸悬案」初见.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_07_21_21_06_23/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_07_21_21_06_23/录制-31368705-20260721-210623-637-「加利宅邸悬案」初见_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_07_21_21_06_23/录制-31368705-20260721-210623-637-「加利宅邸悬案」初见_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_21_08_06_17",
+    "title": "早安一会儿",
+    "date": "2026-07-21",
+    "time": "08:06:17",
+    "startTime": "08:06",
+    "endTime": "10:09",
+    "duration": 7402,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/nagisa/2026_07_21_08_06_17/录制-31368705-20260721-080617-620-早安一会儿.srt",
+    "xml": "/data/streams/nagisa/2026_07_21_08_06_17/录制-31368705-20260721-080617-620-早安一会儿.xml",
+    "cover": "/data/streams/nagisa/2026_07_21_08_06_17/录制-31368705-20260721-080617-620-早安一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_07_21_08_06_17/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_07_21_08_06_17/录制-31368705-20260721-080617-620-早安一会儿_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_07_21_08_06_17/录制-31368705-20260721-080617-620-早安一会儿_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_20_21_11_49",
     "title": "周一的歌杂",
     "date": "2026-07-20",

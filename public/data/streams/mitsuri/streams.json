@@ -1,7 +1,25 @@
 [
   {
+    "id": "2026_07_21_21_27_30",
+    "title": "第一次玩MC!",
+    "date": "2026-07-21",
+    "time": "21:27:30",
+    "startTime": "21:27",
+    "endTime": "03:34",
+    "duration": 22061,
+    "durationStr": "6.1 小时",
+    "srt": "/data/streams/mitsuri/2026_07_21_21_27_30/录制-1967216004-20260721-212730-073-第一次玩MC!_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_07_21_21_27_30/录制-1967216004-20260721-212730-073-第一次玩MC!_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_07_21_21_27_30/录制-1967216004-20260721-212730-073-第一次玩MC!.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_07_21_21_27_30/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_07_21_21_27_30/录制-1967216004-20260721-212730-073-第一次玩MC!_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_07_21_21_27_30/录制-1967216004-20260721-212730-073-第一次玩MC!_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_20_12_33_08",
-    "title": "萤火虫小推车！！",
+    "title": "第一次玩MC!",
     "date": "2026-07-20",
     "time": "12:33:08",
     "startTime": "12:33",

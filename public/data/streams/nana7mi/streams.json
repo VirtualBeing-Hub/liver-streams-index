@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026_07_22_03_35_58",
+    "title": "很困的魂2复健",
+    "date": "2026-07-21",
+    "time": "03:35:58",
+    "startTime": "03:35",
+    "endTime": "03:59",
+    "duration": 1440,
+    "durationStr": "0.4 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_07_22_03_35_58/录制-21452505-20260722-033558-111-很困的魂2复健.xml",
+    "cover": "/data/streams/nana7mi/2026_07_22_03_35_58/录制-21452505-20260722-033558-111-很困的魂2复健.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_22_03_18_34",
+    "title": "很困的魂2复健",
+    "date": "2026-07-21",
+    "time": "03:18:34",
+    "startTime": "03:18",
+    "endTime": "03:34",
+    "duration": 1017,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_07_22_03_18_34/录制-21452505-20260722-031834-431-很困的魂2复健.xml",
+    "cover": "/data/streams/nana7mi/2026_07_22_03_18_34/录制-21452505-20260722-031834-431-很困的魂2复健.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_21_22_32_32",
+    "title": "偷偷滴偷",
+    "date": "2026-07-21",
+    "time": "22:32:32",
+    "startTime": "22:32",
+    "endTime": "02:23",
+    "duration": 13911,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nana7mi/2026_07_21_22_32_32/录制-21452505-20260721-223232-685-先偷再玩！_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_07_21_22_32_32/录制-21452505-20260721-223232-685-先偷再玩！_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_07_21_22_32_32/录制-21452505-20260721-223232-685-先偷再玩！.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_07_21_22_32_32/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_07_21_22_32_32/录制-21452505-20260721-223232-685-先偷再玩！_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_07_20_04_22_34",
     "title": "下棋足小子",
     "date": "2026-07-19",
