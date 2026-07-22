@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_07_23_03_22_00",
+    "title": "锈湖初见！",
+    "date": "2026-07-22",
+    "time": "03:22:00",
+    "startTime": "03:22",
+    "endTime": "04:00",
+    "duration": 2302,
+    "durationStr": "0.6 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_07_23_03_22_00/录制-21452505-20260723-032200-692-锈湖初见！.xml",
+    "cover": "/data/streams/nana7mi/2026_07_23_03_22_00/录制-21452505-20260723-032200-692-锈湖初见！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_22_21_35_11",
+    "title": "十点杖剑传说！",
+    "date": "2026-07-22",
+    "time": "21:35:11",
+    "startTime": "21:35",
+    "endTime": "03:21",
+    "duration": 20788,
+    "durationStr": "5.8 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_07_22_21_35_11/录制-21452505-20260722-213511-905-十点杖剑传说！.xml",
+    "cover": "/data/streams/nana7mi/2026_07_22_21_35_11/录制-21452505-20260722-213511-905-十点杖剑传说！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_07_22_03_35_58",
     "title": "很困的魂2复健",
     "date": "2026-07-21",
@@ -16,18 +46,21 @@
   },
   {
     "id": "2026_07_22_03_18_34",
-    "title": "很困的魂2复健",
+    "title": "很困的魂2复健之后的下棋",
     "date": "2026-07-21",
     "time": "03:18:34",
     "startTime": "03:18",
-    "endTime": "03:34",
-    "duration": 1017,
-    "durationStr": "0.3 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_07_22_03_18_34/录制-21452505-20260722-031834-431-很困的魂2复健.xml",
+    "endTime": "05:59",
+    "duration": 9660,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/nana7mi/2026_07_22_03_18_34/录制-21452505-20260722-031834-431-很困的魂2复健_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_07_22_03_18_34/录制-21452505-20260722-031834-431-很困的魂2复健_merged.xml",
     "cover": "/data/streams/nana7mi/2026_07_22_03_18_34/录制-21452505-20260722-031834-431-很困的魂2复健.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_07_22_03_18_34/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_07_22_03_18_34/录制-21452505-20260722-031834-431-很困的魂2复健_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_07_22_03_18_34/录制-21452505-20260722-031834-431-很困的魂2复健_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_07_21_22_32_32",
@@ -43,7 +76,8 @@
     "cover": "/data/streams/nana7mi/2026_07_21_22_32_32/录制-21452505-20260721-223232-685-先偷再玩！.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_21_22_32_32/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_07_21_22_32_32/录制-21452505-20260721-223232-685-先偷再玩！_COMIC_FACTORY.png"
+      "/data/streams/nana7mi/2026_07_21_22_32_32/录制-21452505-20260721-223232-685-先偷再玩！_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_07_21_22_32_32/录制-21452505-20260721-223232-685-先偷再玩！_merged_SCREENSHOTS.jpg"
     ]
   },
   {

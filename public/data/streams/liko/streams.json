@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_07_22_19_58_21",
+    "title": "兔子啵啵！",
+    "date": "2026-07-22",
+    "time": "19:58:21",
+    "startTime": "19:58",
+    "endTime": "00:46",
+    "duration": 17304,
+    "durationStr": "4.8 小时",
+    "srt": "/data/streams/liko/2026_07_22_19_58_21/录制-1713548468-20260722-195821-311-兔子啵啵！_merged.srt",
+    "xml": "/data/streams/liko/2026_07_22_19_58_21/录制-1713548468-20260722-195821-311-兔子啵啵！_merged.xml",
+    "cover": "/data/streams/liko/2026_07_22_19_58_21/录制-1713548468-20260722-195821-311-兔子啵啵！.cover.jpg",
+    "highlights": "/data/streams/liko/2026_07_22_19_58_21/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_07_22_19_58_21/录制-1713548468-20260722-195821-311-兔子啵啵！_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_07_22_19_58_21/录制-1713548468-20260722-195821-311-兔子啵啵！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_22_12_12_22",
+    "title": "兔子健身环",
+    "date": "2026-07-22",
+    "time": "12:12:22",
+    "startTime": "12:12",
+    "endTime": "15:37",
+    "duration": 12338,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/liko/2026_07_22_12_12_22/录制-1713548468-20260722-121222-883-兔子健身环.srt",
+    "xml": "/data/streams/liko/2026_07_22_12_12_22/录制-1713548468-20260722-121222-883-兔子健身环.xml",
+    "cover": "/data/streams/liko/2026_07_22_12_12_22/录制-1713548468-20260722-121222-883-兔子健身环.cover.jpg",
+    "highlights": "/data/streams/liko/2026_07_22_12_12_22/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_07_22_12_12_22/录制-1713548468-20260722-121222-883-兔子健身环_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_07_22_12_12_22/录制-1713548468-20260722-121222-883-兔子健身环_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_21_20_17_31",
     "title": "兔子帕鲁中",
     "date": "2026-07-21",

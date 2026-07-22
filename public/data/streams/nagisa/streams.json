@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_07_22_20_08_41",
+    "title": "「加利宅邸悬案」第二回",
+    "date": "2026-07-22",
+    "time": "20:08:41",
+    "startTime": "20:08",
+    "endTime": "02:55",
+    "duration": 24440,
+    "durationStr": "6.8 小时",
+    "srt": "/data/streams/nagisa/2026_07_22_20_08_41/录制-31368705-20260722-200841-651-一起「你画我猜」_merged.srt",
+    "xml": "/data/streams/nagisa/2026_07_22_20_08_41/录制-31368705-20260722-200841-651-一起「你画我猜」_merged.xml",
+    "cover": "/data/streams/nagisa/2026_07_22_20_08_41/录制-31368705-20260722-200841-651-一起「你画我猜」.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_07_22_20_08_41/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_07_22_20_08_41/录制-31368705-20260722-200841-651-一起「你画我猜」_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_07_22_20_08_41/录制-31368705-20260722-200841-651-一起「你画我猜」_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_07_22_20_08_41/录制-31368705-20260722-200841-651-一起「你画我猜」_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_22_08_09_00",
+    "title": "早歌一会儿",
+    "date": "2026-07-22",
+    "time": "08:09:00",
+    "startTime": "08:09",
+    "endTime": "13:00",
+    "duration": 17461,
+    "durationStr": "4.9 小时",
+    "srt": "/data/streams/nagisa/2026_07_22_08_09_00/录制-31368705-20260722-080900-946-早歌一会儿.srt",
+    "xml": "/data/streams/nagisa/2026_07_22_08_09_00/录制-31368705-20260722-080900-946-早歌一会儿.xml",
+    "cover": "/data/streams/nagisa/2026_07_22_08_09_00/录制-31368705-20260722-080900-946-早歌一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_07_22_08_09_00/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_07_22_08_09_00/录制-31368705-20260722-080900-946-早歌一会儿_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_21_21_06_23",
     "title": "「加利宅邸悬案」初见",
     "date": "2026-07-21",
