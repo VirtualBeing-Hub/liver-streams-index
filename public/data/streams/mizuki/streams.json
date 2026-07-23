@@ -1,5 +1,42 @@
 [
   {
+    "id": "2026_07_23_20_12_47",
+    "title": "来看闪闪⭐",
+    "date": "2026-07-23",
+    "time": "20:12:47",
+    "startTime": "20:12",
+    "endTime": "23:02",
+    "duration": 10229,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/mizuki/2026_07_23_20_12_47/录制-30655190-20260723-201247-924-来看闪闪⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_07_23_20_12_47/录制-30655190-20260723-201247-924-来看闪闪⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_07_23_20_12_47/录制-30655190-20260723-201247-924-来看闪闪⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_07_23_20_12_47/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_07_23_20_12_47/录制-30655190-20260723-201247-924-来看闪闪⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_07_23_20_12_47/录制-30655190-20260723-201247-924-来看闪闪⭐_merged_SCREENSHOTS.jpg",
+      "/data/streams/mizuki/2026_07_23_20_12_47/录制-30655190-20260723-201247-924-来看闪闪⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_23_15_02_49",
+    "title": "【工作音】学歌回 34-38⭐",
+    "date": "2026-07-23",
+    "time": "15:02:49",
+    "startTime": "15:02",
+    "endTime": "18:10",
+    "duration": 11318,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/mizuki/2026_07_23_15_02_49/录制-30655190-20260723-150249-077-【工作音】学歌回 34-38⭐.srt",
+    "xml": "/data/streams/mizuki/2026_07_23_15_02_49/录制-30655190-20260723-150249-077-【工作音】学歌回 34-38⭐.xml",
+    "cover": "/data/streams/mizuki/2026_07_23_15_02_49/录制-30655190-20260723-150249-077-【工作音】学歌回 34-38⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_07_23_15_02_49/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_07_23_15_02_49/录制-30655190-20260723-150249-077-【工作音】学歌回 34-38⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_07_23_15_02_49/录制-30655190-20260723-150249-077-【工作音】学歌回 34-38⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_22_20_03_07",
     "title": "你画我猜！⭐",
     "date": "2026-07-22",

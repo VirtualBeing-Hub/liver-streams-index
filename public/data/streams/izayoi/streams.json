@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026_07_23_20_00_10",
+    "title": "令浣安心的周四",
+    "date": "2026-07-23",
+    "time": "20:00:10",
+    "startTime": "20:00",
+    "endTime": "23:08",
+    "duration": 11298,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/izayoi/2026_07_23_20_00_10/录制-1741667419-20260723-200010-090-另浣安心的周四_merged.srt",
+    "xml": "/data/streams/izayoi/2026_07_23_20_00_10/录制-1741667419-20260723-200010-090-另浣安心的周四_merged.xml",
+    "cover": "/data/streams/izayoi/2026_07_23_20_00_10/录制-1741667419-20260723-200010-090-另浣安心的周四.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_23_20_00_10/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_23_20_00_10/录制-1741667419-20260723-200010-090-另浣安心的周四_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_07_23_20_00_10/录制-1741667419-20260723-200010-090-另浣安心的周四_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_23_15_00_27",
+    "title": "小玩一下！",
+    "date": "2026-07-23",
+    "time": "15:00:27",
+    "startTime": "15:00",
+    "endTime": "18:06",
+    "duration": 11200,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/izayoi/2026_07_23_15_00_27/录制-1741667419-20260723-150027-032-小玩一下！.srt",
+    "xml": "/data/streams/izayoi/2026_07_23_15_00_27/录制-1741667419-20260723-150027-032-小玩一下！.xml",
+    "cover": "/data/streams/izayoi/2026_07_23_15_00_27/录制-1741667419-20260723-150027-032-小玩一下！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_23_15_00_27/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_23_15_00_27/录制-1741667419-20260723-150027-032-小玩一下！_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_07_23_15_00_27/录制-1741667419-20260723-150027-032-小玩一下！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_23_09_09_18",
+    "title": "早茶第七十八天",
+    "date": "2026-07-23",
+    "time": "09:09:18",
+    "startTime": "09:09",
+    "endTime": "11:28",
+    "duration": 8353,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/izayoi/2026_07_23_09_09_18/录制-1741667419-20260723-090918-492-早茶第七十八天.srt",
+    "xml": "/data/streams/izayoi/2026_07_23_09_09_18/录制-1741667419-20260723-090918-492-早茶第七十八天.xml",
+    "cover": "/data/streams/izayoi/2026_07_23_09_09_18/录制-1741667419-20260723-090918-492-早茶第七十八天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_23_09_09_18/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_23_09_09_18/录制-1741667419-20260723-090918-492-早茶第七十八天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_07_23_09_09_18/录制-1741667419-20260723-090918-492-早茶第七十八天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_22_19_59_38",
     "title": "一起来你画我猜的说",
     "date": "2026-07-22",

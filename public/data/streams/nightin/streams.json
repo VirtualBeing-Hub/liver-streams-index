@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_07_23_21_03_21",
+    "title": "怎么今天还是周四！",
+    "date": "2026-07-23",
+    "time": "21:03:21",
+    "startTime": "21:03",
+    "endTime": "01:17",
+    "duration": 15295,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/nightin/2026_07_23_21_03_21/录制-24872476-20260723-210321-530-怎么今天还是周四！.srt",
+    "xml": "/data/streams/nightin/2026_07_23_21_03_21/录制-24872476-20260723-210321-530-怎么今天还是周四！.xml",
+    "cover": "/data/streams/nightin/2026_07_23_21_03_21/录制-24872476-20260723-210321-530-怎么今天还是周四！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_07_23_21_03_21/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_23_21_03_21/录制-24872476-20260723-210321-530-怎么今天还是周四！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_07_23_21_03_21/录制-24872476-20260723-210321-530-怎么今天还是周四！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_23_09_56_22",
+    "title": "周四的早台",
+    "date": "2026-07-23",
+    "time": "09:56:22",
+    "startTime": "09:56",
+    "endTime": "12:23",
+    "duration": 8824,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/nightin/2026_07_23_09_56_22/录制-24872476-20260723-095622-080-周四的早台.srt",
+    "xml": "/data/streams/nightin/2026_07_23_09_56_22/录制-24872476-20260723-095622-080-周四的早台.xml",
+    "cover": "/data/streams/nightin/2026_07_23_09_56_22/录制-24872476-20260723-095622-080-周四的早台.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_07_23_09_56_22/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_23_09_56_22/录制-24872476-20260723-095622-080-周四的早台_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_07_23_09_56_22/录制-24872476-20260723-095622-080-周四的早台_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_22_14_05_22",
     "title": "【午杂】亲密度已提升！",
     "date": "2026-07-22",

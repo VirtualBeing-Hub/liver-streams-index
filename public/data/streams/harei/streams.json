@@ -1,5 +1,54 @@
 [
   {
+    "id": "2026_07_24_00_03_24",
+    "title": "和三理理一起^^",
+    "date": "2026-07-23",
+    "time": "00:03:24",
+    "startTime": "00:03",
+    "endTime": "00:34",
+    "duration": 1906,
+    "durationStr": "0.5 小时",
+    "srt": "/data/streams/harei/2026_07_24_00_03_24/录制-1820703922-20260724-000324-279-和三理理一起^^.srt",
+    "xml": "/data/streams/harei/2026_07_24_00_03_24/录制-1820703922-20260724-000324-279-和三理理一起^^.xml",
+    "cover": "/data/streams/harei/2026_07_24_00_03_24/录制-1820703922-20260724-000324-279-和三理理一起^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_07_24_00_03_24/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_07_24_00_03_24/录制-1820703922-20260724-000324-279-和三理理一起^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_23_23_42_37",
+    "title": "和三理理一起^^",
+    "date": "2026-07-23",
+    "time": "23:42:37",
+    "startTime": "23:42",
+    "endTime": "23:59",
+    "duration": 1042,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/harei/2026_07_23_23_42_37/录制-1820703922-20260723-234237-462-和三理理一起^^.xml",
+    "cover": "/data/streams/harei/2026_07_23_23_42_37/录制-1820703922-20260723-234237-462-和三理理一起^^.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_23_22_45_32",
+    "title": "和三理理一起^^",
+    "date": "2026-07-23",
+    "time": "22:45:32",
+    "startTime": "22:45",
+    "endTime": "23:37",
+    "duration": 3149,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/harei/2026_07_23_22_45_32/录制-1820703922-20260723-224532-985-小鼠歌回^^_merged.srt",
+    "xml": "/data/streams/harei/2026_07_23_22_45_32/录制-1820703922-20260723-224532-985-小鼠歌回^^_merged.xml",
+    "cover": "/data/streams/harei/2026_07_23_22_45_32/录制-1820703922-20260723-224532-985-小鼠歌回^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_07_23_22_45_32/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_07_23_22_45_32/录制-1820703922-20260723-224532-985-小鼠歌回^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_22_21_05_20",
     "title": "小鼠歌回^^",
     "date": "2026-07-22",
