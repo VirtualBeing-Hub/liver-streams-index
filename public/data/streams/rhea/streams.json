@@ -1,5 +1,71 @@
 [
   {
+    "id": "2026_07_24_22_13_32",
+    "title": "一天三动的第三动是歌杂",
+    "date": "2026-07-24",
+    "time": "22:13:32",
+    "startTime": "22:13",
+    "endTime": "02:04",
+    "duration": 13865,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/rhea/2026_07_24_22_13_32/录制-23260993-20260724-221332-101-一天三动的第三动是歌杂.srt",
+    "xml": "/data/streams/rhea/2026_07_24_22_13_32/录制-23260993-20260724-221332-101-一天三动的第三动是歌杂.xml",
+    "cover": "/data/streams/rhea/2026_07_24_22_13_32/录制-23260993-20260724-221332-101-一天三动的第三动是歌杂.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_07_24_22_13_32/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_07_24_22_13_32/录制-23260993-20260724-221332-101-一天三动的第三动是歌杂_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_07_24_22_13_32/录制-23260993-20260724-221332-101-一天三动的第三动是歌杂_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_24_17_25_37",
+    "title": "没有人性的《神之天平》第三回",
+    "date": "2026-07-24",
+    "time": "17:25:37",
+    "startTime": "17:25",
+    "endTime": "19:10",
+    "duration": 6333,
+    "durationStr": "1.8 小时",
+    "srt": "/data/streams/rhea/2026_07_24_17_25_37/录制-23260993-20260724-172537-833-没有键盘.srt",
+    "xml": "/data/streams/rhea/2026_07_24_17_25_37/录制-23260993-20260724-172537-833-没有键盘.xml",
+    "cover": "/data/streams/rhea/2026_07_24_17_25_37/录制-23260993-20260724-172537-833-没有键盘.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_07_24_17_25_37/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_07_24_17_25_37/录制-23260993-20260724-172537-833-没有键盘_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_07_24_17_25_37/录制-23260993-20260724-172537-833-没有键盘_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_24_17_24_03",
+    "title": "没有键盘",
+    "date": "2026-07-24",
+    "time": "17:24:03",
+    "startTime": "17:24",
+    "endTime": "17:25",
+    "duration": 88,
+    "durationStr": "1 分钟",
+    "srt": null,
+    "xml": "/data/streams/rhea/2026_07_24_17_24_03/录制-23260993-20260724-172403-912-没有键盘.xml",
+    "cover": "/data/streams/rhea/2026_07_24_17_24_03/录制-23260993-20260724-172403-912-没有键盘.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_24_16_17_38",
+    "title": "没有键盘",
+    "date": "2026-07-24",
+    "time": "16:17:38",
+    "startTime": "16:17",
+    "endTime": "17:23",
+    "duration": 3977,
+    "durationStr": "1.1 小时",
+    "srt": null,
+    "xml": "/data/streams/rhea/2026_07_24_16_17_38/录制-23260993-20260724-161738-618-没有键盘.xml",
+    "cover": "/data/streams/rhea/2026_07_24_16_17_38/录制-23260993-20260724-161738-618-没有键盘.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_07_24_03_39_23",
     "title": "你好，后天了",
     "date": "2026-07-23",
@@ -20,14 +86,17 @@
     "date": "2026-07-23",
     "time": "00:54:39",
     "startTime": "00:54",
-    "endTime": "03:35",
-    "duration": 9675,
-    "durationStr": "2.7 小时",
-    "srt": null,
-    "xml": "/data/streams/rhea/2026_07_24_00_54_39/录制-23260993-20260724-005439-829-你好，后天了.xml",
+    "endTime": "05:21",
+    "duration": 16044,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/rhea/2026_07_24_00_54_39/录制-23260993-20260724-005439-829-你好，后天了_merged.srt",
+    "xml": "/data/streams/rhea/2026_07_24_00_54_39/录制-23260993-20260724-005439-829-你好，后天了_merged.xml",
     "cover": "/data/streams/rhea/2026_07_24_00_54_39/录制-23260993-20260724-005439-829-你好，后天了.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/rhea/2026_07_24_00_54_39/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_07_24_00_54_39/录制-23260993-20260724-005439-829-你好，后天了_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_07_24_00_54_39/录制-23260993-20260724-005439-829-你好，后天了_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_07_22_21_10_43",

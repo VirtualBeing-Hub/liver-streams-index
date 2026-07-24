@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_07_24_20_06_45",
+    "title": "九点来诈骗专线",
+    "date": "2026-07-24",
+    "time": "20:06:45",
+    "startTime": "20:06",
+    "endTime": "23:29",
+    "duration": 12231,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/izayoi/2026_07_24_20_06_45/录制-1741667419-20260724-200645-301-九点来诈骗专线_merged.srt",
+    "xml": "/data/streams/izayoi/2026_07_24_20_06_45/录制-1741667419-20260724-200645-301-九点来诈骗专线_merged.xml",
+    "cover": "/data/streams/izayoi/2026_07_24_20_06_45/录制-1741667419-20260724-200645-301-九点来诈骗专线.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_24_20_06_45/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_24_20_06_45/录制-1741667419-20260724-200645-301-九点来诈骗专线_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_07_24_20_06_45/录制-1741667419-20260724-200645-301-九点来诈骗专线_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_24_09_00_45",
+    "title": "早茶第七十九天",
+    "date": "2026-07-24",
+    "time": "09:00:45",
+    "startTime": "09:00",
+    "endTime": "11:35",
+    "duration": 9319,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/izayoi/2026_07_24_09_00_45/录制-1741667419-20260724-090045-986-早茶第七十九天_merged.srt",
+    "xml": "/data/streams/izayoi/2026_07_24_09_00_45/录制-1741667419-20260724-090045-986-早茶第七十九天_merged.xml",
+    "cover": "/data/streams/izayoi/2026_07_24_09_00_45/录制-1741667419-20260724-090045-986-早茶第七十九天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_24_09_00_45/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_24_09_00_45/录制-1741667419-20260724-090045-986-早茶第七十九天_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_23_20_00_10",
     "title": "令浣安心的周四",
     "date": "2026-07-23",

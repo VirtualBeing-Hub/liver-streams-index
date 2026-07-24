@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026_07_25_02_42_37",
+    "title": "锈湖初见",
+    "date": "2026-07-24",
+    "time": "02:42:37",
+    "startTime": "02:42",
+    "endTime": "03:59",
+    "duration": 4630,
+    "durationStr": "1.3 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_07_25_02_42_37/录制-21452505-20260725-024237-602-锈湖初见.xml",
+    "cover": "/data/streams/nana7mi/2026_07_25_02_42_37/录制-21452505-20260725-024237-602-锈湖初见.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_24_22_34_39",
+    "title": "二次元的偷",
+    "date": "2026-07-24",
+    "time": "22:34:39",
+    "startTime": "22:34",
+    "endTime": "02:38",
+    "duration": 14689,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/nana7mi/2026_07_24_22_34_39/录制-21452505-20260724-223439-384-二次元的偷.srt",
+    "xml": "/data/streams/nana7mi/2026_07_24_22_34_39/录制-21452505-20260724-223439-384-二次元的偷.xml",
+    "cover": "/data/streams/nana7mi/2026_07_24_22_34_39/录制-21452505-20260724-223439-384-二次元的偷.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_07_24_22_34_39/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_07_24_22_34_39/录制-21452505-20260724-223439-384-二次元的偷_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_07_24_22_34_39/录制-21452505-20260724-223439-384-二次元的偷_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_24_04_35_01",
+    "title": "锈湖初见",
+    "date": "2026-07-23",
+    "time": "04:35:01",
+    "startTime": "04:35",
+    "endTime": "07:57",
+    "duration": 12154,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/nana7mi/2026_07_24_04_35_01/录制-21452505-20260724-043501-528-锈湖初见_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_07_24_04_35_01/录制-21452505-20260724-043501-528-锈湖初见_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_07_24_04_35_01/录制-21452505-20260724-043501-528-锈湖初见.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_07_24_04_35_01/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_07_24_04_35_01/录制-21452505-20260724-043501-528-锈湖初见_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_07_23_22_00_47",
     "title": "锈湖初见",
     "date": "2026-07-23",
@@ -13,8 +63,7 @@
     "cover": "/data/streams/nana7mi/2026_07_23_22_00_47/录制-21452505-20260723-220047-499-机械迷城噢.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_07_23_22_00_47/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_07_23_22_00_47/录制-21452505-20260723-220047-499-机械迷城噢_merged_COMIC_FACTORY.png",
-      "/data/streams/nana7mi/2026_07_23_22_00_47/录制-21452505-20260723-220047-499-机械迷城噢_merged_SCREENSHOTS.jpg"
+      "/data/streams/nana7mi/2026_07_23_22_00_47/录制-21452505-20260723-220047-499-机械迷城噢_merged_COMIC_FACTORY.png"
     ]
   },
   {

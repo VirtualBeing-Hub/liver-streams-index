@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_07_24_20_42_55",
+    "title": "收收行李！",
+    "date": "2026-07-24",
+    "time": "20:42:55",
+    "startTime": "20:42",
+    "endTime": "22:49",
+    "duration": 7654,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/nightin/2026_07_24_20_42_55/录制-24872476-20260724-204255-281-收收行李！.srt",
+    "xml": "/data/streams/nightin/2026_07_24_20_42_55/录制-24872476-20260724-204255-281-收收行李！.xml",
+    "cover": "/data/streams/nightin/2026_07_24_20_42_55/录制-24872476-20260724-204255-281-收收行李！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_07_24_20_42_55/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_24_20_42_55/录制-24872476-20260724-204255-281-收收行李！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_07_24_20_42_55/录制-24872476-20260724-204255-281-收收行李！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_24_15_30_32",
+    "title": "今天终于周五了！",
+    "date": "2026-07-24",
+    "time": "15:30:32",
+    "startTime": "15:30",
+    "endTime": "17:30",
+    "duration": 7223,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/nightin/2026_07_24_15_30_32/录制-24872476-20260724-153032-570-今天终于周五了！.srt",
+    "xml": "/data/streams/nightin/2026_07_24_15_30_32/录制-24872476-20260724-153032-570-今天终于周五了！.xml",
+    "cover": "/data/streams/nightin/2026_07_24_15_30_32/录制-24872476-20260724-153032-570-今天终于周五了！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_07_24_15_30_32/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_24_15_30_32/录制-24872476-20260724-153032-570-今天终于周五了！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_23_21_03_21",
     "title": "怎么今天还是周四！",
     "date": "2026-07-23",

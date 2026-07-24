@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_07_24_23_46_50",
+    "title": "啵啵一会儿^^",
+    "date": "2026-07-24",
+    "time": "23:46:50",
+    "startTime": "23:46",
+    "endTime": "00:38",
+    "duration": 3135,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/harei/2026_07_24_23_46_50/录制-1820703922-20260724-234650-197-啵啵一会儿^^_merged.srt",
+    "xml": "/data/streams/harei/2026_07_24_23_46_50/录制-1820703922-20260724-234650-197-啵啵一会儿^^_merged.xml",
+    "cover": "/data/streams/harei/2026_07_24_23_46_50/录制-1820703922-20260724-234650-197-啵啵一会儿^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_07_24_23_46_50/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_07_24_23_46_50/录制-1820703922-20260724-234650-197-啵啵一会儿^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_24_10_56_55",
+    "title": "化妆一会儿^^",
+    "date": "2026-07-24",
+    "time": "10:56:55",
+    "startTime": "10:56",
+    "endTime": "13:09",
+    "duration": 7999,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/harei/2026_07_24_10_56_55/录制-1820703922-20260724-105655-917-化妆一会儿^^_merged.srt",
+    "xml": "/data/streams/harei/2026_07_24_10_56_55/录制-1820703922-20260724-105655-917-化妆一会儿^^_merged.xml",
+    "cover": "/data/streams/harei/2026_07_24_10_56_55/录制-1820703922-20260724-105655-917-化妆一会儿^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_07_24_10_56_55/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_07_24_10_56_55/录制-1820703922-20260724-105655-917-化妆一会儿^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_07_24_10_56_55/录制-1820703922-20260724-105655-917-化妆一会儿^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_24_00_03_24",
     "title": "和三理理一起^^",
     "date": "2026-07-23",
