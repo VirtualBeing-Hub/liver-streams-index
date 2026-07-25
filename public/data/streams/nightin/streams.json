@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_25_22_04_37",
+    "title": "No电台！",
+    "date": "2026-07-25",
+    "time": "22:04:37",
+    "startTime": "22:04",
+    "endTime": "00:01",
+    "duration": 7071,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/nightin/2026_07_25_22_04_37/录制-24872476-20260725-220437-335-No电台！_merged.srt",
+    "xml": "/data/streams/nightin/2026_07_25_22_04_37/录制-24872476-20260725-220437-335-No电台！_merged.xml",
+    "cover": "/data/streams/nightin/2026_07_25_22_04_37/录制-24872476-20260725-220437-335-No电台！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_07_25_22_04_37/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_25_22_04_37/录制-24872476-20260725-220437-335-No电台！_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_07_25_22_04_37/录制-24872476-20260725-220437-335-No电台！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_24_20_42_55",
     "title": "收收行李！",
     "date": "2026-07-24",
