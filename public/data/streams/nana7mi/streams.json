@@ -5,14 +5,17 @@
     "date": "2026-07-24",
     "time": "02:42:37",
     "startTime": "02:42",
-    "endTime": "03:59",
-    "duration": 4630,
-    "durationStr": "1.3 小时",
-    "srt": null,
+    "endTime": "05:25",
+    "duration": 9796,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/nana7mi/2026_07_25_02_42_37/录制-21452505-20260725-024237-602-锈湖初见.srt",
     "xml": "/data/streams/nana7mi/2026_07_25_02_42_37/录制-21452505-20260725-024237-602-锈湖初见.xml",
     "cover": "/data/streams/nana7mi/2026_07_25_02_42_37/录制-21452505-20260725-024237-602-锈湖初见.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_07_25_02_42_37/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_07_25_02_42_37/录制-21452505-20260725-024237-602-锈湖初见_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_07_25_02_42_37/录制-21452505-20260725-024237-602-锈湖初见_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_07_24_22_34_39",
