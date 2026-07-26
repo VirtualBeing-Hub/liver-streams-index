@@ -1,18 +1,67 @@
 [
   {
+    "id": "2026_07_26_21_04_29",
+    "title": "「识质存在」第二回",
+    "date": "2026-07-26",
+    "time": "21:04:29",
+    "startTime": "21:04",
+    "endTime": "01:35",
+    "duration": 16302,
+    "durationStr": "4.5 小时",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_07_26_21_04_29/录制-31368705-20260726-210429-382-「识质存在」第二回.xml",
+    "cover": "/data/streams/nagisa/2026_07_26_21_04_29/录制-31368705-20260726-210429-382-「识质存在」第二回.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_26_16_21_41",
+    "title": "「黎明」当人",
+    "date": "2026-07-26",
+    "time": "16:21:41",
+    "startTime": "16:21",
+    "endTime": "19:10",
+    "duration": 10198,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/nagisa/2026_07_26_16_21_41/录制-31368705-20260726-162141-192-「黎明」当人.srt",
+    "xml": "/data/streams/nagisa/2026_07_26_16_21_41/录制-31368705-20260726-162141-192-「黎明」当人.xml",
+    "cover": "/data/streams/nagisa/2026_07_26_16_21_41/录制-31368705-20260726-162141-192-「黎明」当人.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_07_26_16_21_41/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_07_26_16_21_41/录制-31368705-20260726-162141-192-「黎明」当人_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_07_26_15_16_29",
+    "title": "「黎明」当人",
+    "date": "2026-07-26",
+    "time": "15:16:29",
+    "startTime": "15:16",
+    "endTime": "16:21",
+    "duration": 3901,
+    "durationStr": "1.1 小时",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_07_26_15_16_29/录制-31368705-20260726-151629-880-「黎明」当人.xml",
+    "cover": "/data/streams/nagisa/2026_07_26_15_16_29/录制-31368705-20260726-151629-880-「黎明」当人.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_07_25_23_38_56",
     "title": "「桌面探索者」初见",
     "date": "2026-07-25",
     "time": "23:38:56",
     "startTime": "23:38",
-    "endTime": "03:58",
-    "duration": 15627,
-    "durationStr": "4.3 小时",
-    "srt": null,
+    "endTime": "07:25",
+    "duration": 28079,
+    "durationStr": "7.8 小时",
+    "srt": "/data/streams/nagisa/2026_07_25_23_38_56/录制-31368705-20260725-233856-278-「桌面探索者」初见.srt",
     "xml": "/data/streams/nagisa/2026_07_25_23_38_56/录制-31368705-20260725-233856-278-「桌面探索者」初见.xml",
     "cover": "/data/streams/nagisa/2026_07_25_23_38_56/录制-31368705-20260725-233856-278-「桌面探索者」初见.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nagisa/2026_07_25_23_38_56/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_07_25_23_38_56/录制-31368705-20260725-233856-278-「桌面探索者」初见_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_07_25_23_33_33",

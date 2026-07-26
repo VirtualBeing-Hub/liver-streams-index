@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_26_21_31_35",
+    "title": "轻声细语时间",
+    "date": "2026-07-26",
+    "time": "21:31:35",
+    "startTime": "21:31",
+    "endTime": "01:28",
+    "duration": 14264,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/rhea/2026_07_26_21_31_35/录制-23260993-20260726-213135-150-先完成神之天平第三幕_merged.srt",
+    "xml": "/data/streams/rhea/2026_07_26_21_31_35/录制-23260993-20260726-213135-150-先完成神之天平第三幕_merged.xml",
+    "cover": "/data/streams/rhea/2026_07_26_21_31_35/录制-23260993-20260726-213135-150-先完成神之天平第三幕.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_07_26_21_31_35/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_07_26_21_31_35/录制-23260993-20260726-213135-150-先完成神之天平第三幕_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_07_26_21_31_35/录制-23260993-20260726-213135-150-先完成神之天平第三幕_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_25_21_11_30",
     "title": "周六夜",
     "date": "2026-07-25",

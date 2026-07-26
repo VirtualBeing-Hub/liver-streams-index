@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_07_26_21_02_31",
+    "title": "歌杂呀⭐",
+    "date": "2026-07-26",
+    "time": "21:02:31",
+    "startTime": "21:02",
+    "endTime": "00:56",
+    "duration": 14080,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/mizuki/2026_07_26_21_02_31/录制-30655190-20260726-210231-320-歌杂呀⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_07_26_21_02_31/录制-30655190-20260726-210231-320-歌杂呀⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_07_26_21_02_31/录制-30655190-20260726-210231-320-歌杂呀⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_07_26_21_02_31/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_07_26_21_02_31/录制-30655190-20260726-210231-320-歌杂呀⭐_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_26_15_02_44",
+    "title": "我是妄想天使！⭐",
+    "date": "2026-07-26",
+    "time": "15:02:44",
+    "startTime": "15:02",
+    "endTime": "18:18",
+    "duration": 11814,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mizuki/2026_07_26_15_02_44/录制-30655190-20260726-150244-051-我是妄想天使！⭐.srt",
+    "xml": "/data/streams/mizuki/2026_07_26_15_02_44/录制-30655190-20260726-150244-051-我是妄想天使！⭐.xml",
+    "cover": "/data/streams/mizuki/2026_07_26_15_02_44/录制-30655190-20260726-150244-051-我是妄想天使！⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_07_26_15_02_44/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_07_26_15_02_44/录制-30655190-20260726-150244-051-我是妄想天使！⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_07_26_15_02_44/录制-30655190-20260726-150244-051-我是妄想天使！⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_25_21_03_37",
     "title": "【水友回】超级变色龙⭐",
     "date": "2026-07-25",
