@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_07_27_20_57_39",
+    "title": "1616我们喜浣你",
+    "date": "2026-07-27",
+    "time": "20:57:39",
+    "startTime": "20:57",
+    "endTime": "23:39",
+    "duration": 9748,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/izayoi/2026_07_27_20_57_39/录制-1741667419-20260727-205739-284-1616我们喜浣你_merged.srt",
+    "xml": "/data/streams/izayoi/2026_07_27_20_57_39/录制-1741667419-20260727-205739-284-1616我们喜浣你_merged.xml",
+    "cover": "/data/streams/izayoi/2026_07_27_20_57_39/录制-1741667419-20260727-205739-284-1616我们喜浣你.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_27_20_57_39/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_27_20_57_39/录制-1741667419-20260727-205739-284-1616我们喜浣你_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_07_27_20_57_39/录制-1741667419-20260727-205739-284-1616我们喜浣你_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_27_09_02_19",
+    "title": "早茶第八十天",
+    "date": "2026-07-27",
+    "time": "09:02:19",
+    "startTime": "09:02",
+    "endTime": "11:31",
+    "duration": 8964,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/izayoi/2026_07_27_09_02_19/录制-1741667419-20260727-090219-004-早茶第八十天.srt",
+    "xml": "/data/streams/izayoi/2026_07_27_09_02_19/录制-1741667419-20260727-090219-004-早茶第八十天.xml",
+    "cover": "/data/streams/izayoi/2026_07_27_09_02_19/录制-1741667419-20260727-090219-004-早茶第八十天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_27_09_02_19/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_27_09_02_19/录制-1741667419-20260727-090219-004-早茶第八十天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_07_27_09_02_19/录制-1741667419-20260727-090219-004-早茶第八十天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_26_20_03_39",
     "title": "1616我们喜浣你",
     "date": "2026-07-26",

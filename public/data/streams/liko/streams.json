@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_07_27_20_13_25",
+    "title": "兔子贴贴",
+    "date": "2026-07-27",
+    "time": "20:13:25",
+    "startTime": "20:13",
+    "endTime": "00:17",
+    "duration": 14646,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/liko/2026_07_27_20_13_25/录制-1713548468-20260727-201325-342-兔子贴贴_merged.srt",
+    "xml": "/data/streams/liko/2026_07_27_20_13_25/录制-1713548468-20260727-201325-342-兔子贴贴_merged.xml",
+    "cover": "/data/streams/liko/2026_07_27_20_13_25/录制-1713548468-20260727-201325-342-兔子贴贴.cover.jpg",
+    "highlights": "/data/streams/liko/2026_07_27_20_13_25/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_07_27_20_13_25/录制-1713548468-20260727-201325-342-兔子贴贴_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_07_27_20_13_25/录制-1713548468-20260727-201325-342-兔子贴贴_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_27_11_09_26",
+    "title": "唠嗑然后生化危机4",
+    "date": "2026-07-27",
+    "time": "11:09:26",
+    "startTime": "11:09",
+    "endTime": "16:19",
+    "duration": 18639,
+    "durationStr": "5.2 小时",
+    "srt": "/data/streams/liko/2026_07_27_11_09_26/录制-1713548468-20260727-110926-534-唠嗑然后生化危机4_merged.srt",
+    "xml": "/data/streams/liko/2026_07_27_11_09_26/录制-1713548468-20260727-110926-534-唠嗑然后生化危机4_merged.xml",
+    "cover": "/data/streams/liko/2026_07_27_11_09_26/录制-1713548468-20260727-110926-534-唠嗑然后生化危机4.cover.jpg",
+    "highlights": "/data/streams/liko/2026_07_27_11_09_26/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_07_27_11_09_26/录制-1713548468-20260727-110926-534-唠嗑然后生化危机4_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_07_27_11_09_26/录制-1713548468-20260727-110926-534-唠嗑然后生化危机4_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_26_20_18_54",
     "title": "又到了周末",
     "date": "2026-07-26",
