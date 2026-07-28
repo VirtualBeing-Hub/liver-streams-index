@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_07_29_01_04_26",
+    "title": "今晚和雅雅一起爬塔",
+    "date": "2026-07-28",
+    "time": "01:04:26",
+    "startTime": "01:04",
+    "endTime": "01:15",
+    "duration": 669,
+    "durationStr": "0.2 小时",
+    "srt": "/data/streams/izayoi/2026_07_29_01_04_26/录制-1741667419-20260729-010426-972-今晚和雅雅一起爬塔_merged.srt",
+    "xml": "/data/streams/izayoi/2026_07_29_01_04_26/录制-1741667419-20260729-010426-972-今晚和雅雅一起爬塔_merged.xml",
+    "cover": "/data/streams/izayoi/2026_07_29_01_04_26/录制-1741667419-20260729-010426-972-今晚和雅雅一起爬塔.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_29_01_04_26/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_29_01_04_26/录制-1741667419-20260729-010426-972-今晚和雅雅一起爬塔_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_27_20_57_39",
     "title": "1616我们喜浣你",
     "date": "2026-07-27",

@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_07_29_01_04_37",
+    "title": "唱会",
+    "date": "2026-07-28",
+    "time": "01:04:37",
+    "startTime": "01:04",
+    "endTime": "01:19",
+    "duration": 928,
+    "durationStr": "0.3 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_07_29_01_04_37/录制-25034104-20260729-010437-721-唱会.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_07_29_01_04_37/录制-25034104-20260729-010437-721-唱会.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_07_29_01_04_37/录制-25034104-20260729-010437-721-唱会.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_07_29_01_04_37/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_07_29_01_04_37/录制-25034104-20260729-010437-721-唱会_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_28_20_07_40",
     "title": "唱会",
     "date": "2026-07-28",

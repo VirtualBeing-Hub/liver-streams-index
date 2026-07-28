@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_07_29_01_04_23",
+    "title": "小鼠唱歌吧^^",
+    "date": "2026-07-28",
+    "time": "01:04:23",
+    "startTime": "01:04",
+    "endTime": "01:58",
+    "duration": 3248,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/harei/2026_07_29_01_04_23/录制-1820703922-20260729-010423-770-小鼠唱歌吧^^.srt",
+    "xml": "/data/streams/harei/2026_07_29_01_04_23/录制-1820703922-20260729-010423-770-小鼠唱歌吧^^.xml",
+    "cover": "/data/streams/harei/2026_07_29_01_04_23/录制-1820703922-20260729-010423-770-小鼠唱歌吧^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_07_29_01_04_23/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_07_29_01_04_23/录制-1820703922-20260729-010423-770-小鼠唱歌吧^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_28_14_04_38",
     "title": "小鼠一只^^",
     "date": "2026-07-28",
@@ -13,8 +30,7 @@
     "cover": "/data/streams/harei/2026_07_28_14_04_38/录制-1820703922-20260728-140438-217-小鼠一只^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_07_28_14_04_38/highlights.md",
     "images": [
-      "/data/streams/harei/2026_07_28_14_04_38/录制-1820703922-20260728-140438-217-小鼠一只^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_07_28_14_04_38/录制-1820703922-20260728-140438-217-小鼠一只^^_merged_SCREENSHOTS.jpg"
+      "/data/streams/harei/2026_07_28_14_04_38/录制-1820703922-20260728-140438-217-小鼠一只^^_merged_COMIC_FACTORY.png"
     ]
   },
   {
