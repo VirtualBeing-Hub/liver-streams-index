@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026_07_28_20_12_38",
+    "title": "歌杂来咯！！",
+    "date": "2026-07-28",
+    "time": "20:12:38",
+    "startTime": "20:12",
+    "endTime": "20:38",
+    "duration": 1569,
+    "durationStr": "0.4 小时",
+    "srt": null,
+    "xml": "/data/streams/liko/2026_07_28_20_12_38/录制-1713548468-20260728-201238-111-歌杂来咯！！.xml",
+    "cover": "/data/streams/liko/2026_07_28_20_12_38/录制-1713548468-20260728-201238-111-歌杂来咯！！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_07_28_11_10_14",
+    "title": "兔子贴贴",
+    "date": "2026-07-28",
+    "time": "11:10:14",
+    "startTime": "11:10",
+    "endTime": "16:49",
+    "duration": 20351,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/liko/2026_07_28_11_10_14/录制-1713548468-20260728-111014-219-兔子贴贴_merged.srt",
+    "xml": "/data/streams/liko/2026_07_28_11_10_14/录制-1713548468-20260728-111014-219-兔子贴贴_merged.xml",
+    "cover": "/data/streams/liko/2026_07_28_11_10_14/录制-1713548468-20260728-111014-219-兔子贴贴.cover.jpg",
+    "highlights": "/data/streams/liko/2026_07_28_11_10_14/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_07_28_11_10_14/录制-1713548468-20260728-111014-219-兔子贴贴_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_07_27_20_13_25",
     "title": "兔子贴贴",
     "date": "2026-07-27",

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026_07_28_20_07_40",
+    "title": "唱会",
+    "date": "2026-07-28",
+    "time": "20:07:40",
+    "startTime": "20:07",
+    "endTime": "20:38",
+    "duration": 1867,
+    "durationStr": "0.5 小时",
+    "srt": null,
+    "xml": "/data/streams/mingqian-nailv/2026_07_28_20_07_40/录制-25034104-20260728-200740-946-唱会.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_07_28_20_07_40/录制-25034104-20260728-200740-946-唱会.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_07_25_19_01_27",
     "title": "射击高手黑泽说是",
     "date": "2026-07-25",

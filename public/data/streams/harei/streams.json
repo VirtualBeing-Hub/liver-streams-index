@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_28_14_04_38",
+    "title": "小鼠一只^^",
+    "date": "2026-07-28",
+    "time": "14:04:38",
+    "startTime": "14:04",
+    "endTime": "17:26",
+    "duration": 12133,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/harei/2026_07_28_14_04_38/录制-1820703922-20260728-140438-217-小鼠一只^^_merged.srt",
+    "xml": "/data/streams/harei/2026_07_28_14_04_38/录制-1820703922-20260728-140438-217-小鼠一只^^_merged.xml",
+    "cover": "/data/streams/harei/2026_07_28_14_04_38/录制-1820703922-20260728-140438-217-小鼠一只^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_07_28_14_04_38/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_07_28_14_04_38/录制-1820703922-20260728-140438-217-小鼠一只^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_07_28_14_04_38/录制-1820703922-20260728-140438-217-小鼠一只^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_25_21_33_11",
     "title": "风雨前啵啵一会儿",
     "date": "2026-07-25",
