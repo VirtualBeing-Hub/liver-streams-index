@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_30_00_03_21",
+    "title": "晚好！",
+    "date": "2026-07-29",
+    "time": "00:03:21",
+    "startTime": "00:03",
+    "endTime": "02:56",
+    "duration": 10399,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/nana7mi/2026_07_30_00_03_21/录制-21452505-20260730-000321-474-晚好！_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_07_30_00_03_21/录制-21452505-20260730-000321-474-晚好！_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_07_30_00_03_21/录制-21452505-20260730-000321-474-晚好！.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_07_30_00_03_21/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_07_30_00_03_21/录制-21452505-20260730-000321-474-晚好！_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_07_30_00_03_21/录制-21452505-20260730-000321-474-晚好！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_26_22_19_29",
     "title": "锈湖初见",
     "date": "2026-07-26",

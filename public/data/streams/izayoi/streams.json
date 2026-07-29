@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026_07_29_21_32_33",
+    "title": "Pakoyoisa今夜特别篇",
+    "date": "2026-07-29",
+    "time": "21:32:33",
+    "startTime": "21:32",
+    "endTime": "00:54",
+    "duration": 12154,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/izayoi/2026_07_29_21_32_33/录制-1741667419-20260729-213233-171-Pakoyoisa今夜特别篇.srt",
+    "xml": "/data/streams/izayoi/2026_07_29_21_32_33/录制-1741667419-20260729-213233-171-Pakoyoisa今夜特别篇.xml",
+    "cover": "/data/streams/izayoi/2026_07_29_21_32_33/录制-1741667419-20260729-213233-171-Pakoyoisa今夜特别篇.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_29_21_32_33/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_29_21_32_33/录制-1741667419-20260729-213233-171-Pakoyoisa今夜特别篇_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_07_29_21_32_33/录制-1741667419-20260729-213233-171-Pakoyoisa今夜特别篇_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_29_11_26_17",
+    "title": "早茶第八十一天",
+    "date": "2026-07-29",
+    "time": "11:26:17",
+    "startTime": "11:26",
+    "endTime": "17:17",
+    "duration": 21068,
+    "durationStr": "5.9 小时",
+    "srt": "/data/streams/izayoi/2026_07_29_11_26_17/录制-1741667419-20260729-112617-542-早茶第八十一天.srt",
+    "xml": "/data/streams/izayoi/2026_07_29_11_26_17/录制-1741667419-20260729-112617-542-早茶第八十一天.xml",
+    "cover": "/data/streams/izayoi/2026_07_29_11_26_17/录制-1741667419-20260729-112617-542-早茶第八十一天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_29_11_26_17/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_29_11_26_17/录制-1741667419-20260729-112617-542-早茶第八十一天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_07_29_11_26_17/录制-1741667419-20260729-112617-542-早茶第八十一天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_29_09_58_39",
+    "title": "早茶第八十一天",
+    "date": "2026-07-29",
+    "time": "09:58:39",
+    "startTime": "09:58",
+    "endTime": "11:23",
+    "duration": 5113,
+    "durationStr": "1.4 小时",
+    "srt": "/data/streams/izayoi/2026_07_29_09_58_39/录制-1741667419-20260729-095839-122-早茶第八十一天_merged.srt",
+    "xml": "/data/streams/izayoi/2026_07_29_09_58_39/录制-1741667419-20260729-095839-122-早茶第八十一天_merged.xml",
+    "cover": "/data/streams/izayoi/2026_07_29_09_58_39/录制-1741667419-20260729-095839-122-早茶第八十一天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_29_09_58_39/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_29_09_58_39/录制-1741667419-20260729-095839-122-早茶第八十一天_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_07_29_01_04_26",
     "title": "今晚和雅雅一起爬塔",
     "date": "2026-07-28",

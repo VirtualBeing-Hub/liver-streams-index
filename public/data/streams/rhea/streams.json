@@ -1,7 +1,24 @@
 [
   {
+    "id": "2026_07_29_23_52_41",
+    "title": "在Day0前醒来了",
+    "date": "2026-07-29",
+    "time": "23:52:41",
+    "startTime": "23:52",
+    "endTime": "00:34",
+    "duration": 2570,
+    "durationStr": "0.7 小时",
+    "srt": "/data/streams/rhea/2026_07_29_23_52_41/录制-23260993-20260729-235241-209-在Day0前醒来了_merged.srt",
+    "xml": "/data/streams/rhea/2026_07_29_23_52_41/录制-23260993-20260729-235241-209-在Day0前醒来了_merged.xml",
+    "cover": "/data/streams/rhea/2026_07_29_23_52_41/录制-23260993-20260729-235241-209-在Day0前醒来了.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_07_29_23_52_41/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_07_29_23_52_41/录制-23260993-20260729-235241-209-在Day0前醒来了_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_27_16_40_33",
-    "title": "打算什么时候溜",
+    "title": "在Day0前醒来了",
     "date": "2026-07-27",
     "time": "16:40:33",
     "startTime": "16:40",
