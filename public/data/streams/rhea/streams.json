@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_07_30_20_58_48",
+    "title": "你好，新人出道首播",
+    "date": "2026-07-30",
+    "time": "20:58:48",
+    "startTime": "20:58",
+    "endTime": "01:32",
+    "duration": 16464,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/rhea/2026_07_30_20_58_48/录制-23260993-20260730-205848-078-你好，新人出道首播_merged.srt",
+    "xml": "/data/streams/rhea/2026_07_30_20_58_48/录制-23260993-20260730-205848-078-你好，新人出道首播_merged.xml",
+    "cover": "/data/streams/rhea/2026_07_30_20_58_48/录制-23260993-20260730-205848-078-你好，新人出道首播.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_07_30_20_58_48/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_07_30_20_58_48/录制-23260993-20260730-205848-078-你好，新人出道首播_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_07_30_20_58_48/录制-23260993-20260730-205848-078-你好，新人出道首播_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_29_23_52_41",
     "title": "在Day0前醒来了",
     "date": "2026-07-29",

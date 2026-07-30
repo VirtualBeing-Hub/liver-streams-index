@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_07_31_02_14_46",
+    "title": "只播半小时！",
+    "date": "2026-07-30",
+    "time": "02:14:46",
+    "startTime": "02:14",
+    "endTime": "02:57",
+    "duration": 2626,
+    "durationStr": "0.7 小时",
+    "srt": "/data/streams/nightin/2026_07_31_02_14_46/录制-24872476-20260731-021446-154-只播半小时！.srt",
+    "xml": "/data/streams/nightin/2026_07_31_02_14_46/录制-24872476-20260731-021446-154-只播半小时！.xml",
+    "cover": "/data/streams/nightin/2026_07_31_02_14_46/录制-24872476-20260731-021446-154-只播半小时！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_07_31_02_14_46/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_31_02_14_46/录制-24872476-20260731-021446-154-只播半小时！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_30_12_16_56",
+    "title": "周四周四还在玩",
+    "date": "2026-07-30",
+    "time": "12:16:56",
+    "startTime": "12:16",
+    "endTime": "14:36",
+    "duration": 8452,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/nightin/2026_07_30_12_16_56/录制-24872476-20260730-121656-975-周四周四还在玩_merged.srt",
+    "xml": "/data/streams/nightin/2026_07_30_12_16_56/录制-24872476-20260730-121656-975-周四周四还在玩_merged.xml",
+    "cover": "/data/streams/nightin/2026_07_30_12_16_56/录制-24872476-20260730-121656-975-周四周四还在玩.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_07_30_12_16_56/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_07_30_12_16_56/录制-24872476-20260730-121656-975-周四周四还在玩_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_27_20_02_15",
     "title": "先播俩小时再出门！",
     "date": "2026-07-27",

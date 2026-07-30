@@ -1,5 +1,42 @@
 [
   {
+    "id": "2026_07_30_21_06_18",
+    "title": "小鼠晚上好^^",
+    "date": "2026-07-30",
+    "time": "21:06:18",
+    "startTime": "21:06",
+    "endTime": "02:10",
+    "duration": 18290,
+    "durationStr": "5.1 小时",
+    "srt": "/data/streams/harei/2026_07_30_21_06_18/录制-1820703922-20260730-210618-877-小鼠晚上好^^_merged.srt",
+    "xml": "/data/streams/harei/2026_07_30_21_06_18/录制-1820703922-20260730-210618-877-小鼠晚上好^^_merged.xml",
+    "cover": "/data/streams/harei/2026_07_30_21_06_18/录制-1820703922-20260730-210618-877-小鼠晚上好^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_07_30_21_06_18/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_07_30_21_06_18/录制-1820703922-20260730-210618-877-小鼠晚上好^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_07_30_21_06_18/录制-1820703922-20260730-210618-877-小鼠晚上好^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_07_30_21_06_18/录制-1820703922-20260730-210618-877-小鼠晚上好^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_30_13_01_43",
+    "title": "小鼠画头像^^",
+    "date": "2026-07-30",
+    "time": "13:01:43",
+    "startTime": "13:01",
+    "endTime": "16:52",
+    "duration": 13882,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/harei/2026_07_30_13_01_43/录制-1820703922-20260730-130143-995-小鼠画头像^^.srt",
+    "xml": "/data/streams/harei/2026_07_30_13_01_43/录制-1820703922-20260730-130143-995-小鼠画头像^^.xml",
+    "cover": "/data/streams/harei/2026_07_30_13_01_43/录制-1820703922-20260730-130143-995-小鼠画头像^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_07_30_13_01_43/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_07_30_13_01_43/录制-1820703922-20260730-130143-995-小鼠画头像^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_07_30_13_01_43/录制-1820703922-20260730-130143-995-小鼠画头像^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_29_21_06_45",
     "title": "小鼠要玩lol^^",
     "date": "2026-07-29",

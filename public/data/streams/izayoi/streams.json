@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_07_31_00_03_03",
+    "title": "道歉声明",
+    "date": "2026-07-30",
+    "time": "00:03:03",
+    "startTime": "00:03",
+    "endTime": "00:12",
+    "duration": 583,
+    "durationStr": "0.2 小时",
+    "srt": "/data/streams/izayoi/2026_07_31_00_03_03/录制-1741667419-20260731-000303-341-道歉声明.srt",
+    "xml": "/data/streams/izayoi/2026_07_31_00_03_03/录制-1741667419-20260731-000303-341-道歉声明.xml",
+    "cover": "/data/streams/izayoi/2026_07_31_00_03_03/录制-1741667419-20260731-000303-341-道歉声明.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_07_31_00_03_03/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_07_31_00_03_03/录制-1741667419-20260731-000303-341-道歉声明_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_29_21_32_33",
     "title": "Pakoyoisa今夜特别篇",
     "date": "2026-07-29",
