@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026_07_31_23_10_34",
+    "title": "这是什么？喝的歌台！",
+    "date": "2026-07-31",
+    "time": "23:10:34",
+    "startTime": "23:10",
+    "endTime": "02:16",
+    "duration": 11205,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/mitsuri/2026_07_31_23_10_34/录制-1967216004-20260731-231034-380-这是什么？喝的歌台！.srt",
+    "xml": "/data/streams/mitsuri/2026_07_31_23_10_34/录制-1967216004-20260731-231034-380-这是什么？喝的歌台！.xml",
+    "cover": "/data/streams/mitsuri/2026_07_31_23_10_34/录制-1967216004-20260731-231034-380-这是什么？喝的歌台！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_07_31_23_10_34/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_07_31_23_10_34/录制-1967216004-20260731-231034-380-这是什么？喝的歌台！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_07_31_23_10_34/录制-1967216004-20260731-231034-380-这是什么？喝的歌台！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_31_21_04_47",
+    "title": "这是什么？歌台？",
+    "date": "2026-07-31",
+    "time": "21:04:47",
+    "startTime": "21:04",
+    "endTime": "22:08",
+    "duration": 3872,
+    "durationStr": "1.1 小时",
+    "srt": "/data/streams/mitsuri/2026_07_31_21_04_47/录制-1967216004-20260731-210447-600-这是什么？歌台？.srt",
+    "xml": "/data/streams/mitsuri/2026_07_31_21_04_47/录制-1967216004-20260731-210447-600-这是什么？歌台？.xml",
+    "cover": "/data/streams/mitsuri/2026_07_31_21_04_47/录制-1967216004-20260731-210447-600-这是什么？歌台？.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_07_31_21_04_47/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_07_31_21_04_47/录制-1967216004-20260731-210447-600-这是什么？歌台？_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_07_31_21_04_47/录制-1967216004-20260731-210447-600-这是什么？歌台？_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_07_31_10_03_33",
+    "title": "这是什么？早台？",
+    "date": "2026-07-31",
+    "time": "10:03:33",
+    "startTime": "10:03",
+    "endTime": "12:40",
+    "duration": 9459,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/mitsuri/2026_07_31_10_03_33/录制-1967216004-20260731-100333-877-这是什么？早台？.srt",
+    "xml": "/data/streams/mitsuri/2026_07_31_10_03_33/录制-1967216004-20260731-100333-877-这是什么？早台？.xml",
+    "cover": "/data/streams/mitsuri/2026_07_31_10_03_33/录制-1967216004-20260731-100333-877-这是什么？早台？.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_07_31_10_03_33/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_07_31_10_03_33/录制-1967216004-20260731-100333-877-这是什么？早台？_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_07_31_10_03_33/录制-1967216004-20260731-100333-877-这是什么？早台？_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_30_20_32_52",
     "title": "都回来了！101怀旧服！",
     "date": "2026-07-30",
