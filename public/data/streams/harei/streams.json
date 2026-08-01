@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_08_01_21_33_32",
+    "title": "晚上鼠晚上鼠^^",
+    "date": "2026-08-01",
+    "time": "21:33:32",
+    "startTime": "21:33",
+    "endTime": "00:26",
+    "duration": 10418,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/harei/2026_08_01_21_33_32/录制-1820703922-20260801-213332-800-晚上鼠晚上鼠^^.srt",
+    "xml": "/data/streams/harei/2026_08_01_21_33_32/录制-1820703922-20260801-213332-800-晚上鼠晚上鼠^^.xml",
+    "cover": "/data/streams/harei/2026_08_01_21_33_32/录制-1820703922-20260801-213332-800-晚上鼠晚上鼠^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_08_01_21_33_32/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_08_01_21_33_32/录制-1820703922-20260801-213332-800-晚上鼠晚上鼠^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_08_01_21_33_32/录制-1820703922-20260801-213332-800-晚上鼠晚上鼠^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_01_14_00_20",
+    "title": "小鼠打会儿lol^^",
+    "date": "2026-08-01",
+    "time": "14:00:20",
+    "startTime": "14:00",
+    "endTime": "18:10",
+    "duration": 15004,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/harei/2026_08_01_14_00_20/录制-1820703922-20260801-140020-566-小鼠打会儿lol^^.srt",
+    "xml": "/data/streams/harei/2026_08_01_14_00_20/录制-1820703922-20260801-140020-566-小鼠打会儿lol^^.xml",
+    "cover": "/data/streams/harei/2026_08_01_14_00_20/录制-1820703922-20260801-140020-566-小鼠打会儿lol^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_08_01_14_00_20/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_08_01_14_00_20/录制-1820703922-20260801-140020-566-小鼠打会儿lol^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_08_01_14_00_20/录制-1820703922-20260801-140020-566-小鼠打会儿lol^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_31_22_00_50",
     "title": "声乐课回来唱歌^^",
     "date": "2026-07-31",
@@ -8,10 +44,10 @@
     "endTime": "03:54",
     "duration": 21275,
     "durationStr": "5.9 小时",
-    "srt": null,
+    "srt": "/data/streams/harei/2026_07_31_22_00_50/录制-1820703922-20260731-220050-040-声乐课回来唱歌^^_merged.srt",
     "xml": "/data/streams/harei/2026_07_31_22_00_50/录制-1820703922-20260731-220050-040-声乐课回来唱歌^^_merged.xml",
     "cover": "/data/streams/harei/2026_07_31_22_00_50/录制-1820703922-20260731-220050-040-声乐课回来唱歌^^.cover.jpg",
-    "highlights": null,
+    "highlights": "/data/streams/harei/2026_07_31_22_00_50/highlights.md",
     "images": [
       "/data/streams/harei/2026_07_31_22_00_50/录制-1820703922-20260731-220050-040-声乐课回来唱歌^^_merged_SCREENSHOTS.jpg"
     ]

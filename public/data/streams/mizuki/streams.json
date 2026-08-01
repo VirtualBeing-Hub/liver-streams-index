@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026_08_01_21_02_44",
+    "title": "虚度一小会⭐",
+    "date": "2026-08-01",
+    "time": "21:02:44",
+    "startTime": "21:02",
+    "endTime": "00:40",
+    "duration": 13094,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/mizuki/2026_08_01_21_02_44/录制-30655190-20260801-210244-650-虚度一小会⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_01_21_02_44/录制-30655190-20260801-210244-650-虚度一小会⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_01_21_02_44/录制-30655190-20260801-210244-650-虚度一小会⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_01_21_02_44/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_01_21_02_44/录制-30655190-20260801-210244-650-虚度一小会⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_01_21_02_44/录制-30655190-20260801-210244-650-虚度一小会⭐_SCREENSHOTS.jpg",
+      "/data/streams/mizuki/2026_08_01_21_02_44/QA_FRAME_120s_scene.jpg",
+      "/data/streams/mizuki/2026_08_01_21_02_44/QA_FRAME_180.jpg",
+      "/data/streams/mizuki/2026_08_01_21_02_44/QA_FRAME_160.jpg",
+      "/data/streams/mizuki/2026_08_01_21_02_44/QA_FRAME_120s_thumbnail.jpg",
+      "/data/streams/mizuki/2026_08_01_21_02_44/QA_FRAME_120s_thumbnail10.jpg",
+      "/data/streams/mizuki/2026_08_01_21_02_44/QA_FRAME_130.jpg",
+      "/data/streams/mizuki/2026_08_01_21_02_44/QA_FRAME_140.jpg",
+      "/data/streams/mizuki/2026_08_01_21_02_44/QA_FRAME_150.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_01_15_03_23",
+    "title": "小猪咪来唱歌⭐",
+    "date": "2026-08-01",
+    "time": "15:03:23",
+    "startTime": "15:03",
+    "endTime": "18:09",
+    "duration": 11202,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/mizuki/2026_08_01_15_03_23/录制-30655190-20260801-150323-572-小猪咪来唱歌⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_01_15_03_23/录制-30655190-20260801-150323-572-小猪咪来唱歌⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_01_15_03_23/录制-30655190-20260801-150323-572-小猪咪来唱歌⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_01_15_03_23/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_01_15_03_23/录制-30655190-20260801-150323-572-小猪咪来唱歌⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_01_15_03_23/录制-30655190-20260801-150323-572-小猪咪来唱歌⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_01_11_57_16",
+    "title": "明日方舟代抽⭐",
+    "date": "2026-08-01",
+    "time": "11:57:16",
+    "startTime": "11:57",
+    "endTime": "13:33",
+    "duration": 5774,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/mizuki/2026_08_01_11_57_16/录制-30655190-20260801-115716-543-明日方舟代抽⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_01_11_57_16/录制-30655190-20260801-115716-543-明日方舟代抽⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_01_11_57_16/录制-30655190-20260801-115716-543-明日方舟代抽⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_01_11_57_16/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_01_11_57_16/录制-30655190-20260801-115716-543-明日方舟代抽⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_01_11_57_16/录制-30655190-20260801-115716-543-明日方舟代抽⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_07_31_22_04_55",
     "title": "以撒-第三回⭐",
     "date": "2026-07-31",
