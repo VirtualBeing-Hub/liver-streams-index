@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_02_21_32_35",
+    "title": "一只小鼠^^",
+    "date": "2026-08-02",
+    "time": "21:32:35",
+    "startTime": "21:32",
+    "endTime": "01:57",
+    "duration": 15915,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged.srt",
+    "xml": "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged.xml",
+    "cover": "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_08_02_21_32_35/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_EVIDENCE_FRAME_01_000420s.jpg",
+      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_EVIDENCE_FRAME_02_015660s.jpg",
+      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_01_21_33_32",
     "title": "晚上鼠晚上鼠^^",
     "date": "2026-08-01",

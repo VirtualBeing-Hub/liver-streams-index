@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_08_02_21_44_37",
+    "title": "1616我们喜浣你",
+    "date": "2026-08-02",
+    "time": "21:44:37",
+    "startTime": "21:44",
+    "endTime": "00:14",
+    "duration": 9035,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/izayoi/2026_08_02_21_44_37/录制-1741667419-20260802-214437-797-1616我们喜浣你.srt",
+    "xml": "/data/streams/izayoi/2026_08_02_21_44_37/录制-1741667419-20260802-214437-797-1616我们喜浣你.xml",
+    "cover": "/data/streams/izayoi/2026_08_02_21_44_37/录制-1741667419-20260802-214437-797-1616我们喜浣你.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_02_21_44_37/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_02_21_44_37/录制-1741667419-20260802-214437-797-1616我们喜浣你_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_02_21_44_37/录制-1741667419-20260802-214437-797-1616我们喜浣你_EVIDENCE_REQUEST_E1.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_02_20_53_11",
+    "title": "1616我们喜浣你",
+    "date": "2026-08-02",
+    "time": "20:53:11",
+    "startTime": "20:53",
+    "endTime": "20:54",
+    "duration": 119,
+    "durationStr": "1 分钟",
+    "srt": "/data/streams/izayoi/2026_08_02_20_53_11/录制-1741667419-20260802-205311-694-1616我们喜浣你.srt",
+    "xml": "/data/streams/izayoi/2026_08_02_20_53_11/录制-1741667419-20260802-205311-694-1616我们喜浣你.xml",
+    "cover": "/data/streams/izayoi/2026_08_02_20_53_11/录制-1741667419-20260802-205311-694-1616我们喜浣你.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_02_20_53_11/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_02_20_53_11/录制-1741667419-20260802-205311-694-1616我们喜浣你_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_02_20_32_35",
     "title": "1616我们喜浣你",
     "date": "2026-08-02",
@@ -28,7 +63,8 @@
     "cover": "/data/streams/izayoi/2026_08_02_11_01_33/录制-1741667419-20260802-110133-317-中午好——.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_08_02_11_01_33/highlights.md",
     "images": [
-      "/data/streams/izayoi/2026_08_02_11_01_33/录制-1741667419-20260802-110133-317-中午好——_COMIC_FACTORY.png"
+      "/data/streams/izayoi/2026_08_02_11_01_33/录制-1741667419-20260802-110133-317-中午好——_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_02_11_01_33/录制-1741667419-20260802-110133-317-中午好——_SCREENSHOTS.jpg"
     ]
   },
   {

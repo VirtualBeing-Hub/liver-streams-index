@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026_08_02_22_07_27",
+    "title": "嘟了嘟了！",
+    "date": "2026-08-02",
+    "time": "22:07:27",
+    "startTime": "22:07",
+    "endTime": "00:22",
+    "duration": 8157,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/mitsuri/2026_08_02_22_07_27/录制-1967216004-20260802-220727-406-嘟了嘟了！.srt",
+    "xml": "/data/streams/mitsuri/2026_08_02_22_07_27/录制-1967216004-20260802-220727-406-嘟了嘟了！.xml",
+    "cover": "/data/streams/mitsuri/2026_08_02_22_07_27/录制-1967216004-20260802-220727-406-嘟了嘟了！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_08_02_22_07_27/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_08_02_22_07_27/录制-1967216004-20260802-220727-406-嘟了嘟了！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_08_02_22_07_27/录制-1967216004-20260802-220727-406-嘟了嘟了！_EVIDENCE_FRAME_01_008040s.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_02_21_29_57",
+    "title": "嘟了嘟了！",
+    "date": "2026-08-02",
+    "time": "21:29:57",
+    "startTime": "21:29",
+    "endTime": "22:06",
+    "duration": 2246,
+    "durationStr": "0.6 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_08_02_21_29_57/录制-1967216004-20260802-212957-928-嘟了嘟了！.xml",
+    "cover": "/data/streams/mitsuri/2026_08_02_21_29_57/录制-1967216004-20260802-212957-928-嘟了嘟了！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_02_20_53_09",
+    "title": "嘟了嘟了！",
+    "date": "2026-08-02",
+    "time": "20:53:09",
+    "startTime": "20:53",
+    "endTime": "21:29",
+    "duration": 2171,
+    "durationStr": "0.6 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_08_02_20_53_09/录制-1967216004-20260802-205309-537-嘟了嘟了！.xml",
+    "cover": "/data/streams/mitsuri/2026_08_02_20_53_09/录制-1967216004-20260802-205309-537-嘟了嘟了！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_02_18_18_45",
     "title": "嘟了嘟了！",
     "date": "2026-08-02",

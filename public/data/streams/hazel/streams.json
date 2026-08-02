@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026_08_02_22_16_40",
+    "title": "悠闲夜晚 偶像经纪人",
+    "date": "2026-08-02",
+    "time": "22:16:40",
+    "startTime": "22:16",
+    "endTime": "23:14",
+    "duration": 3490,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/hazel/2026_08_02_22_16_40/录制-1713546334-20260802-221640-968-悠闲夜晚 偶像经纪人_merged.srt",
+    "xml": "/data/streams/hazel/2026_08_02_22_16_40/录制-1713546334-20260802-221640-968-悠闲夜晚 偶像经纪人_merged.xml",
+    "cover": "/data/streams/hazel/2026_08_02_22_16_40/录制-1713546334-20260802-221640-968-悠闲夜晚 偶像经纪人.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_08_02_22_16_40/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_08_02_22_16_40/录制-1713546334-20260802-221640-968-悠闲夜晚 偶像经纪人_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_02_21_45_05",
+    "title": "悠闲夜晚 偶像经纪人",
+    "date": "2026-08-02",
+    "time": "21:45:05",
+    "startTime": "21:45",
+    "endTime": "22:16",
+    "duration": 1893,
+    "durationStr": "0.5 小时",
+    "srt": null,
+    "xml": "/data/streams/hazel/2026_08_02_21_45_05/录制-1713546334-20260802-214505-884-悠闲夜晚 偶像经纪人.xml",
+    "cover": "/data/streams/hazel/2026_08_02_21_45_05/录制-1713546334-20260802-214505-884-悠闲夜晚 偶像经纪人.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_02_21_16_45",
+    "title": "悠闲夜晚 偶像经纪人",
+    "date": "2026-08-02",
+    "time": "21:16:45",
+    "startTime": "21:16",
+    "endTime": "21:44",
+    "duration": 1698,
+    "durationStr": "0.5 小时",
+    "srt": null,
+    "xml": "/data/streams/hazel/2026_08_02_21_16_45/录制-1713546334-20260802-211645-859-悠闲夜晚 偶像经纪人.xml",
+    "cover": "/data/streams/hazel/2026_08_02_21_16_45/录制-1713546334-20260802-211645-859-悠闲夜晚 偶像经纪人.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_02_20_53_10",
+    "title": "悠闲夜晚 偶像经纪人",
+    "date": "2026-08-02",
+    "time": "20:53:10",
+    "startTime": "20:53",
+    "endTime": "21:16",
+    "duration": 1415,
+    "durationStr": "0.4 小时",
+    "srt": null,
+    "xml": "/data/streams/hazel/2026_08_02_20_53_10/录制-1713546334-20260802-205310-265-悠闲夜晚 偶像经纪人.xml",
+    "cover": "/data/streams/hazel/2026_08_02_20_53_10/录制-1713546334-20260802-205310-265-悠闲夜晚 偶像经纪人.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_02_20_46_48",
     "title": "悠闲夜晚 偶像经纪人",
     "date": "2026-08-02",
