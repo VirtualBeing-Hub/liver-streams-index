@@ -1,7 +1,54 @@
 [
   {
+    "id": "2026_08_02_14_28_10",
+    "title": "电台n2!",
+    "date": "2026-08-02",
+    "time": "14:28:10",
+    "startTime": "14:28",
+    "endTime": "16:02",
+    "duration": 5699,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/nightin/2026_08_02_14_28_10/录制-24872476-20260802-142810-850-电台n2!.srt",
+    "xml": "/data/streams/nightin/2026_08_02_14_28_10/录制-24872476-20260802-142810-850-电台n2!.xml",
+    "cover": "/data/streams/nightin/2026_08_02_14_28_10/录制-24872476-20260802-142810-850-电台n2!.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_02_14_28_10/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_02_14_28_10/录制-24872476-20260802-142810-850-电台n2!_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_08_02_14_23_34",
+    "title": "电台n2!",
+    "date": "2026-08-02",
+    "time": "14:23:34",
+    "startTime": "14:23",
+    "endTime": "14:27",
+    "duration": 273,
+    "durationStr": "4 分钟",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_08_02_14_23_34/录制-24872476-20260802-142334-710-电台n2!.xml",
+    "cover": "/data/streams/nightin/2026_08_02_14_23_34/录制-24872476-20260802-142334-710-电台n2!.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_02_14_04_56",
+    "title": "电台n2!",
+    "date": "2026-08-02",
+    "time": "14:04:56",
+    "startTime": "14:04",
+    "endTime": "14:22",
+    "duration": 1114,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_08_02_14_04_56/录制-24872476-20260802-140456-601-电台n2!.xml",
+    "cover": "/data/streams/nightin/2026_08_02_14_04_56/录制-24872476-20260802-140456-601-电台n2!.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_01_18_15_04",
-    "title": "8月第一波！！低音质版！",
+    "title": "电台n2!",
     "date": "2026-08-01",
     "time": "18:15:04",
     "startTime": "18:15",

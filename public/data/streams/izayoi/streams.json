@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026_08_02_20_32_35",
+    "title": "1616我们喜浣你",
+    "date": "2026-08-02",
+    "time": "20:32:35",
+    "startTime": "20:32",
+    "endTime": "20:46",
+    "duration": 878,
+    "durationStr": "0.2 小时",
+    "srt": null,
+    "xml": "/data/streams/izayoi/2026_08_02_20_32_35/录制-1741667419-20260802-203235-960-1616我们喜浣你.xml",
+    "cover": "/data/streams/izayoi/2026_08_02_20_32_35/录制-1741667419-20260802-203235-960-1616我们喜浣你.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_02_11_01_33",
+    "title": "中午好——",
+    "date": "2026-08-02",
+    "time": "11:01:33",
+    "startTime": "11:01",
+    "endTime": "13:51",
+    "duration": 10258,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/izayoi/2026_08_02_11_01_33/录制-1741667419-20260802-110133-317-中午好——.srt",
+    "xml": "/data/streams/izayoi/2026_08_02_11_01_33/录制-1741667419-20260802-110133-317-中午好——.xml",
+    "cover": "/data/streams/izayoi/2026_08_02_11_01_33/录制-1741667419-20260802-110133-317-中午好——.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_02_11_01_33/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_02_11_01_33/录制-1741667419-20260802-110133-317-中午好——_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_07_31_00_03_03",
     "title": "道歉声明",
     "date": "2026-07-30",
