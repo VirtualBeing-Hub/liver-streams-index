@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_08_03_22_24_53",
+    "title": "一起看超市后门吃pocky!",
+    "date": "2026-08-03",
+    "time": "22:24:53",
+    "startTime": "22:24",
+    "endTime": "00:48",
+    "duration": 8646,
+    "durationStr": "2.4 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_08_03_22_24_53/录制-1967216004-20260803-222453-105-一起看超市后门吃pocky!.xml",
+    "cover": "/data/streams/mitsuri/2026_08_03_22_24_53/录制-1967216004-20260803-222453-105-一起看超市后门吃pocky!.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_03_19_04_25",
+    "title": "环！",
+    "date": "2026-08-03",
+    "time": "19:04:25",
+    "startTime": "19:04",
+    "endTime": "21:19",
+    "duration": 8139,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/mitsuri/2026_08_03_19_04_25/录制-1967216004-20260803-190425-237-环！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_08_03_19_04_25/录制-1967216004-20260803-190425-237-环！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_08_03_19_04_25/录制-1967216004-20260803-190425-237-环！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_08_03_19_04_25/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_08_03_19_04_25/录制-1967216004-20260803-190425-237-环！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_08_03_19_04_25/录制-1967216004-20260803-190425-237-环！_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/mitsuri/2026_08_03_19_04_25/录制-1967216004-20260803-190425-237-环！_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_08_02_22_07_27",
     "title": "嘟了嘟了！",
     "date": "2026-08-02",
