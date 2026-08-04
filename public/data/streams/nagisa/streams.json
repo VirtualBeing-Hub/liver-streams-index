@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026_08_05_00_33_58",
+    "title": "「识质存在」第五回",
+    "date": "2026-08-04",
+    "time": "00:33:58",
+    "startTime": "00:33",
+    "endTime": "00:38",
+    "duration": 319,
+    "durationStr": "5 分钟",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_08_05_00_33_58/录制-31368705-20260805-003358-659-「识质存在」第五回.xml",
+    "cover": "/data/streams/nagisa/2026_08_05_00_33_58/录制-31368705-20260805-003358-659-「识质存在」第五回.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_04_21_16_36",
+    "title": "「识质存在」第五回",
+    "date": "2026-08-04",
+    "time": "21:16:36",
+    "startTime": "21:16",
+    "endTime": "00:29",
+    "duration": 11632,
+    "durationStr": "3.2 小时",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_08_04_21_16_36/录制-31368705-20260804-211636-357-「识质存在」第五回.xml",
+    "cover": "/data/streams/nagisa/2026_08_04_21_16_36/录制-31368705-20260804-211636-357-「识质存在」第五回.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_04_21_16_36/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_04_21_16_36/录制-31368705-20260804-211636-357-「识质存在」第五回_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_04_21_04_41",
+    "title": "「识质存在」第五回",
+    "date": "2026-08-04",
+    "time": "21:04:41",
+    "startTime": "21:04",
+    "endTime": "21:13",
+    "duration": 591,
+    "durationStr": "0.2 小时",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_08_04_21_04_41/录制-31368705-20260804-210441-768-「识质存在」第五回.xml",
+    "cover": "/data/streams/nagisa/2026_08_04_21_04_41/录制-31368705-20260804-210441-768-「识质存在」第五回.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_04_08_07_00",
     "title": "早安一会儿",
     "date": "2026-08-04",
@@ -13,8 +60,7 @@
     "cover": "/data/streams/nagisa/2026_08_04_08_07_00/录制-31368705-20260804-080700-793-早安一会儿.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_04_08_07_00/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_04_08_07_00/录制-31368705-20260804-080700-793-早安一会儿_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_04_08_07_00/录制-31368705-20260804-080700-793-早安一会儿_SCREENSHOTS.jpg"
+      "/data/streams/nagisa/2026_08_04_08_07_00/录制-31368705-20260804-080700-793-早安一会儿_COMIC_FACTORY.png"
     ]
   },
   {

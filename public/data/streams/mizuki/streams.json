@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_08_04_21_02_36",
+    "title": "太空狼人杀跟水友一起上半⭐",
+    "date": "2026-08-04",
+    "time": "21:02:36",
+    "startTime": "21:02",
+    "endTime": "01:07",
+    "duration": 14747,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/mizuki/2026_08_04_21_02_36/录制-30655190-20260804-210236-837-太空狼人杀跟水友一起上半⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_08_04_21_02_36/录制-30655190-20260804-210236-837-太空狼人杀跟水友一起上半⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_08_04_21_02_36/录制-30655190-20260804-210236-837-太空狼人杀跟水友一起上半⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_04_21_02_36/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_04_21_02_36/录制-30655190-20260804-210236-837-太空狼人杀跟水友一起上半⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_04_21_02_36/录制-30655190-20260804-210236-837-太空狼人杀跟水友一起上半⭐_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_04_15_45_30",
     "title": "小唱歌一下午⭐",
     "date": "2026-08-04",
@@ -8,12 +26,15 @@
     "endTime": "19:03",
     "duration": 11923,
     "durationStr": "3.3 小时",
-    "srt": null,
+    "srt": "/data/streams/mizuki/2026_08_04_15_45_30/录制-30655190-20260804-154530-844-小唱歌一下午⭐.srt",
     "xml": "/data/streams/mizuki/2026_08_04_15_45_30/录制-30655190-20260804-154530-844-小唱歌一下午⭐.xml",
     "cover": "/data/streams/mizuki/2026_08_04_15_45_30/录制-30655190-20260804-154530-844-小唱歌一下午⭐.cover.jpg",
-    "highlights": null,
+    "highlights": "/data/streams/mizuki/2026_08_04_15_45_30/highlights.md",
     "images": [
-      "/data/streams/mizuki/2026_08_04_15_45_30/录制-30655190-20260804-154530-844-小唱歌一下午⭐_SCREENSHOTS.jpg"
+      "/data/streams/mizuki/2026_08_04_15_45_30/录制-30655190-20260804-154530-844-小唱歌一下午⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_04_15_45_30/录制-30655190-20260804-154530-844-小唱歌一下午⭐_EVIDENCE_FRAME_01_008400s.jpg",
+      "/data/streams/mizuki/2026_08_04_15_45_30/录制-30655190-20260804-154530-844-小唱歌一下午⭐_EVIDENCE_FRAME_02_011640s.jpg",
+      "/data/streams/mizuki/2026_08_04_15_45_30/录制-30655190-20260804-154530-844-小唱歌一下午⭐_EVIDENCE_REQUEST_E1.jpg"
     ]
   },
   {
