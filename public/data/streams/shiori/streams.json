@@ -1,5 +1,43 @@
 [
   {
+    "id": "2026_08_05_21_34_02",
+    "title": "小栞来！",
+    "date": "2026-08-05",
+    "time": "21:34:02",
+    "startTime": "21:34",
+    "endTime": "00:12",
+    "duration": 9522,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/shiori/2026_08_05_21_34_02/录制-26966466-20260805-213402-897-小栞来！.srt",
+    "xml": "/data/streams/shiori/2026_08_05_21_34_02/录制-26966466-20260805-213402-897-小栞来！.xml",
+    "cover": "/data/streams/shiori/2026_08_05_21_34_02/录制-26966466-20260805-213402-897-小栞来！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_05_21_34_02/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_05_21_34_02/录制-26966466-20260805-213402-897-小栞来！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_05_21_34_02/录制-26966466-20260805-213402-897-小栞来！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_05_10_20_31",
+    "title": "早安獭獭栞！",
+    "date": "2026-08-05",
+    "time": "10:20:31",
+    "startTime": "10:20",
+    "endTime": "12:33",
+    "duration": 8007,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/shiori/2026_08_05_10_20_31/录制-26966466-20260805-102031-440-早安獭獭栞！.srt",
+    "xml": "/data/streams/shiori/2026_08_05_10_20_31/录制-26966466-20260805-102031-440-早安獭獭栞！.xml",
+    "cover": "/data/streams/shiori/2026_08_05_10_20_31/录制-26966466-20260805-102031-440-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_05_10_20_31/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_05_10_20_31/录制-26966466-20260805-102031-440-早安獭獭栞！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/shiori/2026_08_05_10_20_31/录制-26966466-20260805-102031-440-早安獭獭栞！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_08_05_10_20_31/录制-26966466-20260805-102031-440-早安獭獭栞！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/shiori/2026_08_05_10_20_31/录制-26966466-20260805-102031-440-早安獭獭栞！_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_04_20_05_28",
     "title": "可怜小栞；；",
     "date": "2026-08-04",

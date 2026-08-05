@@ -1,5 +1,42 @@
 [
   {
+    "id": "2026_08_05_23_10_41",
+    "title": "电话一会儿",
+    "date": "2026-08-05",
+    "time": "23:10:41",
+    "startTime": "23:10",
+    "endTime": "00:04",
+    "duration": 3279,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/hazel/2026_08_05_23_10_41/录制-1713546334-20260805-231041-339-电话一会儿_merged.srt",
+    "xml": "/data/streams/hazel/2026_08_05_23_10_41/录制-1713546334-20260805-231041-339-电话一会儿_merged.xml",
+    "cover": "/data/streams/hazel/2026_08_05_23_10_41/录制-1713546334-20260805-231041-339-电话一会儿.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_08_05_23_10_41/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_08_05_23_10_41/录制-1713546334-20260805-231041-339-电话一会儿_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_08_05_23_10_41/录制-1713546334-20260805-231041-339-电话一会儿_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/hazel/2026_08_05_23_10_41/录制-1713546334-20260805-231041-339-电话一会儿_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_05_11_32_02",
+    "title": "电话一会儿",
+    "date": "2026-08-05",
+    "time": "11:32:02",
+    "startTime": "11:32",
+    "endTime": "12:17",
+    "duration": 2731,
+    "durationStr": "0.8 小时",
+    "srt": "/data/streams/hazel/2026_08_05_11_32_02/录制-1713546334-20260805-113202-744-午间电台_merged.srt",
+    "xml": "/data/streams/hazel/2026_08_05_11_32_02/录制-1713546334-20260805-113202-744-午间电台_merged.xml",
+    "cover": "/data/streams/hazel/2026_08_05_11_32_02/录制-1713546334-20260805-113202-744-午间电台.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_08_05_11_32_02/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_08_05_11_32_02/录制-1713546334-20260805-113202-744-午间电台_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_08_05_11_32_02/录制-1713546334-20260805-113202-744-午间电台_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_04_20_05_28",
     "title": "悠闲夜晚",
     "date": "2026-08-04",

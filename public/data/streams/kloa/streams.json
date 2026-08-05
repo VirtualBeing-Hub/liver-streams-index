@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_08_05_20_04_16",
+    "title": "蔻雅玩玩",
+    "date": "2026-08-05",
+    "time": "20:04:16",
+    "startTime": "20:04",
+    "endTime": "00:30",
+    "duration": 15962,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_05_20_04_16/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩_merged_EVIDENCE_FRAME_01_014520s.jpg",
+      "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_05_10_02_10",
+    "title": "俄罗斯方块，等会一起看新人",
+    "date": "2026-08-05",
+    "time": "10:02:10",
+    "startTime": "10:02",
+    "endTime": "14:03",
+    "duration": 14477,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_05_10_02_10/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged_EVIDENCE_FRAME_01_014220s.jpg",
+      "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_04_20_05_30",
     "title": "本所~挑战一下恐怖游戏吧....",
     "date": "2026-08-04",
