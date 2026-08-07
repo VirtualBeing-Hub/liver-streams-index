@@ -1,18 +1,45 @@
 [
   {
+    "id": "2026_08_07_21_12_28",
+    "title": "周五的歌杂",
+    "date": "2026-08-07",
+    "time": "21:12:28",
+    "startTime": "21:12",
+    "endTime": "01:55",
+    "duration": 16991,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂.srt",
+    "xml": "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂.xml",
+    "cover": "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_07_21_12_28/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂_EVIDENCE_FRAME_01_006360s.jpg",
+      "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_07_10_51_40",
     "title": "早安司机",
     "date": "2026-08-07",
     "time": "10:51:40",
     "startTime": "10:51",
-    "endTime": "11:01",
-    "duration": 619,
-    "durationStr": "0.2 小时",
-    "srt": null,
-    "xml": "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机.xml",
+    "endTime": "11:51",
+    "duration": 3607,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged.xml",
     "cover": "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nagisa/2026_08_07_10_51_40/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_EVIDENCE_FRAME_01_000180s.jpg",
+      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_EVIDENCE_FRAME_02_003000s.jpg",
+      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
   },
   {
     "id": "2026_08_05_21_04_10",

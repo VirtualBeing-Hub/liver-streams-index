@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_08_07_18_57_38",
+    "title": "看下新人首播⭐",
+    "date": "2026-08-07",
+    "time": "18:57:38",
+    "startTime": "18:57",
+    "endTime": "00:32",
+    "duration": 20133,
+    "durationStr": "5.6 小时",
+    "srt": "/data/streams/mizuki/2026_08_07_18_57_38/录制-30655190-20260807-185738-172-看下新人首播⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_07_18_57_38/录制-30655190-20260807-185738-172-看下新人首播⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_07_18_57_38/录制-30655190-20260807-185738-172-看下新人首播⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_07_18_57_38/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_07_18_57_38/录制-30655190-20260807-185738-172-看下新人首播⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_07_18_57_38/录制-30655190-20260807-185738-172-看下新人首播⭐_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/mizuki/2026_08_07_18_57_38/录制-30655190-20260807-185738-172-看下新人首播⭐_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_07_15_04_31",
+    "title": "fate联动打完！⭐",
+    "date": "2026-08-07",
+    "time": "15:04:31",
+    "startTime": "15:04",
+    "endTime": "18:02",
+    "duration": 10727,
+    "durationStr": "3.0 小时",
+    "srt": null,
+    "xml": "/data/streams/mizuki/2026_08_07_15_04_31/录制-30655190-20260807-150431-749-fate联动打完！⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_07_15_04_31/录制-30655190-20260807-150431-749-fate联动打完！⭐.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_06_21_03_16",
     "title": "小弥的虚度time⭐",
     "date": "2026-08-06",

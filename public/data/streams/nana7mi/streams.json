@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_08_07_22_28_23",
+    "title": "KTV啊KTV",
+    "date": "2026-08-07",
+    "time": "22:28:23",
+    "startTime": "22:28",
+    "endTime": "04:00",
+    "duration": 19932,
+    "durationStr": "5.5 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_08_07_22_28_23/录制-21452505-20260807-222823-402-KTV啊KTV.xml",
+    "cover": "/data/streams/nana7mi/2026_08_07_22_28_23/录制-21452505-20260807-222823-402-KTV啊KTV.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_07_22_18_31",
+    "title": "KTV啊KTV",
+    "date": "2026-08-07",
+    "time": "22:18:31",
+    "startTime": "22:18",
+    "endTime": "22:27",
+    "duration": 589,
+    "durationStr": "0.2 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV.xml",
+    "cover": "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_06_23_01_22",
     "title": "二次元的偷",
     "date": "2026-08-06",

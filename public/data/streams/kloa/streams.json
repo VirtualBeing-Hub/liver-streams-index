@@ -1,18 +1,54 @@
 [
   {
+    "id": "2026_08_07_20_42_26",
+    "title": "嘟噜噜噜噜",
+    "date": "2026-08-07",
+    "time": "20:42:26",
+    "startTime": "20:42",
+    "endTime": "23:57",
+    "duration": 11727,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/kloa/2026_08_07_20_42_26/录制-1986461465-20260807-204226-323-嘟噜噜噜噜_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_07_20_42_26/录制-1986461465-20260807-204226-323-嘟噜噜噜噜_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_07_20_42_26/录制-1986461465-20260807-204226-323-嘟噜噜噜噜.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_07_20_42_26/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_07_20_42_26/录制-1986461465-20260807-204226-323-嘟噜噜噜噜_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_07_20_42_26/录制-1986461465-20260807-204226-323-嘟噜噜噜噜_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_07_20_04_28",
+    "title": "嘟噜噜噜噜",
+    "date": "2026-08-07",
+    "time": "20:04:28",
+    "startTime": "20:04",
+    "endTime": "20:41",
+    "duration": 2276,
+    "durationStr": "0.6 小时",
+    "srt": null,
+    "xml": "/data/streams/kloa/2026_08_07_20_04_28/录制-1986461465-20260807-200428-481-嘟噜噜噜噜.xml",
+    "cover": "/data/streams/kloa/2026_08_07_20_04_28/录制-1986461465-20260807-200428-481-嘟噜噜噜噜.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_07_10_52_24",
     "title": "呜",
     "date": "2026-08-07",
     "time": "10:52:24",
     "startTime": "10:52",
-    "endTime": "11:01",
-    "duration": 559,
-    "durationStr": "0.2 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_08_07_10_52_24/录制-1986461465-20260807-105224-707-呜.xml",
+    "endTime": "13:53",
+    "duration": 10885,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/kloa/2026_08_07_10_52_24/录制-1986461465-20260807-105224-707-呜_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_07_10_52_24/录制-1986461465-20260807-105224-707-呜_merged.xml",
     "cover": "/data/streams/kloa/2026_08_07_10_52_24/录制-1986461465-20260807-105224-707-呜.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/kloa/2026_08_07_10_52_24/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_07_10_52_24/录制-1986461465-20260807-105224-707-呜_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_07_10_52_24/录制-1986461465-20260807-105224-707-呜_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_08_06_20_03_54",
