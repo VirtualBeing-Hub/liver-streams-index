@@ -1,5 +1,43 @@
 [
   {
+    "id": "2026_08_06_22_05_27",
+    "title": "【雀魂】摄魂水友赛",
+    "date": "2026-08-06",
+    "time": "22:05:27",
+    "startTime": "22:05",
+    "endTime": "23:40",
+    "duration": 5740,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/nightin/2026_08_06_22_05_27/录制-24872476-20260806-220527-060-【雀魂】摄魂水友赛.srt",
+    "xml": "/data/streams/nightin/2026_08_06_22_05_27/录制-24872476-20260806-220527-060-【雀魂】摄魂水友赛.xml",
+    "cover": "/data/streams/nightin/2026_08_06_22_05_27/录制-24872476-20260806-220527-060-【雀魂】摄魂水友赛.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_06_22_05_27/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_06_22_05_27/录制-24872476-20260806-220527-060-【雀魂】摄魂水友赛_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_06_22_05_27/录制-24872476-20260806-220527-060-【雀魂】摄魂水友赛_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nightin/2026_08_06_22_05_27/录制-24872476-20260806-220527-060-【雀魂】摄魂水友赛_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_08_06_22_05_27/录制-24872476-20260806-220527-060-【雀魂】摄魂水友赛_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_06_14_04_35",
+    "title": "【杂】NN又22",
+    "date": "2026-08-06",
+    "time": "14:04:35",
+    "startTime": "14:04",
+    "endTime": "17:01",
+    "duration": 10645,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/nightin/2026_08_06_14_04_35/录制-24872476-20260806-140435-787-【杂】NN又22.srt",
+    "xml": "/data/streams/nightin/2026_08_06_14_04_35/录制-24872476-20260806-140435-787-【杂】NN又22.xml",
+    "cover": "/data/streams/nightin/2026_08_06_14_04_35/录制-24872476-20260806-140435-787-【杂】NN又22.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_06_14_04_35/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_06_14_04_35/录制-24872476-20260806-140435-787-【杂】NN又22_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_06_14_04_35/录制-24872476-20260806-140435-787-【杂】NN又22_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_05_17_07_07",
     "title": "【杂】看看视频",
     "date": "2026-08-05",

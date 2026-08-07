@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026_08_07_10_52_24",
+    "title": "呜",
+    "date": "2026-08-07",
+    "time": "10:52:24",
+    "startTime": "10:52",
+    "endTime": "11:01",
+    "duration": 559,
+    "durationStr": "0.2 小时",
+    "srt": null,
+    "xml": "/data/streams/kloa/2026_08_07_10_52_24/录制-1986461465-20260807-105224-707-呜.xml",
+    "cover": "/data/streams/kloa/2026_08_07_10_52_24/录制-1986461465-20260807-105224-707-呜.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_06_20_03_54",
+    "title": "来唱歌！！",
+    "date": "2026-08-06",
+    "time": "20:03:54",
+    "startTime": "20:03",
+    "endTime": "00:44",
+    "duration": 16895,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！.srt",
+    "xml": "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！.xml",
+    "cover": "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_06_20_03_54/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！_EVIDENCE_FRAME_01_000660s.jpg",
+      "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_06_10_04_17",
+    "title": "虽然是早上但是来点恐怖的！本所~",
+    "date": "2026-08-06",
+    "time": "10:04:17",
+    "startTime": "10:04",
+    "endTime": "11:41",
+    "duration": 5855,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_06_10_04_17/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~_merged_EVIDENCE_FRAME_01_005580s.jpg",
+      "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_05_20_04_16",
     "title": "蔻雅玩玩",
     "date": "2026-08-05",

@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_06_21_33_37",
+    "title": "劳累小鼠^^",
+    "date": "2026-08-06",
+    "time": "21:33:37",
+    "startTime": "21:33",
+    "endTime": "01:46",
+    "duration": 15215,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged.srt",
+    "xml": "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged.xml",
+    "cover": "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_08_06_21_33_37/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_06_13_40_20",
+    "title": "小鼠练一练lol^^",
+    "date": "2026-08-06",
+    "time": "13:40:20",
+    "startTime": "13:40",
+    "endTime": "19:55",
+    "duration": 22544,
+    "durationStr": "6.3 小时",
+    "srt": "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^.srt",
+    "xml": "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^.xml",
+    "cover": "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_08_06_13_40_20/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_EVIDENCE_FRAME_01_003600s.jpg",
+      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_EVIDENCE_FRAME_02_006240s.jpg",
+      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_05_21_02_40",
     "title": "小鼠来了^^",
     "date": "2026-08-05",

@@ -1,18 +1,39 @@
 [
   {
+    "id": "2026_08_06_23_01_22",
+    "title": "二次元的偷",
+    "date": "2026-08-06",
+    "time": "23:01:22",
+    "startTime": "23:01",
+    "endTime": "03:39",
+    "duration": 16700,
+    "durationStr": "4.6 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_08_06_23_01_22/录制-21452505-20260806-230122-039-二次元的偷.xml",
+    "cover": "/data/streams/nana7mi/2026_08_06_23_01_22/录制-21452505-20260806-230122-039-二次元的偷.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_05_23_02_37",
     "title": "依然恐怖之种田",
     "date": "2026-08-05",
     "time": "23:02:37",
     "startTime": "23:02",
-    "endTime": "03:58",
-    "duration": 17791,
-    "durationStr": "4.9 小时",
-    "srt": null,
+    "endTime": "07:02",
+    "duration": 28846,
+    "durationStr": "8.0 小时",
+    "srt": "/data/streams/nana7mi/2026_08_05_23_02_37/录制-21452505-20260805-230237-365-依然恐怖之种田.srt",
     "xml": "/data/streams/nana7mi/2026_08_05_23_02_37/录制-21452505-20260805-230237-365-依然恐怖之种田.xml",
     "cover": "/data/streams/nana7mi/2026_08_05_23_02_37/录制-21452505-20260805-230237-365-依然恐怖之种田.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_08_05_23_02_37/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_08_05_23_02_37/录制-21452505-20260805-230237-365-依然恐怖之种田_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_08_05_23_02_37/录制-21452505-20260805-230237-365-依然恐怖之种田_EVIDENCE_FRAME_01_023580s.jpg",
+      "/data/streams/nana7mi/2026_08_05_23_02_37/录制-21452505-20260805-230237-365-依然恐怖之种田_EVIDENCE_FRAME_02_028440s.jpg",
+      "/data/streams/nana7mi/2026_08_05_23_02_37/录制-21452505-20260805-230237-365-依然恐怖之种田_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nana7mi/2026_08_05_23_02_37/录制-21452505-20260805-230237-365-依然恐怖之种田_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_08_04_21_02_32",

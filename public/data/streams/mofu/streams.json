@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026_08_06_21_00_13",
+    "title": "bilibili主播的直播间",
+    "date": "2026-08-06",
+    "time": "21:00:13",
+    "startTime": "21:00",
+    "endTime": "00:21",
+    "duration": 12084,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/mofu/2026_08_06_21_00_13/录制-1791260716-20260806-210013-783-bilibili主播的直播间.srt",
+    "xml": "/data/streams/mofu/2026_08_06_21_00_13/录制-1791260716-20260806-210013-783-bilibili主播的直播间.xml",
+    "cover": "/data/streams/mofu/2026_08_06_21_00_13/录制-1791260716-20260806-210013-783-bilibili主播的直播间.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_08_06_21_00_13/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_08_06_21_00_13/录制-1791260716-20260806-210013-783-bilibili主播的直播间_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_08_06_21_00_13/录制-1791260716-20260806-210013-783-bilibili主播的直播间_EVIDENCE_FRAME_01_002640s.jpg",
+      "/data/streams/mofu/2026_08_06_21_00_13/录制-1791260716-20260806-210013-783-bilibili主播的直播间_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/mofu/2026_08_06_21_00_13/录制-1791260716-20260806-210013-783-bilibili主播的直播间_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_06_11_39_19",
+    "title": "病弱狗狗【周年舰礼追加中】",
+    "date": "2026-08-06",
+    "time": "11:39:19",
+    "startTime": "11:39",
+    "endTime": "13:37",
+    "duration": 7121,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/mofu/2026_08_06_11_39_19/录制-1791260716-20260806-113919-824-病弱狗狗【周年舰礼追加中】.srt",
+    "xml": "/data/streams/mofu/2026_08_06_11_39_19/录制-1791260716-20260806-113919-824-病弱狗狗【周年舰礼追加中】.xml",
+    "cover": "/data/streams/mofu/2026_08_06_11_39_19/录制-1791260716-20260806-113919-824-病弱狗狗【周年舰礼追加中】.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_08_06_11_39_19/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_08_06_11_39_19/录制-1791260716-20260806-113919-824-病弱狗狗【周年舰礼追加中】_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_08_06_11_39_19/录制-1791260716-20260806-113919-824-病弱狗狗【周年舰礼追加中】_EVIDENCE_FRAME_01_006840s.jpg",
+      "/data/streams/mofu/2026_08_06_11_39_19/录制-1791260716-20260806-113919-824-病弱狗狗【周年舰礼追加中】_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/mofu/2026_08_06_11_39_19/录制-1791260716-20260806-113919-824-病弱狗狗【周年舰礼追加中】_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_05_12_04_16",
     "title": "病弱狗狗【周年舰礼追加中】",
     "date": "2026-08-05",
