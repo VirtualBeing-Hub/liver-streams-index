@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_08_08_21_03_37",
+    "title": "【水友回】糖豆人⭐",
+    "date": "2026-08-08",
+    "time": "21:03:37",
+    "startTime": "21:03",
+    "endTime": "00:58",
+    "duration": 14113,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/mizuki/2026_08_08_21_03_37/录制-30655190-20260808-210337-504-【水友回】糖豆人⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_08_08_21_03_37/录制-30655190-20260808-210337-504-【水友回】糖豆人⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_08_08_21_03_37/录制-30655190-20260808-210337-504-【水友回】糖豆人⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_08_21_03_37/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_08_21_03_37/录制-30655190-20260808-210337-504-【水友回】糖豆人⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_08_21_03_37/录制-30655190-20260808-210337-504-【水友回】糖豆人⭐_merged_EVIDENCE_FRAME_01_009120s.jpg",
+      "/data/streams/mizuki/2026_08_08_21_03_37/录制-30655190-20260808-210337-504-【水友回】糖豆人⭐_merged_EVIDENCE_FRAME_02_013800s.jpg",
+      "/data/streams/mizuki/2026_08_08_21_03_37/录制-30655190-20260808-210337-504-【水友回】糖豆人⭐_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/mizuki/2026_08_08_21_03_37/录制-30655190-20260808-210337-504-【水友回】糖豆人⭐_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_08_15_02_29",
+    "title": "唱一下唱歌⭐",
+    "date": "2026-08-08",
+    "time": "15:02:29",
+    "startTime": "15:02",
+    "endTime": "18:21",
+    "duration": 11957,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mizuki/2026_08_08_15_02_29/录制-30655190-20260808-150229-256-唱一下唱歌⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_08_15_02_29/录制-30655190-20260808-150229-256-唱一下唱歌⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_08_15_02_29/录制-30655190-20260808-150229-256-唱一下唱歌⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_08_15_02_29/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_08_15_02_29/录制-30655190-20260808-150229-256-唱一下唱歌⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_08_15_02_29/录制-30655190-20260808-150229-256-唱一下唱歌⭐_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/mizuki/2026_08_08_15_02_29/录制-30655190-20260808-150229-256-唱一下唱歌⭐_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/mizuki/2026_08_08_15_02_29/录制-30655190-20260808-150229-256-唱一下唱歌⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_07_18_57_38",
     "title": "看下新人首播⭐",
     "date": "2026-08-07",

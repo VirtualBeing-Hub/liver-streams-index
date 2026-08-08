@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_08_08_20_06_15",
+    "title": "【新衣】怎么这么多人啊",
+    "date": "2026-08-08",
+    "time": "20:06:15",
+    "startTime": "20:06",
+    "endTime": "23:34",
+    "duration": 12483,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/michiya/2026_08_08_20_06_15/录制-27628030-20260808-200615-705-【新衣】怎么这么多人啊.srt",
+    "xml": "/data/streams/michiya/2026_08_08_20_06_15/录制-27628030-20260808-200615-705-【新衣】怎么这么多人啊.xml",
+    "cover": "/data/streams/michiya/2026_08_08_20_06_15/录制-27628030-20260808-200615-705-【新衣】怎么这么多人啊.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_08_08_20_06_15/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_08_08_20_06_15/录制-27628030-20260808-200615-705-【新衣】怎么这么多人啊_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_08_17_54_26",
+    "title": "【新衣】突击！！",
+    "date": "2026-08-08",
+    "time": "17:54:26",
+    "startTime": "17:54",
+    "endTime": "19:31",
+    "duration": 5849,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/michiya/2026_08_08_17_54_26/录制-27628030-20260808-175426-613-【新衣】突击！！.srt",
+    "xml": "/data/streams/michiya/2026_08_08_17_54_26/录制-27628030-20260808-175426-613-【新衣】突击！！.xml",
+    "cover": "/data/streams/michiya/2026_08_08_17_54_26/录制-27628030-20260808-175426-613-【新衣】突击！！.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_08_08_17_54_26/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_08_08_17_54_26/录制-27628030-20260808-175426-613-【新衣】突击！！_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_08_08_17_54_26/录制-27628030-20260808-175426-613-【新衣】突击！！_EVIDENCE_FRAME_01_005700s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_06_19_13_29",
     "title": "【新衣】人呢！",
     "date": "2026-08-06",

@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026_08_08_20_16_26",
+    "title": "小鼠来噜^^",
+    "date": "2026-08-08",
+    "time": "20:16:26",
+    "startTime": "20:16",
+    "endTime": "01:32",
+    "duration": 18961,
+    "durationStr": "5.3 小时",
+    "srt": "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^_merged.srt",
+    "xml": "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^_merged.xml",
+    "cover": "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_08_08_20_16_26/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^_merged_EVIDENCE_FRAME_01_001560s.jpg",
+      "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_08_20_02_14",
+    "title": "小鼠来噜^^",
+    "date": "2026-08-08",
+    "time": "20:02:14",
+    "startTime": "20:02",
+    "endTime": "20:05",
+    "duration": 187,
+    "durationStr": "3 分钟",
+    "srt": "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^.srt",
+    "xml": "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^.xml",
+    "cover": "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_08_08_20_02_14/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^_EVIDENCE_FRAME_01_000060s.jpg",
+      "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^_EVIDENCE_FRAME_02_000120s.jpg",
+      "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_07_19_00_39",
     "title": "和三理一起看新人首播^^",
     "date": "2026-08-07",

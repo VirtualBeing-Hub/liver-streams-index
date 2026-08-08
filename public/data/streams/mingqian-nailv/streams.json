@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_08_18_56_23",
+    "title": "等待大火投稿掉落中",
+    "date": "2026-08-08",
+    "time": "18:56:23",
+    "startTime": "18:56",
+    "endTime": "00:37",
+    "duration": 20500,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_08_08_18_56_23/录制-25034104-20260808-185623-148-等待大火投稿掉落中_merged.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_08_08_18_56_23/录制-25034104-20260808-185623-148-等待大火投稿掉落中_merged.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_08_08_18_56_23/录制-25034104-20260808-185623-148-等待大火投稿掉落中.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_08_08_18_56_23/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_08_08_18_56_23/录制-25034104-20260808-185623-148-等待大火投稿掉落中_merged_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_08_08_18_56_23/录制-25034104-20260808-185623-148-等待大火投稿掉落中_merged_EVIDENCE_FRAME_01_014640s.jpg",
+      "/data/streams/mingqian-nailv/2026_08_08_18_56_23/录制-25034104-20260808-185623-148-等待大火投稿掉落中_merged_EVIDENCE_FRAME_02_020400s.jpg",
+      "/data/streams/mingqian-nailv/2026_08_08_18_56_23/录制-25034104-20260808-185623-148-等待大火投稿掉落中_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/mingqian-nailv/2026_08_08_18_56_23/录制-25034104-20260808-185623-148-等待大火投稿掉落中_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_08_07_19_50_17",
     "title": "玩会天国拯救",
     "date": "2026-08-07",

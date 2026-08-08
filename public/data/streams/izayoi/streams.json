@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_08_20_07_30",
+    "title": "昏过去惹",
+    "date": "2026-08-08",
+    "time": "20:07:30",
+    "startTime": "20:07",
+    "endTime": "23:16",
+    "duration": 11393,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/izayoi/2026_08_08_20_07_30/录制-1741667419-20260808-200730-443-昏过去惹.srt",
+    "xml": "/data/streams/izayoi/2026_08_08_20_07_30/录制-1741667419-20260808-200730-443-昏过去惹.xml",
+    "cover": "/data/streams/izayoi/2026_08_08_20_07_30/录制-1741667419-20260808-200730-443-昏过去惹.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_08_20_07_30/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_08_20_07_30/录制-1741667419-20260808-200730-443-昏过去惹_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_08_20_07_30/录制-1741667419-20260808-200730-443-昏过去惹_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/izayoi/2026_08_08_20_07_30/录制-1741667419-20260808-200730-443-昏过去惹_EVIDENCE_FRAME_02_010260s.jpg",
+      "/data/streams/izayoi/2026_08_08_20_07_30/录制-1741667419-20260808-200730-443-昏过去惹_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/izayoi/2026_08_08_20_07_30/录制-1741667419-20260808-200730-443-昏过去惹_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_08_13_58_29",
+    "title": "尊嘟健身浣启动！",
+    "date": "2026-08-08",
+    "time": "13:58:29",
+    "startTime": "13:58",
+    "endTime": "16:36",
+    "duration": 9501,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/izayoi/2026_08_08_13_58_29/录制-1741667419-20260808-135829-603-尊嘟健身浣启动！.srt",
+    "xml": "/data/streams/izayoi/2026_08_08_13_58_29/录制-1741667419-20260808-135829-603-尊嘟健身浣启动！.xml",
+    "cover": "/data/streams/izayoi/2026_08_08_13_58_29/录制-1741667419-20260808-135829-603-尊嘟健身浣启动！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_08_13_58_29/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_08_13_58_29/录制-1741667419-20260808-135829-603-尊嘟健身浣启动！_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_08_13_58_29/录制-1741667419-20260808-135829-603-尊嘟健身浣启动！_EVIDENCE_FRAME_01_001860s.jpg",
+      "/data/streams/izayoi/2026_08_08_13_58_29/录制-1741667419-20260808-135829-603-尊嘟健身浣启动！_EVIDENCE_FRAME_02_003300s.jpg",
+      "/data/streams/izayoi/2026_08_08_13_58_29/录制-1741667419-20260808-135829-603-尊嘟健身浣启动！_EVIDENCE_FRAME_03_009300s.jpg",
+      "/data/streams/izayoi/2026_08_08_13_58_29/录制-1741667419-20260808-135829-603-尊嘟健身浣启动！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_07_20_58_16",
     "title": "吃吃棉花糖！",
     "date": "2026-08-07",

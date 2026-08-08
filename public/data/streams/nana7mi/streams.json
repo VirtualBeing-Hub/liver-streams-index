@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_08_08_23_49_04",
+    "title": "种田！",
+    "date": "2026-08-08",
+    "time": "23:49:04",
+    "startTime": "23:49",
+    "endTime": "03:59",
+    "duration": 15026,
+    "durationStr": "4.2 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_08_08_23_49_04/录制-21452505-20260808-234904-352-种田！.xml",
+    "cover": "/data/streams/nana7mi/2026_08_08_23_49_04/录制-21452505-20260808-234904-352-种田！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_08_22_02_41",
+    "title": "种田！",
+    "date": "2026-08-08",
+    "time": "22:02:41",
+    "startTime": "22:02",
+    "endTime": "23:48",
+    "duration": 6377,
+    "durationStr": "1.8 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_08_08_22_02_41/录制-21452505-20260808-220241-187-种田！.xml",
+    "cover": "/data/streams/nana7mi/2026_08_08_22_02_41/录制-21452505-20260808-220241-187-种田！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_07_22_28_23",
     "title": "KTV啊KTV",
     "date": "2026-08-07",
@@ -20,14 +50,20 @@
     "date": "2026-08-07",
     "time": "22:18:31",
     "startTime": "22:18",
-    "endTime": "22:27",
-    "duration": 589,
-    "durationStr": "0.2 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV.xml",
+    "endTime": "07:57",
+    "duration": 34764,
+    "durationStr": "9.7 小时",
+    "srt": "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV_merged.xml",
     "cover": "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_08_07_22_18_31/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV_merged_EVIDENCE_FRAME_01_001320s.jpg",
+      "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV_merged_EVIDENCE_FRAME_02_003720s.jpg",
+      "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nana7mi/2026_08_07_22_18_31/录制-21452505-20260807-221831-424-KTV啊KTV_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
   },
   {
     "id": "2026_08_06_23_01_22",

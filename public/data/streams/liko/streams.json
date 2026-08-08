@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_08_20_04_30",
+    "title": "唱唱聊聊",
+    "date": "2026-08-08",
+    "time": "20:04:30",
+    "startTime": "20:04",
+    "endTime": "00:46",
+    "duration": 16945,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged.srt",
+    "xml": "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged.xml",
+    "cover": "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_08_20_04_30/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_08_11_10_28",
+    "title": "小兔贴贴~",
+    "date": "2026-08-08",
+    "time": "11:10:28",
+    "startTime": "11:10",
+    "endTime": "14:14",
+    "duration": 11063,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~.srt",
+    "xml": "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~.xml",
+    "cover": "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_08_11_10_28/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~_EVIDENCE_FRAME_01_002640s.jpg",
+      "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~_EVIDENCE_FRAME_02_005220s.jpg",
+      "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_07_20_34_26",
     "title": "小兔贴贴~",
     "date": "2026-08-07",
