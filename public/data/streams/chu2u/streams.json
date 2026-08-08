@@ -1,1 +1,43 @@
-[]
+[
+  {
+    "id": "2026_08_08_14_03_12",
+    "title": "偷喝所有人电解质水！",
+    "date": "2026-08-08",
+    "time": "14:03:12",
+    "startTime": "14:03",
+    "endTime": "18:03",
+    "duration": 14422,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/chu2u/2026_08_08_14_03_12/录制-1727074031-20260808-140312-236-偷喝所有人电解质水！_merged.srt",
+    "xml": "/data/streams/chu2u/2026_08_08_14_03_12/录制-1727074031-20260808-140312-236-偷喝所有人电解质水！_merged.xml",
+    "cover": "/data/streams/chu2u/2026_08_08_14_03_12/录制-1727074031-20260808-140312-236-偷喝所有人电解质水！.cover.jpg",
+    "highlights": "/data/streams/chu2u/2026_08_08_14_03_12/highlights.md",
+    "images": [
+      "/data/streams/chu2u/2026_08_08_14_03_12/录制-1727074031-20260808-140312-236-偷喝所有人电解质水！_merged_COMIC_FACTORY.png",
+      "/data/streams/chu2u/2026_08_08_14_03_12/录制-1727074031-20260808-140312-236-偷喝所有人电解质水！_merged_EVIDENCE_FRAME_01_000300s.jpg",
+      "/data/streams/chu2u/2026_08_08_14_03_12/录制-1727074031-20260808-140312-236-偷喝所有人电解质水！_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/chu2u/2026_08_08_14_03_12/录制-1727074031-20260808-140312-236-偷喝所有人电解质水！_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/chu2u/2026_08_08_14_03_12/录制-1727074031-20260808-140312-236-偷喝所有人电解质水！_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_07_18_56_40",
+    "title": "偷喝所有人电解质水！",
+    "date": "2026-08-07",
+    "time": "18:56:40",
+    "startTime": "18:56",
+    "endTime": "19:29",
+    "duration": 2027,
+    "durationStr": "0.6 小时",
+    "srt": "/data/streams/chu2u/2026_08_07_18_56_40/录制-1727074031-20260807-185640-608-偷喝所有人电解质水！.srt",
+    "xml": "/data/streams/chu2u/2026_08_07_18_56_40/录制-1727074031-20260807-185640-608-偷喝所有人电解质水！.xml",
+    "cover": "/data/streams/chu2u/2026_08_07_18_56_40/录制-1727074031-20260807-185640-608-偷喝所有人电解质水！.cover.jpg",
+    "highlights": "/data/streams/chu2u/2026_08_07_18_56_40/highlights.md",
+    "images": [
+      "/data/streams/chu2u/2026_08_07_18_56_40/录制-1727074031-20260807-185640-608-偷喝所有人电解质水！_COMIC_FACTORY.png",
+      "/data/streams/chu2u/2026_08_07_18_56_40/录制-1727074031-20260807-185640-608-偷喝所有人电解质水！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/chu2u/2026_08_07_18_56_40/录制-1727074031-20260807-185640-608-偷喝所有人电解质水！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/chu2u/2026_08_07_18_56_40/录制-1727074031-20260807-185640-608-偷喝所有人电解质水！_SCREENSHOTS.jpg"
+    ]
+  }
+]
