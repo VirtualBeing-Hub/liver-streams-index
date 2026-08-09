@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_08_09_21_02_51",
+    "title": "精致歌杂环节⭐",
+    "date": "2026-08-09",
+    "time": "21:02:51",
+    "startTime": "21:02",
+    "endTime": "00:57",
+    "duration": 14100,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/mizuki/2026_08_09_21_02_51/录制-30655190-20260809-210251-483-精致歌杂环节⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_09_21_02_51/录制-30655190-20260809-210251-483-精致歌杂环节⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_09_21_02_51/录制-30655190-20260809-210251-483-精致歌杂环节⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_09_21_02_51/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_09_21_02_51/录制-30655190-20260809-210251-483-精致歌杂环节⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_09_21_02_51/录制-30655190-20260809-210251-483-精致歌杂环节⭐_EVIDENCE_FRAME_01_000720s.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_09_17_53_51",
+    "title": "终末地代抽⭐",
+    "date": "2026-08-09",
+    "time": "17:53:51",
+    "startTime": "17:53",
+    "endTime": "18:21",
+    "duration": 1722,
+    "durationStr": "0.5 小时",
+    "srt": "/data/streams/mizuki/2026_08_09_17_53_51/录制-30655190-20260809-175351-342-终末地代抽⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_08_09_17_53_51/录制-30655190-20260809-175351-342-终末地代抽⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_08_09_17_53_51/录制-30655190-20260809-175351-342-终末地代抽⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_09_17_53_51/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_09_17_53_51/录制-30655190-20260809-175351-342-终末地代抽⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_09_17_53_51/录制-30655190-20260809-175351-342-终末地代抽⭐_merged_EVIDENCE_REQUEST_E1.jpg"
+    ]
+  },
+  {
     "id": "2026_08_09_15_59_26",
     "title": "终末地代抽⭐",
     "date": "2026-08-09",

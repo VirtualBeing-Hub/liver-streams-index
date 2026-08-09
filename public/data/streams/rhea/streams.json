@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_09_21_07_11",
+    "title": "【生日月】qsxy",
+    "date": "2026-08-09",
+    "time": "21:07:11",
+    "startTime": "21:07",
+    "endTime": "00:57",
+    "duration": 13816,
+    "durationStr": "3.8 小时",
+    "srt": "/data/streams/rhea/2026_08_09_21_07_11/录制-23260993-20260809-210711-233-【生日月】qsxy_merged.srt",
+    "xml": "/data/streams/rhea/2026_08_09_21_07_11/录制-23260993-20260809-210711-233-【生日月】qsxy_merged.xml",
+    "cover": "/data/streams/rhea/2026_08_09_21_07_11/录制-23260993-20260809-210711-233-【生日月】qsxy.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_09_21_07_11/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_09_21_07_11/录制-23260993-20260809-210711-233-【生日月】qsxy_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_09_21_07_11/录制-23260993-20260809-210711-233-【生日月】qsxy_merged_EVIDENCE_FRAME_01_004620s.jpg",
+      "/data/streams/rhea/2026_08_09_21_07_11/录制-23260993-20260809-210711-233-【生日月】qsxy_merged_EVIDENCE_FRAME_02_013740s.jpg",
+      "/data/streams/rhea/2026_08_09_21_07_11/录制-23260993-20260809-210711-233-【生日月】qsxy_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/rhea/2026_08_09_21_07_11/录制-23260993-20260809-210711-233-【生日月】qsxy_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_08_23_49_02",
     "title": "【生日月】287新人先唱会再填前辈印象x",
     "date": "2026-08-08",
