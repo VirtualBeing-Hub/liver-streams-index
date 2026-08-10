@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_08_10_20_01_15",
+    "title": "周一一起来画头像嘛",
+    "date": "2026-08-10",
+    "time": "20:01:15",
+    "startTime": "20:01",
+    "endTime": "23:38",
+    "duration": 13025,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/izayoi/2026_08_10_20_01_15/录制-1741667419-20260810-200115-884-周一一起来画头像嘛.srt",
+    "xml": "/data/streams/izayoi/2026_08_10_20_01_15/录制-1741667419-20260810-200115-884-周一一起来画头像嘛.xml",
+    "cover": "/data/streams/izayoi/2026_08_10_20_01_15/录制-1741667419-20260810-200115-884-周一一起来画头像嘛.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_10_20_01_15/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_10_20_01_15/录制-1741667419-20260810-200115-884-周一一起来画头像嘛_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_10_20_01_15/录制-1741667419-20260810-200115-884-周一一起来画头像嘛_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/izayoi/2026_08_10_20_01_15/录制-1741667419-20260810-200115-884-周一一起来画头像嘛_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/izayoi/2026_08_10_20_01_15/录制-1741667419-20260810-200115-884-周一一起来画头像嘛_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_10_10_02_09",
+    "title": "1616我们喜浣你！",
+    "date": "2026-08-10",
+    "time": "10:02:09",
+    "startTime": "10:02",
+    "endTime": "12:14",
+    "duration": 7950,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/izayoi/2026_08_10_10_02_09/录制-1741667419-20260810-100209-758-1616我们喜浣你！.srt",
+    "xml": "/data/streams/izayoi/2026_08_10_10_02_09/录制-1741667419-20260810-100209-758-1616我们喜浣你！.xml",
+    "cover": "/data/streams/izayoi/2026_08_10_10_02_09/录制-1741667419-20260810-100209-724-1616我们喜浣你！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_10_10_02_09/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_10_10_02_09/录制-1741667419-20260810-100209-758-1616我们喜浣你！_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_10_10_02_09/录制-1741667419-20260810-100209-758-1616我们喜浣你！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/izayoi/2026_08_10_10_02_09/录制-1741667419-20260810-100209-758-1616我们喜浣你！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/izayoi/2026_08_10_10_02_09/录制-1741667419-20260810-100209-758-1616我们喜浣你！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/izayoi/2026_08_10_10_02_09/录制-1741667419-20260810-100209-758-1616我们喜浣你！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_09_20_01_18",
     "title": "1616我们喜浣你！",
     "date": "2026-08-09",

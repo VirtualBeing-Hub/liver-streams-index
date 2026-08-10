@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_10_16_01_12",
+    "title": "紫发女路人",
+    "date": "2026-08-10",
+    "time": "16:01:12",
+    "startTime": "16:01",
+    "endTime": "17:59",
+    "duration": 7098,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/sumire/2026_08_10_16_01_12/录制-1727076670-20260810-160112-204-紫发女路人.srt",
+    "xml": "/data/streams/sumire/2026_08_10_16_01_12/录制-1727076670-20260810-160112-204-紫发女路人.xml",
+    "cover": "/data/streams/sumire/2026_08_10_16_01_12/录制-1727076670-20260810-160112-204-紫发女路人.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_08_10_16_01_12/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_08_10_16_01_12/录制-1727076670-20260810-160112-204-紫发女路人_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_08_10_16_01_12/录制-1727076670-20260810-160112-204-紫发女路人_EVIDENCE_FRAME_01_001080s.jpg",
+      "/data/streams/sumire/2026_08_10_16_01_12/录制-1727076670-20260810-160112-204-紫发女路人_EVIDENCE_FRAME_02_002700s.jpg",
+      "/data/streams/sumire/2026_08_10_16_01_12/录制-1727076670-20260810-160112-204-紫发女路人_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/sumire/2026_08_10_16_01_12/录制-1727076670-20260810-160112-204-紫发女路人_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_10_08_00_50",
+    "title": "紫发女路人",
+    "date": "2026-08-10",
+    "time": "08:00:50",
+    "startTime": "08:00",
+    "endTime": "09:52",
+    "duration": 6721,
+    "durationStr": "1.9 小时",
+    "srt": "/data/streams/sumire/2026_08_10_08_00_50/录制-1727076670-20260810-080050-451-紫发女路人.srt",
+    "xml": "/data/streams/sumire/2026_08_10_08_00_50/录制-1727076670-20260810-080050-451-紫发女路人.xml",
+    "cover": "/data/streams/sumire/2026_08_10_08_00_50/录制-1727076670-20260810-080050-451-紫发女路人.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_08_10_08_00_50/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_08_10_08_00_50/录制-1727076670-20260810-080050-451-紫发女路人_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_08_10_08_00_50/录制-1727076670-20260810-080050-451-紫发女路人_EVIDENCE_FRAME_01_000240s.jpg",
+      "/data/streams/sumire/2026_08_10_08_00_50/录制-1727076670-20260810-080050-451-紫发女路人_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sumire/2026_08_10_08_00_50/录制-1727076670-20260810-080050-451-紫发女路人_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/sumire/2026_08_10_08_00_50/录制-1727076670-20260810-080050-451-紫发女路人_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_09_21_51_03",
     "title": "紫发女路人",
     "date": "2026-08-09",

@@ -1,5 +1,38 @@
 [
   {
+    "id": "2026_08_10_16_03_02",
+    "title": "来兜风",
+    "date": "2026-08-10",
+    "time": "16:03:02",
+    "startTime": "16:03",
+    "endTime": "18:08",
+    "duration": 7510,
+    "durationStr": "2.1 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_08_10_16_03_02/录制-24872476-20260810-160302-701-久违的健身环！.xml",
+    "cover": "/data/streams/nightin/2026_08_10_16_03_02/录制-24872476-20260810-160302-701-久违的健身环！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_10_09_03_00",
+    "title": "早波的N",
+    "date": "2026-08-10",
+    "time": "09:03:00",
+    "startTime": "09:03",
+    "endTime": "12:01",
+    "duration": 10699,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/nightin/2026_08_10_09_03_00/录制-24872476-20260810-090300-987-早波的N.srt",
+    "xml": "/data/streams/nightin/2026_08_10_09_03_00/录制-24872476-20260810-090300-987-早波的N.xml",
+    "cover": "/data/streams/nightin/2026_08_10_09_03_00/录制-24872476-20260810-090300-987-早波的N.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_10_09_03_00/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_10_09_03_00/录制-24872476-20260810-090300-987-早波的N_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_10_09_03_00/录制-24872476-20260810-090300-987-早波的N_EVIDENCE_FRAME_01_001560s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_09_22_20_57",
     "title": "来打电话",
     "date": "2026-08-09",
