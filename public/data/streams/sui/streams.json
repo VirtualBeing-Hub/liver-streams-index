@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_11_20_05_29",
+    "title": "陪你这个猪过周二!",
+    "date": "2026-08-11",
+    "time": "20:05:29",
+    "startTime": "20:05",
+    "endTime": "00:14",
+    "duration": 14952,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/sui/2026_08_11_20_05_29/录制-25788785-20260811-200529-669-陪你这个猪过周二!.srt",
+    "xml": "/data/streams/sui/2026_08_11_20_05_29/录制-25788785-20260811-200529-669-陪你这个猪过周二!.xml",
+    "cover": "/data/streams/sui/2026_08_11_20_05_29/录制-25788785-20260811-200529-669-陪你这个猪过周二!.cover.jpg",
+    "highlights": "/data/streams/sui/2026_08_11_20_05_29/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_08_11_20_05_29/录制-25788785-20260811-200529-669-陪你这个猪过周二!_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_08_11_20_05_29/录制-25788785-20260811-200529-669-陪你这个猪过周二!_EVIDENCE_FRAME_01_001680s.jpg",
+      "/data/streams/sui/2026_08_11_20_05_29/录制-25788785-20260811-200529-669-陪你这个猪过周二!_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sui/2026_08_11_20_05_29/录制-25788785-20260811-200529-669-陪你这个猪过周二!_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/sui/2026_08_11_20_05_29/录制-25788785-20260811-200529-669-陪你这个猪过周二!_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_11_15_03_07",
+    "title": "和米帕栞栞玩机械狂欢！",
+    "date": "2026-08-11",
+    "time": "15:03:07",
+    "startTime": "15:03",
+    "endTime": "17:09",
+    "duration": 7593,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/sui/2026_08_11_15_03_07/录制-25788785-20260811-150307-193-和米帕栞栞玩机械狂欢！_merged.srt",
+    "xml": "/data/streams/sui/2026_08_11_15_03_07/录制-25788785-20260811-150307-193-和米帕栞栞玩机械狂欢！_merged.xml",
+    "cover": null,
+    "highlights": "/data/streams/sui/2026_08_11_15_03_07/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_08_11_15_03_07/录制-25788785-20260811-150307-193-和米帕栞栞玩机械狂欢！_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_08_11_15_03_07/录制-25788785-20260811-150307-193-和米帕栞栞玩机械狂欢！_merged_EVIDENCE_FRAME_01_000750s.jpg",
+      "/data/streams/sui/2026_08_11_15_03_07/录制-25788785-20260811-150307-193-和米帕栞栞玩机械狂欢！_merged_EVIDENCE_FRAME_02_000840s.jpg",
+      "/data/streams/sui/2026_08_11_15_03_07/录制-25788785-20260811-150307-193-和米帕栞栞玩机械狂欢！_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/sui/2026_08_11_15_03_07/录制-25788785-20260811-150307-193-和米帕栞栞玩机械狂欢！_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_10_20_01_08",
     "title": "陪你这个猪过周一！",
     "date": "2026-08-10",

@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_11_15_03_44",
+    "title": "「机械狂欢」with帕岁栞",
+    "date": "2026-08-11",
+    "time": "15:03:44",
+    "startTime": "15:03",
+    "endTime": "17:11",
+    "duration": 7734,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged.xml",
+    "cover": null,
+    "highlights": "/data/streams/nagisa/2026_08_11_15_03_44/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_EVIDENCE_FRAME_01_000120s.jpg",
+      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_10_08_06_32",
     "title": "早安一会儿",
     "date": "2026-08-10",

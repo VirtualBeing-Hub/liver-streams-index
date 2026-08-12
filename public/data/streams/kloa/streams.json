@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026_08_11_20_12_21",
+    "title": "唱歌歌",
+    "date": "2026-08-11",
+    "time": "20:12:21",
+    "startTime": "20:12",
+    "endTime": "00:31",
+    "duration": 15568,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_11_20_12_21/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_11_01_48_19",
     "title": "晚安歌杂~",
     "date": "2026-08-10",
@@ -16,18 +36,24 @@
   },
   {
     "id": "2026_08_10_21_32_52",
-    "title": "晚安歌杂~",
+    "title": "早安歌杂~",
     "date": "2026-08-10",
     "time": "21:32:52",
     "startTime": "21:32",
-    "endTime": "01:47",
-    "duration": 15324,
-    "durationStr": "4.3 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~.xml",
+    "endTime": "06:05",
+    "duration": 30804,
+    "durationStr": "8.6 小时",
+    "srt": "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged.xml",
     "cover": "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/kloa/2026_08_10_21_32_52/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
   },
   {
     "id": "2026_08_09_20_06_46",
