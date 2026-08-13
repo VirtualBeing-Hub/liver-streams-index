@@ -1,5 +1,102 @@
 [
   {
+    "id": "2026_08_13_21_20_22",
+    "title": "「锈湖：湖之仆从」第一回",
+    "date": "2026-08-13",
+    "time": "21:20:22",
+    "startTime": "21:20",
+    "endTime": "01:37",
+    "duration": 15461,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回.srt",
+    "xml": "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回.xml",
+    "cover": "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_13_21_20_22/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_13_08_11_40",
+    "title": "早安一会儿",
+    "date": "2026-08-13",
+    "time": "08:11:40",
+    "startTime": "08:11",
+    "endTime": "10:24",
+    "duration": 8011,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿.srt",
+    "xml": "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿.xml",
+    "cover": "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_13_08_11_40/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_13_08_07_30",
+    "title": "早安一会儿",
+    "date": "2026-08-13",
+    "time": "08:07:30",
+    "startTime": "08:07",
+    "endTime": "08:11",
+    "duration": 246,
+    "durationStr": "4 分钟",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_08_13_08_07_30/录制-31368705-20260813-080730-574-早安一会儿.xml",
+    "cover": "/data/streams/nagisa/2026_08_13_08_07_30/录制-31368705-20260813-080730-574-早安一会儿.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_12_21_04_32",
+    "title": "一起躲猫猫",
+    "date": "2026-08-12",
+    "time": "21:04:32",
+    "startTime": "21:04",
+    "endTime": "00:05",
+    "duration": 10899,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫.srt",
+    "xml": "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫.xml",
+    "cover": "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_12_21_04_32/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_12_08_06_21",
+    "title": "早歌一会儿",
+    "date": "2026-08-12",
+    "time": "08:06:21",
+    "startTime": "08:06",
+    "endTime": "11:57",
+    "duration": 13860,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged.xml",
+    "cover": "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_12_08_06_21/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_11_15_03_44",
     "title": "「机械狂欢」with帕岁栞",
     "date": "2026-08-11",

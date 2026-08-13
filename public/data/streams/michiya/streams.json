@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_08_13_20_08_32",
+    "title": "【新衣】好多人啊",
+    "date": "2026-08-13",
+    "time": "20:08:32",
+    "startTime": "20:08",
+    "endTime": "22:22",
+    "duration": 8088,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/michiya/2026_08_13_20_08_32/录制-27628030-20260813-200832-537-【新衣】好多人啊.srt",
+    "xml": "/data/streams/michiya/2026_08_13_20_08_32/录制-27628030-20260813-200832-537-【新衣】好多人啊.xml",
+    "cover": "/data/streams/michiya/2026_08_13_20_08_32/录制-27628030-20260813-200832-537-【新衣】好多人啊.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_08_13_20_08_32/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_08_13_20_08_32/录制-27628030-20260813-200832-537-【新衣】好多人啊_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_08_13_20_08_32/录制-27628030-20260813-200832-537-【新衣】好多人啊_EVIDENCE_FRAME_01_007020s.jpg",
+      "/data/streams/michiya/2026_08_13_20_08_32/录制-27628030-20260813-200832-537-【新衣】好多人啊_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/michiya/2026_08_13_20_08_32/录制-27628030-20260813-200832-537-【新衣】好多人啊_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/michiya/2026_08_13_20_08_32/录制-27628030-20260813-200832-537-【新衣】好多人啊_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_12_20_13_28",
+    "title": "【新衣】魔兽新人小夜来噜",
+    "date": "2026-08-12",
+    "time": "20:13:28",
+    "startTime": "20:13",
+    "endTime": "22:13",
+    "duration": 7239,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/michiya/2026_08_12_20_13_28/录制-27628030-20260812-201328-622-【新衣】魔兽新人小夜来噜.srt",
+    "xml": "/data/streams/michiya/2026_08_12_20_13_28/录制-27628030-20260812-201328-622-【新衣】魔兽新人小夜来噜.xml",
+    "cover": "/data/streams/michiya/2026_08_12_20_13_28/录制-27628030-20260812-201328-622-【新衣】魔兽新人小夜来噜.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_08_12_20_13_28/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_08_12_20_13_28/录制-27628030-20260812-201328-622-【新衣】魔兽新人小夜来噜_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_08_12_20_13_28/录制-27628030-20260812-201328-622-【新衣】魔兽新人小夜来噜_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/michiya/2026_08_12_20_13_28/录制-27628030-20260812-201328-622-【新衣】魔兽新人小夜来噜_EVIDENCE_FRAME_02_005400s.jpg",
+      "/data/streams/michiya/2026_08_12_20_13_28/录制-27628030-20260812-201328-622-【新衣】魔兽新人小夜来噜_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_11_19_13_35",
     "title": "【新衣】魔兽新人小夜来噜",
     "date": "2026-08-11",

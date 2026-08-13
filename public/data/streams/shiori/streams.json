@@ -1,5 +1,89 @@
 [
   {
+    "id": "2026_08_13_22_28_57",
+    "title": "到家咯！",
+    "date": "2026-08-13",
+    "time": "22:28:57",
+    "startTime": "22:28",
+    "endTime": "00:10",
+    "duration": 6144,
+    "durationStr": "1.7 小时",
+    "srt": "/data/streams/shiori/2026_08_13_22_28_57/录制-26966466-20260813-222857-929-到家咯！.srt",
+    "xml": "/data/streams/shiori/2026_08_13_22_28_57/录制-26966466-20260813-222857-929-到家咯！.xml",
+    "cover": "/data/streams/shiori/2026_08_13_22_28_57/录制-26966466-20260813-222857-929-到家咯！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_13_22_28_57/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_13_22_28_57/录制-26966466-20260813-222857-929-到家咯！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_13_22_28_57/录制-26966466-20260813-222857-929-到家咯！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/shiori/2026_08_13_22_28_57/录制-26966466-20260813-222857-929-到家咯！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_08_13_22_28_57/录制-26966466-20260813-222857-929-到家咯！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/shiori/2026_08_13_22_28_57/录制-26966466-20260813-222857-929-到家咯！_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_13_10_12_31",
+    "title": "早安獭獭栞！",
+    "date": "2026-08-13",
+    "time": "10:12:31",
+    "startTime": "10:12",
+    "endTime": "12:10",
+    "duration": 7106,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/shiori/2026_08_13_10_12_31/录制-26966466-20260813-101231-440-早安獭獭栞！.srt",
+    "xml": "/data/streams/shiori/2026_08_13_10_12_31/录制-26966466-20260813-101231-440-早安獭獭栞！.xml",
+    "cover": "/data/streams/shiori/2026_08_13_10_12_31/录制-26966466-20260813-101231-440-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_13_10_12_31/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_13_10_12_31/录制-26966466-20260813-101231-440-早安獭獭栞！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_13_10_12_31/录制-26966466-20260813-101231-440-早安獭獭栞！_EVIDENCE_FRAME_01_000297s.jpg",
+      "/data/streams/shiori/2026_08_13_10_12_31/录制-26966466-20260813-101231-440-早安獭獭栞！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_08_13_10_12_31/录制-26966466-20260813-101231-440-早安獭獭栞！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/shiori/2026_08_13_10_12_31/录制-26966466-20260813-101231-440-早安獭獭栞！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_12_21_05_05",
+    "title": "躲猫猫！",
+    "date": "2026-08-12",
+    "time": "21:05:05",
+    "startTime": "21:05",
+    "endTime": "00:14",
+    "duration": 11390,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/shiori/2026_08_12_21_05_05/录制-26966466-20260812-210505-821-躲猫猫！.srt",
+    "xml": "/data/streams/shiori/2026_08_12_21_05_05/录制-26966466-20260812-210505-821-躲猫猫！.xml",
+    "cover": "/data/streams/shiori/2026_08_12_21_05_05/录制-26966466-20260812-210505-821-躲猫猫！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_12_21_05_05/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_12_21_05_05/录制-26966466-20260812-210505-821-躲猫猫！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_12_21_05_05/录制-26966466-20260812-210505-821-躲猫猫！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/shiori/2026_08_12_21_05_05/录制-26966466-20260812-210505-821-躲猫猫！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_08_12_21_05_05/录制-26966466-20260812-210505-821-躲猫猫！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/shiori/2026_08_12_21_05_05/录制-26966466-20260812-210505-821-躲猫猫！_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_12_10_08_16",
+    "title": "早安獭獭栞！",
+    "date": "2026-08-12",
+    "time": "10:08:16",
+    "startTime": "10:08",
+    "endTime": "12:11",
+    "duration": 7419,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/shiori/2026_08_12_10_08_16/录制-26966466-20260812-100816-799-早安獭獭栞！.srt",
+    "xml": "/data/streams/shiori/2026_08_12_10_08_16/录制-26966466-20260812-100816-799-早安獭獭栞！.xml",
+    "cover": "/data/streams/shiori/2026_08_12_10_08_16/录制-26966466-20260812-100816-799-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_12_10_08_16/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_12_10_08_16/录制-26966466-20260812-100816-799-早安獭獭栞！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_12_10_08_16/录制-26966466-20260812-100816-799-早安獭獭栞！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/shiori/2026_08_12_10_08_16/录制-26966466-20260812-100816-799-早安獭獭栞！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_08_12_10_08_16/录制-26966466-20260812-100816-799-早安獭獭栞！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/shiori/2026_08_12_10_08_16/录制-26966466-20260812-100816-799-早安獭獭栞！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_11_21_19_14",
     "title": "小栞来！",
     "date": "2026-08-11",
@@ -13,7 +97,10 @@
     "cover": "/data/streams/shiori/2026_08_11_21_19_14/录制-26966466-20260811-211914-452-小栞来！.cover.jpg",
     "highlights": "/data/streams/shiori/2026_08_11_21_19_14/highlights.md",
     "images": [
-      "/data/streams/shiori/2026_08_11_21_19_14/录制-26966466-20260811-211914-452-小栞来！_SCREENSHOTS.jpg"
+      "/data/streams/shiori/2026_08_11_21_19_14/录制-26966466-20260811-211914-452-小栞来！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_11_21_19_14/录制-26966466-20260811-211914-452-小栞来！_EVIDENCE_FRAME_01_000600s.jpg",
+      "/data/streams/shiori/2026_08_11_21_19_14/录制-26966466-20260811-211914-452-小栞来！_EVIDENCE_FRAME_02_008060s.jpg",
+      "/data/streams/shiori/2026_08_11_21_19_14/录制-26966466-20260811-211914-452-小栞来！_EVIDENCE_FRAME_03_014201s.jpg"
     ]
   },
   {
@@ -31,7 +118,9 @@
     "highlights": "/data/streams/shiori/2026_08_11_15_02_54/highlights.md",
     "images": [
       "/data/streams/shiori/2026_08_11_15_02_54/录制-26966466-20260811-150254-979-米帕岁栞机械狂欢！_COMIC_FACTORY.png",
-      "/data/streams/shiori/2026_08_11_15_02_54/录制-26966466-20260811-150254-979-米帕岁栞机械狂欢！_EVIDENCE_REQUEST_E1.jpg"
+      "/data/streams/shiori/2026_08_11_15_02_54/录制-26966466-20260811-150254-979-米帕岁栞机械狂欢！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/shiori/2026_08_11_15_02_54/录制-26966466-20260811-150254-979-米帕岁栞机械狂欢！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_08_11_15_02_54/录制-26966466-20260811-150254-979-米帕岁栞机械狂欢！_EVIDENCE_REQUEST_E3.jpg"
     ]
   },
   {

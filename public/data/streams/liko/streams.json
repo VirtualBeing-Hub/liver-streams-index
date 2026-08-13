@@ -1,5 +1,82 @@
 [
   {
+    "id": "2026_08_13_20_20_27",
+    "title": "兔兔开播!",
+    "date": "2026-08-13",
+    "time": "20:20:27",
+    "startTime": "20:20",
+    "endTime": "01:04",
+    "duration": 17077,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!.srt",
+    "xml": "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!.xml",
+    "cover": "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_13_20_20_27/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_EVIDENCE_FRAME_01_002160s.jpg",
+      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_13_11_06_16",
+    "title": "兔兔开播!",
+    "date": "2026-08-13",
+    "time": "11:06:16",
+    "startTime": "11:06",
+    "endTime": "14:35",
+    "duration": 12581,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!_merged.srt",
+    "xml": "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!_merged.xml",
+    "cover": "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_13_11_06_16/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_12_21_04_39",
+    "title": "谁是真正的大画家",
+    "date": "2026-08-12",
+    "time": "21:04:39",
+    "startTime": "21:04",
+    "endTime": "00:43",
+    "duration": 13173,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家.srt",
+    "xml": "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家.xml",
+    "cover": "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_12_21_04_39/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_12_11_06_36",
+    "title": "兔兔来咯！",
+    "date": "2026-08-12",
+    "time": "11:06:36",
+    "startTime": "11:06",
+    "endTime": "16:37",
+    "duration": 19916,
+    "durationStr": "5.5 小时",
+    "srt": "/data/streams/liko/2026_08_12_11_06_36/录制-1713548468-20260812-110636-486-兔兔来咯！.srt",
+    "xml": "/data/streams/liko/2026_08_12_11_06_36/录制-1713548468-20260812-110636-486-兔兔来咯！.xml",
+    "cover": "/data/streams/liko/2026_08_12_11_06_36/录制-1713548468-20260812-110636-486-兔兔来咯！.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_12_11_06_36/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_12_11_06_36/录制-1713548468-20260812-110636-486-兔兔来咯！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_10_20_06_14",
     "title": "虚弱小兔",
     "date": "2026-08-10",
