@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_08_14_16_58_55",
+    "title": "【杂谈】今天还能绿吗！",
+    "date": "2026-08-14",
+    "time": "16:58:55",
+    "startTime": "16:58",
+    "endTime": "20:04",
+    "duration": 11175,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/nightin/2026_08_14_16_58_55/录制-24872476-20260814-165855-429-【杂谈】今天还能绿吗！_merged.srt",
+    "xml": "/data/streams/nightin/2026_08_14_16_58_55/录制-24872476-20260814-165855-429-【杂谈】今天还能绿吗！_merged.xml",
+    "cover": "/data/streams/nightin/2026_08_14_16_58_55/录制-24872476-20260814-165855-429-【杂谈】今天还能绿吗！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_14_16_58_55/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_14_16_58_55/录制-24872476-20260814-165855-429-【杂谈】今天还能绿吗！_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_14_16_58_55/录制-24872476-20260814-165855-429-【杂谈】今天还能绿吗！_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nightin/2026_08_14_16_58_55/录制-24872476-20260814-165855-429-【杂谈】今天还能绿吗！_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_08_14_16_58_55/录制-24872476-20260814-165855-429-【杂谈】今天还能绿吗！_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nightin/2026_08_14_16_58_55/录制-24872476-20260814-165855-429-【杂谈】今天还能绿吗！_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_14_09_06_08",
+    "title": "【歌杂】周五到~",
+    "date": "2026-08-14",
+    "time": "09:06:08",
+    "startTime": "09:06",
+    "endTime": "12:06",
+    "duration": 10855,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/nightin/2026_08_14_09_06_08/录制-24872476-20260814-090608-746-【歌杂】周五到~.srt",
+    "xml": "/data/streams/nightin/2026_08_14_09_06_08/录制-24872476-20260814-090608-746-【歌杂】周五到~.xml",
+    "cover": "/data/streams/nightin/2026_08_14_09_06_08/录制-24872476-20260814-090608-746-【歌杂】周五到~.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_14_09_06_08/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_14_09_06_08/录制-24872476-20260814-090608-746-【歌杂】周五到~_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_14_09_06_08/录制-24872476-20260814-090608-746-【歌杂】周五到~_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nightin/2026_08_14_09_06_08/录制-24872476-20260814-090608-746-【歌杂】周五到~_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_08_14_09_06_08/录制-24872476-20260814-090608-746-【歌杂】周五到~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_13_21_03_05",
     "title": "【黑神话】连战还是二周目？",
     "date": "2026-08-13",

@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_14_21_58_11",
+    "title": "小栞来！！",
+    "date": "2026-08-14",
+    "time": "21:58:11",
+    "startTime": "21:58",
+    "endTime": "00:25",
+    "duration": 8865,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/shiori/2026_08_14_21_58_11/录制-26966466-20260814-215811-693-小栞来！！.srt",
+    "xml": "/data/streams/shiori/2026_08_14_21_58_11/录制-26966466-20260814-215811-693-小栞来！！.xml",
+    "cover": "/data/streams/shiori/2026_08_14_21_58_11/录制-26966466-20260814-215811-693-小栞来！！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_14_21_58_11/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_14_21_58_11/录制-26966466-20260814-215811-693-小栞来！！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_14_21_58_11/录制-26966466-20260814-215811-693-小栞来！！_EVIDENCE_FRAME_01_001830s.jpg",
+      "/data/streams/shiori/2026_08_14_21_58_11/录制-26966466-20260814-215811-693-小栞来！！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_08_14_21_58_11/录制-26966466-20260814-215811-693-小栞来！！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/shiori/2026_08_14_21_58_11/录制-26966466-20260814-215811-693-小栞来！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_13_22_28_57",
     "title": "到家咯！",
     "date": "2026-08-13",

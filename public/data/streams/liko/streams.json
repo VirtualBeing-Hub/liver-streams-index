@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_14_20_13_18",
+    "title": "睡醒咯",
+    "date": "2026-08-14",
+    "time": "20:13:18",
+    "startTime": "20:13",
+    "endTime": "01:38",
+    "duration": 19558,
+    "durationStr": "5.4 小时",
+    "srt": "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯.srt",
+    "xml": "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯.xml",
+    "cover": "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_14_20_13_18/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_14_11_14_32",
+    "title": "兔兔开播!",
+    "date": "2026-08-14",
+    "time": "11:14:32",
+    "startTime": "11:14",
+    "endTime": "16:43",
+    "duration": 19780,
+    "durationStr": "5.5 小时",
+    "srt": "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!.srt",
+    "xml": "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!.xml",
+    "cover": "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_14_11_14_32/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_13_20_20_27",
     "title": "兔兔开播!",
     "date": "2026-08-13",

@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_14_22_00_18",
+    "title": "紫色女路人晚上聊聊",
+    "date": "2026-08-14",
+    "time": "22:00:18",
+    "startTime": "22:00",
+    "endTime": "23:31",
+    "duration": 5461,
+    "durationStr": "1.5 小时",
+    "srt": "/data/streams/sumire/2026_08_14_22_00_18/录制-1727076670-20260814-220018-215-紫色女路人晚上聊聊.srt",
+    "xml": "/data/streams/sumire/2026_08_14_22_00_18/录制-1727076670-20260814-220018-215-紫色女路人晚上聊聊.xml",
+    "cover": "/data/streams/sumire/2026_08_14_22_00_18/录制-1727076670-20260814-220018-215-紫色女路人晚上聊聊.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_08_14_22_00_18/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_08_14_22_00_18/录制-1727076670-20260814-220018-215-紫色女路人晚上聊聊_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_08_14_22_00_18/录制-1727076670-20260814-220018-215-紫色女路人晚上聊聊_EVIDENCE_FRAME_01_000240s.jpg",
+      "/data/streams/sumire/2026_08_14_22_00_18/录制-1727076670-20260814-220018-215-紫色女路人晚上聊聊_EVIDENCE_FRAME_02_002940s.jpg",
+      "/data/streams/sumire/2026_08_14_22_00_18/录制-1727076670-20260814-220018-215-紫色女路人晚上聊聊_EVIDENCE_FRAME_03_005220s.jpg",
+      "/data/streams/sumire/2026_08_14_22_00_18/录制-1727076670-20260814-220018-215-紫色女路人晚上聊聊_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_14_10_02_09",
+    "title": "紫路早台",
+    "date": "2026-08-14",
+    "time": "10:02:09",
+    "startTime": "10:02",
+    "endTime": "12:01",
+    "duration": 7199,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/sumire/2026_08_14_10_02_09/录制-1727076670-20260814-100209-121-紫路早台.srt",
+    "xml": "/data/streams/sumire/2026_08_14_10_02_09/录制-1727076670-20260814-100209-121-紫路早台.xml",
+    "cover": "/data/streams/sumire/2026_08_14_10_02_09/录制-1727076670-20260814-100209-121-紫路早台.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_08_14_10_02_09/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_08_14_10_02_09/录制-1727076670-20260814-100209-121-紫路早台_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_08_14_10_02_09/录制-1727076670-20260814-100209-121-紫路早台_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/sumire/2026_08_14_10_02_09/录制-1727076670-20260814-100209-121-紫路早台_EVIDENCE_FRAME_02_002220s.jpg",
+      "/data/streams/sumire/2026_08_14_10_02_09/录制-1727076670-20260814-100209-121-紫路早台_EVIDENCE_FRAME_03_006480s.jpg",
+      "/data/streams/sumire/2026_08_14_10_02_09/录制-1727076670-20260814-100209-121-紫路早台_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_14_00_02_25",
     "title": "突击",
     "date": "2026-08-13",
