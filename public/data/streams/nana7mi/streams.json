@@ -35,14 +35,20 @@
     "date": "2026-08-14",
     "time": "22:17:37",
     "startTime": "22:17",
-    "endTime": "22:51",
-    "duration": 2082,
-    "durationStr": "0.6 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_08_14_22_17_37/录制-21452505-20260814-221737-999-我种我种种种.xml",
+    "endTime": "05:28",
+    "duration": 25869,
+    "durationStr": "7.2 小时",
+    "srt": "/data/streams/nana7mi/2026_08_14_22_17_37/录制-21452505-20260814-221737-999-我种我种种种_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_08_14_22_17_37/录制-21452505-20260814-221737-999-我种我种种种_merged.xml",
     "cover": "/data/streams/nana7mi/2026_08_14_22_17_37/录制-21452505-20260814-221737-999-我种我种种种.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_08_14_22_17_37/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_08_14_22_17_37/录制-21452505-20260814-221737-999-我种我种种种_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_08_14_22_17_37/录制-21452505-20260814-221737-999-我种我种种种_merged_EVIDENCE_FRAME_01_009840s.jpg",
+      "/data/streams/nana7mi/2026_08_14_22_17_37/录制-21452505-20260814-221737-999-我种我种种种_merged_EVIDENCE_FRAME_02_012120s.jpg",
+      "/data/streams/nana7mi/2026_08_14_22_17_37/录制-21452505-20260814-221737-999-我种我种种种_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nana7mi/2026_08_14_22_17_37/录制-21452505-20260814-221737-999-我种我种种种_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
   },
   {
     "id": "2026_08_13_22_32_29",
