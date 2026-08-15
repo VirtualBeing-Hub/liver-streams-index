@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_15_19_58_41",
+    "title": "1616我们喜浣你",
+    "date": "2026-08-15",
+    "time": "19:58:41",
+    "startTime": "19:58",
+    "endTime": "23:32",
+    "duration": 12899,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/izayoi/2026_08_15_19_58_41/录制-1741667419-20260815-195841-400-1616我们喜浣你.srt",
+    "xml": "/data/streams/izayoi/2026_08_15_19_58_41/录制-1741667419-20260815-195841-400-1616我们喜浣你.xml",
+    "cover": "/data/streams/izayoi/2026_08_15_19_58_41/录制-1741667419-20260815-195841-400-1616我们喜浣你.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_15_19_58_41/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_15_19_58_41/录制-1741667419-20260815-195841-400-1616我们喜浣你_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_15_19_58_41/录制-1741667419-20260815-195841-400-1616我们喜浣你_EVIDENCE_FRAME_01_011640s.jpg",
+      "/data/streams/izayoi/2026_08_15_19_58_41/录制-1741667419-20260815-195841-400-1616我们喜浣你_EVIDENCE_FRAME_02_012000s.jpg",
+      "/data/streams/izayoi/2026_08_15_19_58_41/录制-1741667419-20260815-195841-400-1616我们喜浣你_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/izayoi/2026_08_15_19_58_41/录制-1741667419-20260815-195841-400-1616我们喜浣你_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_15_14_02_38",
+    "title": "小脑袋,大智慧!",
+    "date": "2026-08-15",
+    "time": "14:02:38",
+    "startTime": "14:02",
+    "endTime": "17:29",
+    "duration": 12438,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/izayoi/2026_08_15_14_02_38/录制-1741667419-20260815-140238-943-小脑袋,大智慧!_merged.srt",
+    "xml": "/data/streams/izayoi/2026_08_15_14_02_38/录制-1741667419-20260815-140238-943-小脑袋,大智慧!_merged.xml",
+    "cover": "/data/streams/izayoi/2026_08_15_14_02_38/录制-1741667419-20260815-140238-943-小脑袋,大智慧!.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_15_14_02_38/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_15_14_02_38/录制-1741667419-20260815-140238-943-小脑袋,大智慧!_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_15_14_02_38/录制-1741667419-20260815-140238-943-小脑袋,大智慧!_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/izayoi/2026_08_15_14_02_38/录制-1741667419-20260815-140238-943-小脑袋,大智慧!_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/izayoi/2026_08_15_14_02_38/录制-1741667419-20260815-140238-943-小脑袋,大智慧!_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/izayoi/2026_08_15_14_02_38/录制-1741667419-20260815-140238-943-小脑袋,大智慧!_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_14_18_01_37",
     "title": "来玩一下以撒",
     "date": "2026-08-14",

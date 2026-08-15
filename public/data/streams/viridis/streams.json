@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_15_21_01_09",
+    "title": "歌？杂？",
+    "date": "2026-08-15",
+    "time": "21:01:09",
+    "startTime": "21:01",
+    "endTime": "23:20",
+    "duration": 8386,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/viridis/2026_08_15_21_01_09/录制-1727071052-20260815-210109-360-歌？杂？.srt",
+    "xml": "/data/streams/viridis/2026_08_15_21_01_09/录制-1727071052-20260815-210109-360-歌？杂？.xml",
+    "cover": "/data/streams/viridis/2026_08_15_21_01_09/录制-1727071052-20260815-210109-360-歌？杂？.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_08_15_21_01_09/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_08_15_21_01_09/录制-1727071052-20260815-210109-360-歌？杂？_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_08_15_21_01_09/录制-1727071052-20260815-210109-360-歌？杂？_EVIDENCE_FRAME_01_000300s.jpg",
+      "/data/streams/viridis/2026_08_15_21_01_09/录制-1727071052-20260815-210109-360-歌？杂？_EVIDENCE_FRAME_02_006840s.jpg",
+      "/data/streams/viridis/2026_08_15_21_01_09/录制-1727071052-20260815-210109-360-歌？杂？_EVIDENCE_FRAME_03_008220s.jpg",
+      "/data/streams/viridis/2026_08_15_21_01_09/录制-1727071052-20260815-210109-360-歌？杂？_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_08_14_19_01_42",
     "title": "聊聊行道树",
     "date": "2026-08-14",

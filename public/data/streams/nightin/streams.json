@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_15_14_03_06",
+    "title": "N来！",
+    "date": "2026-08-15",
+    "time": "14:03:06",
+    "startTime": "14:03",
+    "endTime": "17:54",
+    "duration": 13865,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nightin/2026_08_15_14_03_06/录制-24872476-20260815-140306-916-N来！.srt",
+    "xml": "/data/streams/nightin/2026_08_15_14_03_06/录制-24872476-20260815-140306-916-N来！.xml",
+    "cover": "/data/streams/nightin/2026_08_15_14_03_06/录制-24872476-20260815-140306-916-N来！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_15_14_03_06/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_15_14_03_06/录制-24872476-20260815-140306-916-N来！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_15_14_03_06/录制-24872476-20260815-140306-916-N来！_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/nightin/2026_08_15_14_03_06/录制-24872476-20260815-140306-916-N来！_EVIDENCE_FRAME_02_000300s.jpg",
+      "/data/streams/nightin/2026_08_15_14_03_06/录制-24872476-20260815-140306-916-N来！_EVIDENCE_FRAME_03_013740s.jpg",
+      "/data/streams/nightin/2026_08_15_14_03_06/录制-24872476-20260815-140306-916-N来！_EVIDENCE_REQUEST_E1.jpg"
+    ]
+  },
+  {
     "id": "2026_08_14_16_58_55",
     "title": "【杂谈】今天还能绿吗！",
     "date": "2026-08-14",
