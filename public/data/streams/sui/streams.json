@@ -5,14 +5,18 @@
     "date": "2026-08-16",
     "time": "20:05:09",
     "startTime": "20:05",
-    "endTime": "23:57",
-    "duration": 13971,
-    "durationStr": "3.9 小时",
-    "srt": null,
-    "xml": "/data/streams/sui/2026_08_16_20_05_09/录制-25788785-20260816-200509-564-陪你这个猪过周日！.xml",
+    "endTime": "01:25",
+    "duration": 19215,
+    "durationStr": "5.3 小时",
+    "srt": "/data/streams/sui/2026_08_16_20_05_09/录制-25788785-20260816-200509-564-陪你这个猪过周日！_merged.srt",
+    "xml": "/data/streams/sui/2026_08_16_20_05_09/录制-25788785-20260816-200509-564-陪你这个猪过周日！_merged.xml",
     "cover": "/data/streams/sui/2026_08_16_20_05_09/录制-25788785-20260816-200509-564-陪你这个猪过周日！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/sui/2026_08_16_20_05_09/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_08_16_20_05_09/录制-25788785-20260816-200509-564-陪你这个猪过周日！_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_08_16_20_05_09/录制-25788785-20260816-200509-564-陪你这个猪过周日！_merged_EVIDENCE_FRAME_01_000420s.jpg",
+      "/data/streams/sui/2026_08_16_20_05_09/录制-25788785-20260816-200509-564-陪你这个猪过周日！_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
   },
   {
     "id": "2026_08_15_20_03_24",
