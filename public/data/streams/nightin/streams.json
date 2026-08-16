@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_16_09_14_48",
+    "title": "小众宝藏直播间",
+    "date": "2026-08-16",
+    "time": "09:14:48",
+    "startTime": "09:14",
+    "endTime": "12:23",
+    "duration": 11393,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/nightin/2026_08_16_09_14_48/录制-24872476-20260816-091448-722-小众宝藏直播间.srt",
+    "xml": "/data/streams/nightin/2026_08_16_09_14_48/录制-24872476-20260816-091448-722-小众宝藏直播间.xml",
+    "cover": "/data/streams/nightin/2026_08_16_09_14_48/录制-24872476-20260816-091448-722-小众宝藏直播间.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_16_09_14_48/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_16_09_14_48/录制-24872476-20260816-091448-722-小众宝藏直播间_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_16_09_14_48/录制-24872476-20260816-091448-722-小众宝藏直播间_EVIDENCE_FRAME_01_000600s.jpg",
+      "/data/streams/nightin/2026_08_16_09_14_48/录制-24872476-20260816-091448-722-小众宝藏直播间_EVIDENCE_FRAME_02_009300s.jpg",
+      "/data/streams/nightin/2026_08_16_09_14_48/录制-24872476-20260816-091448-722-小众宝藏直播间_EVIDENCE_FRAME_03_000780s.jpg",
+      "/data/streams/nightin/2026_08_16_09_14_48/录制-24872476-20260816-091448-722-小众宝藏直播间_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_15_14_03_06",
     "title": "N来！",
     "date": "2026-08-15",

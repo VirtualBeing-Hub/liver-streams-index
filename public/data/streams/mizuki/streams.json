@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_08_16_21_00_54",
+    "title": "歌杂的晚上好吗⭐",
+    "date": "2026-08-16",
+    "time": "21:00:54",
+    "startTime": "21:00",
+    "endTime": "23:56",
+    "duration": 10616,
+    "durationStr": "2.9 小时",
+    "srt": null,
+    "xml": "/data/streams/mizuki/2026_08_16_21_00_54/录制-30655190-20260816-210054-814-歌杂的晚上好吗⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_16_21_00_54/录制-30655190-20260816-210054-814-歌杂的晚上好吗⭐.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_16_15_02_35",
+    "title": "下午好我来了⭐",
+    "date": "2026-08-16",
+    "time": "15:02:35",
+    "startTime": "15:02",
+    "endTime": "18:14",
+    "duration": 11551,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/mizuki/2026_08_16_15_02_35/录制-30655190-20260816-150235-867-下午好我来了⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_16_15_02_35/录制-30655190-20260816-150235-867-下午好我来了⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_16_15_02_35/录制-30655190-20260816-150235-867-下午好我来了⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_16_15_02_35/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_16_15_02_35/录制-30655190-20260816-150235-867-下午好我来了⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_16_15_02_35/录制-30655190-20260816-150235-867-下午好我来了⭐_EVIDENCE_FRAME_01_000060s.jpg",
+      "/data/streams/mizuki/2026_08_16_15_02_35/录制-30655190-20260816-150235-867-下午好我来了⭐_EVIDENCE_FRAME_02_011400s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_15_21_03_30",
     "title": "虚度虚度虚度⭐",
     "date": "2026-08-15",

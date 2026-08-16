@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_08_16_20_03_08",
+    "title": "写写下周的周表~",
+    "date": "2026-08-16",
+    "time": "20:03:08",
+    "startTime": "20:03",
+    "endTime": "23:57",
+    "duration": 14089,
+    "durationStr": "3.9 小时",
+    "srt": null,
+    "xml": "/data/streams/kloa/2026_08_16_20_03_08/录制-1986461465-20260816-200308-590-写写下周的周表~.xml",
+    "cover": "/data/streams/kloa/2026_08_16_20_03_08/录制-1986461465-20260816-200308-590-写写下周的周表~.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_16_15_46_25",
+    "title": "歌杂一下",
+    "date": "2026-08-16",
+    "time": "15:46:25",
+    "startTime": "15:46",
+    "endTime": "18:07",
+    "duration": 8481,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_16_15_46_25/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下_merged_EVIDENCE_FRAME_01_000720s.jpg",
+      "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下_merged_EVIDENCE_FRAME_02_006300s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_15_20_00_58",
     "title": "唱歌歌~",
     "date": "2026-08-15",
