@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_17_20_04_16",
+    "title": "和犬绒一起玩逃出生天！",
+    "date": "2026-08-17",
+    "time": "20:04:16",
+    "startTime": "20:04",
+    "endTime": "00:19",
+    "duration": 15321,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/sui/2026_08_17_20_04_16/录制-25788785-20260817-200416-852-陪你这个猪过周一！_merged.srt",
+    "xml": "/data/streams/sui/2026_08_17_20_04_16/录制-25788785-20260817-200416-852-陪你这个猪过周一！_merged.xml",
+    "cover": "/data/streams/sui/2026_08_17_20_04_16/录制-25788785-20260817-200416-852-陪你这个猪过周一！.cover.jpg",
+    "highlights": "/data/streams/sui/2026_08_17_20_04_16/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_08_17_20_04_16/录制-25788785-20260817-200416-852-陪你这个猪过周一！_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_08_17_20_04_16/录制-25788785-20260817-200416-852-陪你这个猪过周一！_merged_EVIDENCE_FRAME_01_000720s.jpg",
+      "/data/streams/sui/2026_08_17_20_04_16/录制-25788785-20260817-200416-852-陪你这个猪过周一！_merged_EVIDENCE_FRAME_02_003540s.jpg",
+      "/data/streams/sui/2026_08_17_20_04_16/录制-25788785-20260817-200416-852-陪你这个猪过周一！_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sui/2026_08_17_20_04_16/录制-25788785-20260817-200416-852-陪你这个猪过周一！_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_16_20_05_09",
     "title": "陪你这个猪过周日！",
     "date": "2026-08-16",

@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_17_23_02_38",
+    "title": "睡前唠嗑",
+    "date": "2026-08-17",
+    "time": "23:02:38",
+    "startTime": "23:02",
+    "endTime": "23:59",
+    "duration": 3468,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/viridis/2026_08_17_23_02_38/录制-1727071052-20260817-230238-965-睡前唠嗑.srt",
+    "xml": "/data/streams/viridis/2026_08_17_23_02_38/录制-1727071052-20260817-230238-965-睡前唠嗑.xml",
+    "cover": "/data/streams/viridis/2026_08_17_23_02_38/录制-1727071052-20260817-230238-965-睡前唠嗑.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_08_17_23_02_38/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_08_17_23_02_38/录制-1727071052-20260817-230238-965-睡前唠嗑_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_08_17_23_02_38/录制-1727071052-20260817-230238-965-睡前唠嗑_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/viridis/2026_08_17_23_02_38/录制-1727071052-20260817-230238-965-睡前唠嗑_EVIDENCE_FRAME_02_000450s.jpg",
+      "/data/streams/viridis/2026_08_17_23_02_38/录制-1727071052-20260817-230238-965-睡前唠嗑_EVIDENCE_FRAME_03_000720s.jpg",
+      "/data/streams/viridis/2026_08_17_23_02_38/录制-1727071052-20260817-230238-965-睡前唠嗑_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_16_22_32_25",
     "title": "联动后日谈谢礼物！",
     "date": "2026-08-16",

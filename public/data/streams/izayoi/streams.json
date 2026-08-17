@@ -1,7 +1,64 @@
 [
   {
+    "id": "2026_08_17_21_02_20",
+    "title": "狂欢一下！",
+    "date": "2026-08-17",
+    "time": "21:02:20",
+    "startTime": "21:02",
+    "endTime": "23:52",
+    "duration": 10214,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/izayoi/2026_08_17_21_02_20/录制-1741667419-20260817-210220-742-狂欢一下！.srt",
+    "xml": "/data/streams/izayoi/2026_08_17_21_02_20/录制-1741667419-20260817-210220-742-狂欢一下！.xml",
+    "cover": "/data/streams/izayoi/2026_08_17_21_02_20/录制-1741667419-20260817-210220-742-狂欢一下！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_17_21_02_20/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_17_21_02_20/录制-1741667419-20260817-210220-742-狂欢一下！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_17_17_58_17",
+    "title": "虚弱版画头像",
+    "date": "2026-08-17",
+    "time": "17:58:17",
+    "startTime": "17:58",
+    "endTime": "20:15",
+    "duration": 8267,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/izayoi/2026_08_17_17_58_17/录制-1741667419-20260817-175817-944-虚弱版画头像_merged.srt",
+    "xml": "/data/streams/izayoi/2026_08_17_17_58_17/录制-1741667419-20260817-175817-944-虚弱版画头像_merged.xml",
+    "cover": "/data/streams/izayoi/2026_08_17_17_58_17/录制-1741667419-20260817-175817-944-虚弱版画头像.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_17_17_58_17/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_17_17_58_17/录制-1741667419-20260817-175817-944-虚弱版画头像_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_17_17_58_17/录制-1741667419-20260817-175817-944-虚弱版画头像_merged_EVIDENCE_FRAME_01_002700s.jpg",
+      "/data/streams/izayoi/2026_08_17_17_58_17/录制-1741667419-20260817-175817-944-虚弱版画头像_merged_EVIDENCE_FRAME_02_003960s.jpg",
+      "/data/streams/izayoi/2026_08_17_17_58_17/录制-1741667419-20260817-175817-944-虚弱版画头像_merged_EVIDENCE_REQUEST_E1.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_17_09_44_53",
+    "title": "嗓子剧痛无比！",
+    "date": "2026-08-17",
+    "time": "09:44:53",
+    "startTime": "09:44",
+    "endTime": "11:02",
+    "duration": 4718,
+    "durationStr": "1.3 小时",
+    "srt": "/data/streams/izayoi/2026_08_17_09_44_53/录制-1741667419-20260817-094453-553-嗓子剧痛无比！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_08_17_09_44_53/录制-1741667419-20260817-094453-553-嗓子剧痛无比！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_08_17_09_44_53/录制-1741667419-20260817-094453-553-嗓子剧痛无比！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_17_09_44_53/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_17_09_44_53/录制-1741667419-20260817-094453-553-嗓子剧痛无比！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_17_09_44_53/录制-1741667419-20260817-094453-553-嗓子剧痛无比！_merged_EVIDENCE_FRAME_01_001320s.jpg",
+      "/data/streams/izayoi/2026_08_17_09_44_53/录制-1741667419-20260817-094453-553-嗓子剧痛无比！_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/izayoi/2026_08_17_09_44_53/录制-1741667419-20260817-094453-553-嗓子剧痛无比！_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_16_19_59_22",
-    "title": "1616我们喜浣你",
+    "title": "嗓子剧痛无比！",
     "date": "2026-08-16",
     "time": "19:59:22",
     "startTime": "19:59",

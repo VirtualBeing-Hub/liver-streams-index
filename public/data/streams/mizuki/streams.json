@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_17_21_02_45",
+    "title": "一起机械狂欢⭐",
+    "date": "2026-08-17",
+    "time": "21:02:45",
+    "startTime": "21:02",
+    "endTime": "00:19",
+    "duration": 11868,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mizuki/2026_08_17_21_02_45/录制-30655190-20260817-210245-959-一起机械狂欢⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_08_17_21_02_45/录制-30655190-20260817-210245-959-一起机械狂欢⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_08_17_21_02_45/录制-30655190-20260817-210245-959-一起机械狂欢⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_17_21_02_45/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_17_21_02_45/录制-30655190-20260817-210245-959-一起机械狂欢⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_17_21_02_45/录制-30655190-20260817-210245-959-一起机械狂欢⭐_merged_EVIDENCE_FRAME_01_000120s.jpg",
+      "/data/streams/mizuki/2026_08_17_21_02_45/录制-30655190-20260817-210245-959-一起机械狂欢⭐_merged_EVIDENCE_FRAME_02_000600s.jpg",
+      "/data/streams/mizuki/2026_08_17_21_02_45/录制-30655190-20260817-210245-959-一起机械狂欢⭐_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/mizuki/2026_08_17_21_02_45/录制-30655190-20260817-210245-959-一起机械狂欢⭐_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_17_14_03_42",
+    "title": "各种深渊乱打⭐",
+    "date": "2026-08-17",
+    "time": "14:03:42",
+    "startTime": "14:03",
+    "endTime": "18:12",
+    "duration": 14993,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/mizuki/2026_08_17_14_03_42/录制-30655190-20260817-140342-749-各种深渊乱打⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_17_14_03_42/录制-30655190-20260817-140342-749-各种深渊乱打⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_17_14_03_42/录制-30655190-20260817-140342-749-各种深渊乱打⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_17_14_03_42/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_17_14_03_42/录制-30655190-20260817-140342-749-各种深渊乱打⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_17_14_03_42/录制-30655190-20260817-140342-749-各种深渊乱打⭐_EVIDENCE_FRAME_01_001200s.jpg",
+      "/data/streams/mizuki/2026_08_17_14_03_42/录制-30655190-20260817-140342-749-各种深渊乱打⭐_EVIDENCE_FRAME_02_006180s.jpg",
+      "/data/streams/mizuki/2026_08_17_14_03_42/录制-30655190-20260817-140342-749-各种深渊乱打⭐_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/mizuki/2026_08_17_14_03_42/录制-30655190-20260817-140342-749-各种深渊乱打⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_16_21_00_54",
     "title": "歌杂的晚上好吗⭐",
     "date": "2026-08-16",
