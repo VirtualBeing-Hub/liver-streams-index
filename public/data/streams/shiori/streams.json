@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_18_21_38_50",
+    "title": "小栞来！！",
+    "date": "2026-08-18",
+    "time": "21:38:50",
+    "startTime": "21:38",
+    "endTime": "00:19",
+    "duration": 9705,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/shiori/2026_08_18_21_38_50/录制-26966466-20260818-213850-939-小栞来！！_merged.srt",
+    "xml": "/data/streams/shiori/2026_08_18_21_38_50/录制-26966466-20260818-213850-939-小栞来！！_merged.xml",
+    "cover": "/data/streams/shiori/2026_08_18_21_38_50/录制-26966466-20260818-213850-939-小栞来！！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_18_21_38_50/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_18_21_38_50/录制-26966466-20260818-213850-939-小栞来！！_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_18_21_38_50/录制-26966466-20260818-213850-939-小栞来！！_merged_EVIDENCE_FRAME_01_000044s.jpg",
+      "/data/streams/shiori/2026_08_18_21_38_50/录制-26966466-20260818-213850-939-小栞来！！_merged_EVIDENCE_FRAME_02_000114s.jpg",
+      "/data/streams/shiori/2026_08_18_21_38_50/录制-26966466-20260818-213850-939-小栞来！！_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_08_18_21_38_50/录制-26966466-20260818-213850-939-小栞来！！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_18_10_08_54",
+    "title": "早安獭獭栞！",
+    "date": "2026-08-18",
+    "time": "10:08:54",
+    "startTime": "10:08",
+    "endTime": "12:12",
+    "duration": 7479,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/shiori/2026_08_18_10_08_54/录制-26966466-20260818-100854-207-早安獭獭栞！.srt",
+    "xml": "/data/streams/shiori/2026_08_18_10_08_54/录制-26966466-20260818-100854-207-早安獭獭栞！.xml",
+    "cover": "/data/streams/shiori/2026_08_18_10_08_54/录制-26966466-20260818-100854-207-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_18_10_08_54/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_18_10_08_54/录制-26966466-20260818-100854-207-早安獭獭栞！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_18_10_08_54/录制-26966466-20260818-100854-207-早安獭獭栞！_EVIDENCE_FRAME_01_000190s.jpg",
+      "/data/streams/shiori/2026_08_18_10_08_54/录制-26966466-20260818-100854-207-早安獭獭栞！_EVIDENCE_FRAME_02_003410s.jpg",
+      "/data/streams/shiori/2026_08_18_10_08_54/录制-26966466-20260818-100854-207-早安獭獭栞！_EVIDENCE_FRAME_03_007200s.jpg",
+      "/data/streams/shiori/2026_08_18_10_08_54/录制-26966466-20260818-100854-207-早安獭獭栞！_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_08_16_21_33_27",
     "title": "小栞来！！",
     "date": "2026-08-16",

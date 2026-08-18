@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_18_21_04_33",
+    "title": "虚度成为每天的日常⭐",
+    "date": "2026-08-18",
+    "time": "21:04:33",
+    "startTime": "21:04",
+    "endTime": "01:13",
+    "duration": 14946,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/mizuki/2026_08_18_21_04_33/录制-30655190-20260818-210433-902-跟氿氿一起⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_08_18_21_04_33/录制-30655190-20260818-210433-902-跟氿氿一起⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_08_18_21_04_33/录制-30655190-20260818-210433-902-跟氿氿一起⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_18_21_04_33/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_18_21_04_33/录制-30655190-20260818-210433-902-跟氿氿一起⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_18_21_04_33/录制-30655190-20260818-210433-902-跟氿氿一起⭐_merged_EVIDENCE_FRAME_01_001560s.jpg",
+      "/data/streams/mizuki/2026_08_18_21_04_33/录制-30655190-20260818-210433-902-跟氿氿一起⭐_merged_EVIDENCE_FRAME_02_011160s.jpg",
+      "/data/streams/mizuki/2026_08_18_21_04_33/录制-30655190-20260818-210433-902-跟氿氿一起⭐_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/mizuki/2026_08_18_21_04_33/录制-30655190-20260818-210433-902-跟氿氿一起⭐_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_18_15_14_42",
+    "title": "休闲的下午歌回⭐",
+    "date": "2026-08-18",
+    "time": "15:14:42",
+    "startTime": "15:14",
+    "endTime": "18:26",
+    "duration": 11534,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/mizuki/2026_08_18_15_14_42/录制-30655190-20260818-151442-507-休闲的下午歌回⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_08_18_15_14_42/录制-30655190-20260818-151442-507-休闲的下午歌回⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_08_18_15_14_42/录制-30655190-20260818-151442-507-休闲的下午歌回⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_18_15_14_42/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_18_15_14_42/录制-30655190-20260818-151442-507-休闲的下午歌回⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_18_15_14_42/录制-30655190-20260818-151442-507-休闲的下午歌回⭐_merged_EVIDENCE_FRAME_01_000020s.jpg",
+      "/data/streams/mizuki/2026_08_18_15_14_42/录制-30655190-20260818-151442-507-休闲的下午歌回⭐_merged_EVIDENCE_FRAME_02_003480s.jpg",
+      "/data/streams/mizuki/2026_08_18_15_14_42/录制-30655190-20260818-151442-507-休闲的下午歌回⭐_merged_EVIDENCE_FRAME_03_006480s.jpg",
+      "/data/streams/mizuki/2026_08_18_15_14_42/录制-30655190-20260818-151442-507-休闲的下午歌回⭐_merged_EVIDENCE_FRAME_04_011340s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_17_21_02_45",
     "title": "一起机械狂欢⭐",
     "date": "2026-08-17",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_08_18_22_03_01",
+    "title": "紫发女路人 （晚上聊聊",
+    "date": "2026-08-18",
+    "time": "22:03:01",
+    "startTime": "22:03",
+    "endTime": "23:04",
+    "duration": 3715,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/sumire/2026_08_18_22_03_01/录制-1727076670-20260818-220301-519-紫发女路人 （晚上聊聊_merged.srt",
+    "xml": "/data/streams/sumire/2026_08_18_22_03_01/录制-1727076670-20260818-220301-519-紫发女路人 （晚上聊聊_merged.xml",
+    "cover": "/data/streams/sumire/2026_08_18_22_03_01/录制-1727076670-20260818-220301-519-紫发女路人 （晚上聊聊.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_08_18_22_03_01/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_08_18_22_03_01/录制-1727076670-20260818-220301-519-紫发女路人 （晚上聊聊_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_18_09_02_34",
+    "title": "紫发女路人 （早读",
+    "date": "2026-08-18",
+    "time": "09:02:34",
+    "startTime": "09:02",
+    "endTime": "11:02",
+    "duration": 7228,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/sumire/2026_08_18_09_02_34/录制-1727076670-20260818-090234-990-紫发女路人 （早读.srt",
+    "xml": "/data/streams/sumire/2026_08_18_09_02_34/录制-1727076670-20260818-090234-990-紫发女路人 （早读.xml",
+    "cover": "/data/streams/sumire/2026_08_18_09_02_34/录制-1727076670-20260818-090234-990-紫发女路人 （早读.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_08_18_09_02_34/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_08_18_09_02_34/录制-1727076670-20260818-090234-990-紫发女路人 （早读_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_08_18_09_02_34/录制-1727076670-20260818-090234-990-紫发女路人 （早读_EVIDENCE_FRAME_01_000240s.jpg",
+      "/data/streams/sumire/2026_08_18_09_02_34/录制-1727076670-20260818-090234-990-紫发女路人 （早读_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_08_17_18_03_05",
     "title": "紫发女路人 （傍晚聊",
     "date": "2026-08-17",

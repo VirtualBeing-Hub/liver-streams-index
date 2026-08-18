@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_18_14_31_26",
+    "title": "突击！",
+    "date": "2026-08-18",
+    "time": "14:31:26",
+    "startTime": "14:31",
+    "endTime": "16:54",
+    "duration": 8622,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/mitsuri/2026_08_18_14_31_26/录制-1967216004-20260818-143126-471-突击！.srt",
+    "xml": "/data/streams/mitsuri/2026_08_18_14_31_26/录制-1967216004-20260818-143126-471-突击！.xml",
+    "cover": "/data/streams/mitsuri/2026_08_18_14_31_26/录制-1967216004-20260818-143126-471-突击！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_08_18_14_31_26/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_08_18_14_31_26/录制-1967216004-20260818-143126-471-突击！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_08_18_14_31_26/录制-1967216004-20260818-143126-471-突击！_EVIDENCE_FRAME_01_003120s.jpg",
+      "/data/streams/mitsuri/2026_08_18_14_31_26/录制-1967216004-20260818-143126-471-突击！_EVIDENCE_FRAME_02_007440s.jpg",
+      "/data/streams/mitsuri/2026_08_18_14_31_26/录制-1967216004-20260818-143126-471-突击！_EVIDENCE_FRAME_03_008460s.jpg",
+      "/data/streams/mitsuri/2026_08_18_14_31_26/录制-1967216004-20260818-143126-471-突击！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_16_02_26_31",
     "title": "陪我唱会儿歌！",
     "date": "2026-08-15",

@@ -1,5 +1,43 @@
 [
   {
+    "id": "2026_08_19_02_04_23",
+    "title": "Night walker",
+    "date": "2026-08-18",
+    "time": "02:04:23",
+    "startTime": "02:04",
+    "endTime": "03:10",
+    "duration": 3998,
+    "durationStr": "1.1 小时",
+    "srt": "/data/streams/rhea/2026_08_19_02_04_23/录制-23260993-20260819-020423-475-Night walker_merged.srt",
+    "xml": "/data/streams/rhea/2026_08_19_02_04_23/录制-23260993-20260819-020423-475-Night walker_merged.xml",
+    "cover": "/data/streams/rhea/2026_08_19_02_04_23/录制-23260993-20260819-020423-475-Night walker.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_19_02_04_23/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_19_02_04_23/录制-23260993-20260819-020423-475-Night walker_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_19_02_04_23/录制-23260993-20260819-020423-475-Night walker_merged_EVIDENCE_FRAME_01_001140s.jpg",
+      "/data/streams/rhea/2026_08_19_02_04_23/录制-23260993-20260819-020423-475-Night walker_merged_EVIDENCE_FRAME_02_001800s.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_18_20_41_40",
+    "title": "【生日月】音乐+艺术电台",
+    "date": "2026-08-18",
+    "time": "20:41:40",
+    "startTime": "20:41",
+    "endTime": "01:22",
+    "duration": 16911,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/rhea/2026_08_18_20_41_40/录制-23260993-20260818-204140-367-音乐+艺术电台_merged.srt",
+    "xml": "/data/streams/rhea/2026_08_18_20_41_40/录制-23260993-20260818-204140-367-音乐+艺术电台_merged.xml",
+    "cover": "/data/streams/rhea/2026_08_18_20_41_40/录制-23260993-20260818-204140-367-音乐+艺术电台.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_18_20_41_40/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_18_20_41_40/录制-23260993-20260818-204140-367-音乐+艺术电台_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_18_20_41_40/录制-23260993-20260818-204140-367-音乐+艺术电台_merged_EVIDENCE_FRAME_01_000240s.jpg",
+      "/data/streams/rhea/2026_08_18_20_41_40/录制-23260993-20260818-204140-367-音乐+艺术电台_merged_EVIDENCE_FRAME_02_002220s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_17_22_23_31",
     "title": "《锈湖：小湖幸奴》续集",
     "date": "2026-08-17",

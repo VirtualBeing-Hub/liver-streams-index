@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_18_19_59_00",
+    "title": "海猫中少话",
+    "date": "2026-08-18",
+    "time": "19:59:00",
+    "startTime": "19:59",
+    "endTime": "01:37",
+    "duration": 20322,
+    "durationStr": "5.6 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_08_18_19_59_00/录制-25034104-20260818-195900-185-海猫中少话.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_08_18_19_59_00/录制-25034104-20260818-195900-185-海猫中少话.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_08_18_19_59_00/录制-25034104-20260818-195900-185-海猫中少话.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_08_18_19_59_00/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_08_18_19_59_00/录制-25034104-20260818-195900-185-海猫中少话_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_08_18_19_59_00/录制-25034104-20260818-195900-185-海猫中少话_EVIDENCE_FRAME_01_001380s.jpg",
+      "/data/streams/mingqian-nailv/2026_08_18_19_59_00/录制-25034104-20260818-195900-185-海猫中少话_EVIDENCE_FRAME_02_008520s.jpg",
+      "/data/streams/mingqian-nailv/2026_08_18_19_59_00/录制-25034104-20260818-195900-185-海猫中少话_EVIDENCE_FRAME_03_002220s.jpg",
+      "/data/streams/mingqian-nailv/2026_08_18_19_59_00/录制-25034104-20260818-195900-185-海猫中少话_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_16_19_02_53",
     "title": "认真读书少话（？",
     "date": "2026-08-16",

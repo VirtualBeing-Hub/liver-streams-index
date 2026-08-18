@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_18_20_08_49",
+    "title": "「修电机」",
+    "date": "2026-08-18",
+    "time": "20:08:49",
+    "startTime": "20:08",
+    "endTime": "00:55",
+    "duration": 17276,
+    "durationStr": "4.8 小时",
+    "srt": "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged.xml",
+    "cover": "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_18_20_08_49/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged_EVIDENCE_FRAME_01_000300s.jpg",
+      "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged_EVIDENCE_FRAME_02_000840s.jpg",
+      "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged_EVIDENCE_FRAME_03_010500s.jpg",
+      "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_18_08_06_58",
+    "title": "早安一会儿",
+    "date": "2026-08-18",
+    "time": "08:06:58",
+    "startTime": "08:06",
+    "endTime": "10:15",
+    "duration": 7783,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged.xml",
+    "cover": "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_18_08_06_58/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged_EVIDENCE_FRAME_01_004920s.jpg",
+      "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_17_21_08_18",
     "title": "周一的歌杂",
     "date": "2026-08-17",
