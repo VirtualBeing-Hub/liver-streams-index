@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_19_21_00_36",
+    "title": "解谜！love you to bits",
+    "date": "2026-08-19",
+    "time": "21:00:36",
+    "startTime": "21:00",
+    "endTime": "00:08",
+    "duration": 11325,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/joi/2026_08_19_21_00_36/录制-21484828-20260819-210036-000-解谜！love you to bits_merged.srt",
+    "xml": "/data/streams/joi/2026_08_19_21_00_36/录制-21484828-20260819-210036-000-解谜！love you to bits_merged.xml",
+    "cover": "/data/streams/joi/2026_08_19_21_00_36/录制-21484828-20260819-210036-000-解谜！love you to bits.cover.jpg",
+    "highlights": "/data/streams/joi/2026_08_19_21_00_36/highlights.md",
+    "images": [
+      "/data/streams/joi/2026_08_19_21_00_36/录制-21484828-20260819-210036-000-解谜！love you to bits_merged_EVIDENCE_FRAME_01_000120s.jpg",
+      "/data/streams/joi/2026_08_19_21_00_36/录制-21484828-20260819-210036-000-解谜！love you to bits_merged_EVIDENCE_FRAME_02_010440s.jpg",
+      "/data/streams/joi/2026_08_19_21_00_36/录制-21484828-20260819-210036-000-解谜！love you to bits_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/joi/2026_08_19_21_00_36/录制-21484828-20260819-210036-000-解谜！love you to bits_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/joi/2026_08_19_21_00_36/录制-21484828-20260819-210036-000-解谜！love you to bits_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_17_22_01_01",
     "title": "困困夜行电台zzZ",
     "date": "2026-08-17",

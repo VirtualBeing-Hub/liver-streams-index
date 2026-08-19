@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026_08_19_20_04_36",
+    "title": "过七夕啦~",
+    "date": "2026-08-19",
+    "time": "20:04:36",
+    "startTime": "20:04",
+    "endTime": "23:13",
+    "duration": 11389,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_19_20_04_36/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged_EVIDENCE_FRAME_01_000780s.jpg",
+      "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged_EVIDENCE_FRAME_02_000240s.jpg",
+      "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_19_15_16_24",
+    "title": "虚弱中睡不着也吃不下",
+    "date": "2026-08-19",
+    "time": "15:16:24",
+    "startTime": "15:16",
+    "endTime": "17:00",
+    "duration": 6250,
+    "durationStr": "1.7 小时",
+    "srt": "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged.xml",
+    "cover": null,
+    "highlights": "/data/streams/kloa/2026_08_19_15_16_24/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_EVIDENCE_FRAME_01_004680s.jpg",
+      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_EVIDENCE_FRAME_02_003840s.jpg",
+      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_EVIDENCE_FRAME_03_005040s.jpg",
+      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_EVIDENCE_FRAME_04_003900s.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_19_10_04_24",
+    "title": "七夕的约会地点是伪人超市？",
+    "date": "2026-08-19",
+    "time": "10:04:24",
+    "startTime": "10:04",
+    "endTime": "14:12",
+    "duration": 14934,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_19_10_04_24/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_EVIDENCE_FRAME_01_001440s.jpg",
+      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_EVIDENCE_FRAME_02_005160s.jpg",
+      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_EVIDENCE_FRAME_03_000480s.jpg",
+      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_08_18_09_04_12",
     "title": "早安~",
     "date": "2026-08-18",

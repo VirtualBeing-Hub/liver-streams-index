@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026_08_19_22_26_54",
+    "title": "打个电话",
+    "date": "2026-08-19",
+    "time": "22:26:54",
+    "startTime": "22:26",
+    "endTime": "00:28",
+    "duration": 7353,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/yua/2026_08_19_22_26_54/录制-22470216-20260819-222654-223-打个电话_merged.srt",
+    "xml": "/data/streams/yua/2026_08_19_22_26_54/录制-22470216-20260819-222654-223-打个电话_merged.xml",
+    "cover": "/data/streams/yua/2026_08_19_22_26_54/录制-22470216-20260819-222654-223-打个电话.cover.jpg",
+    "highlights": "/data/streams/yua/2026_08_19_22_26_54/highlights.md",
+    "images": [
+      "/data/streams/yua/2026_08_19_22_26_54/录制-22470216-20260819-222654-223-打个电话_merged_COMIC_FACTORY.png",
+      "/data/streams/yua/2026_08_19_22_26_54/录制-22470216-20260819-222654-223-打个电话_merged_EVIDENCE_FRAME_01_001500s.jpg",
+      "/data/streams/yua/2026_08_19_22_26_54/录制-22470216-20260819-222654-223-打个电话_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_07_22_13_21",
     "title": "打个电话",
     "date": "2026-08-07",

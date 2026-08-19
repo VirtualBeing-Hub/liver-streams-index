@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026_08_19_22_03_03",
+    "title": "二次元偷偷",
+    "date": "2026-08-19",
+    "time": "22:03:03",
+    "startTime": "22:03",
+    "endTime": "04:00",
+    "duration": 21444,
+    "durationStr": "6.0 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_08_19_22_03_03/录制-21452505-20260819-220303-752-二次元偷偷.xml",
+    "cover": "/data/streams/nana7mi/2026_08_19_22_03_03/录制-21452505-20260819-220303-752-二次元偷偷.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_19_02_37_17",
     "title": "我来啦",
     "date": "2026-08-18",
@@ -50,14 +65,20 @@
     "date": "2026-08-18",
     "time": "22:58:45",
     "startTime": "22:58",
-    "endTime": "23:04",
-    "duration": 396,
-    "durationStr": "0.1 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_08_18_22_58_45/录制-21452505-20260818-225845-816-我来啦.xml",
+    "endTime": "05:33",
+    "duration": 23748,
+    "durationStr": "6.6 小时",
+    "srt": "/data/streams/nana7mi/2026_08_18_22_58_45/录制-21452505-20260818-225845-816-我来啦_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_08_18_22_58_45/录制-21452505-20260818-225845-816-我来啦_merged.xml",
     "cover": "/data/streams/nana7mi/2026_08_18_22_58_45/录制-21452505-20260818-225845-816-我来啦.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_08_18_22_58_45/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_08_18_22_58_45/录制-21452505-20260818-225845-816-我来啦_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_08_18_22_58_45/录制-21452505-20260818-225845-816-我来啦_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nana7mi/2026_08_18_22_58_45/录制-21452505-20260818-225845-816-我来啦_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nana7mi/2026_08_18_22_58_45/录制-21452505-20260818-225845-816-我来啦_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nana7mi/2026_08_18_22_58_45/录制-21452505-20260818-225845-816-我来啦_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
   },
   {
     "id": "2026_08_17_22_32_54",

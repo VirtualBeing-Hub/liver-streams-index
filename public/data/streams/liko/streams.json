@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_19_20_08_53",
+    "title": "七夕贴贴",
+    "date": "2026-08-19",
+    "time": "20:08:53",
+    "startTime": "20:08",
+    "endTime": "00:08",
+    "duration": 14431,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged.srt",
+    "xml": "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged.xml",
+    "cover": "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_19_20_08_53/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged_EVIDENCE_FRAME_01_001620s.jpg",
+      "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged_EVIDENCE_FRAME_02_004860s.jpg",
+      "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_19_10_23_00",
+    "title": "七夕联动！",
+    "date": "2026-08-19",
+    "time": "10:23:00",
+    "startTime": "10:23",
+    "endTime": "16:07",
+    "duration": 20665,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！.srt",
+    "xml": "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！.xml",
+    "cover": null,
+    "highlights": "/data/streams/liko/2026_08_19_10_23_00/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！_EVIDENCE_FRAME_01_000840s.jpg",
+      "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！_EVIDENCE_FRAME_02_005340s.jpg",
+      "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_17_21_02_50",
     "title": "277机械狂欢来咯！",
     "date": "2026-08-17",

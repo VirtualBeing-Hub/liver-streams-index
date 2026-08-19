@@ -1,5 +1,43 @@
 [
   {
+    "id": "2026_08_20_01_57_08",
+    "title": "【新衣】等20分钟",
+    "date": "2026-08-19",
+    "time": "01:57:08",
+    "startTime": "01:57",
+    "endTime": "02:23",
+    "duration": 1574,
+    "durationStr": "0.4 小时",
+    "srt": "/data/streams/michiya/2026_08_20_01_57_08/录制-27628030-20260820-015708-374-【新衣】等20分钟.srt",
+    "xml": "/data/streams/michiya/2026_08_20_01_57_08/录制-27628030-20260820-015708-374-【新衣】等20分钟.xml",
+    "cover": "/data/streams/michiya/2026_08_20_01_57_08/录制-27628030-20260820-015708-374-【新衣】等20分钟.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_08_20_01_57_08/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_08_20_01_57_08/录制-27628030-20260820-015708-374-【新衣】等20分钟_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_08_20_01_57_08/录制-27628030-20260820-015708-374-【新衣】等20分钟_EVIDENCE_FRAME_01_001140s.jpg",
+      "/data/streams/michiya/2026_08_20_01_57_08/录制-27628030-20260820-015708-374-【新衣】等20分钟_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_19_18_38_58",
+    "title": "【新衣】七夕杂谈和推理游戏",
+    "date": "2026-08-19",
+    "time": "18:38:58",
+    "startTime": "18:38",
+    "endTime": "21:56",
+    "duration": 11899,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/michiya/2026_08_19_18_38_58/录制-27628030-20260819-183858-611-【新衣】七夕杂谈和推理游戏_merged.srt",
+    "xml": "/data/streams/michiya/2026_08_19_18_38_58/录制-27628030-20260819-183858-611-【新衣】七夕杂谈和推理游戏_merged.xml",
+    "cover": "/data/streams/michiya/2026_08_19_18_38_58/录制-27628030-20260819-183858-611-【新衣】七夕杂谈和推理游戏.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_08_19_18_38_58/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_08_19_18_38_58/录制-27628030-20260819-183858-611-【新衣】七夕杂谈和推理游戏_merged_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_08_19_18_38_58/录制-27628030-20260819-183858-611-【新衣】七夕杂谈和推理游戏_merged_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/michiya/2026_08_19_18_38_58/录制-27628030-20260819-183858-611-【新衣】七夕杂谈和推理游戏_merged_EVIDENCE_FRAME_02_001380s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_18_19_07_19",
     "title": "【新衣】今晚七点来聊聊",
     "date": "2026-08-18",
