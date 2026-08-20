@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026_08_20_17_56_41",
+    "title": "？！尼古浣浣！？",
+    "date": "2026-08-20",
+    "time": "17:56:41",
+    "startTime": "17:56",
+    "endTime": "22:26",
+    "duration": 16235,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/izayoi/2026_08_20_17_56_41/录制-1741667419-20260820-175641-110-？！尼古浣浣！？.srt",
+    "xml": "/data/streams/izayoi/2026_08_20_17_56_41/录制-1741667419-20260820-175641-110-？！尼古浣浣！？.xml",
+    "cover": "/data/streams/izayoi/2026_08_20_17_56_41/录制-1741667419-20260820-175641-110-？！尼古浣浣！？.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_20_17_56_41/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_20_17_56_41/录制-1741667419-20260820-175641-110-？！尼古浣浣！？_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_20_17_56_41/录制-1741667419-20260820-175641-110-？！尼古浣浣！？_EVIDENCE_FRAME_01_009060s.jpg",
+      "/data/streams/izayoi/2026_08_20_17_56_41/录制-1741667419-20260820-175641-110-？！尼古浣浣！？_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/izayoi/2026_08_20_17_56_41/录制-1741667419-20260820-175641-110-？！尼古浣浣！？_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_20_09_08_44",
+    "title": "早茶复活",
+    "date": "2026-08-20",
+    "time": "09:08:44",
+    "startTime": "09:08",
+    "endTime": "12:02",
+    "duration": 10441,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/izayoi/2026_08_20_09_08_44/录制-1741667419-20260820-090844-955-早茶复活_merged.srt",
+    "xml": "/data/streams/izayoi/2026_08_20_09_08_44/录制-1741667419-20260820-090844-955-早茶复活_merged.xml",
+    "cover": "/data/streams/izayoi/2026_08_20_09_08_44/录制-1741667419-20260820-090844-955-早茶复活.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_20_09_08_44/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_20_09_08_44/录制-1741667419-20260820-090844-955-早茶复活_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_20_09_08_44/录制-1741667419-20260820-090844-955-早茶复活_merged_EVIDENCE_FRAME_01_009000s.jpg",
+      "/data/streams/izayoi/2026_08_20_09_08_44/录制-1741667419-20260820-090844-955-早茶复活_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/izayoi/2026_08_20_09_08_44/录制-1741667419-20260820-090844-955-早茶复活_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_19_19_59_26",
     "title": "简单过一下七夕吧",
     "date": "2026-08-19",

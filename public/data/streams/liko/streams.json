@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_20_21_04_31",
+    "title": "在被窝里躺一会儿",
+    "date": "2026-08-20",
+    "time": "21:04:31",
+    "startTime": "21:04",
+    "endTime": "22:43",
+    "duration": 5991,
+    "durationStr": "1.7 小时",
+    "srt": "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿.srt",
+    "xml": "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿.xml",
+    "cover": "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_20_21_04_31/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_EVIDENCE_FRAME_01_000900s.jpg",
+      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_EVIDENCE_FRAME_02_002460s.jpg",
+      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_EVIDENCE_FRAME_03_002700s.jpg",
+      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_20_14_17_37",
+    "title": "激情健身环",
+    "date": "2026-08-20",
+    "time": "14:17:37",
+    "startTime": "14:17",
+    "endTime": "17:41",
+    "duration": 12256,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged.srt",
+    "xml": "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged.xml",
+    "cover": "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_20_14_17_37/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_EVIDENCE_FRAME_01_004080s.jpg",
+      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_EVIDENCE_FRAME_02_009840s.jpg",
+      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_EVIDENCE_FRAME_03_010200s.jpg",
+      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_08_19_20_08_53",
     "title": "七夕贴贴",
     "date": "2026-08-19",

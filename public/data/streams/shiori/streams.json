@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_20_21_45_03",
+    "title": "小栞来！",
+    "date": "2026-08-20",
+    "time": "21:45:03",
+    "startTime": "21:45",
+    "endTime": "00:09",
+    "duration": 8664,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/shiori/2026_08_20_21_45_03/录制-26966466-20260820-214503-217-小栞来！_merged.srt",
+    "xml": "/data/streams/shiori/2026_08_20_21_45_03/录制-26966466-20260820-214503-217-小栞来！_merged.xml",
+    "cover": "/data/streams/shiori/2026_08_20_21_45_03/录制-26966466-20260820-214503-217-小栞来！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_20_21_45_03/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_20_21_45_03/录制-26966466-20260820-214503-217-小栞来！_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_20_21_45_03/录制-26966466-20260820-214503-217-小栞来！_merged_EVIDENCE_FRAME_01_007008s.jpg",
+      "/data/streams/shiori/2026_08_20_21_45_03/录制-26966466-20260820-214503-217-小栞来！_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/shiori/2026_08_20_21_45_03/录制-26966466-20260820-214503-217-小栞来！_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/shiori/2026_08_20_21_45_03/录制-26966466-20260820-214503-217-小栞来！_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_20_10_11_36",
+    "title": "早安獭獭栞！",
+    "date": "2026-08-20",
+    "time": "10:11:36",
+    "startTime": "10:11",
+    "endTime": "12:09",
+    "duration": 7120,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/shiori/2026_08_20_10_11_36/录制-26966466-20260820-101136-513-早安獭獭栞！.srt",
+    "xml": "/data/streams/shiori/2026_08_20_10_11_36/录制-26966466-20260820-101136-513-早安獭獭栞！.xml",
+    "cover": "/data/streams/shiori/2026_08_20_10_11_36/录制-26966466-20260820-101136-513-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_20_10_11_36/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_20_10_11_36/录制-26966466-20260820-101136-513-早安獭獭栞！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_20_10_11_36/录制-26966466-20260820-101136-513-早安獭獭栞！_EVIDENCE_FRAME_01_000210s.jpg",
+      "/data/streams/shiori/2026_08_20_10_11_36/录制-26966466-20260820-101136-513-早安獭獭栞！_EVIDENCE_FRAME_02_004548s.jpg",
+      "/data/streams/shiori/2026_08_20_10_11_36/录制-26966466-20260820-101136-513-早安獭獭栞！_EVIDENCE_FRAME_03_000730s.jpg",
+      "/data/streams/shiori/2026_08_20_10_11_36/录制-26966466-20260820-101136-513-早安獭獭栞！_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_08_19_21_06_45",
     "title": "七夕唱唱歌(_^▽^_)",
     "date": "2026-08-19",

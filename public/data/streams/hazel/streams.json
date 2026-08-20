@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_20_20_54_05",
+    "title": "悠闲夜晚与动物迷城",
+    "date": "2026-08-20",
+    "time": "20:54:05",
+    "startTime": "20:54",
+    "endTime": "01:30",
+    "duration": 16586,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged.srt",
+    "xml": "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged.xml",
+    "cover": "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_08_20_20_54_05/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged_EVIDENCE_FRAME_01_000600s.jpg",
+      "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged_EVIDENCE_FRAME_02_011160s.jpg",
+      "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_19_20_25_00",
     "title": "七七夕夕果汁回",
     "date": "2026-08-19",
