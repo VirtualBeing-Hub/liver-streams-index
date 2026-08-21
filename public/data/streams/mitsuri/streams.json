@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_08_21_19_30_45",
+    "title": "嘟嘟登场！",
+    "date": "2026-08-21",
+    "time": "19:30:45",
+    "startTime": "19:30",
+    "endTime": "01:01",
+    "duration": 19864,
+    "durationStr": "5.5 小时",
+    "srt": "/data/streams/mitsuri/2026_08_21_19_30_45/录制-1967216004-20260821-193045-528-白银二路冲冲冲！.srt",
+    "xml": "/data/streams/mitsuri/2026_08_21_19_30_45/录制-1967216004-20260821-193045-528-白银二路冲冲冲！.xml",
+    "cover": "/data/streams/mitsuri/2026_08_21_19_30_45/录制-1967216004-20260821-193045-528-白银二路冲冲冲！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_08_21_19_30_45/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_08_21_19_30_45/录制-1967216004-20260821-193045-528-白银二路冲冲冲！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_08_21_19_30_45/录制-1967216004-20260821-193045-528-白银二路冲冲冲！_EVIDENCE_FRAME_01_002760s.jpg",
+      "/data/streams/mitsuri/2026_08_21_19_30_45/录制-1967216004-20260821-193045-528-白银二路冲冲冲！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/mitsuri/2026_08_21_19_30_45/录制-1967216004-20260821-193045-528-白银二路冲冲冲！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_21_11_34_47",
+    "title": "get ready with me",
+    "date": "2026-08-21",
+    "time": "11:34:47",
+    "startTime": "11:34",
+    "endTime": "12:35",
+    "duration": 3697,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/mitsuri/2026_08_21_11_34_47/录制-1967216004-20260821-113447-727-get ready with me.srt",
+    "xml": "/data/streams/mitsuri/2026_08_21_11_34_47/录制-1967216004-20260821-113447-727-get ready with me.xml",
+    "cover": "/data/streams/mitsuri/2026_08_21_11_34_47/录制-1967216004-20260821-113447-727-get ready with me.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_08_21_11_34_47/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_08_21_11_34_47/录制-1967216004-20260821-113447-727-get ready with me_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_08_21_11_34_47/录制-1967216004-20260821-113447-727-get ready with me_EVIDENCE_FRAME_01_000120s.jpg",
+      "/data/streams/mitsuri/2026_08_21_11_34_47/录制-1967216004-20260821-113447-727-get ready with me_EVIDENCE_FRAME_02_002520s.jpg",
+      "/data/streams/mitsuri/2026_08_21_11_34_47/录制-1967216004-20260821-113447-727-get ready with me_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/mitsuri/2026_08_21_11_34_47/录制-1967216004-20260821-113447-727-get ready with me_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_19_16_54_37",
     "title": "最有白银理解的二路！！",
     "date": "2026-08-19",

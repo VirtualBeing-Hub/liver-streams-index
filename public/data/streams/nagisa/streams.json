@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_21_21_05_29",
+    "title": "周五的歌杂",
+    "date": "2026-08-21",
+    "time": "21:05:29",
+    "startTime": "21:05",
+    "endTime": "01:27",
+    "duration": 15775,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂.srt",
+    "xml": "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂.xml",
+    "cover": "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_21_21_05_29/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂_EVIDENCE_FRAME_01_012360s.jpg",
+      "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂_EVIDENCE_FRAME_02_003060s.jpg",
+      "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂_EVIDENCE_FRAME_03_010680s.jpg",
+      "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_21_08_11_01",
+    "title": "早收一会儿",
+    "date": "2026-08-21",
+    "time": "08:11:01",
+    "startTime": "08:11",
+    "endTime": "12:04",
+    "duration": 14039,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged.xml",
+    "cover": "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_21_08_11_01/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_EVIDENCE_FRAME_01_005280s.jpg",
+      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_EVIDENCE_FRAME_02_005940s.jpg",
+      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_20_21_17_46",
     "title": "「魔兽世界」过主线",
     "date": "2026-08-20",

@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_21_19_42_36",
+    "title": "联动玩一下致命公司",
+    "date": "2026-08-21",
+    "time": "19:42:36",
+    "startTime": "19:42",
+    "endTime": "23:09",
+    "duration": 12475,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged.srt",
+    "xml": "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged.xml",
+    "cover": "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_08_21_19_42_36/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_EVIDENCE_FRAME_01_001920s.jpg",
+      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_EVIDENCE_FRAME_02_001620s.jpg",
+      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_EVIDENCE_FRAME_03_005400s.jpg",
+      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_20_20_54_05",
     "title": "悠闲夜晚与动物迷城",
     "date": "2026-08-20",

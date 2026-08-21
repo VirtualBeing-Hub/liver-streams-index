@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_21_20_00_41",
+    "title": "后日谈？",
+    "date": "2026-08-21",
+    "time": "20:00:41",
+    "startTime": "20:00",
+    "endTime": "00:30",
+    "duration": 16254,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/viridis/2026_08_21_20_00_41/录制-1727071052-20260821-200041-742-致命公司联动来袭！_merged.srt",
+    "xml": "/data/streams/viridis/2026_08_21_20_00_41/录制-1727071052-20260821-200041-742-致命公司联动来袭！_merged.xml",
+    "cover": "/data/streams/viridis/2026_08_21_20_00_41/录制-1727071052-20260821-200041-742-致命公司联动来袭！.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_08_21_20_00_41/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_08_21_20_00_41/录制-1727071052-20260821-200041-742-致命公司联动来袭！_merged_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_08_21_20_00_41/录制-1727071052-20260821-200041-742-致命公司联动来袭！_merged_EVIDENCE_FRAME_01_000180s.jpg",
+      "/data/streams/viridis/2026_08_21_20_00_41/录制-1727071052-20260821-200041-742-致命公司联动来袭！_merged_EVIDENCE_FRAME_02_009540s.jpg",
+      "/data/streams/viridis/2026_08_21_20_00_41/录制-1727071052-20260821-200041-742-致命公司联动来袭！_merged_EVIDENCE_FRAME_03_001500s.jpg",
+      "/data/streams/viridis/2026_08_21_20_00_41/录制-1727071052-20260821-200041-742-致命公司联动来袭！_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_21_14_30_12",
+    "title": "突击的看纪录片",
+    "date": "2026-08-21",
+    "time": "14:30:12",
+    "startTime": "14:30",
+    "endTime": "16:33",
+    "duration": 7409,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/viridis/2026_08_21_14_30_12/录制-1727071052-20260821-143012-870-突击的看纪录片.srt",
+    "xml": "/data/streams/viridis/2026_08_21_14_30_12/录制-1727071052-20260821-143012-870-突击的看纪录片.xml",
+    "cover": "/data/streams/viridis/2026_08_21_14_30_12/录制-1727071052-20260821-143012-870-突击的看纪录片.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_08_21_14_30_12/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_08_21_14_30_12/录制-1727071052-20260821-143012-870-突击的看纪录片_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_08_21_14_30_12/录制-1727071052-20260821-143012-870-突击的看纪录片_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/viridis/2026_08_21_14_30_12/录制-1727071052-20260821-143012-870-突击的看纪录片_EVIDENCE_FRAME_02_000780s.jpg",
+      "/data/streams/viridis/2026_08_21_14_30_12/录制-1727071052-20260821-143012-870-突击的看纪录片_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/viridis/2026_08_21_14_30_12/录制-1727071052-20260821-143012-870-突击的看纪录片_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_20_19_00_20",
     "title": "偶像歌回？欸",
     "date": "2026-08-20",

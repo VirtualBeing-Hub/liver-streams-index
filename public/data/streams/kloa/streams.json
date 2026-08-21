@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_21_20_03_09",
+    "title": "吃晚饭！",
+    "date": "2026-08-21",
+    "time": "20:03:09",
+    "startTime": "20:03",
+    "endTime": "01:08",
+    "duration": 18322,
+    "durationStr": "5.1 小时",
+    "srt": "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_21_20_03_09/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_EVIDENCE_FRAME_01_000720s.jpg",
+      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_EVIDENCE_FRAME_02_009420s.jpg",
+      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_21_09_08_19",
+    "title": "早上好（瞌睡",
+    "date": "2026-08-21",
+    "time": "09:08:19",
+    "startTime": "09:08",
+    "endTime": "13:41",
+    "duration": 16411,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡.srt",
+    "xml": "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡.xml",
+    "cover": "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_21_09_08_19/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡_EVIDENCE_FRAME_01_004800s.jpg",
+      "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡_EVIDENCE_FRAME_02_012720s.jpg",
+      "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_20_20_05_42",
     "title": "来织围巾！！",
     "date": "2026-08-20",

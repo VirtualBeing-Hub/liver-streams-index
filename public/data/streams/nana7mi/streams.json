@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026_08_21_22_58_31",
+    "title": "俺来魔兽了",
+    "date": "2026-08-21",
+    "time": "22:58:31",
+    "startTime": "22:58",
+    "endTime": "03:59",
+    "duration": 18102,
+    "durationStr": "5.0 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_08_21_22_58_31/录制-21452505-20260821-225831-286-俺来魔兽了.xml",
+    "cover": "/data/streams/nana7mi/2026_08_21_22_58_31/录制-21452505-20260821-225831-286-俺来魔兽了.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_20_22_39_00",
     "title": "静谧田园我要通关",
     "date": "2026-08-20",
@@ -20,14 +35,20 @@
     "date": "2026-08-20",
     "time": "22:33:11",
     "startTime": "22:33",
-    "endTime": "22:36",
-    "duration": 227,
-    "durationStr": "3 分钟",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_08_20_22_33_11/录制-21452505-20260820-223311-264-静谧田园我要通关.xml",
+    "endTime": "06:00",
+    "duration": 26865,
+    "durationStr": "7.5 小时",
+    "srt": "/data/streams/nana7mi/2026_08_20_22_33_11/录制-21452505-20260820-223311-264-静谧田园我要通关_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_08_20_22_33_11/录制-21452505-20260820-223311-264-静谧田园我要通关_merged.xml",
     "cover": "/data/streams/nana7mi/2026_08_20_22_33_11/录制-21452505-20260820-223311-264-静谧田园我要通关.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_08_20_22_33_11/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_08_20_22_33_11/录制-21452505-20260820-223311-264-静谧田园我要通关_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_08_20_22_33_11/录制-21452505-20260820-223311-264-静谧田园我要通关_merged_EVIDENCE_FRAME_01_005340s.jpg",
+      "/data/streams/nana7mi/2026_08_20_22_33_11/录制-21452505-20260820-223311-264-静谧田园我要通关_merged_EVIDENCE_FRAME_02_025020s.jpg",
+      "/data/streams/nana7mi/2026_08_20_22_33_11/录制-21452505-20260820-223311-264-静谧田园我要通关_merged_EVIDENCE_FRAME_03_025500s.jpg",
+      "/data/streams/nana7mi/2026_08_20_22_33_11/录制-21452505-20260820-223311-264-静谧田园我要通关_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
   },
   {
     "id": "2026_08_19_22_03_03",

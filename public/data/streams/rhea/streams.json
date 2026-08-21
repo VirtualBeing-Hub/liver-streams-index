@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_21_22_33_07",
+    "title": "夜晚漫谈",
+    "date": "2026-08-21",
+    "time": "22:33:07",
+    "startTime": "22:33",
+    "endTime": "03:42",
+    "duration": 18589,
+    "durationStr": "5.2 小时",
+    "srt": "/data/streams/rhea/2026_08_21_22_33_07/录制-23260993-20260821-223307-638-夜晚漫谈.srt",
+    "xml": "/data/streams/rhea/2026_08_21_22_33_07/录制-23260993-20260821-223307-638-夜晚漫谈.xml",
+    "cover": "/data/streams/rhea/2026_08_21_22_33_07/录制-23260993-20260821-223307-638-夜晚漫谈.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_21_22_33_07/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_21_22_33_07/录制-23260993-20260821-223307-638-夜晚漫谈_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_21_22_33_07/录制-23260993-20260821-223307-638-夜晚漫谈_EVIDENCE_FRAME_01_000300s.jpg",
+      "/data/streams/rhea/2026_08_21_22_33_07/录制-23260993-20260821-223307-638-夜晚漫谈_EVIDENCE_FRAME_02_013920s.jpg",
+      "/data/streams/rhea/2026_08_21_22_33_07/录制-23260993-20260821-223307-638-夜晚漫谈_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/rhea/2026_08_21_22_33_07/录制-23260993-20260821-223307-638-夜晚漫谈_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_21_16_17_28",
+    "title": "娘兽来了",
+    "date": "2026-08-21",
+    "time": "16:17:28",
+    "startTime": "16:17",
+    "endTime": "18:59",
+    "duration": 9778,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/rhea/2026_08_21_16_17_28/录制-23260993-20260821-161728-585-娘兽来了.srt",
+    "xml": "/data/streams/rhea/2026_08_21_16_17_28/录制-23260993-20260821-161728-585-娘兽来了.xml",
+    "cover": "/data/streams/rhea/2026_08_21_16_17_28/录制-23260993-20260821-161728-585-娘兽来了.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_21_16_17_28/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_21_16_17_28/录制-23260993-20260821-161728-585-娘兽来了_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_21_16_17_28/录制-23260993-20260821-161728-585-娘兽来了_EVIDENCE_FRAME_01_001380s.jpg",
+      "/data/streams/rhea/2026_08_21_16_17_28/录制-23260993-20260821-161728-585-娘兽来了_EVIDENCE_FRAME_02_006900s.jpg",
+      "/data/streams/rhea/2026_08_21_16_17_28/录制-23260993-20260821-161728-585-娘兽来了_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/rhea/2026_08_21_16_17_28/录制-23260993-20260821-161728-585-娘兽来了_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_20_21_17_29",
     "title": "【生日月】攻壳机动队2 视听5-8",
     "date": "2026-08-20",
