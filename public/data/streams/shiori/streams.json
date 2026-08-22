@@ -20,14 +20,16 @@
     "date": "2026-08-22",
     "time": "22:04:49",
     "startTime": "22:04",
-    "endTime": "01:30",
-    "duration": 12378,
-    "durationStr": "3.4 小时",
-    "srt": null,
-    "xml": "/data/streams/shiori/2026_08_22_22_04_49/录制-26966466-20260822-220449-165-小栞魔兽魔兽QAQ.xml",
+    "endTime": "03:03",
+    "duration": 17973,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/shiori/2026_08_22_22_04_49/录制-26966466-20260822-220449-165-小栞魔兽魔兽QAQ_merged.srt",
+    "xml": "/data/streams/shiori/2026_08_22_22_04_49/录制-26966466-20260822-220449-165-小栞魔兽魔兽QAQ_merged.xml",
     "cover": "/data/streams/shiori/2026_08_22_22_04_49/录制-26966466-20260822-220449-165-小栞魔兽魔兽QAQ.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/shiori/2026_08_22_22_04_49/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_22_22_04_49/录制-26966466-20260822-220449-165-小栞魔兽魔兽QAQ_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_08_21_20_00_39",
