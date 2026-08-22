@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_08_23_01_31_08",
+    "title": "小栞魔兽魔兽QAQ",
+    "date": "2026-08-22",
+    "time": "01:31:08",
+    "startTime": "01:31",
+    "endTime": "02:05",
+    "duration": 2075,
+    "durationStr": "0.6 小时",
+    "srt": null,
+    "xml": "/data/streams/shiori/2026_08_23_01_31_08/录制-26966466-20260823-013108-963-小栞魔兽魔兽QAQ.xml",
+    "cover": "/data/streams/shiori/2026_08_23_01_31_08/录制-26966466-20260823-013108-963-小栞魔兽魔兽QAQ.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_22_22_04_49",
+    "title": "小栞魔兽魔兽QAQ",
+    "date": "2026-08-22",
+    "time": "22:04:49",
+    "startTime": "22:04",
+    "endTime": "01:30",
+    "duration": 12378,
+    "durationStr": "3.4 小时",
+    "srt": null,
+    "xml": "/data/streams/shiori/2026_08_22_22_04_49/录制-26966466-20260822-220449-165-小栞魔兽魔兽QAQ.xml",
+    "cover": "/data/streams/shiori/2026_08_22_22_04_49/录制-26966466-20260822-220449-165-小栞魔兽魔兽QAQ.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_21_20_00_39",
     "title": "致命公司！",
     "date": "2026-08-21",

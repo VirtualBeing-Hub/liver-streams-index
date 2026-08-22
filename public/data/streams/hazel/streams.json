@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_22_21_13_11",
+    "title": "转学日 新衣回",
+    "date": "2026-08-22",
+    "time": "21:13:11",
+    "startTime": "21:13",
+    "endTime": "22:55",
+    "duration": 6162,
+    "durationStr": "1.7 小时",
+    "srt": "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged.srt",
+    "xml": "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged.xml",
+    "cover": "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_08_22_21_13_11/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_EVIDENCE_FRAME_01_000420s.jpg",
+      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_EVIDENCE_FRAME_02_000600s.jpg",
+      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_EVIDENCE_FRAME_03_002280s.jpg",
+      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_21_19_42_36",
     "title": "联动玩一下致命公司",
     "date": "2026-08-21",

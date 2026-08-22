@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_22_20_00_25",
+    "title": "唱歌歌~",
+    "date": "2026-08-22",
+    "time": "20:00:25",
+    "startTime": "20:00",
+    "endTime": "00:15",
+    "duration": 15325,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_22_20_00_25/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged_EVIDENCE_FRAME_01_006960s.jpg",
+      "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged_EVIDENCE_FRAME_02_011640s.jpg",
+      "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged_EVIDENCE_FRAME_03_012240s.jpg",
+      "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_22_12_21_12",
+    "title": "吃午饭",
+    "date": "2026-08-22",
+    "time": "12:21:12",
+    "startTime": "12:21",
+    "endTime": "14:14",
+    "duration": 6815,
+    "durationStr": "1.9 小时",
+    "srt": "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_22_12_21_12/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_EVIDENCE_FRAME_02_000780s.jpg",
+      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_EVIDENCE_FRAME_03_006480s.jpg",
+      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_21_20_03_09",
     "title": "吃晚饭！",
     "date": "2026-08-21",

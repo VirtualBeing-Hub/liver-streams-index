@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_22_18_42_09",
+    "title": "Billboard公告牌金曲鉴赏",
+    "date": "2026-08-22",
+    "time": "18:42:09",
+    "startTime": "18:42",
+    "endTime": "21:55",
+    "duration": 11595,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/rhea/2026_08_22_18_42_09/录制-23260993-20260822-184209-789-Billboard公告牌金曲鉴赏_merged.srt",
+    "xml": "/data/streams/rhea/2026_08_22_18_42_09/录制-23260993-20260822-184209-789-Billboard公告牌金曲鉴赏_merged.xml",
+    "cover": "/data/streams/rhea/2026_08_22_18_42_09/录制-23260993-20260822-184209-789-Billboard公告牌金曲鉴赏.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_22_18_42_09/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_22_18_42_09/录制-23260993-20260822-184209-789-Billboard公告牌金曲鉴赏_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_22_18_42_09/录制-23260993-20260822-184209-789-Billboard公告牌金曲鉴赏_merged_EVIDENCE_FRAME_01_003600s.jpg",
+      "/data/streams/rhea/2026_08_22_18_42_09/录制-23260993-20260822-184209-789-Billboard公告牌金曲鉴赏_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/rhea/2026_08_22_18_42_09/录制-23260993-20260822-184209-789-Billboard公告牌金曲鉴赏_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/rhea/2026_08_22_18_42_09/录制-23260993-20260822-184209-789-Billboard公告牌金曲鉴赏_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_21_22_33_07",
     "title": "夜晚漫谈",
     "date": "2026-08-21",

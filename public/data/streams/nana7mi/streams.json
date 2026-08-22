@@ -5,14 +5,20 @@
     "date": "2026-08-21",
     "time": "22:58:31",
     "startTime": "22:58",
-    "endTime": "03:59",
-    "duration": 18102,
-    "durationStr": "5.0 小时",
-    "srt": null,
+    "endTime": "04:48",
+    "duration": 21033,
+    "durationStr": "5.8 小时",
+    "srt": "/data/streams/nana7mi/2026_08_21_22_58_31/录制-21452505-20260821-225831-286-俺来魔兽了.srt",
     "xml": "/data/streams/nana7mi/2026_08_21_22_58_31/录制-21452505-20260821-225831-286-俺来魔兽了.xml",
     "cover": "/data/streams/nana7mi/2026_08_21_22_58_31/录制-21452505-20260821-225831-286-俺来魔兽了.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_08_21_22_58_31/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_08_21_22_58_31/录制-21452505-20260821-225831-286-俺来魔兽了_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_08_21_22_58_31/录制-21452505-20260821-225831-286-俺来魔兽了_EVIDENCE_FRAME_01_012960s.jpg",
+      "/data/streams/nana7mi/2026_08_21_22_58_31/录制-21452505-20260821-225831-286-俺来魔兽了_EVIDENCE_FRAME_02_002160s.jpg",
+      "/data/streams/nana7mi/2026_08_21_22_58_31/录制-21452505-20260821-225831-286-俺来魔兽了_EVIDENCE_FRAME_03_019320s.jpg",
+      "/data/streams/nana7mi/2026_08_21_22_58_31/录制-21452505-20260821-225831-286-俺来魔兽了_EVIDENCE_REQUEST_E3.jpg"
+    ]
   },
   {
     "id": "2026_08_20_22_39_00",
