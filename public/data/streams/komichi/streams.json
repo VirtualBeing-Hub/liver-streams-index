@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_23_18_33_53",
+    "title": "一起来看冰火+",
+    "date": "2026-08-23",
+    "time": "18:33:53",
+    "startTime": "18:33",
+    "endTime": "21:52",
+    "duration": 11960,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/komichi/2026_08_23_18_33_53/录制-1700301235-20260823-183353-963-一起来看冰火+_merged.srt",
+    "xml": "/data/streams/komichi/2026_08_23_18_33_53/录制-1700301235-20260823-183353-963-一起来看冰火+_merged.xml",
+    "cover": "/data/streams/komichi/2026_08_23_18_33_53/录制-1700301235-20260823-183353-963-一起来看冰火+.cover.jpg",
+    "highlights": "/data/streams/komichi/2026_08_23_18_33_53/highlights.md",
+    "images": [
+      "/data/streams/komichi/2026_08_23_18_33_53/录制-1700301235-20260823-183353-963-一起来看冰火+_merged_COMIC_FACTORY.png",
+      "/data/streams/komichi/2026_08_23_18_33_53/录制-1700301235-20260823-183353-963-一起来看冰火+_merged_EVIDENCE_FRAME_01_003840s.jpg",
+      "/data/streams/komichi/2026_08_23_18_33_53/录制-1700301235-20260823-183353-963-一起来看冰火+_merged_EVIDENCE_FRAME_02_007860s.jpg",
+      "/data/streams/komichi/2026_08_23_18_33_53/录制-1700301235-20260823-183353-963-一起来看冰火+_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/komichi/2026_08_23_18_33_53/录制-1700301235-20260823-183353-963-一起来看冰火+_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_22_20_00_28",
     "title": "【特别回】永远怀念四时小路的笔记本兄弟+",
     "date": "2026-08-22",

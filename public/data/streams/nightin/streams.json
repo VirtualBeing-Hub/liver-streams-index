@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026_08_23_20_36_56",
+    "title": "看一下冰火写id！",
+    "date": "2026-08-23",
+    "time": "20:36:56",
+    "startTime": "20:36",
+    "endTime": "23:16",
+    "duration": 9623,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/nightin/2026_08_23_20_36_56/录制-24872476-20260823-203656-391-看一下冰火写id！.srt",
+    "xml": "/data/streams/nightin/2026_08_23_20_36_56/录制-24872476-20260823-203656-391-看一下冰火写id！.xml",
+    "cover": "/data/streams/nightin/2026_08_23_20_36_56/录制-24872476-20260823-203656-391-看一下冰火写id！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_23_20_36_56/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_23_20_36_56/录制-24872476-20260823-203656-391-看一下冰火写id！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_23_20_36_56/录制-24872476-20260823-203656-391-看一下冰火写id！_EVIDENCE_FRAME_01_000420s.jpg",
+      "/data/streams/nightin/2026_08_23_20_36_56/录制-24872476-20260823-203656-391-看一下冰火写id！_EVIDENCE_FRAME_02_009000s.jpg",
+      "/data/streams/nightin/2026_08_23_20_36_56/录制-24872476-20260823-203656-391-看一下冰火写id！_EVIDENCE_FRAME_03_009360s.jpg",
+      "/data/streams/nightin/2026_08_23_20_36_56/录制-24872476-20260823-203656-391-看一下冰火写id！_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_23_14_09_22",
+    "title": "小众宝藏直播间",
+    "date": "2026-08-23",
+    "time": "14:09:22",
+    "startTime": "14:09",
+    "endTime": "17:07",
+    "duration": 10686,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/nightin/2026_08_23_14_09_22/录制-24872476-20260823-140922-644-小众宝藏直播间_merged.srt",
+    "xml": "/data/streams/nightin/2026_08_23_14_09_22/录制-24872476-20260823-140922-644-小众宝藏直播间_merged.xml",
+    "cover": "/data/streams/nightin/2026_08_23_14_09_22/录制-24872476-20260823-140922-644-小众宝藏直播间.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_23_14_09_22/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_23_14_09_22/录制-24872476-20260823-140922-644-小众宝藏直播间_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_23_14_09_22/录制-24872476-20260823-140922-644-小众宝藏直播间_merged_EVIDENCE_FRAME_01_007200s.jpg",
+      "/data/streams/nightin/2026_08_23_14_09_22/录制-24872476-20260823-140922-644-小众宝藏直播间_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_08_23_14_09_22/录制-24872476-20260823-140922-644-小众宝藏直播间_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_23_10_04_11",
+    "title": "早上好！",
+    "date": "2026-08-23",
+    "time": "10:04:11",
+    "startTime": "10:04",
+    "endTime": "10:59",
+    "duration": 3340,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/nightin/2026_08_23_10_04_11/录制-24872476-20260823-100411-263-早上好！.srt",
+    "xml": "/data/streams/nightin/2026_08_23_10_04_11/录制-24872476-20260823-100411-263-早上好！.xml",
+    "cover": "/data/streams/nightin/2026_08_23_10_04_11/录制-24872476-20260823-100411-263-早上好！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_23_10_04_11/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_23_10_04_11/录制-24872476-20260823-100411-263-早上好！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_23_10_04_11/录制-24872476-20260823-100411-263-早上好！_EVIDENCE_FRAME_01_000360s.jpg",
+      "/data/streams/nightin/2026_08_23_10_04_11/录制-24872476-20260823-100411-263-早上好！_EVIDENCE_FRAME_02_001020s.jpg",
+      "/data/streams/nightin/2026_08_23_10_04_11/录制-24872476-20260823-100411-263-早上好！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nightin/2026_08_23_10_04_11/录制-24872476-20260823-100411-263-早上好！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_22_14_06_22",
     "title": "n2n2nn的2",
     "date": "2026-08-22",

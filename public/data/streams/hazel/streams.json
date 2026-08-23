@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_08_23_22_06_25",
+    "title": "随便聊聊",
+    "date": "2026-08-23",
+    "time": "22:06:25",
+    "startTime": "22:06",
+    "endTime": "00:42",
+    "duration": 9370,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊.srt",
+    "xml": "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊.xml",
+    "cover": "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_08_23_22_06_25/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊_EVIDENCE_FRAME_01_004140s.jpg",
+      "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊_EVIDENCE_FRAME_02_006840s.jpg",
+      "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_23_19_26_52",
+    "title": "突击 看完IVL总决赛",
+    "date": "2026-08-23",
+    "time": "19:26:52",
+    "startTime": "19:26",
+    "endTime": "19:35",
+    "duration": 551,
+    "durationStr": "0.2 小时",
+    "srt": "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛.srt",
+    "xml": "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛.xml",
+    "cover": "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_08_23_19_26_52/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛_EVIDENCE_FRAME_02_000300s.jpg",
+      "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_22_21_13_11",
     "title": "转学日 新衣回",
     "date": "2026-08-22",

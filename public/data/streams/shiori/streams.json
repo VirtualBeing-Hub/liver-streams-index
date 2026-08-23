@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_23_21_07_47",
+    "title": "和小弥獭獭栞魔兽！",
+    "date": "2026-08-23",
+    "time": "21:07:47",
+    "startTime": "21:07",
+    "endTime": "01:42",
+    "duration": 16521,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/shiori/2026_08_23_21_07_47/录制-26966466-20260823-210747-374-和小弥獭獭栞魔兽！.srt",
+    "xml": "/data/streams/shiori/2026_08_23_21_07_47/录制-26966466-20260823-210747-374-和小弥獭獭栞魔兽！.xml",
+    "cover": "/data/streams/shiori/2026_08_23_21_07_47/录制-26966466-20260823-210747-374-和小弥獭獭栞魔兽！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_23_21_07_47/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_23_21_07_47/录制-26966466-20260823-210747-374-和小弥獭獭栞魔兽！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_23_21_07_47/录制-26966466-20260823-210747-374-和小弥獭獭栞魔兽！_EVIDENCE_FRAME_01_000600s.jpg",
+      "/data/streams/shiori/2026_08_23_21_07_47/录制-26966466-20260823-210747-374-和小弥獭獭栞魔兽！_EVIDENCE_FRAME_02_015680s.jpg",
+      "/data/streams/shiori/2026_08_23_21_07_47/录制-26966466-20260823-210747-374-和小弥獭獭栞魔兽！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_08_23_21_07_47/录制-26966466-20260823-210747-374-和小弥獭獭栞魔兽！_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_23_10_00_22",
+    "title": "早安獭獭栞！",
+    "date": "2026-08-23",
+    "time": "10:00:22",
+    "startTime": "10:00",
+    "endTime": "12:09",
+    "duration": 7792,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/shiori/2026_08_23_10_00_22/录制-26966466-20260823-100022-769-早安獭獭栞！.srt",
+    "xml": "/data/streams/shiori/2026_08_23_10_00_22/录制-26966466-20260823-100022-769-早安獭獭栞！.xml",
+    "cover": "/data/streams/shiori/2026_08_23_10_00_22/录制-26966466-20260823-100022-769-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_23_10_00_22/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_23_10_00_22/录制-26966466-20260823-100022-769-早安獭獭栞！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_23_10_00_22/录制-26966466-20260823-100022-769-早安獭獭栞！_EVIDENCE_FRAME_01_000660s.jpg",
+      "/data/streams/shiori/2026_08_23_10_00_22/录制-26966466-20260823-100022-769-早安獭獭栞！_EVIDENCE_FRAME_02_004170s.jpg",
+      "/data/streams/shiori/2026_08_23_10_00_22/录制-26966466-20260823-100022-769-早安獭獭栞！_EVIDENCE_FRAME_03_007325s.jpg",
+      "/data/streams/shiori/2026_08_23_10_00_22/录制-26966466-20260823-100022-769-早安獭獭栞！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_23_01_31_08",
     "title": "小栞魔兽魔兽QAQ",
     "date": "2026-08-22",

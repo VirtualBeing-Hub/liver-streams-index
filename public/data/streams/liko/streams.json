@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_23_20_02_37",
+    "title": "水友大乱斗！",
+    "date": "2026-08-23",
+    "time": "20:02:37",
+    "startTime": "20:02",
+    "endTime": "22:12",
+    "duration": 7821,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！.srt",
+    "xml": "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！.xml",
+    "cover": "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_23_20_02_37/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！_EVIDENCE_FRAME_01_001140s.jpg",
+      "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！_EVIDENCE_FRAME_02_007320s.jpg",
+      "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_23_11_04_54",
+    "title": "兔子做饭",
+    "date": "2026-08-23",
+    "time": "11:04:54",
+    "startTime": "11:04",
+    "endTime": "12:50",
+    "duration": 6394,
+    "durationStr": "1.8 小时",
+    "srt": "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged.srt",
+    "xml": "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged.xml",
+    "cover": "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭.cover.jpg",
+    "highlights": "/data/streams/liko/2026_08_23_11_04_54/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_EVIDENCE_FRAME_01_000540s.jpg",
+      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_EVIDENCE_FRAME_02_002940s.jpg",
+      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_EVIDENCE_FRAME_03_003300s.jpg",
+      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_22_20_12_13",
     "title": "兔子唱歌！",
     "date": "2026-08-22",

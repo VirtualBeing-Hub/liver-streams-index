@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026_08_23_19_51_22",
+    "title": "汪【周年豪华礼】",
+    "date": "2026-08-23",
+    "time": "19:51:22",
+    "startTime": "19:51",
+    "endTime": "21:30",
+    "duration": 5962,
+    "durationStr": "1.7 小时",
+    "srt": "/data/streams/mofu/2026_08_23_19_51_22/录制-1791260716-20260823-195122-209-汪【周年豪华礼】_merged.srt",
+    "xml": "/data/streams/mofu/2026_08_23_19_51_22/录制-1791260716-20260823-195122-209-汪【周年豪华礼】_merged.xml",
+    "cover": "/data/streams/mofu/2026_08_23_19_51_22/录制-1791260716-20260823-195122-209-汪【周年豪华礼】.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_08_23_19_51_22/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_08_23_19_51_22/录制-1791260716-20260823-195122-209-汪【周年豪华礼】_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_08_23_19_51_22/录制-1791260716-20260823-195122-209-汪【周年豪华礼】_merged_EVIDENCE_FRAME_01_002100s.jpg",
+      "/data/streams/mofu/2026_08_23_19_51_22/录制-1791260716-20260823-195122-209-汪【周年豪华礼】_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_23_08_58_34",
+    "title": "汪【周年豪华礼】",
+    "date": "2026-08-23",
+    "time": "08:58:34",
+    "startTime": "08:58",
+    "endTime": "17:52",
+    "duration": 32090,
+    "durationStr": "8.9 小时",
+    "srt": "/data/streams/mofu/2026_08_23_08_58_34/录制-1791260716-20260823-085834-508-汪【周年豪华礼】_merged.srt",
+    "xml": "/data/streams/mofu/2026_08_23_08_58_34/录制-1791260716-20260823-085834-508-汪【周年豪华礼】_merged.xml",
+    "cover": "/data/streams/mofu/2026_08_23_08_58_34/录制-1791260716-20260823-085834-508-汪【周年豪华礼】.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_08_23_08_58_34/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_08_23_08_58_34/录制-1791260716-20260823-085834-508-汪【周年豪华礼】_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_08_23_08_58_34/录制-1791260716-20260823-085834-508-汪【周年豪华礼】_merged_EVIDENCE_FRAME_01_005400s.jpg",
+      "/data/streams/mofu/2026_08_23_08_58_34/录制-1791260716-20260823-085834-508-汪【周年豪华礼】_merged_EVIDENCE_FRAME_02_015120s.jpg",
+      "/data/streams/mofu/2026_08_23_08_58_34/录制-1791260716-20260823-085834-508-汪【周年豪华礼】_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_08_22_13_14_52",
     "title": "汪【周年豪华礼】",
     "date": "2026-08-22",

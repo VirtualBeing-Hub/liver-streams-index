@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_23_19_27_00",
+    "title": "休闲休闲⭐",
+    "date": "2026-08-23",
+    "time": "19:27:00",
+    "startTime": "19:27",
+    "endTime": "01:07",
+    "duration": 20456,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/mizuki/2026_08_23_19_27_00/录制-30655190-20260823-192700-498-看看冰火歌回⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_23_19_27_00/录制-30655190-20260823-192700-498-看看冰火歌回⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_23_19_27_00/录制-30655190-20260823-192700-498-看看冰火歌回⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_23_19_27_00/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_23_19_27_00/录制-30655190-20260823-192700-498-看看冰火歌回⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_23_19_27_00/录制-30655190-20260823-192700-498-看看冰火歌回⭐_EVIDENCE_FRAME_01_005520s.jpg",
+      "/data/streams/mizuki/2026_08_23_19_27_00/录制-30655190-20260823-192700-498-看看冰火歌回⭐_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/mizuki/2026_08_23_19_27_00/录制-30655190-20260823-192700-498-看看冰火歌回⭐_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/mizuki/2026_08_23_19_27_00/录制-30655190-20260823-192700-498-看看冰火歌回⭐_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_23_15_03_03",
+    "title": "歌杂歌杂歌杂⭐",
+    "date": "2026-08-23",
+    "time": "15:03:03",
+    "startTime": "15:03",
+    "endTime": "17:56",
+    "duration": 10411,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/mizuki/2026_08_23_15_03_03/录制-30655190-20260823-150303-976-歌杂歌杂歌杂⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_23_15_03_03/录制-30655190-20260823-150303-976-歌杂歌杂歌杂⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_23_15_03_03/录制-30655190-20260823-150303-976-歌杂歌杂歌杂⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_23_15_03_03/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_23_15_03_03/录制-30655190-20260823-150303-976-歌杂歌杂歌杂⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_23_15_03_03/录制-30655190-20260823-150303-976-歌杂歌杂歌杂⭐_EVIDENCE_FRAME_01_000480s.jpg",
+      "/data/streams/mizuki/2026_08_23_15_03_03/录制-30655190-20260823-150303-976-歌杂歌杂歌杂⭐_EVIDENCE_FRAME_02_006300s.jpg",
+      "/data/streams/mizuki/2026_08_23_15_03_03/录制-30655190-20260823-150303-976-歌杂歌杂歌杂⭐_EVIDENCE_FRAME_03_007500s.jpg",
+      "/data/streams/mizuki/2026_08_23_15_03_03/录制-30655190-20260823-150303-976-歌杂歌杂歌杂⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_22_21_14_38",
     "title": "周末休闲一小下⭐",
     "date": "2026-08-22",

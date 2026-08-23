@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_23_23_59_43",
+    "title": "一穷二白的轻声细语",
+    "date": "2026-08-23",
+    "time": "23:59:43",
+    "startTime": "23:59",
+    "endTime": "01:43",
+    "duration": 6266,
+    "durationStr": "1.7 小时",
+    "srt": "/data/streams/rhea/2026_08_23_23_59_43/录制-23260993-20260823-235943-867-一穷二白的轻声细语_merged.srt",
+    "xml": "/data/streams/rhea/2026_08_23_23_59_43/录制-23260993-20260823-235943-867-一穷二白的轻声细语_merged.xml",
+    "cover": "/data/streams/rhea/2026_08_23_23_59_43/录制-23260993-20260823-235943-867-一穷二白的轻声细语.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_23_23_59_43/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_23_23_59_43/录制-23260993-20260823-235943-867-一穷二白的轻声细语_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_23_23_59_43/录制-23260993-20260823-235943-867-一穷二白的轻声细语_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/rhea/2026_08_23_23_59_43/录制-23260993-20260823-235943-867-一穷二白的轻声细语_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/rhea/2026_08_23_23_59_43/录制-23260993-20260823-235943-867-一穷二白的轻声细语_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/rhea/2026_08_23_23_59_43/录制-23260993-20260823-235943-867-一穷二白的轻声细语_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_23_15_21_22",
+    "title": "百鬼夜行 ktv电台",
+    "date": "2026-08-23",
+    "time": "15:21:22",
+    "startTime": "15:21",
+    "endTime": "17:48",
+    "duration": 8834,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/rhea/2026_08_23_15_21_22/录制-23260993-20260823-152122-470-百鬼夜行 ktv电台_merged.srt",
+    "xml": "/data/streams/rhea/2026_08_23_15_21_22/录制-23260993-20260823-152122-470-百鬼夜行 ktv电台_merged.xml",
+    "cover": "/data/streams/rhea/2026_08_23_15_21_22/录制-23260993-20260823-152122-470-百鬼夜行 ktv电台.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_23_15_21_22/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_23_15_21_22/录制-23260993-20260823-152122-470-百鬼夜行 ktv电台_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_23_15_21_22/录制-23260993-20260823-152122-470-百鬼夜行 ktv电台_merged_EVIDENCE_FRAME_01_002220s.jpg",
+      "/data/streams/rhea/2026_08_23_15_21_22/录制-23260993-20260823-152122-470-百鬼夜行 ktv电台_merged_EVIDENCE_FRAME_02_004380s.jpg",
+      "/data/streams/rhea/2026_08_23_15_21_22/录制-23260993-20260823-152122-470-百鬼夜行 ktv电台_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/rhea/2026_08_23_15_21_22/录制-23260993-20260823-152122-470-百鬼夜行 ktv电台_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_22_18_42_09",
     "title": "Billboard公告牌金曲鉴赏",
     "date": "2026-08-22",
