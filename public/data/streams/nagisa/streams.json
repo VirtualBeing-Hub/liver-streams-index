@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026_08_25_00_55_41",
+    "title": "「魔兽世界」师徒杯开幕",
+    "date": "2026-08-24",
+    "time": "00:55:41",
+    "startTime": "00:55",
+    "endTime": "03:59",
+    "duration": 11067,
+    "durationStr": "3.1 小时",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_08_25_00_55_41/录制-31368705-20260825-005541-654-「魔兽世界」师徒杯开幕.xml",
+    "cover": "/data/streams/nagisa/2026_08_25_00_55_41/录制-31368705-20260825-005541-654-「魔兽世界」师徒杯开幕.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_25_00_03_52",
+    "title": "「魔兽世界」师徒杯开幕",
+    "date": "2026-08-24",
+    "time": "00:03:52",
+    "startTime": "00:03",
+    "endTime": "00:52",
+    "duration": 2961,
+    "durationStr": "0.8 小时",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_08_25_00_03_52/录制-31368705-20260825-000352-011-「魔兽世界」师徒杯开幕.xml",
+    "cover": "/data/streams/nagisa/2026_08_25_00_03_52/录制-31368705-20260825-000352-011-「魔兽世界」师徒杯开幕.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_24_20_04_50",
+    "title": "「魔兽世界」师徒杯开幕",
+    "date": "2026-08-24",
+    "time": "20:04:50",
+    "startTime": "20:04",
+    "endTime": "00:02",
+    "duration": 14336,
+    "durationStr": "4.0 小时",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_08_24_20_04_50/录制-31368705-20260824-200450-373-「魔兽世界」师徒杯开幕.xml",
+    "cover": "/data/streams/nagisa/2026_08_24_20_04_50/录制-31368705-20260824-200450-373-「魔兽世界」师徒杯开幕.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_24_08_07_32",
+    "title": "早安一会儿",
+    "date": "2026-08-24",
+    "time": "08:07:32",
+    "startTime": "08:07",
+    "endTime": "10:45",
+    "duration": 9504,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/nagisa/2026_08_24_08_07_32/录制-31368705-20260824-080732-943-早安一会儿_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_24_08_07_32/录制-31368705-20260824-080732-943-早安一会儿_merged.xml",
+    "cover": "/data/streams/nagisa/2026_08_24_08_07_32/录制-31368705-20260824-080732-943-早安一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_24_08_07_32/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_24_08_07_32/录制-31368705-20260824-080732-943-早安一会儿_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_22_21_12_43",
     "title": "定好行程后看「古诺西亚」",
     "date": "2026-08-22",

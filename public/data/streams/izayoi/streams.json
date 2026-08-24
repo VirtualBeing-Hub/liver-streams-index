@@ -5,14 +5,20 @@
     "date": "2026-08-23",
     "time": "20:01:30",
     "startTime": "20:01",
-    "endTime": "03:59",
-    "duration": 28736,
-    "durationStr": "8.0 小时",
-    "srt": null,
+    "endTime": "04:16",
+    "duration": 29738,
+    "durationStr": "8.3 小时",
+    "srt": "/data/streams/izayoi/2026_08_23_20_01_30/录制-1741667419-20260823-200130-662-港诡完结篇.srt",
     "xml": "/data/streams/izayoi/2026_08_23_20_01_30/录制-1741667419-20260823-200130-662-港诡完结篇.xml",
     "cover": "/data/streams/izayoi/2026_08_23_20_01_30/录制-1741667419-20260823-200130-662-港诡完结篇.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/izayoi/2026_08_23_20_01_30/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_23_20_01_30/录制-1741667419-20260823-200130-662-港诡完结篇_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_23_20_01_30/录制-1741667419-20260823-200130-662-港诡完结篇_EVIDENCE_FRAME_01_000360s.jpg",
+      "/data/streams/izayoi/2026_08_23_20_01_30/录制-1741667419-20260823-200130-662-港诡完结篇_EVIDENCE_FRAME_02_013680s.jpg",
+      "/data/streams/izayoi/2026_08_23_20_01_30/录制-1741667419-20260823-200130-662-港诡完结篇_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/izayoi/2026_08_23_20_01_30/录制-1741667419-20260823-200130-662-港诡完结篇_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_08_23_12_04_50",
@@ -29,7 +35,9 @@
     "highlights": "/data/streams/izayoi/2026_08_23_12_04_50/highlights.md",
     "images": [
       "/data/streams/izayoi/2026_08_23_12_04_50/录制-1741667419-20260823-120450-726-16家今天中午的饭特别篇_merged_COMIC_FACTORY.png",
-      "/data/streams/izayoi/2026_08_23_12_04_50/录制-1741667419-20260823-120450-726-16家今天中午的饭特别篇_merged_EVIDENCE_FRAME_01_001380s.jpg"
+      "/data/streams/izayoi/2026_08_23_12_04_50/录制-1741667419-20260823-120450-726-16家今天中午的饭特别篇_merged_EVIDENCE_FRAME_01_001380s.jpg",
+      "/data/streams/izayoi/2026_08_23_12_04_50/录制-1741667419-20260823-120450-726-16家今天中午的饭特别篇_merged_EVIDENCE_FRAME_02_003240s.jpg",
+      "/data/streams/izayoi/2026_08_23_12_04_50/录制-1741667419-20260823-120450-726-16家今天中午的饭特别篇_merged_SCREENSHOTS.jpg"
     ]
   },
   {
