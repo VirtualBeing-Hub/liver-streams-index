@@ -5,14 +5,19 @@
     "date": "2026-08-25",
     "time": "21:05:38",
     "startTime": "21:05",
-    "endTime": "22:17",
-    "duration": 4350,
-    "durationStr": "1.2 小时",
-    "srt": null,
-    "xml": "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^.xml",
+    "endTime": "01:50",
+    "duration": 17117,
+    "durationStr": "4.8 小时",
+    "srt": "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^_merged.srt",
+    "xml": "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^_merged.xml",
     "cover": "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/harei/2026_08_25_21_05_38/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^_merged_EVIDENCE_FRAME_01_004080s.jpg",
+      "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^_merged_EVIDENCE_FRAME_02_013980s.jpg",
+      "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_08_25_13_02_59",
@@ -30,7 +35,9 @@
     "images": [
       "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_COMIC_FACTORY.png",
       "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_EVIDENCE_FRAME_01_003060s.jpg",
-      "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_EVIDENCE_FRAME_02_004080s.jpg"
+      "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_EVIDENCE_FRAME_02_004080s.jpg",
+      "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_EVIDENCE_FRAME_03_012300s.jpg",
+      "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_EVIDENCE_REQUEST_E1.jpg"
     ]
   },
   {

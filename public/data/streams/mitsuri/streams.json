@@ -5,14 +5,16 @@
     "date": "2026-08-25",
     "time": "22:00:55",
     "startTime": "22:00",
-    "endTime": "22:17",
-    "duration": 1027,
-    "durationStr": "0.3 小时",
-    "srt": null,
-    "xml": "/data/streams/mitsuri/2026_08_25_22_00_55/录制-1967216004-20260825-220055-396-嘟嘟啊嘟嘟！.xml",
+    "endTime": "03:48",
+    "duration": 20896,
+    "durationStr": "5.8 小时",
+    "srt": "/data/streams/mitsuri/2026_08_25_22_00_55/录制-1967216004-20260825-220055-396-嘟嘟啊嘟嘟！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_08_25_22_00_55/录制-1967216004-20260825-220055-396-嘟嘟啊嘟嘟！_merged.xml",
     "cover": "/data/streams/mitsuri/2026_08_25_22_00_55/录制-1967216004-20260825-220055-396-嘟嘟啊嘟嘟！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_08_25_22_00_55/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_08_25_22_00_55/录制-1967216004-20260825-220055-396-嘟嘟啊嘟嘟！_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_08_23_22_29_28",

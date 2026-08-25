@@ -20,14 +20,20 @@
     "date": "2026-08-25",
     "time": "20:02:50",
     "startTime": "20:02",
-    "endTime": "21:35",
-    "duration": 5597,
-    "durationStr": "1.6 小时",
-    "srt": null,
-    "xml": "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐.xml",
+    "endTime": "00:58",
+    "duration": 17815,
+    "durationStr": "4.9 小时",
+    "srt": "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐_merged.xml",
     "cover": "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/mizuki/2026_08_25_20_02_50/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐_merged_EVIDENCE_FRAME_01_009960s.jpg",
+      "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐_merged_EVIDENCE_FRAME_02_000360s.jpg",
+      "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐_merged_EVIDENCE_FRAME_03_016860s.jpg",
+      "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐_merged_EVIDENCE_FRAME_04_015000s.jpg"
+    ]
   },
   {
     "id": "2026_08_25_15_03_07",
@@ -44,7 +50,10 @@
     "highlights": "/data/streams/mizuki/2026_08_25_15_03_07/highlights.md",
     "images": [
       "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐_merged_COMIC_FACTORY.png",
-      "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐_merged_EVIDENCE_FRAME_01_000000s.jpg"
+      "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐_merged_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐_merged_EVIDENCE_REQUEST_E4.jpg"
     ]
   },
   {

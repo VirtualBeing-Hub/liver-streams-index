@@ -20,14 +20,19 @@
     "date": "2026-08-25",
     "time": "20:03:00",
     "startTime": "20:03",
-    "endTime": "21:36",
-    "duration": 5585,
-    "durationStr": "1.6 小时",
-    "srt": null,
-    "xml": "/data/streams/shiori/2026_08_25_20_03_00/录制-26966466-20260825-200300-558-栞来杂谈！.xml",
+    "endTime": "01:31",
+    "duration": 19692,
+    "durationStr": "5.5 小时",
+    "srt": "/data/streams/shiori/2026_08_25_20_03_00/录制-26966466-20260825-200300-558-栞来杂谈！_merged.srt",
+    "xml": "/data/streams/shiori/2026_08_25_20_03_00/录制-26966466-20260825-200300-558-栞来杂谈！_merged.xml",
     "cover": "/data/streams/shiori/2026_08_25_20_03_00/录制-26966466-20260825-200300-558-栞来杂谈！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/shiori/2026_08_25_20_03_00/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_25_20_03_00/录制-26966466-20260825-200300-558-栞来杂谈！_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_25_20_03_00/录制-26966466-20260825-200300-558-栞来杂谈！_merged_EVIDENCE_FRAME_01_005280s.jpg",
+      "/data/streams/shiori/2026_08_25_20_03_00/录制-26966466-20260825-200300-558-栞来杂谈！_merged_EVIDENCE_FRAME_02_017880s.jpg",
+      "/data/streams/shiori/2026_08_25_20_03_00/录制-26966466-20260825-200300-558-栞来杂谈！_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_08_25_10_04_17",
@@ -44,7 +49,10 @@
     "highlights": "/data/streams/shiori/2026_08_25_10_04_17/highlights.md",
     "images": [
       "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！_merged_COMIC_FACTORY.png",
-      "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！_merged_EVIDENCE_FRAME_01_002588s.jpg"
+      "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！_merged_EVIDENCE_FRAME_01_002588s.jpg",
+      "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！_merged_SCREENSHOTS.jpg"
     ]
   },
   {

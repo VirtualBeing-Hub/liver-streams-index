@@ -5,14 +5,20 @@
     "date": "2026-08-25",
     "time": "20:07:20",
     "startTime": "20:07",
-    "endTime": "22:17",
-    "duration": 7837,
-    "durationStr": "2.2 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~.xml",
+    "endTime": "01:07",
+    "duration": 18019,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged.xml",
     "cover": "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/kloa/2026_08_25_20_07_20/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_EVIDENCE_FRAME_01_000360s.jpg",
+      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_EVIDENCE_FRAME_02_000540s.jpg",
+      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_EVIDENCE_FRAME_03_010080s.jpg",
+      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_EVIDENCE_FRAME_04_011700s.jpg"
+    ]
   },
   {
     "id": "2026_08_25_09_11_35",
@@ -30,7 +36,9 @@
     "images": [
       "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_COMIC_FACTORY.png",
       "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_EVIDENCE_FRAME_01_006120s.jpg",
-      "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_EVIDENCE_FRAME_02_002700s.jpg"
+      "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_EVIDENCE_FRAME_02_002700s.jpg",
+      "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_EVIDENCE_FRAME_03_004380s.jpg",
+      "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_SCREENSHOTS.jpg"
     ]
   },
   {
