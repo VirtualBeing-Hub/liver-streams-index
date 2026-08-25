@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_08_25_20_07_20",
+    "title": "本所~",
+    "date": "2026-08-25",
+    "time": "20:07:20",
+    "startTime": "20:07",
+    "endTime": "22:17",
+    "duration": 7837,
+    "durationStr": "2.2 小时",
+    "srt": null,
+    "xml": "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~.xml",
+    "cover": "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_25_09_11_35",
+    "title": "生病了呜呜",
+    "date": "2026-08-25",
+    "time": "09:11:35",
+    "startTime": "09:11",
+    "endTime": "11:10",
+    "duration": 7163,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged.srt",
+    "xml": "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged.xml",
+    "cover": "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_08_25_09_11_35/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_EVIDENCE_FRAME_01_006120s.jpg",
+      "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_EVIDENCE_FRAME_02_002700s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_24_20_04_27",
     "title": "唱歌歌！",
     "date": "2026-08-24",

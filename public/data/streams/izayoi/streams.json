@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_08_25_18_01_25",
+    "title": "吃得好饱！！",
+    "date": "2026-08-25",
+    "time": "18:01:25",
+    "startTime": "18:01",
+    "endTime": "22:17",
+    "duration": 15372,
+    "durationStr": "4.3 小时",
+    "srt": null,
+    "xml": "/data/streams/izayoi/2026_08_25_18_01_25/录制-1741667419-20260825-180125-866-吃得好饱！！.xml",
+    "cover": "/data/streams/izayoi/2026_08_25_18_01_25/录制-1741667419-20260825-180125-866-吃得好饱！！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_25_08_59_03",
+    "title": "早茶第八十六天",
+    "date": "2026-08-25",
+    "time": "08:59:03",
+    "startTime": "08:59",
+    "endTime": "11:24",
+    "duration": 8714,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/izayoi/2026_08_25_08_59_03/录制-1741667419-20260825-085903-640-早茶第八十六天_merged.srt",
+    "xml": "/data/streams/izayoi/2026_08_25_08_59_03/录制-1741667419-20260825-085903-640-早茶第八十六天_merged.xml",
+    "cover": "/data/streams/izayoi/2026_08_25_08_59_03/录制-1741667419-20260825-085903-640-早茶第八十六天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_25_08_59_03/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_25_08_59_03/录制-1741667419-20260825-085903-640-早茶第八十六天_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_25_08_59_03/录制-1741667419-20260825-085903-640-早茶第八十六天_merged_EVIDENCE_FRAME_01_001980s.jpg",
+      "/data/streams/izayoi/2026_08_25_08_59_03/录制-1741667419-20260825-085903-640-早茶第八十六天_merged_EVIDENCE_FRAME_02_008100s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_23_20_01_30",
     "title": "港诡完结篇",
     "date": "2026-08-23",

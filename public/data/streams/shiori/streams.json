@@ -1,5 +1,53 @@
 [
   {
+    "id": "2026_08_25_21_36_11",
+    "title": "栞来杂谈！",
+    "date": "2026-08-25",
+    "time": "21:36:11",
+    "startTime": "21:36",
+    "endTime": "22:16",
+    "duration": 2413,
+    "durationStr": "0.7 小时",
+    "srt": null,
+    "xml": "/data/streams/shiori/2026_08_25_21_36_11/录制-26966466-20260825-213611-768-栞来杂谈！.xml",
+    "cover": "/data/streams/shiori/2026_08_25_21_36_11/录制-26966466-20260825-213611-768-栞来杂谈！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_25_20_03_00",
+    "title": "栞来杂谈！",
+    "date": "2026-08-25",
+    "time": "20:03:00",
+    "startTime": "20:03",
+    "endTime": "21:36",
+    "duration": 5585,
+    "durationStr": "1.6 小时",
+    "srt": null,
+    "xml": "/data/streams/shiori/2026_08_25_20_03_00/录制-26966466-20260825-200300-558-栞来杂谈！.xml",
+    "cover": "/data/streams/shiori/2026_08_25_20_03_00/录制-26966466-20260825-200300-558-栞来杂谈！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_25_10_04_17",
+    "title": "早安獭獭栞！",
+    "date": "2026-08-25",
+    "time": "10:04:17",
+    "startTime": "10:04",
+    "endTime": "12:14",
+    "duration": 7843,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！_merged.srt",
+    "xml": "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！_merged.xml",
+    "cover": "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_25_10_04_17/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_25_10_04_17/录制-26966466-20260825-100417-117-早安獭獭栞！_merged_EVIDENCE_FRAME_01_002588s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_24_20_02_52",
     "title": "魔兽师徒杯开幕式~",
     "date": "2026-08-24",

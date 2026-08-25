@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026_08_25_21_41_00",
+    "title": "re一下",
+    "date": "2026-08-25",
+    "time": "21:41:00",
+    "startTime": "21:41",
+    "endTime": "22:17",
+    "duration": 2215,
+    "durationStr": "0.6 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_08_25_21_41_00/录制-24872476-20260825-214100-306-re一下.xml",
+    "cover": "/data/streams/nightin/2026_08_25_21_41_00/录制-24872476-20260825-214100-306-re一下.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_25_21_10_50",
+    "title": "re一下",
+    "date": "2026-08-25",
+    "time": "21:10:50",
+    "startTime": "21:10",
+    "endTime": "21:40",
+    "duration": 1806,
+    "durationStr": "0.5 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_08_25_21_10_50/录制-24872476-20260825-211050-472-re一下.xml",
+    "cover": "/data/streams/nightin/2026_08_25_21_10_50/录制-24872476-20260825-211050-472-re一下.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_25_21_07_06",
+    "title": "re一下",
+    "date": "2026-08-25",
+    "time": "21:07:06",
+    "startTime": "21:07",
+    "endTime": "21:10",
+    "duration": 219,
+    "durationStr": "3 分钟",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_08_25_21_07_06/录制-24872476-20260825-210706-205-re一下.xml",
+    "cover": "/data/streams/nightin/2026_08_25_21_07_06/录制-24872476-20260825-210706-205-re一下.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_25_14_09_09",
+    "title": "亲密度upup",
+    "date": "2026-08-25",
+    "time": "14:09:09",
+    "startTime": "14:09",
+    "endTime": "17:58",
+    "duration": 13751,
+    "durationStr": "3.8 小时",
+    "srt": "/data/streams/nightin/2026_08_25_14_09_09/录制-24872476-20260825-140909-962-亲密度upup_merged.srt",
+    "xml": "/data/streams/nightin/2026_08_25_14_09_09/录制-24872476-20260825-140909-962-亲密度upup_merged.xml",
+    "cover": "/data/streams/nightin/2026_08_25_14_09_09/录制-24872476-20260825-140909-962-亲密度upup.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_25_14_09_09/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_25_14_09_09/录制-24872476-20260825-140909-962-亲密度upup_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_25_14_09_09/录制-24872476-20260825-140909-962-亲密度upup_merged_EVIDENCE_FRAME_01_005640s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_24_16_02_31",
     "title": "【绣湖】能通关吗",
     "date": "2026-08-24",

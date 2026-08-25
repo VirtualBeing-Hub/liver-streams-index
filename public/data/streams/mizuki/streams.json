@@ -1,5 +1,70 @@
 [
   {
+    "id": "2026_08_25_21_36_10",
+    "title": "【魔兽】先摸下大米⭐",
+    "date": "2026-08-25",
+    "time": "21:36:10",
+    "startTime": "21:36",
+    "endTime": "22:17",
+    "duration": 2471,
+    "durationStr": "0.7 小时",
+    "srt": null,
+    "xml": "/data/streams/mizuki/2026_08_25_21_36_10/录制-30655190-20260825-213610-243-【魔兽】先摸下大米⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_25_21_36_10/录制-30655190-20260825-213610-243-【魔兽】先摸下大米⭐.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_25_20_02_50",
+    "title": "【魔兽】先摸下大米⭐",
+    "date": "2026-08-25",
+    "time": "20:02:50",
+    "startTime": "20:02",
+    "endTime": "21:35",
+    "duration": 5597,
+    "durationStr": "1.6 小时",
+    "srt": null,
+    "xml": "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_25_20_02_50/录制-30655190-20260825-200250-753-【魔兽】先摸下大米⭐.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_25_15_03_07",
+    "title": "唱一会兔歌⭐",
+    "date": "2026-08-25",
+    "time": "15:03:07",
+    "startTime": "15:03",
+    "endTime": "18:20",
+    "duration": 11868,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_25_15_03_07/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_25_15_03_07/录制-30655190-20260825-150307-485-唱一会兔歌⭐_merged_EVIDENCE_FRAME_01_000000s.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_25_08_19_04",
+    "title": "早上好uu⭐",
+    "date": "2026-08-25",
+    "time": "08:19:04",
+    "startTime": "08:19",
+    "endTime": "10:17",
+    "duration": 7093,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/mizuki/2026_08_25_08_19_04/录制-30655190-20260825-081904-959-早上好uu⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_25_08_19_04/录制-30655190-20260825-081904-959-早上好uu⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_25_08_19_04/录制-30655190-20260825-081904-959-早上好uu⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_25_08_19_04/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_25_08_19_04/录制-30655190-20260825-081904-959-早上好uu⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_24_20_01_24",
     "title": "魔兽师徒杯开幕⭐",
     "date": "2026-08-24",
