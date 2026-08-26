@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_26_20_35_18",
+    "title": "怀旧服",
+    "date": "2026-08-26",
+    "time": "20:35:18",
+    "startTime": "20:35",
+    "endTime": "00:17",
+    "duration": 13340,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/rhea/2026_08_26_20_35_18/录制-23260993-20260826-203518-620-怀旧服.srt",
+    "xml": "/data/streams/rhea/2026_08_26_20_35_18/录制-23260993-20260826-203518-620-怀旧服.xml",
+    "cover": "/data/streams/rhea/2026_08_26_20_35_18/录制-23260993-20260826-203518-620-怀旧服.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_26_20_35_18/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_26_20_35_18/录制-23260993-20260826-203518-620-怀旧服_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_26_20_35_18/录制-23260993-20260826-203518-620-怀旧服_EVIDENCE_FRAME_01_003060s.jpg",
+      "/data/streams/rhea/2026_08_26_20_35_18/录制-23260993-20260826-203518-620-怀旧服_EVIDENCE_FRAME_02_010980s.jpg",
+      "/data/streams/rhea/2026_08_26_20_35_18/录制-23260993-20260826-203518-620-怀旧服_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/rhea/2026_08_26_20_35_18/录制-23260993-20260826-203518-620-怀旧服_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_25_21_36_12",
     "title": "来看点播视频",
     "date": "2026-08-25",

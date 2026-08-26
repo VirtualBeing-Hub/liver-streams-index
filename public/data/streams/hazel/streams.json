@@ -1,5 +1,27 @@
 [
   {
+    "id": "2026_08_26_19_40_10",
+    "title": "悠闲夜晚 通关动物迷城",
+    "date": "2026-08-26",
+    "time": "19:40:10",
+    "startTime": "19:40",
+    "endTime": "22:36",
+    "duration": 10584,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged.srt",
+    "xml": "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged.xml",
+    "cover": "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_08_26_19_40_10/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_EVIDENCE_FRAME_01_002640s.jpg",
+      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_EVIDENCE_FRAME_02_006900s.jpg",
+      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_EVIDENCE_REQUEST_E4.jpg",
+      "/data/streams/hazel/2026_08_26_19_40_10/hazel_shame_frame.jpg"
+    ]
+  },
+  {
     "id": "2026_08_25_15_12_32",
     "title": "虚弱午后",
     "date": "2026-08-25",

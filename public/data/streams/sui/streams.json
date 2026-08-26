@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_26_22_01_05",
+    "title": "煮你这个猪的周三！5070ti版",
+    "date": "2026-08-26",
+    "time": "22:01:05",
+    "startTime": "22:01",
+    "endTime": "00:39",
+    "duration": 9504,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/sui/2026_08_26_22_01_05/录制-25788785-20260826-220105-554-煮你这个猪的周三！5070ti版_merged.srt",
+    "xml": "/data/streams/sui/2026_08_26_22_01_05/录制-25788785-20260826-220105-554-煮你这个猪的周三！5070ti版_merged.xml",
+    "cover": "/data/streams/sui/2026_08_26_22_01_05/录制-25788785-20260826-220105-554-煮你这个猪的周三！5070ti版.cover.jpg",
+    "highlights": "/data/streams/sui/2026_08_26_22_01_05/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_08_26_22_01_05/录制-25788785-20260826-220105-554-煮你这个猪的周三！5070ti版_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_08_26_22_01_05/录制-25788785-20260826-220105-554-煮你这个猪的周三！5070ti版_merged_EVIDENCE_FRAME_01_001260s.jpg",
+      "/data/streams/sui/2026_08_26_22_01_05/录制-25788785-20260826-220105-554-煮你这个猪的周三！5070ti版_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sui/2026_08_26_22_01_05/录制-25788785-20260826-220105-554-煮你这个猪的周三！5070ti版_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/sui/2026_08_26_22_01_05/录制-25788785-20260826-220105-554-煮你这个猪的周三！5070ti版_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_25_20_31_05",
     "title": "陪你这个猪过周二！5070ti版",
     "date": "2026-08-25",

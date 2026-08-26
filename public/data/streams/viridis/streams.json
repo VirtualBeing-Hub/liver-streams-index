@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_08_26_22_39_27",
+    "title": "谢礼物和神秘星露谷",
+    "date": "2026-08-26",
+    "time": "22:39:27",
+    "startTime": "22:39",
+    "endTime": "23:37",
+    "duration": 3509,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/viridis/2026_08_26_22_39_27/录制-1727071052-20260826-223927-592-谢礼物和神秘星露谷.srt",
+    "xml": "/data/streams/viridis/2026_08_26_22_39_27/录制-1727071052-20260826-223927-592-谢礼物和神秘星露谷.xml",
+    "cover": "/data/streams/viridis/2026_08_26_22_39_27/录制-1727071052-20260826-223927-592-谢礼物和神秘星露谷.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_08_26_22_39_27/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_08_26_22_39_27/录制-1727071052-20260826-223927-592-谢礼物和神秘星露谷_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_08_26_22_39_27/录制-1727071052-20260826-223927-592-谢礼物和神秘星露谷_EVIDENCE_FRAME_01_000900s.jpg",
+      "/data/streams/viridis/2026_08_26_22_39_27/录制-1727071052-20260826-223927-592-谢礼物和神秘星露谷_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_26_16_10_26",
+    "title": "星露谷也许初见？！",
+    "date": "2026-08-26",
+    "time": "16:10:26",
+    "startTime": "16:10",
+    "endTime": "18:55",
+    "duration": 9954,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/viridis/2026_08_26_16_10_26/录制-1727071052-20260826-161026-788-星露谷也许初见？！.srt",
+    "xml": "/data/streams/viridis/2026_08_26_16_10_26/录制-1727071052-20260826-161026-788-星露谷也许初见？！.xml",
+    "cover": "/data/streams/viridis/2026_08_26_16_10_26/录制-1727071052-20260826-161026-788-星露谷也许初见？！.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_08_26_16_10_26/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_08_26_16_10_26/录制-1727071052-20260826-161026-788-星露谷也许初见？！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_24_21_01_34",
     "title": "最喜欢的聊聊天！",
     "date": "2026-08-24",

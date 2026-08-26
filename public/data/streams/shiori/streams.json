@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_08_26_21_31_12",
+    "title": "小栞来咯！",
+    "date": "2026-08-26",
+    "time": "21:31:12",
+    "startTime": "21:31",
+    "endTime": "00:23",
+    "duration": 10340,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/shiori/2026_08_26_21_31_12/录制-26966466-20260826-213112-645-小栞来咯！.srt",
+    "xml": "/data/streams/shiori/2026_08_26_21_31_12/录制-26966466-20260826-213112-645-小栞来咯！.xml",
+    "cover": "/data/streams/shiori/2026_08_26_21_31_12/录制-26966466-20260826-213112-645-小栞来咯！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_26_21_31_12/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_26_21_31_12/录制-26966466-20260826-213112-645-小栞来咯！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_26_21_31_12/录制-26966466-20260826-213112-645-小栞来咯！_EVIDENCE_FRAME_01_005636s.jpg",
+      "/data/streams/shiori/2026_08_26_21_31_12/录制-26966466-20260826-213112-645-小栞来咯！_EVIDENCE_FRAME_02_005660s.jpg",
+      "/data/streams/shiori/2026_08_26_21_31_12/录制-26966466-20260826-213112-645-小栞来咯！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_08_26_21_31_12/录制-26966466-20260826-213112-645-小栞来咯！_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_26_10_06_47",
+    "title": "小栞来咯！",
+    "date": "2026-08-26",
+    "time": "10:06:47",
+    "startTime": "10:06",
+    "endTime": "12:09",
+    "duration": 7435,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/shiori/2026_08_26_10_06_47/录制-26966466-20260826-100647-001-小栞来咯！.srt",
+    "xml": "/data/streams/shiori/2026_08_26_10_06_47/录制-26966466-20260826-100647-001-小栞来咯！.xml",
+    "cover": "/data/streams/shiori/2026_08_26_10_06_47/录制-26966466-20260826-100647-001-小栞来咯！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_08_26_10_06_47/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_08_26_10_06_47/录制-26966466-20260826-100647-001-小栞来咯！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_08_26_10_06_47/录制-26966466-20260826-100647-001-小栞来咯！_EVIDENCE_FRAME_01_004055s.jpg",
+      "/data/streams/shiori/2026_08_26_10_06_47/录制-26966466-20260826-100647-001-小栞来咯！_EVIDENCE_FRAME_02_007130s.jpg",
+      "/data/streams/shiori/2026_08_26_10_06_47/录制-26966466-20260826-100647-001-小栞来咯！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_25_21_36_11",
     "title": "栞来杂谈！",
     "date": "2026-08-25",
