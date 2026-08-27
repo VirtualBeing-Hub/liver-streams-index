@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026_08_27_23_18_44",
+    "title": "神秘紫影",
+    "date": "2026-08-27",
+    "time": "23:18:44",
+    "startTime": "23:18",
+    "endTime": "00:50",
+    "duration": 5543,
+    "durationStr": "1.5 小时",
+    "srt": "/data/streams/sumire/2026_08_27_23_18_44/录制-1727076670-20260827-231844-009-神秘紫影_merged.srt",
+    "xml": "/data/streams/sumire/2026_08_27_23_18_44/录制-1727076670-20260827-231844-009-神秘紫影_merged.xml",
+    "cover": "/data/streams/sumire/2026_08_27_23_18_44/录制-1727076670-20260827-231844-009-神秘紫影.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_08_27_23_18_44/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_08_27_23_18_44/录制-1727076670-20260827-231844-009-神秘紫影_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_08_27_23_18_44/录制-1727076670-20260827-231844-009-神秘紫影_merged_EVIDENCE_FRAME_01_005340s.jpg",
+      "/data/streams/sumire/2026_08_27_23_18_44/录制-1727076670-20260827-231844-009-神秘紫影_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_27_14_04_33",
+    "title": "感冒鼻塞小糯紫路人",
+    "date": "2026-08-27",
+    "time": "14:04:33",
+    "startTime": "14:04",
+    "endTime": "16:10",
+    "duration": 7588,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/sumire/2026_08_27_14_04_33/录制-1727076670-20260827-140433-903-紫发路人太拼力了_merged.srt",
+    "xml": "/data/streams/sumire/2026_08_27_14_04_33/录制-1727076670-20260827-140433-903-紫发路人太拼力了_merged.xml",
+    "cover": "/data/streams/sumire/2026_08_27_14_04_33/录制-1727076670-20260827-140433-903-紫发路人太拼力了.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_08_27_14_04_33/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_08_27_14_04_33/录制-1727076670-20260827-140433-903-紫发路人太拼力了_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_08_27_14_04_33/录制-1727076670-20260827-140433-903-紫发路人太拼力了_merged_EVIDENCE_FRAME_01_000060s.jpg",
+      "/data/streams/sumire/2026_08_27_14_04_33/录制-1727076670-20260827-140433-903-紫发路人太拼力了_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sumire/2026_08_27_14_04_33/录制-1727076670-20260827-140433-903-紫发路人太拼力了_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_26_20_02_42",
     "title": "紫发路人太拼力了",
     "date": "2026-08-26",

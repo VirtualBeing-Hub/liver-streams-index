@@ -1,5 +1,24 @@
 [
   {
+    "id": "2026_08_27_18_10_23",
+    "title": "【新衣】？",
+    "date": "2026-08-27",
+    "time": "18:10:23",
+    "startTime": "18:10",
+    "endTime": "20:14",
+    "duration": 7448,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/michiya/2026_08_27_18_10_23/录制-27628030-20260827-181023-888-【新衣】？_merged.srt",
+    "xml": "/data/streams/michiya/2026_08_27_18_10_23/录制-27628030-20260827-181023-888-【新衣】？_merged.xml",
+    "cover": "/data/streams/michiya/2026_08_27_18_10_23/录制-27628030-20260827-181023-888-【新衣】？.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_08_27_18_10_23/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_08_27_18_10_23/录制-27628030-20260827-181023-888-【新衣】？_merged_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_08_27_18_10_23/录制-27628030-20260827-181023-888-【新衣】？_merged_EVIDENCE_FRAME_01_006060s.jpg",
+      "/data/streams/michiya/2026_08_27_18_10_23/录制-27628030-20260827-181023-888-【新衣】？_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_26_18_15_19",
     "title": "【新衣】六点来聊聊+魔兽",
     "date": "2026-08-26",

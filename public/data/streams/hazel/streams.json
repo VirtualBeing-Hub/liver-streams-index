@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_08_28_03_27_42",
+    "title": "被蚊子吵醒了",
+    "date": "2026-08-27",
+    "time": "03:27:42",
+    "startTime": "03:27",
+    "endTime": "03:59",
+    "duration": 1956,
+    "durationStr": "0.5 小时",
+    "srt": null,
+    "xml": "/data/streams/hazel/2026_08_28_03_27_42/录制-1713546334-20260828-032742-172-被蚊子吵醒了.xml",
+    "cover": "/data/streams/hazel/2026_08_28_03_27_42/录制-1713546334-20260828-032742-172-被蚊子吵醒了.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_08_27_20_10_16",
+    "title": "被蚊子吵醒了",
+    "date": "2026-08-27",
+    "time": "20:10:16",
+    "startTime": "20:10",
+    "endTime": "22:18",
+    "duration": 7688,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读_merged.srt",
+    "xml": "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读_merged.xml",
+    "cover": "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_08_27_20_10_16/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读_merged_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读_merged_EVIDENCE_FRAME_02_000420s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_26_19_40_10",
     "title": "悠闲夜晚 通关动物迷城",
     "date": "2026-08-26",

@@ -1,18 +1,39 @@
 [
   {
+    "id": "2026_08_27_20_10_20",
+    "title": "来啦大米",
+    "date": "2026-08-27",
+    "time": "20:10:20",
+    "startTime": "20:10",
+    "endTime": "04:00",
+    "duration": 28204,
+    "durationStr": "7.8 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_08_27_20_10_20/录制-21452505-20260827-201020-514-来啦大米.xml",
+    "cover": "/data/streams/nana7mi/2026_08_27_20_10_20/录制-21452505-20260827-201020-514-来啦大米.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_08_26_23_04_15",
     "title": "！",
     "date": "2026-08-26",
     "time": "23:04:15",
     "startTime": "23:04",
-    "endTime": "04:00",
-    "duration": 17768,
-    "durationStr": "4.9 小时",
-    "srt": null,
+    "endTime": "05:39",
+    "duration": 23735,
+    "durationStr": "6.6 小时",
+    "srt": "/data/streams/nana7mi/2026_08_26_23_04_15/录制-21452505-20260826-230415-124-！.srt",
     "xml": "/data/streams/nana7mi/2026_08_26_23_04_15/录制-21452505-20260826-230415-124-！.xml",
     "cover": "/data/streams/nana7mi/2026_08_26_23_04_15/录制-21452505-20260826-230415-124-！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_08_26_23_04_15/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_08_26_23_04_15/录制-21452505-20260826-230415-124-！_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_08_26_23_04_15/录制-21452505-20260826-230415-124-！_EVIDENCE_FRAME_01_001440s.jpg",
+      "/data/streams/nana7mi/2026_08_26_23_04_15/录制-21452505-20260826-230415-124-！_EVIDENCE_FRAME_02_018480s.jpg",
+      "/data/streams/nana7mi/2026_08_26_23_04_15/录制-21452505-20260826-230415-124-！_EVIDENCE_FRAME_03_020520s.jpg",
+      "/data/streams/nana7mi/2026_08_26_23_04_15/录制-21452505-20260826-230415-124-！_EVIDENCE_REQUEST_E4.jpg"
+    ]
   },
   {
     "id": "2026_08_25_23_05_31",
