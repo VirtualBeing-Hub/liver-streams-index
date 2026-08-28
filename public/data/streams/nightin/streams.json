@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026_08_28_15_00_46",
+    "title": "来来来进进进",
+    "date": "2026-08-28",
+    "time": "15:00:46",
+    "startTime": "15:00",
+    "endTime": "20:40",
+    "duration": 20443,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/nightin/2026_08_28_15_00_46/录制-24872476-20260828-150046-762-来来来进进进.srt",
+    "xml": "/data/streams/nightin/2026_08_28_15_00_46/录制-24872476-20260828-150046-762-来来来进进进.xml",
+    "cover": "/data/streams/nightin/2026_08_28_15_00_46/录制-24872476-20260828-150046-762-来来来进进进.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_28_15_00_46/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_28_15_00_46/录制-24872476-20260828-150046-762-来来来进进进_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_28_15_00_46/录制-24872476-20260828-150046-762-来来来进进进_EVIDENCE_FRAME_01_011880s.jpg",
+      "/data/streams/nightin/2026_08_28_15_00_46/录制-24872476-20260828-150046-762-来来来进进进_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_08_28_15_00_46/录制-24872476-20260828-150046-762-来来来进进进_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nightin/2026_08_28_15_00_46/录制-24872476-20260828-150046-762-来来来进进进_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_28_09_04_33",
+    "title": "周~五~到~",
+    "date": "2026-08-28",
+    "time": "09:04:33",
+    "startTime": "09:04",
+    "endTime": "10:19",
+    "duration": 4519,
+    "durationStr": "1.3 小时",
+    "srt": "/data/streams/nightin/2026_08_28_09_04_33/录制-24872476-20260828-090433-623-周~五~到~.srt",
+    "xml": "/data/streams/nightin/2026_08_28_09_04_33/录制-24872476-20260828-090433-623-周~五~到~.xml",
+    "cover": "/data/streams/nightin/2026_08_28_09_04_33/录制-24872476-20260828-090433-623-周~五~到~.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_08_28_09_04_33/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_08_28_09_04_33/录制-24872476-20260828-090433-623-周~五~到~_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_08_28_09_04_33/录制-24872476-20260828-090433-623-周~五~到~_EVIDENCE_FRAME_01_000840s.jpg",
+      "/data/streams/nightin/2026_08_28_09_04_33/录制-24872476-20260828-090433-623-周~五~到~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_27_14_06_43",
     "title": "来来来进进进",
     "date": "2026-08-27",

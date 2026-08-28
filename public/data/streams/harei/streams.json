@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_08_28_21_33_42",
+    "title": "海边唱歌的一只鼠^^",
+    "date": "2026-08-28",
+    "time": "21:33:42",
+    "startTime": "21:33",
+    "endTime": "01:40",
+    "duration": 14870,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^.srt",
+    "xml": "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^.xml",
+    "cover": "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_08_28_21_33_42/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^_EVIDENCE_FRAME_01_000060s.jpg",
+      "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^_EVIDENCE_FRAME_02_002340s.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_28_14_02_30",
+    "title": "小鼠看lpl：NIP vs EDG^^",
+    "date": "2026-08-28",
+    "time": "14:02:30",
+    "startTime": "14:02",
+    "endTime": "19:33",
+    "duration": 19898,
+    "durationStr": "5.5 小时",
+    "srt": "/data/streams/harei/2026_08_28_14_02_30/录制-1820703922-20260828-140230-865-小鼠看lpl：NIP vs EDG^^.srt",
+    "xml": "/data/streams/harei/2026_08_28_14_02_30/录制-1820703922-20260828-140230-865-小鼠看lpl：NIP vs EDG^^.xml",
+    "cover": "/data/streams/harei/2026_08_28_14_02_30/录制-1820703922-20260828-140230-865-小鼠看lpl：NIP vs EDG^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_08_28_14_02_30/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_08_28_14_02_30/录制-1820703922-20260828-140230-865-小鼠看lpl：NIP vs EDG^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_27_20_16_46",
     "title": "养成小鼠术士^^",
     "date": "2026-08-27",

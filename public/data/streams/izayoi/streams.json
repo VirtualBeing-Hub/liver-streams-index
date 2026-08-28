@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_08_28_18_03_10",
+    "title": "视频鉴赏！",
+    "date": "2026-08-28",
+    "time": "18:03:10",
+    "startTime": "18:03",
+    "endTime": "23:36",
+    "duration": 20031,
+    "durationStr": "5.6 小时",
+    "srt": "/data/streams/izayoi/2026_08_28_18_03_10/录制-1741667419-20260828-180310-695-视频鉴赏！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_08_28_18_03_10/录制-1741667419-20260828-180310-695-视频鉴赏！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_08_28_18_03_10/录制-1741667419-20260828-180310-695-视频鉴赏！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_28_18_03_10/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_28_18_03_10/录制-1741667419-20260828-180310-695-视频鉴赏！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_28_18_03_10/录制-1741667419-20260828-180310-695-视频鉴赏！_merged_EVIDENCE_FRAME_01_005280s.jpg",
+      "/data/streams/izayoi/2026_08_28_18_03_10/录制-1741667419-20260828-180310-695-视频鉴赏！_merged_EVIDENCE_FRAME_02_001860s.jpg",
+      "/data/streams/izayoi/2026_08_28_18_03_10/录制-1741667419-20260828-180310-695-视频鉴赏！_merged_EVIDENCE_FRAME_03_019500s.jpg",
+      "/data/streams/izayoi/2026_08_28_18_03_10/录制-1741667419-20260828-180310-695-视频鉴赏！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_28_09_03_19",
+    "title": "早茶第八十八天",
+    "date": "2026-08-28",
+    "time": "09:03:19",
+    "startTime": "09:03",
+    "endTime": "11:17",
+    "duration": 8080,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/izayoi/2026_08_28_09_03_19/录制-1741667419-20260828-090319-930-早茶第八十八天.srt",
+    "xml": "/data/streams/izayoi/2026_08_28_09_03_19/录制-1741667419-20260828-090319-930-早茶第八十八天.xml",
+    "cover": "/data/streams/izayoi/2026_08_28_09_03_19/录制-1741667419-20260828-090319-930-早茶第八十八天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_28_09_03_19/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_28_09_03_19/录制-1741667419-20260828-090319-930-早茶第八十八天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_28_09_03_19/录制-1741667419-20260828-090319-930-早茶第八十八天_EVIDENCE_FRAME_01_002100s.jpg",
+      "/data/streams/izayoi/2026_08_28_09_03_19/录制-1741667419-20260828-090319-930-早茶第八十八天_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/izayoi/2026_08_28_09_03_19/录制-1741667419-20260828-090319-930-早茶第八十八天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_27_20_59_08",
     "title": "中元节特别篇",
     "date": "2026-08-27",

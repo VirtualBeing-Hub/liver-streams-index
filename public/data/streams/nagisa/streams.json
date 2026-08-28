@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_28_21_07_16",
+    "title": "周五的歌杂",
+    "date": "2026-08-28",
+    "time": "21:07:16",
+    "startTime": "21:07",
+    "endTime": "01:00",
+    "duration": 14039,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged.xml",
+    "cover": "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_28_21_07_16/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_EVIDENCE_FRAME_01_000240s.jpg",
+      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_EVIDENCE_FRAME_02_000240s.jpg",
+      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_28_08_08_38",
+    "title": "早安整理",
+    "date": "2026-08-28",
+    "time": "08:08:38",
+    "startTime": "08:08",
+    "endTime": "12:44",
+    "duration": 16569,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理.srt",
+    "xml": "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理.xml",
+    "cover": "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_28_08_08_38/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理_EVIDENCE_FRAME_01_000720s.jpg",
+      "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_27_21_04_13",
     "title": "周四的歌杂",
     "date": "2026-08-27",

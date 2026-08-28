@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_28_20_23_17",
+    "title": "陪你这个猪过周五！5070ti版",
+    "date": "2026-08-28",
+    "time": "20:23:17",
+    "startTime": "20:23",
+    "endTime": "00:15",
+    "duration": 13922,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/sui/2026_08_28_20_23_17/录制-25788785-20260828-202317-910-陪你这个猪过周五！5070ti版_merged.srt",
+    "xml": "/data/streams/sui/2026_08_28_20_23_17/录制-25788785-20260828-202317-910-陪你这个猪过周五！5070ti版_merged.xml",
+    "cover": "/data/streams/sui/2026_08_28_20_23_17/录制-25788785-20260828-202317-910-陪你这个猪过周五！5070ti版.cover.jpg",
+    "highlights": "/data/streams/sui/2026_08_28_20_23_17/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_08_28_20_23_17/录制-25788785-20260828-202317-910-陪你这个猪过周五！5070ti版_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_08_28_20_23_17/录制-25788785-20260828-202317-910-陪你这个猪过周五！5070ti版_merged_EVIDENCE_FRAME_01_003360s.jpg",
+      "/data/streams/sui/2026_08_28_20_23_17/录制-25788785-20260828-202317-910-陪你这个猪过周五！5070ti版_merged_EVIDENCE_FRAME_02_007260s.jpg",
+      "/data/streams/sui/2026_08_28_20_23_17/录制-25788785-20260828-202317-910-陪你这个猪过周五！5070ti版_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sui/2026_08_28_20_23_17/录制-25788785-20260828-202317-910-陪你这个猪过周五！5070ti版_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_26_22_01_05",
     "title": "煮你这个猪的周三！5070ti版",
     "date": "2026-08-26",

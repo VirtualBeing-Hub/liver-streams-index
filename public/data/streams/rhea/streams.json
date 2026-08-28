@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_28_21_42_02",
+    "title": "危险周五",
+    "date": "2026-08-28",
+    "time": "21:42:02",
+    "startTime": "21:42",
+    "endTime": "03:09",
+    "duration": 19656,
+    "durationStr": "5.5 小时",
+    "srt": "/data/streams/rhea/2026_08_28_21_42_02/录制-23260993-20260828-214202-848-危险周五_merged.srt",
+    "xml": "/data/streams/rhea/2026_08_28_21_42_02/录制-23260993-20260828-214202-848-危险周五_merged.xml",
+    "cover": "/data/streams/rhea/2026_08_28_21_42_02/录制-23260993-20260828-214202-848-危险周五.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_28_21_42_02/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_28_21_42_02/录制-23260993-20260828-214202-848-危险周五_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_28_21_42_02/录制-23260993-20260828-214202-848-危险周五_merged_EVIDENCE_FRAME_01_001320s.jpg",
+      "/data/streams/rhea/2026_08_28_21_42_02/录制-23260993-20260828-214202-848-危险周五_merged_EVIDENCE_FRAME_02_013800s.jpg",
+      "/data/streams/rhea/2026_08_28_21_42_02/录制-23260993-20260828-214202-848-危险周五_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/rhea/2026_08_28_21_42_02/录制-23260993-20260828-214202-848-危险周五_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_28_02_57_07",
     "title": "太坏了",
     "date": "2026-08-27",
@@ -13,7 +34,9 @@
     "cover": "/data/streams/rhea/2026_08_28_02_57_07/录制-23260993-20260828-025707-338-太坏了.cover.jpg",
     "highlights": "/data/streams/rhea/2026_08_28_02_57_07/highlights.md",
     "images": [
-      "/data/streams/rhea/2026_08_28_02_57_07/录制-23260993-20260828-025707-338-太坏了_SCREENSHOTS.jpg"
+      "/data/streams/rhea/2026_08_28_02_57_07/录制-23260993-20260828-025707-338-太坏了_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_28_02_57_07/录制-23260993-20260828-025707-338-太坏了_EVIDENCE_FRAME_01_000600s.jpg",
+      "/data/streams/rhea/2026_08_28_02_57_07/录制-23260993-20260828-025707-338-太坏了_EVIDENCE_FRAME_02_001740s.jpg"
     ]
   },
   {
