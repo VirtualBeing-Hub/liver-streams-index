@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_29_20_02_34",
+    "title": "魔兽世界团本！",
+    "date": "2026-08-29",
+    "time": "20:02:34",
+    "startTime": "20:02",
+    "endTime": "03:05",
+    "duration": 25435,
+    "durationStr": "7.1 小时",
+    "srt": "/data/streams/nana7mi/2026_08_29_20_02_34/录制-21452505-20260829-200234-717-魔兽世界团本！.srt",
+    "xml": "/data/streams/nana7mi/2026_08_29_20_02_34/录制-21452505-20260829-200234-717-魔兽世界团本！.xml",
+    "cover": "/data/streams/nana7mi/2026_08_29_20_02_34/录制-21452505-20260829-200234-717-魔兽世界团本！.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_08_29_20_02_34/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_08_29_20_02_34/录制-21452505-20260829-200234-717-魔兽世界团本！_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_08_29_20_02_34/录制-21452505-20260829-200234-717-魔兽世界团本！_EVIDENCE_FRAME_01_013920s.jpg",
+      "/data/streams/nana7mi/2026_08_29_20_02_34/录制-21452505-20260829-200234-717-魔兽世界团本！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nana7mi/2026_08_29_20_02_34/录制-21452505-20260829-200234-717-魔兽世界团本！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nana7mi/2026_08_29_20_02_34/录制-21452505-20260829-200234-717-魔兽世界团本！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_29_02_13_07",
     "title": "先偷",
     "date": "2026-08-28",
@@ -46,18 +67,24 @@
   },
   {
     "id": "2026_08_28_22_34_43",
-    "title": "先偷",
+    "title": "玩会儿！！",
     "date": "2026-08-28",
     "time": "22:34:43",
     "startTime": "22:34",
-    "endTime": "23:57",
-    "duration": 5016,
-    "durationStr": "1.4 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_08_28_22_34_43/录制-21452505-20260828-223443-987-先偷.xml",
+    "endTime": "10:05",
+    "duration": 41518,
+    "durationStr": "11.5 小时",
+    "srt": "/data/streams/nana7mi/2026_08_28_22_34_43/录制-21452505-20260828-223443-987-先偷_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_08_28_22_34_43/录制-21452505-20260828-223443-987-先偷_merged.xml",
     "cover": "/data/streams/nana7mi/2026_08_28_22_34_43/录制-21452505-20260828-223443-987-先偷.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_08_28_22_34_43/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_08_28_22_34_43/录制-21452505-20260828-223443-987-先偷_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_08_28_22_34_43/录制-21452505-20260828-223443-987-先偷_merged_EVIDENCE_FRAME_01_001680s.jpg",
+      "/data/streams/nana7mi/2026_08_28_22_34_43/录制-21452505-20260828-223443-987-先偷_merged_EVIDENCE_FRAME_02_013200s.jpg",
+      "/data/streams/nana7mi/2026_08_28_22_34_43/录制-21452505-20260828-223443-987-先偷_merged_EVIDENCE_FRAME_03_037920s.jpg",
+      "/data/streams/nana7mi/2026_08_28_22_34_43/录制-21452505-20260828-223443-987-先偷_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_08_27_20_10_20",

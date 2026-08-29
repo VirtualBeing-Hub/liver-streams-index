@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_29_21_02_50",
+    "title": "聊聊然后褪黑素！",
+    "date": "2026-08-29",
+    "time": "21:02:50",
+    "startTime": "21:02",
+    "endTime": "00:59",
+    "duration": 14267,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/viridis/2026_08_29_21_02_50/录制-1727071052-20260829-210250-446-聊聊然后褪黑素！.srt",
+    "xml": "/data/streams/viridis/2026_08_29_21_02_50/录制-1727071052-20260829-210250-446-聊聊然后褪黑素！.xml",
+    "cover": "/data/streams/viridis/2026_08_29_21_02_50/录制-1727071052-20260829-210250-446-聊聊然后褪黑素！.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_08_29_21_02_50/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_08_29_21_02_50/录制-1727071052-20260829-210250-446-聊聊然后褪黑素！_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_08_29_21_02_50/录制-1727071052-20260829-210250-446-聊聊然后褪黑素！_EVIDENCE_FRAME_01_007500s.jpg",
+      "/data/streams/viridis/2026_08_29_21_02_50/录制-1727071052-20260829-210250-446-聊聊然后褪黑素！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/viridis/2026_08_29_21_02_50/录制-1727071052-20260829-210250-446-聊聊然后褪黑素！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/viridis/2026_08_29_21_02_50/录制-1727071052-20260829-210250-446-聊聊然后褪黑素！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_29_13_54_42",
+    "title": "突击的随便唱",
+    "date": "2026-08-29",
+    "time": "13:54:42",
+    "startTime": "13:54",
+    "endTime": "16:09",
+    "duration": 8106,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/viridis/2026_08_29_13_54_42/录制-1727071052-20260829-135442-908-突击的随便唱_merged.srt",
+    "xml": "/data/streams/viridis/2026_08_29_13_54_42/录制-1727071052-20260829-135442-908-突击的随便唱_merged.xml",
+    "cover": "/data/streams/viridis/2026_08_29_13_54_42/录制-1727071052-20260829-135442-908-突击的随便唱.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_08_29_13_54_42/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_08_29_13_54_42/录制-1727071052-20260829-135442-908-突击的随便唱_merged_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_08_29_13_54_42/录制-1727071052-20260829-135442-908-突击的随便唱_merged_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/viridis/2026_08_29_13_54_42/录制-1727071052-20260829-135442-908-突击的随便唱_merged_EVIDENCE_FRAME_02_001800s.jpg",
+      "/data/streams/viridis/2026_08_29_13_54_42/录制-1727071052-20260829-135442-908-突击的随便唱_merged_EVIDENCE_FRAME_03_005820s.jpg",
+      "/data/streams/viridis/2026_08_29_13_54_42/录制-1727071052-20260829-135442-908-突击的随便唱_merged_EVIDENCE_FRAME_04_007800s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_28_21_01_23",
     "title": "纪录片来袭！",
     "date": "2026-08-28",
