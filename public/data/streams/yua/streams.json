@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_30_20_03_21",
+    "title": "毕业杂谈悠~",
+    "date": "2026-08-30",
+    "time": "20:03:21",
+    "startTime": "20:03",
+    "endTime": "00:14",
+    "duration": 15085,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/yua/2026_08_30_20_03_21/录制-22470216-20260830-200321-003-毕业杂谈悠~_merged.srt",
+    "xml": "/data/streams/yua/2026_08_30_20_03_21/录制-22470216-20260830-200321-003-毕业杂谈悠~_merged.xml",
+    "cover": "/data/streams/yua/2026_08_30_20_03_21/录制-22470216-20260830-200321-003-毕业杂谈悠~.cover.jpg",
+    "highlights": "/data/streams/yua/2026_08_30_20_03_21/highlights.md",
+    "images": [
+      "/data/streams/yua/2026_08_30_20_03_21/录制-22470216-20260830-200321-003-毕业杂谈悠~_merged_COMIC_FACTORY.png",
+      "/data/streams/yua/2026_08_30_20_03_21/录制-22470216-20260830-200321-003-毕业杂谈悠~_merged_EVIDENCE_FRAME_01_004560s.jpg",
+      "/data/streams/yua/2026_08_30_20_03_21/录制-22470216-20260830-200321-003-毕业杂谈悠~_merged_EVIDENCE_FRAME_02_006960s.jpg",
+      "/data/streams/yua/2026_08_30_20_03_21/录制-22470216-20260830-200321-003-毕业杂谈悠~_merged_EVIDENCE_FRAME_03_014940s.jpg",
+      "/data/streams/yua/2026_08_30_20_03_21/录制-22470216-20260830-200321-003-毕业杂谈悠~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_29_21_25_22",
     "title": "同事连麦回",
     "date": "2026-08-29",

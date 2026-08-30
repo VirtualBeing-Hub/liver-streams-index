@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_30_21_40_30",
+    "title": "【生日月】8月主题轻声细语",
+    "date": "2026-08-30",
+    "time": "21:40:30",
+    "startTime": "21:40",
+    "endTime": "00:40",
+    "duration": 10857,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/rhea/2026_08_30_21_40_30/录制-23260993-20260830-214030-935-8月主题轻声细语.srt",
+    "xml": "/data/streams/rhea/2026_08_30_21_40_30/录制-23260993-20260830-214030-935-8月主题轻声细语.xml",
+    "cover": "/data/streams/rhea/2026_08_30_21_40_30/录制-23260993-20260830-214030-935-8月主题轻声细语.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_08_30_21_40_30/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_08_30_21_40_30/录制-23260993-20260830-214030-935-8月主题轻声细语_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_08_30_21_40_30/录制-23260993-20260830-214030-935-8月主题轻声细语_EVIDENCE_FRAME_01_000540s.jpg",
+      "/data/streams/rhea/2026_08_30_21_40_30/录制-23260993-20260830-214030-935-8月主题轻声细语_EVIDENCE_FRAME_02_001920s.jpg",
+      "/data/streams/rhea/2026_08_30_21_40_30/录制-23260993-20260830-214030-935-8月主题轻声细语_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/rhea/2026_08_30_21_40_30/录制-23260993-20260830-214030-935-8月主题轻声细语_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_29_20_09_41",
     "title": "魔兽PT水友挑战团",
     "date": "2026-08-29",
@@ -8,10 +29,10 @@
     "endTime": "03:35",
     "duration": 26815,
     "durationStr": "7.4 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_08_29_20_09_41/录制-23260993-20260829-200941-257-魔兽PT主播挑战.srt",
     "xml": "/data/streams/rhea/2026_08_29_20_09_41/录制-23260993-20260829-200941-257-魔兽PT主播挑战.xml",
     "cover": "/data/streams/rhea/2026_08_29_20_09_41/录制-23260993-20260829-200941-257-魔兽PT主播挑战.cover.jpg",
-    "highlights": null,
+    "highlights": "/data/streams/rhea/2026_08_29_20_09_41/highlights.md",
     "images": [
       "/data/streams/rhea/2026_08_29_20_09_41/录制-23260993-20260829-200941-257-魔兽PT主播挑战_SCREENSHOTS.jpg"
     ]

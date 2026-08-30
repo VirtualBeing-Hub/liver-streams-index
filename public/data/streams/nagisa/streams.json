@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_30_21_00_37",
+    "title": "学当「破烂艺术家」",
+    "date": "2026-08-30",
+    "time": "21:00:37",
+    "startTime": "21:00",
+    "endTime": "23:43",
+    "duration": 9814,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」.srt",
+    "xml": "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」.xml",
+    "cover": "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_30_21_00_37/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_EVIDENCE_FRAME_01_000180s.jpg",
+      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_EVIDENCE_FRAME_02_000660s.jpg",
+      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_EVIDENCE_FRAME_03_001560s.jpg",
+      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_EVIDENCE_FRAME_04_005760s.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_30_15_06_56",
+    "title": "「魔兽世界」学手法",
+    "date": "2026-08-30",
+    "time": "15:06:56",
+    "startTime": "15:06",
+    "endTime": "19:31",
+    "duration": 15920,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged.xml",
+    "cover": "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_30_15_06_56/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_EVIDENCE_FRAME_01_000360s.jpg",
+      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_EVIDENCE_FRAME_02_009000s.jpg",
+      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_EVIDENCE_FRAME_03_009120s.jpg",
+      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_08_29_20_08_42",
     "title": "「魔兽世界」团本Day1",
     "date": "2026-08-29",
@@ -13,6 +55,7 @@
     "cover": "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_29_20_08_42/highlights.md",
     "images": [
+      "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1_COMIC_FACTORY.png",
       "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1_EVIDENCE_FRAME_01_000180s.jpg",
       "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1_EVIDENCE_FRAME_02_003060s.jpg",
       "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1_EVIDENCE_FRAME_03_007920s.jpg"
