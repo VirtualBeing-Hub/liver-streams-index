@@ -1,7 +1,27 @@
 [
   {
+    "id": "2026_08_31_22_00_30",
+    "title": "睡前聊聊天",
+    "date": "2026-08-31",
+    "time": "22:00:30",
+    "startTime": "22:00",
+    "endTime": "00:14",
+    "duration": 8066,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/viridis/2026_08_31_22_00_30/录制-1727071052-20260831-220030-827-睡前聊聊天.srt",
+    "xml": "/data/streams/viridis/2026_08_31_22_00_30/录制-1727071052-20260831-220030-827-睡前聊聊天.xml",
+    "cover": "/data/streams/viridis/2026_08_31_22_00_30/录制-1727071052-20260831-220030-827-睡前聊聊天.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_08_31_22_00_30/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_08_31_22_00_30/录制-1727071052-20260831-220030-827-睡前聊聊天_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_08_31_22_00_30/录制-1727071052-20260831-220030-827-睡前聊聊天_EVIDENCE_FRAME_01_000360s.jpg",
+      "/data/streams/viridis/2026_08_31_22_00_30/录制-1727071052-20260831-220030-827-睡前聊聊天_EVIDENCE_FRAME_02_002640s.jpg",
+      "/data/streams/viridis/2026_08_31_22_00_30/录制-1727071052-20260831-220030-827-睡前聊聊天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_29_21_02_50",
-    "title": "聊聊然后褪黑素！",
+    "title": "睡前聊聊天",
     "date": "2026-08-29",
     "time": "21:02:50",
     "startTime": "21:02",

@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_31_22_01_04",
+    "title": "教我玩赛马娘",
+    "date": "2026-08-31",
+    "time": "22:01:04",
+    "startTime": "22:01",
+    "endTime": "01:52",
+    "duration": 13870,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nana7mi/2026_08_31_22_01_04/录制-21452505-20260831-220104-210-教我玩赛马娘.srt",
+    "xml": "/data/streams/nana7mi/2026_08_31_22_01_04/录制-21452505-20260831-220104-210-教我玩赛马娘.xml",
+    "cover": "/data/streams/nana7mi/2026_08_31_22_01_04/录制-21452505-20260831-220104-210-教我玩赛马娘.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_08_31_22_01_04/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_08_31_22_01_04/录制-21452505-20260831-220104-210-教我玩赛马娘_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_08_31_22_01_04/录制-21452505-20260831-220104-210-教我玩赛马娘_EVIDENCE_FRAME_01_001740s.jpg",
+      "/data/streams/nana7mi/2026_08_31_22_01_04/录制-21452505-20260831-220104-210-教我玩赛马娘_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nana7mi/2026_08_31_22_01_04/录制-21452505-20260831-220104-210-教我玩赛马娘_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nana7mi/2026_08_31_22_01_04/录制-21452505-20260831-220104-210-教我玩赛马娘_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_29_20_02_34",
     "title": "魔兽世界团本！",
     "date": "2026-08-29",

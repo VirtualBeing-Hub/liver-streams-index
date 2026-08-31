@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_08_31_21_07_04",
+    "title": "周一的歌杂",
+    "date": "2026-08-31",
+    "time": "21:07:04",
+    "startTime": "21:07",
+    "endTime": "01:34",
+    "duration": 16077,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged.xml",
+    "cover": "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_31_21_07_04/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_EVIDENCE_FRAME_01_000360s.jpg",
+      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_EVIDENCE_FRAME_02_001920s.jpg",
+      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_EVIDENCE_FRAME_03_010440s.jpg",
+      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_EVIDENCE_FRAME_04_013080s.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_31_08_08_45",
+    "title": "早安一会儿",
+    "date": "2026-08-31",
+    "time": "08:08:45",
+    "startTime": "08:08",
+    "endTime": "11:07",
+    "duration": 10751,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿_merged.srt",
+    "xml": "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿_merged.xml",
+    "cover": "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_08_31_08_08_45/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿_merged_EVIDENCE_FRAME_01_003360s.jpg",
+      "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿_merged_EVIDENCE_FRAME_02_007680s.jpg",
+      "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_30_21_00_37",
     "title": "学当「破烂艺术家」",
     "date": "2026-08-30",

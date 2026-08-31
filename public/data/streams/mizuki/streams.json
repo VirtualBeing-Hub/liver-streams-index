@@ -1,5 +1,42 @@
 [
   {
+    "id": "2026_08_31_21_03_19",
+    "title": "开始虚度时光⭐",
+    "date": "2026-08-31",
+    "time": "21:03:19",
+    "startTime": "21:03",
+    "endTime": "00:15",
+    "duration": 11551,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/mizuki/2026_08_31_21_03_19/录制-30655190-20260831-210319-065-开始虚度时光⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_31_21_03_19/录制-30655190-20260831-210319-065-开始虚度时光⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_31_21_03_19/录制-30655190-20260831-210319-065-开始虚度时光⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_31_21_03_19/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_31_21_03_19/录制-30655190-20260831-210319-065-开始虚度时光⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_31_14_03_34",
+    "title": "魔兽小组练习⭐",
+    "date": "2026-08-31",
+    "time": "14:03:34",
+    "startTime": "14:03",
+    "endTime": "18:28",
+    "duration": 15924,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/mizuki/2026_08_31_14_03_34/录制-30655190-20260831-140334-796-魔兽小组练习⭐.srt",
+    "xml": "/data/streams/mizuki/2026_08_31_14_03_34/录制-30655190-20260831-140334-796-魔兽小组练习⭐.xml",
+    "cover": "/data/streams/mizuki/2026_08_31_14_03_34/录制-30655190-20260831-140334-796-魔兽小组练习⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_08_31_14_03_34/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_08_31_14_03_34/录制-30655190-20260831-140334-796-魔兽小组练习⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_08_31_14_03_34/录制-30655190-20260831-140334-796-魔兽小组练习⭐_EVIDENCE_FRAME_01_004200s.jpg",
+      "/data/streams/mizuki/2026_08_31_14_03_34/录制-30655190-20260831-140334-796-魔兽小组练习⭐_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/mizuki/2026_08_31_14_03_34/录制-30655190-20260831-140334-796-魔兽小组练习⭐_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_30_21_03_25",
     "title": "歌杂的说，晚上好⭐",
     "date": "2026-08-30",

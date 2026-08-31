@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_08_31_22_01_04",
+    "title": "困困夜行电台zzZ",
+    "date": "2026-08-31",
+    "time": "22:01:04",
+    "startTime": "22:01",
+    "endTime": "00:30",
+    "duration": 8947,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/joi/2026_08_31_22_01_04/录制-21484828-20260831-220104-108-困困夜行电台zzZ.srt",
+    "xml": "/data/streams/joi/2026_08_31_22_01_04/录制-21484828-20260831-220104-108-困困夜行电台zzZ.xml",
+    "cover": "/data/streams/joi/2026_08_31_22_01_04/录制-21484828-20260831-220104-108-困困夜行电台zzZ.cover.jpg",
+    "highlights": "/data/streams/joi/2026_08_31_22_01_04/highlights.md",
+    "images": [
+      "/data/streams/joi/2026_08_31_22_01_04/录制-21484828-20260831-220104-108-困困夜行电台zzZ_COMIC_FACTORY.png",
+      "/data/streams/joi/2026_08_31_22_01_04/录制-21484828-20260831-220104-108-困困夜行电台zzZ_EVIDENCE_FRAME_01_006300s.jpg",
+      "/data/streams/joi/2026_08_31_22_01_04/录制-21484828-20260831-220104-108-困困夜行电台zzZ_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/joi/2026_08_31_22_01_04/录制-21484828-20260831-220104-108-困困夜行电台zzZ_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/joi/2026_08_31_22_01_04/录制-21484828-20260831-220104-108-困困夜行电台zzZ_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_08_30_21_00_51",
     "title": "和朋友的破烂艺术家联动~",
     "date": "2026-08-30",

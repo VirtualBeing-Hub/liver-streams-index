@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_08_31_19_58_39",
+    "title": "周一的画头像",
+    "date": "2026-08-31",
+    "time": "19:58:39",
+    "startTime": "19:58",
+    "endTime": "00:10",
+    "duration": 15169,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/izayoi/2026_08_31_19_58_39/录制-1741667419-20260831-195839-260-周一的画头像.srt",
+    "xml": "/data/streams/izayoi/2026_08_31_19_58_39/录制-1741667419-20260831-195839-260-周一的画头像.xml",
+    "cover": "/data/streams/izayoi/2026_08_31_19_58_39/录制-1741667419-20260831-195839-260-周一的画头像.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_31_19_58_39/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_31_19_58_39/录制-1741667419-20260831-195839-260-周一的画头像_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_31_19_58_39/录制-1741667419-20260831-195839-260-周一的画头像_EVIDENCE_FRAME_01_000900s.jpg",
+      "/data/streams/izayoi/2026_08_31_19_58_39/录制-1741667419-20260831-195839-260-周一的画头像_EVIDENCE_FRAME_02_004260s.jpg",
+      "/data/streams/izayoi/2026_08_31_19_58_39/录制-1741667419-20260831-195839-260-周一的画头像_EVIDENCE_FRAME_03_011880s.jpg",
+      "/data/streams/izayoi/2026_08_31_19_58_39/录制-1741667419-20260831-195839-260-周一的画头像_EVIDENCE_FRAME_04_014940s.jpg"
+    ]
+  },
+  {
+    "id": "2026_08_31_09_04_37",
+    "title": "早茶第八十九天",
+    "date": "2026-08-31",
+    "time": "09:04:37",
+    "startTime": "09:04",
+    "endTime": "11:11",
+    "duration": 7643,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/izayoi/2026_08_31_09_04_37/录制-1741667419-20260831-090437-079-早茶第八十九天_merged.srt",
+    "xml": "/data/streams/izayoi/2026_08_31_09_04_37/录制-1741667419-20260831-090437-079-早茶第八十九天_merged.xml",
+    "cover": "/data/streams/izayoi/2026_08_31_09_04_37/录制-1741667419-20260831-090437-079-早茶第八十九天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_08_31_09_04_37/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_08_31_09_04_37/录制-1741667419-20260831-090437-079-早茶第八十九天_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_08_31_09_04_37/录制-1741667419-20260831-090437-079-早茶第八十九天_merged_EVIDENCE_FRAME_01_001680s.jpg",
+      "/data/streams/izayoi/2026_08_31_09_04_37/录制-1741667419-20260831-090437-079-早茶第八十九天_merged_EVIDENCE_FRAME_02_007440s.jpg",
+      "/data/streams/izayoi/2026_08_31_09_04_37/录制-1741667419-20260831-090437-079-早茶第八十九天_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/izayoi/2026_08_31_09_04_37/录制-1741667419-20260831-090437-079-早茶第八十九天_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_08_30_20_58_33",
     "title": "法浣！",
     "date": "2026-08-30",
