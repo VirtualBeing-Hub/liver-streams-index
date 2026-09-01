@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_09_01_21_03_32",
+    "title": "虚度一小下⭐",
+    "date": "2026-09-01",
+    "time": "21:03:32",
+    "startTime": "21:03",
+    "endTime": "21:57",
+    "duration": 3297,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/mizuki/2026_09_01_21_03_32/录制-30655190-20260901-210332-832-虚度一小下⭐.srt",
+    "xml": "/data/streams/mizuki/2026_09_01_21_03_32/录制-30655190-20260901-210332-832-虚度一小下⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_01_21_03_32/录制-30655190-20260901-210332-832-虚度一小下⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_01_21_03_32/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_01_21_03_32/录制-30655190-20260901-210332-832-虚度一小下⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_01_21_03_32/录制-30655190-20260901-210332-832-虚度一小下⭐_EVIDENCE_FRAME_01_001800s.jpg",
+      "/data/streams/mizuki/2026_09_01_21_03_32/录制-30655190-20260901-210332-832-虚度一小下⭐_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/mizuki/2026_09_01_21_03_32/录制-30655190-20260901-210332-832-虚度一小下⭐_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/mizuki/2026_09_01_21_03_32/录制-30655190-20260901-210332-832-虚度一小下⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_01_15_02_38",
+    "title": "周二歌一下⭐",
+    "date": "2026-09-01",
+    "time": "15:02:38",
+    "startTime": "15:02",
+    "endTime": "18:17",
+    "duration": 11702,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mizuki/2026_09_01_15_02_38/录制-30655190-20260901-150238-162-周二歌一下⭐.srt",
+    "xml": "/data/streams/mizuki/2026_09_01_15_02_38/录制-30655190-20260901-150238-162-周二歌一下⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_01_15_02_38/录制-30655190-20260901-150238-162-周二歌一下⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_01_15_02_38/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_01_15_02_38/录制-30655190-20260901-150238-162-周二歌一下⭐_EVIDENCE_FRAME_01_000300s.jpg",
+      "/data/streams/mizuki/2026_09_01_15_02_38/录制-30655190-20260901-150238-162-周二歌一下⭐_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/mizuki/2026_09_01_15_02_38/录制-30655190-20260901-150238-162-周二歌一下⭐_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/mizuki/2026_09_01_15_02_38/录制-30655190-20260901-150238-162-周二歌一下⭐_EVIDENCE_REQUEST_E4.jpg",
+      "/data/streams/mizuki/2026_09_01_15_02_38/录制-30655190-20260901-150238-162-周二歌一下⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_31_21_03_19",
     "title": "开始虚度时光⭐",
     "date": "2026-08-31",

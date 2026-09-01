@@ -1,5 +1,42 @@
 [
   {
+    "id": "2026_09_01_20_55_05",
+    "title": "「魔兽世界」训练日",
+    "date": "2026-09-01",
+    "time": "20:55:05",
+    "startTime": "20:55",
+    "endTime": "01:25",
+    "duration": 16207,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/nagisa/2026_09_01_20_55_05/录制-31368705-20260901-205505-788-「魔兽世界」训练日.srt",
+    "xml": "/data/streams/nagisa/2026_09_01_20_55_05/录制-31368705-20260901-205505-788-「魔兽世界」训练日.xml",
+    "cover": "/data/streams/nagisa/2026_09_01_20_55_05/录制-31368705-20260901-205505-788-「魔兽世界」训练日.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_01_20_55_05/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_01_20_55_05/录制-31368705-20260901-205505-788-「魔兽世界」训练日_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_01_08_10_34",
+    "title": "早安一会儿",
+    "date": "2026-09-01",
+    "time": "08:10:34",
+    "startTime": "08:10",
+    "endTime": "10:27",
+    "duration": 8229,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿.srt",
+    "xml": "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿.xml",
+    "cover": "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_01_08_10_34/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿_EVIDENCE_FRAME_01_000180s.jpg",
+      "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿_EVIDENCE_FRAME_02_001740s.jpg",
+      "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿_EVIDENCE_FRAME_03_003660s.jpg"
+    ]
+  },
+  {
     "id": "2026_08_31_21_07_04",
     "title": "周一的歌杂",
     "date": "2026-08-31",

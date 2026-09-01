@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026_09_01_21_50_38",
+    "title": "小栞来！",
+    "date": "2026-09-01",
+    "time": "21:50:38",
+    "startTime": "21:50",
+    "endTime": "00:26",
+    "duration": 9382,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/shiori/2026_09_01_21_50_38/录制-26966466-20260901-215038-029-小栞来！.srt",
+    "xml": "/data/streams/shiori/2026_09_01_21_50_38/录制-26966466-20260901-215038-029-小栞来！.xml",
+    "cover": "/data/streams/shiori/2026_09_01_21_50_38/录制-26966466-20260901-215038-029-小栞来！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_01_21_50_38/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_01_21_50_38/录制-26966466-20260901-215038-029-小栞来！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_01_21_50_38/录制-26966466-20260901-215038-029-小栞来！_EVIDENCE_FRAME_01_000300s.jpg",
+      "/data/streams/shiori/2026_09_01_21_50_38/录制-26966466-20260901-215038-029-小栞来！_EVIDENCE_FRAME_02_005150s.jpg",
+      "/data/streams/shiori/2026_09_01_21_50_38/录制-26966466-20260901-215038-029-小栞来！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_01_10_02_24",
+    "title": "早安獭獭栞！",
+    "date": "2026-09-01",
+    "time": "10:02:24",
+    "startTime": "10:02",
+    "endTime": "12:16",
+    "duration": 8048,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/shiori/2026_09_01_10_02_24/录制-26966466-20260901-100224-265-早安獭獭栞！.srt",
+    "xml": "/data/streams/shiori/2026_09_01_10_02_24/录制-26966466-20260901-100224-265-早安獭獭栞！.xml",
+    "cover": "/data/streams/shiori/2026_09_01_10_02_24/录制-26966466-20260901-100224-265-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_01_10_02_24/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_01_10_02_24/录制-26966466-20260901-100224-265-早安獭獭栞！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_01_10_02_24/录制-26966466-20260901-100224-265-早安獭獭栞！_EVIDENCE_FRAME_01_004509s.jpg",
+      "/data/streams/shiori/2026_09_01_10_02_24/录制-26966466-20260901-100224-265-早安獭獭栞！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_08_31_14_07_04",
     "title": "小栞来魔兽~宝宝巴士组训练",
     "date": "2026-08-31",
