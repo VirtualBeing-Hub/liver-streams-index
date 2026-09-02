@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_09_03_02_50_50",
+    "title": "MC之新手造房子",
+    "date": "2026-09-02",
+    "time": "02:50:50",
+    "startTime": "02:50",
+    "endTime": "03:59",
+    "duration": 4152,
+    "durationStr": "1.2 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_09_03_02_50_50/录制-21452505-20260903-025050-088-MC之新手造房子.xml",
+    "cover": "/data/streams/nana7mi/2026_09_03_02_50_50/录制-21452505-20260903-025050-088-MC之新手造房子.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_02_21_45_13",
+    "title": "今天干嘛",
+    "date": "2026-09-02",
+    "time": "21:45:13",
+    "startTime": "21:45",
+    "endTime": "02:47",
+    "duration": 18146,
+    "durationStr": "5.0 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_09_02_21_45_13/录制-21452505-20260902-214513-718-今天干嘛.xml",
+    "cover": "/data/streams/nana7mi/2026_09_02_21_45_13/录制-21452505-20260902-214513-718-今天干嘛.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_09_02_03_10_16",
     "title": "赛马娘凯旋门！",
     "date": "2026-09-01",
@@ -16,18 +46,24 @@
   },
   {
     "id": "2026_09_01_22_00_31",
-    "title": "赛马娘凯旋门！",
+    "title": "MCC",
     "date": "2026-09-01",
     "time": "22:00:31",
     "startTime": "22:00",
-    "endTime": "03:09",
-    "duration": 18554,
-    "durationStr": "5.2 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_09_01_22_00_31/录制-21452505-20260901-220031-145-赛马娘凯旋门！.xml",
+    "endTime": "04:12",
+    "duration": 22347,
+    "durationStr": "6.2 小时",
+    "srt": "/data/streams/nana7mi/2026_09_01_22_00_31/录制-21452505-20260901-220031-145-赛马娘凯旋门！_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_09_01_22_00_31/录制-21452505-20260901-220031-145-赛马娘凯旋门！_merged.xml",
     "cover": "/data/streams/nana7mi/2026_09_01_22_00_31/录制-21452505-20260901-220031-145-赛马娘凯旋门！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_09_01_22_00_31/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_09_01_22_00_31/录制-21452505-20260901-220031-145-赛马娘凯旋门！_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_09_01_22_00_31/录制-21452505-20260901-220031-145-赛马娘凯旋门！_merged_EVIDENCE_FRAME_01_000120s.jpg",
+      "/data/streams/nana7mi/2026_09_01_22_00_31/录制-21452505-20260901-220031-145-赛马娘凯旋门！_merged_EVIDENCE_FRAME_02_020880s.jpg",
+      "/data/streams/nana7mi/2026_09_01_22_00_31/录制-21452505-20260901-220031-145-赛马娘凯旋门！_merged_EVIDENCE_FRAME_03_021960s.jpg",
+      "/data/streams/nana7mi/2026_09_01_22_00_31/录制-21452505-20260901-220031-145-赛马娘凯旋门！_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
   },
   {
     "id": "2026_08_31_22_01_04",

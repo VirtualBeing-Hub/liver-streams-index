@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_02_08_46_21",
+    "title": "天怎么亮了",
+    "date": "2026-09-02",
+    "time": "08:46:21",
+    "startTime": "08:46",
+    "endTime": "10:48",
+    "duration": 7336,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/nightin/2026_09_02_08_46_21/录制-24872476-20260902-084621-345-天怎么亮了.srt",
+    "xml": "/data/streams/nightin/2026_09_02_08_46_21/录制-24872476-20260902-084621-345-天怎么亮了.xml",
+    "cover": "/data/streams/nightin/2026_09_02_08_46_21/录制-24872476-20260902-084621-345-天怎么亮了.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_02_08_46_21/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_02_08_46_21/录制-24872476-20260902-084621-345-天怎么亮了_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_02_08_46_21/录制-24872476-20260902-084621-345-天怎么亮了_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/nightin/2026_09_02_08_46_21/录制-24872476-20260902-084621-345-天怎么亮了_EVIDENCE_FRAME_02_002340s.jpg",
+      "/data/streams/nightin/2026_09_02_08_46_21/录制-24872476-20260902-084621-345-天怎么亮了_EVIDENCE_FRAME_03_007260s.jpg",
+      "/data/streams/nightin/2026_09_02_08_46_21/录制-24872476-20260902-084621-345-天怎么亮了_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_09_01_21_39_45",
     "title": "9月第一天女工电台",
     "date": "2026-09-01",

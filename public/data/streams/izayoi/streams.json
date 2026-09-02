@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026_09_02_21_02_51",
+    "title": "歇之",
+    "date": "2026-09-02",
+    "time": "21:02:51",
+    "startTime": "21:02",
+    "endTime": "23:43",
+    "duration": 9689,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/izayoi/2026_09_02_21_02_51/录制-1741667419-20260902-210251-763-歇之_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_02_21_02_51/录制-1741667419-20260902-210251-763-歇之_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_02_21_02_51/录制-1741667419-20260902-210251-763-歇之.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_02_21_02_51/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_02_21_02_51/录制-1741667419-20260902-210251-763-歇之_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_02_21_02_51/录制-1741667419-20260902-210251-763-歇之_merged_EVIDENCE_FRAME_01_000840s.jpg",
+      "/data/streams/izayoi/2026_09_02_21_02_51/录制-1741667419-20260902-210251-763-歇之_merged_EVIDENCE_FRAME_02_006240s.jpg",
+      "/data/streams/izayoi/2026_09_02_21_02_51/录制-1741667419-20260902-210251-763-歇之_merged_EVIDENCE_FRAME_03_009000s.jpg",
+      "/data/streams/izayoi/2026_09_02_21_02_51/录制-1741667419-20260902-210251-763-歇之_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_02_15_01_11",
+    "title": "健身浣！",
+    "date": "2026-09-02",
+    "time": "15:01:11",
+    "startTime": "15:01",
+    "endTime": "17:38",
+    "duration": 9448,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/izayoi/2026_09_02_15_01_11/录制-1741667419-20260902-150111-347-健身浣！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_02_15_01_11/录制-1741667419-20260902-150111-347-健身浣！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_02_15_01_11/录制-1741667419-20260902-150111-347-健身浣！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_02_15_01_11/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_02_15_01_11/录制-1741667419-20260902-150111-347-健身浣！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_02_15_01_11/录制-1741667419-20260902-150111-347-健身浣！_merged_EVIDENCE_FRAME_01_001080s.jpg",
+      "/data/streams/izayoi/2026_09_02_15_01_11/录制-1741667419-20260902-150111-347-健身浣！_merged_EVIDENCE_FRAME_02_003360s.jpg",
+      "/data/streams/izayoi/2026_09_02_15_01_11/录制-1741667419-20260902-150111-347-健身浣！_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/izayoi/2026_09_02_15_01_11/录制-1741667419-20260902-150111-347-健身浣！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_02_09_02_34",
+    "title": "早茶第九十天！",
+    "date": "2026-09-02",
+    "time": "09:02:34",
+    "startTime": "09:02",
+    "endTime": "11:49",
+    "duration": 10078,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/izayoi/2026_09_02_09_02_34/录制-1741667419-20260902-090234-558-早茶第九十天！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_02_09_02_34/录制-1741667419-20260902-090234-558-早茶第九十天！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_02_09_02_34/录制-1741667419-20260902-090234-558-早茶第九十天！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_02_09_02_34/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_02_09_02_34/录制-1741667419-20260902-090234-558-早茶第九十天！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_02_09_02_34/录制-1741667419-20260902-090234-558-早茶第九十天！_merged_EVIDENCE_FRAME_01_006900s.jpg",
+      "/data/streams/izayoi/2026_09_02_09_02_34/录制-1741667419-20260902-090234-558-早茶第九十天！_merged_EVIDENCE_FRAME_02_008340s.jpg",
+      "/data/streams/izayoi/2026_09_02_09_02_34/录制-1741667419-20260902-090234-558-早茶第九十天！_merged_EVIDENCE_FRAME_03_001080s.jpg",
+      "/data/streams/izayoi/2026_09_02_09_02_34/录制-1741667419-20260902-090234-558-早茶第九十天！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_01_18_00_53",
     "title": "闪耀！浣熊少女！",
     "date": "2026-09-01",
