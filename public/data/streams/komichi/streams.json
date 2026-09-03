@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_09_03_23_02_16",
+    "title": "四时小路只是在公园闲聊+",
+    "date": "2026-09-03",
+    "time": "23:02:16",
+    "startTime": "23:02",
+    "endTime": "23:31",
+    "duration": 1780,
+    "durationStr": "0.5 小时",
+    "srt": "/data/streams/komichi/2026_09_03_23_02_16/录制-1700301235-20260903-230216-626-四时小路只是在公园闲聊+_merged.srt",
+    "xml": "/data/streams/komichi/2026_09_03_23_02_16/录制-1700301235-20260903-230216-626-四时小路只是在公园闲聊+_merged.xml",
+    "cover": "/data/streams/komichi/2026_09_03_23_02_16/录制-1700301235-20260903-230216-626-四时小路只是在公园闲聊+.cover.jpg",
+    "highlights": "/data/streams/komichi/2026_09_03_23_02_16/highlights.md",
+    "images": [
+      "/data/streams/komichi/2026_09_03_23_02_16/录制-1700301235-20260903-230216-626-四时小路只是在公园闲聊+_merged_COMIC_FACTORY.png",
+      "/data/streams/komichi/2026_09_03_23_02_16/录制-1700301235-20260903-230216-626-四时小路只是在公园闲聊+_merged_EVIDENCE_FRAME_01_000360s.jpg",
+      "/data/streams/komichi/2026_09_03_23_02_16/录制-1700301235-20260903-230216-626-四时小路只是在公园闲聊+_merged_EVIDENCE_FRAME_02_000600s.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_03_21_03_17",
+    "title": "四时小路只是在公园闲聊+",
+    "date": "2026-09-03",
+    "time": "21:03:17",
+    "startTime": "21:03",
+    "endTime": "22:31",
+    "duration": 5332,
+    "durationStr": "1.5 小时",
+    "srt": null,
+    "xml": "/data/streams/komichi/2026_09_03_21_03_17/录制-1700301235-20260903-210317-996-四时小路只是在公园闲聊+.xml",
+    "cover": "/data/streams/komichi/2026_09_03_21_03_17/录制-1700301235-20260903-210317-996-四时小路只是在公园闲聊+.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_09_02_21_03_10",
     "title": "四时小路只是在轻声唱歌+",
     "date": "2026-09-02",

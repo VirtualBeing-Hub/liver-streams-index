@@ -1,5 +1,73 @@
 [
   {
+    "id": "2026_09_03_23_02_02",
+    "title": "开始复习学歌的歌⭐",
+    "date": "2026-09-03",
+    "time": "23:02:02",
+    "startTime": "23:02",
+    "endTime": "00:26",
+    "duration": 5044,
+    "durationStr": "1.4 小时",
+    "srt": null,
+    "xml": "/data/streams/mizuki/2026_09_03_23_02_02/录制-30655190-20260903-230202-680-开始复习学歌的歌⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_03_23_02_02/录制-30655190-20260903-230202-680-开始复习学歌的歌⭐.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_03_21_02_55",
+    "title": "开始复习学歌的歌⭐",
+    "date": "2026-09-03",
+    "time": "21:02:55",
+    "startTime": "21:02",
+    "endTime": "22:31",
+    "duration": 5351,
+    "durationStr": "1.5 小时",
+    "srt": null,
+    "xml": "/data/streams/mizuki/2026_09_03_21_02_55/录制-30655190-20260903-210255-281-开始复习学歌的歌⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_03_21_02_55/录制-30655190-20260903-210255-281-开始复习学歌的歌⭐.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_03_13_00_22",
+    "title": "好多人钓鱼啊⭐",
+    "date": "2026-09-03",
+    "time": "13:00:22",
+    "startTime": "13:00",
+    "endTime": "18:02",
+    "duration": 18144,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/mizuki/2026_09_03_13_00_22/录制-30655190-20260903-130022-189-好多人钓鱼啊⭐.srt",
+    "xml": "/data/streams/mizuki/2026_09_03_13_00_22/录制-30655190-20260903-130022-189-好多人钓鱼啊⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_03_13_00_22/录制-30655190-20260903-130022-189-好多人钓鱼啊⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_03_13_00_22/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_03_13_00_22/录制-30655190-20260903-130022-189-好多人钓鱼啊⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_03_13_00_22/录制-30655190-20260903-130022-189-好多人钓鱼啊⭐_EVIDENCE_FRAME_01_005460s.jpg",
+      "/data/streams/mizuki/2026_09_03_13_00_22/录制-30655190-20260903-130022-189-好多人钓鱼啊⭐_EVIDENCE_FRAME_02_008940s.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_03_10_04_16",
+    "title": "早播播⭐",
+    "date": "2026-09-03",
+    "time": "10:04:16",
+    "startTime": "10:04",
+    "endTime": "12:01",
+    "duration": 7026,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/mizuki/2026_09_03_10_04_16/录制-30655190-20260903-100416-003-早播播⭐.srt",
+    "xml": "/data/streams/mizuki/2026_09_03_10_04_16/录制-30655190-20260903-100416-003-早播播⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_03_10_04_16/录制-30655190-20260903-100416-003-早播播⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_03_10_04_16/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_03_10_04_16/录制-30655190-20260903-100416-003-早播播⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_03_10_04_16/录制-30655190-20260903-100416-003-早播播⭐_EVIDENCE_FRAME_01_001440s.jpg",
+      "/data/streams/mizuki/2026_09_03_10_04_16/录制-30655190-20260903-100416-003-早播播⭐_EVIDENCE_FRAME_02_004800s.jpg"
+    ]
+  },
+  {
     "id": "2026_09_02_21_03_49",
     "title": "给你逮到虚度了⭐",
     "date": "2026-09-02",

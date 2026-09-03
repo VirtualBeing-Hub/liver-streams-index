@@ -5,14 +5,20 @@
     "date": "2026-09-02",
     "time": "23:42:58",
     "startTime": "23:42",
-    "endTime": "03:59",
-    "duration": 15442,
-    "durationStr": "4.3 小时",
-    "srt": null,
+    "endTime": "04:13",
+    "duration": 16260,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/mitsuri/2026_09_02_23_42_58/录制-1967216004-20260902-234258-318-我喝我唱！.srt",
     "xml": "/data/streams/mitsuri/2026_09_02_23_42_58/录制-1967216004-20260902-234258-318-我喝我唱！.xml",
     "cover": "/data/streams/mitsuri/2026_09_02_23_42_58/录制-1967216004-20260902-234258-318-我喝我唱！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_09_02_23_42_58/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_09_02_23_42_58/录制-1967216004-20260902-234258-318-我喝我唱！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_09_02_23_42_58/录制-1967216004-20260902-234258-318-我喝我唱！_EVIDENCE_FRAME_01_000480s.jpg",
+      "/data/streams/mitsuri/2026_09_02_23_42_58/录制-1967216004-20260902-234258-318-我喝我唱！_EVIDENCE_FRAME_02_003600s.jpg",
+      "/data/streams/mitsuri/2026_09_02_23_42_58/录制-1967216004-20260902-234258-318-我喝我唱！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/mitsuri/2026_09_02_23_42_58/录制-1967216004-20260902-234258-318-我喝我唱！_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_08_31_21_00_36",

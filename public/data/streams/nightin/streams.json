@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_09_03_21_22_26",
+    "title": "打电话",
+    "date": "2026-09-03",
+    "time": "21:22:26",
+    "startTime": "21:22",
+    "endTime": "22:31",
+    "duration": 4181,
+    "durationStr": "1.2 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_09_03_21_22_26/录制-24872476-20260903-212226-334-打电话.xml",
+    "cover": "/data/streams/nightin/2026_09_03_21_22_26/录制-24872476-20260903-212226-334-打电话.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_03_16_04_26",
+    "title": "天呐作息大人…",
+    "date": "2026-09-03",
+    "time": "16:04:26",
+    "startTime": "16:04",
+    "endTime": "18:31",
+    "duration": 8849,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人….srt",
+    "xml": "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人….xml",
+    "cover": "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人….cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_03_16_04_26/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人…_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人…_EVIDENCE_FRAME_01_000120s.jpg",
+      "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人…_EVIDENCE_FRAME_02_000780s.jpg"
+    ]
+  },
+  {
     "id": "2026_09_02_08_46_21",
     "title": "天怎么亮了",
     "date": "2026-09-02",

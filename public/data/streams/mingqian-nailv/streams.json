@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_09_03_23_02_10",
+    "title": "楚什么楚！",
+    "date": "2026-09-03",
+    "time": "23:02:10",
+    "startTime": "23:02",
+    "endTime": "00:25",
+    "duration": 5033,
+    "durationStr": "1.4 小时",
+    "srt": null,
+    "xml": "/data/streams/mingqian-nailv/2026_09_03_23_02_10/录制-25034104-20260903-230210-942-楚什么楚！.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_09_03_23_02_10/录制-25034104-20260903-230210-942-楚什么楚！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_03_20_02_46",
+    "title": "楚什么楚！",
+    "date": "2026-09-03",
+    "time": "20:02:46",
+    "startTime": "20:02",
+    "endTime": "22:31",
+    "duration": 8964,
+    "durationStr": "2.5 小时",
+    "srt": null,
+    "xml": "/data/streams/mingqian-nailv/2026_09_03_20_02_46/录制-25034104-20260903-200246-315-楚什么楚！.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_09_03_20_02_46/录制-25034104-20260903-200246-315-楚什么楚！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_09_02_11_12_33",
     "title": "通宵没睡低气压碎碎念中……",
     "date": "2026-09-02",

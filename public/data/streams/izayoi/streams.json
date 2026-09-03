@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026_09_03_21_00_46",
+    "title": "偷偷潜入267",
+    "date": "2026-09-03",
+    "time": "21:00:46",
+    "startTime": "21:00",
+    "endTime": "00:07",
+    "duration": 11229,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/izayoi/2026_09_03_21_00_46/录制-1741667419-20260903-210046-192-偷偷潜入267_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_03_21_00_46/录制-1741667419-20260903-210046-192-偷偷潜入267_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_03_21_00_46/录制-1741667419-20260903-210046-192-偷偷潜入267.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_03_21_00_46/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_03_21_00_46/录制-1741667419-20260903-210046-192-偷偷潜入267_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_03_21_00_46/录制-1741667419-20260903-210046-192-偷偷潜入267_merged_EVIDENCE_FRAME_01_000240s.jpg",
+      "/data/streams/izayoi/2026_09_03_21_00_46/录制-1741667419-20260903-210046-192-偷偷潜入267_merged_EVIDENCE_FRAME_02_001080s.jpg",
+      "/data/streams/izayoi/2026_09_03_21_00_46/录制-1741667419-20260903-210046-192-偷偷潜入267_merged_EVIDENCE_FRAME_03_002160s.jpg",
+      "/data/streams/izayoi/2026_09_03_21_00_46/录制-1741667419-20260903-210046-192-偷偷潜入267_merged_EVIDENCE_FRAME_04_010680s.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_03_13_02_22",
+    "title": "钓鱼！",
+    "date": "2026-09-03",
+    "time": "13:02:22",
+    "startTime": "13:02",
+    "endTime": "15:15",
+    "duration": 8030,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/izayoi/2026_09_03_13_02_22/录制-1741667419-20260903-130222-887-钓鱼！.srt",
+    "xml": "/data/streams/izayoi/2026_09_03_13_02_22/录制-1741667419-20260903-130222-887-钓鱼！.xml",
+    "cover": "/data/streams/izayoi/2026_09_03_13_02_22/录制-1741667419-20260903-130222-887-钓鱼！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_03_13_02_22/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_03_13_02_22/录制-1741667419-20260903-130222-887-钓鱼！_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_03_13_02_22/录制-1741667419-20260903-130222-887-钓鱼！_EVIDENCE_FRAME_01_001800s.jpg",
+      "/data/streams/izayoi/2026_09_03_13_02_22/录制-1741667419-20260903-130222-887-钓鱼！_EVIDENCE_FRAME_02_000300s.jpg",
+      "/data/streams/izayoi/2026_09_03_13_02_22/录制-1741667419-20260903-130222-887-钓鱼！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/izayoi/2026_09_03_13_02_22/录制-1741667419-20260903-130222-887-钓鱼！_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_03_09_04_14",
+    "title": "早茶第九十一天！",
+    "date": "2026-09-03",
+    "time": "09:04:14",
+    "startTime": "09:04",
+    "endTime": "11:15",
+    "duration": 7877,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/izayoi/2026_09_03_09_04_14/录制-1741667419-20260903-090414-559-早茶第九十一天！.srt",
+    "xml": "/data/streams/izayoi/2026_09_03_09_04_14/录制-1741667419-20260903-090414-559-早茶第九十一天！.xml",
+    "cover": "/data/streams/izayoi/2026_09_03_09_04_14/录制-1741667419-20260903-090414-559-早茶第九十一天！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_03_09_04_14/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_03_09_04_14/录制-1741667419-20260903-090414-559-早茶第九十一天！_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_03_09_04_14/录制-1741667419-20260903-090414-559-早茶第九十一天！_EVIDENCE_FRAME_01_000120s.jpg",
+      "/data/streams/izayoi/2026_09_03_09_04_14/录制-1741667419-20260903-090414-559-早茶第九十一天！_EVIDENCE_FRAME_02_000420s.jpg",
+      "/data/streams/izayoi/2026_09_03_09_04_14/录制-1741667419-20260903-090414-559-早茶第九十一天！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/izayoi/2026_09_03_09_04_14/录制-1741667419-20260903-090414-559-早茶第九十一天！_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_09_02_21_02_51",
     "title": "歇之",
     "date": "2026-09-02",

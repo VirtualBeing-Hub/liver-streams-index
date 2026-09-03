@@ -1,5 +1,73 @@
 [
   {
+    "id": "2026_09_04_00_08_38",
+    "title": "蝉鸣，夏日末",
+    "date": "2026-09-03",
+    "time": "00:08:38",
+    "startTime": "00:08",
+    "endTime": "00:11",
+    "duration": 204,
+    "durationStr": "3 分钟",
+    "srt": "/data/streams/sumire/2026_09_04_00_08_38/录制-1727076670-20260904-000838-963-蝉鸣，夏日末.srt",
+    "xml": "/data/streams/sumire/2026_09_04_00_08_38/录制-1727076670-20260904-000838-963-蝉鸣，夏日末.xml",
+    "cover": "/data/streams/sumire/2026_09_04_00_08_38/录制-1727076670-20260904-000838-963-蝉鸣，夏日末.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_04_00_08_38/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_04_00_08_38/录制-1727076670-20260904-000838-963-蝉鸣，夏日末_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_04_00_08_38/录制-1727076670-20260904-000838-963-蝉鸣，夏日末_EVIDENCE_FRAME_01_000000s.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_03_23_02_11",
+    "title": "蝉鸣，夏日末",
+    "date": "2026-09-03",
+    "time": "23:02:11",
+    "startTime": "23:02",
+    "endTime": "23:21",
+    "duration": 1183,
+    "durationStr": "0.3 小时",
+    "srt": "/data/streams/sumire/2026_09_03_23_02_11/录制-1727076670-20260903-230211-209-蝉鸣，夏日末.srt",
+    "xml": "/data/streams/sumire/2026_09_03_23_02_11/录制-1727076670-20260903-230211-209-蝉鸣，夏日末.xml",
+    "cover": "/data/streams/sumire/2026_09_03_23_02_11/录制-1727076670-20260903-230211-209-蝉鸣，夏日末.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_03_23_02_11/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_03_23_02_11/录制-1727076670-20260903-230211-209-蝉鸣，夏日末_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_03_23_02_11/录制-1727076670-20260903-230211-209-蝉鸣，夏日末_EVIDENCE_FRAME_01_000600s.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_03_22_06_53",
+    "title": "蝉鸣，夏日末",
+    "date": "2026-09-03",
+    "time": "22:06:53",
+    "startTime": "22:06",
+    "endTime": "22:31",
+    "duration": 1517,
+    "durationStr": "0.4 小时",
+    "srt": null,
+    "xml": "/data/streams/sumire/2026_09_03_22_06_53/录制-1727076670-20260903-220653-029-蝉鸣，夏日末.xml",
+    "cover": "/data/streams/sumire/2026_09_03_22_06_53/录制-1727076670-20260903-220653-029-蝉鸣，夏日末.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_03_08_03_00",
+    "title": "豆浆油条豆皮包子汤面细粉",
+    "date": "2026-09-03",
+    "time": "08:03:00",
+    "startTime": "08:03",
+    "endTime": "10:22",
+    "duration": 8373,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/sumire/2026_09_03_08_03_00/录制-1727076670-20260903-080300-883-豆浆油条豆皮包子汤面细粉.srt",
+    "xml": "/data/streams/sumire/2026_09_03_08_03_00/录制-1727076670-20260903-080300-883-豆浆油条豆皮包子汤面细粉.xml",
+    "cover": "/data/streams/sumire/2026_09_03_08_03_00/录制-1727076670-20260903-080300-883-豆浆油条豆皮包子汤面细粉.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_03_08_03_00/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_03_08_03_00/录制-1727076670-20260903-080300-883-豆浆油条豆皮包子汤面细粉_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_02_20_02_35",
     "title": "我嘞个豆啊",
     "date": "2026-09-02",
