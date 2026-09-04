@@ -16,18 +16,22 @@
   },
   {
     "id": "2026_09_04_22_03_33",
-    "title": "刚睡醒好困好困好困",
+    "title": "随便聊点啥！",
     "date": "2026-09-04",
     "time": "22:03:33",
     "startTime": "22:03",
-    "endTime": "22:44",
-    "duration": 2517,
-    "durationStr": "0.7 小时",
-    "srt": null,
-    "xml": "/data/streams/chu2u/2026_09_04_22_03_33/录制-1727074031-20260904-220333-222-刚睡醒好困好困好困.xml",
+    "endTime": "00:28",
+    "duration": 8748,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/chu2u/2026_09_04_22_03_33/录制-1727074031-20260904-220333-222-刚睡醒好困好困好困_merged.srt",
+    "xml": "/data/streams/chu2u/2026_09_04_22_03_33/录制-1727074031-20260904-220333-222-刚睡醒好困好困好困_merged.xml",
     "cover": "/data/streams/chu2u/2026_09_04_22_03_33/录制-1727074031-20260904-220333-222-刚睡醒好困好困好困.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/chu2u/2026_09_04_22_03_33/highlights.md",
+    "images": [
+      "/data/streams/chu2u/2026_09_04_22_03_33/录制-1727074031-20260904-220333-222-刚睡醒好困好困好困_merged_COMIC_FACTORY.png",
+      "/data/streams/chu2u/2026_09_04_22_03_33/录制-1727074031-20260904-220333-222-刚睡醒好困好困好困_merged_EVIDENCE_FRAME_01_002160s.jpg",
+      "/data/streams/chu2u/2026_09_04_22_03_33/录制-1727074031-20260904-220333-222-刚睡醒好困好困好困_merged_EVIDENCE_FRAME_02_006360s.jpg"
+    ]
   },
   {
     "id": "2026_09_04_13_58_20",

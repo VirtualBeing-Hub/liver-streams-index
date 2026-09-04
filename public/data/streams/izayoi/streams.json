@@ -5,14 +5,18 @@
     "date": "2026-09-04",
     "time": "21:33:50",
     "startTime": "21:33",
-    "endTime": "23:12",
-    "duration": 5997,
-    "durationStr": "1.7 小时",
-    "srt": null,
-    "xml": "/data/streams/izayoi/2026_09_04_21_33_50/录制-1741667419-20260904-213350-630-pakyoiki 第四期.xml",
+    "endTime": "00:56",
+    "duration": 12188,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/izayoi/2026_09_04_21_33_50/录制-1741667419-20260904-213350-630-pakyoiki 第四期_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_04_21_33_50/录制-1741667419-20260904-213350-630-pakyoiki 第四期_merged.xml",
     "cover": "/data/streams/izayoi/2026_09_04_21_33_50/录制-1741667419-20260904-213350-630-pakyoiki 第四期.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/izayoi/2026_09_04_21_33_50/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_04_21_33_50/录制-1741667419-20260904-213350-630-pakyoiki 第四期_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_04_21_33_50/录制-1741667419-20260904-213350-630-pakyoiki 第四期_merged_EVIDENCE_FRAME_01_010260s.jpg",
+      "/data/streams/izayoi/2026_09_04_21_33_50/录制-1741667419-20260904-213350-630-pakyoiki 第四期_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_04_12_02_43",
@@ -30,7 +34,8 @@
     "images": [
       "/data/streams/izayoi/2026_09_04_12_02_43/录制-1741667419-20260904-120243-882-抽抽联动！_COMIC_FACTORY.png",
       "/data/streams/izayoi/2026_09_04_12_02_43/录制-1741667419-20260904-120243-882-抽抽联动！_EVIDENCE_FRAME_01_000240s.jpg",
-      "/data/streams/izayoi/2026_09_04_12_02_43/录制-1741667419-20260904-120243-882-抽抽联动！_EVIDENCE_FRAME_02_003000s.jpg"
+      "/data/streams/izayoi/2026_09_04_12_02_43/录制-1741667419-20260904-120243-882-抽抽联动！_EVIDENCE_FRAME_02_003000s.jpg",
+      "/data/streams/izayoi/2026_09_04_12_02_43/录制-1741667419-20260904-120243-882-抽抽联动！_EVIDENCE_FRAME_03_000360s.jpg"
     ]
   },
   {

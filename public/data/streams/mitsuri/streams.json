@@ -5,14 +5,20 @@
     "date": "2026-09-04",
     "time": "20:46:06",
     "startTime": "20:46",
-    "endTime": "23:13",
-    "duration": 8860,
-    "durationStr": "2.5 小时",
-    "srt": null,
-    "xml": "/data/streams/mitsuri/2026_09_04_20_46_06/录制-1967216004-20260904-204606-860-嘟嘟登场！！.xml",
+    "endTime": "02:53",
+    "duration": 22068,
+    "durationStr": "6.1 小时",
+    "srt": "/data/streams/mitsuri/2026_09_04_20_46_06/录制-1967216004-20260904-204606-860-嘟嘟登场！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_09_04_20_46_06/录制-1967216004-20260904-204606-860-嘟嘟登场！！_merged.xml",
     "cover": "/data/streams/mitsuri/2026_09_04_20_46_06/录制-1967216004-20260904-204606-860-嘟嘟登场！！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_09_04_20_46_06/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_09_04_20_46_06/录制-1967216004-20260904-204606-860-嘟嘟登场！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_09_04_20_46_06/录制-1967216004-20260904-204606-860-嘟嘟登场！！_merged_EVIDENCE_FRAME_01_013680s.jpg",
+      "/data/streams/mitsuri/2026_09_04_20_46_06/录制-1967216004-20260904-204606-860-嘟嘟登场！！_merged_EVIDENCE_FRAME_02_013260s.jpg",
+      "/data/streams/mitsuri/2026_09_04_20_46_06/录制-1967216004-20260904-204606-860-嘟嘟登场！！_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/mitsuri/2026_09_04_20_46_06/录制-1967216004-20260904-204606-860-嘟嘟登场！！_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_02_23_42_58",

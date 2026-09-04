@@ -1,18 +1,23 @@
 [
   {
     "id": "2026_09_04_21_33_30",
-    "title": "bilibili主播的直播间",
+    "title": "pakoyoi⭐",
     "date": "2026-09-04",
     "time": "21:33:30",
     "startTime": "21:33",
-    "endTime": "23:13",
-    "duration": 6017,
-    "durationStr": "1.7 小时",
-    "srt": null,
-    "xml": "/data/streams/mizuki/2026_09_04_21_33_30/录制-30655190-20260904-213330-735-bilibili主播的直播间.xml",
+    "endTime": "00:47",
+    "duration": 11667,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/mizuki/2026_09_04_21_33_30/录制-30655190-20260904-213330-735-bilibili主播的直播间_merged.srt",
+    "xml": "/data/streams/mizuki/2026_09_04_21_33_30/录制-30655190-20260904-213330-735-bilibili主播的直播间_merged.xml",
     "cover": "/data/streams/mizuki/2026_09_04_21_33_30/录制-30655190-20260904-213330-735-bilibili主播的直播间.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/mizuki/2026_09_04_21_33_30/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_04_21_33_30/录制-30655190-20260904-213330-735-bilibili主播的直播间_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_04_21_33_30/录制-30655190-20260904-213330-735-bilibili主播的直播间_merged_EVIDENCE_FRAME_01_000120s.jpg",
+      "/data/streams/mizuki/2026_09_04_21_33_30/录制-30655190-20260904-213330-735-bilibili主播的直播间_merged_EVIDENCE_FRAME_02_000600s.jpg",
+      "/data/streams/mizuki/2026_09_04_21_33_30/录制-30655190-20260904-213330-735-bilibili主播的直播间_merged_EVIDENCE_FRAME_03_004620s.jpg"
+    ]
   },
   {
     "id": "2026_09_04_15_02_48",
@@ -29,7 +34,9 @@
     "highlights": "/data/streams/mizuki/2026_09_04_15_02_48/highlights.md",
     "images": [
       "/data/streams/mizuki/2026_09_04_15_02_48/录制-30655190-20260904-150248-201-鬼武者玩一下⭐_COMIC_FACTORY.png",
-      "/data/streams/mizuki/2026_09_04_15_02_48/录制-30655190-20260904-150248-201-鬼武者玩一下⭐_EVIDENCE_FRAME_01_001740s.jpg"
+      "/data/streams/mizuki/2026_09_04_15_02_48/录制-30655190-20260904-150248-201-鬼武者玩一下⭐_EVIDENCE_FRAME_01_001740s.jpg",
+      "/data/streams/mizuki/2026_09_04_15_02_48/录制-30655190-20260904-150248-201-鬼武者玩一下⭐_EVIDENCE_FRAME_02_008340s.jpg",
+      "/data/streams/mizuki/2026_09_04_15_02_48/录制-30655190-20260904-150248-201-鬼武者玩一下⭐_EVIDENCE_REQUEST_E2.jpg"
     ]
   },
   {

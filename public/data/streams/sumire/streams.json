@@ -5,14 +5,20 @@
     "date": "2026-09-04",
     "time": "22:03:01",
     "startTime": "22:03",
-    "endTime": "23:13",
-    "duration": 4245,
-    "durationStr": "1.2 小时",
-    "srt": null,
-    "xml": "/data/streams/sumire/2026_09_04_22_03_01/录制-1727076670-20260904-220301-232-蝉鸣，夏日末.xml",
+    "endTime": "00:03",
+    "duration": 7206,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/sumire/2026_09_04_22_03_01/录制-1727076670-20260904-220301-232-蝉鸣，夏日末_merged.srt",
+    "xml": "/data/streams/sumire/2026_09_04_22_03_01/录制-1727076670-20260904-220301-232-蝉鸣，夏日末_merged.xml",
     "cover": "/data/streams/sumire/2026_09_04_22_03_01/录制-1727076670-20260904-220301-232-蝉鸣，夏日末.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/sumire/2026_09_04_22_03_01/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_04_22_03_01/录制-1727076670-20260904-220301-232-蝉鸣，夏日末_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/sumire/2026_09_04_22_03_01/录制-1727076670-20260904-220301-232-蝉鸣，夏日末_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sumire/2026_09_04_22_03_01/录制-1727076670-20260904-220301-232-蝉鸣，夏日末_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/sumire/2026_09_04_22_03_01/录制-1727076670-20260904-220301-232-蝉鸣，夏日末_merged_EVIDENCE_REQUEST_E4.jpg",
+      "/data/streams/sumire/2026_09_04_22_03_01/录制-1727076670-20260904-220301-232-蝉鸣，夏日末_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_04_00_08_38",

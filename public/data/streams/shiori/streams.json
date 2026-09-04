@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_05_01_30_38",
+    "title": "小播几分钟zzZ",
+    "date": "2026-09-04",
+    "time": "01:30:38",
+    "startTime": "01:30",
+    "endTime": "01:58",
+    "duration": 1733,
+    "durationStr": "0.5 小时",
+    "srt": "/data/streams/shiori/2026_09_05_01_30_38/录制-26966466-20260905-013038-458-小播几分钟zzZ.srt",
+    "xml": "/data/streams/shiori/2026_09_05_01_30_38/录制-26966466-20260905-013038-458-小播几分钟zzZ.xml",
+    "cover": "/data/streams/shiori/2026_09_05_01_30_38/录制-26966466-20260905-013038-458-小播几分钟zzZ.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_05_01_30_38/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_05_01_30_38/录制-26966466-20260905-013038-458-小播几分钟zzZ_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_05_01_30_38/录制-26966466-20260905-013038-458-小播几分钟zzZ_EVIDENCE_FRAME_01_000247s.jpg",
+      "/data/streams/shiori/2026_09_05_01_30_38/录制-26966466-20260905-013038-458-小播几分钟zzZ_EVIDENCE_FRAME_02_001680s.jpg",
+      "/data/streams/shiori/2026_09_05_01_30_38/录制-26966466-20260905-013038-458-小播几分钟zzZ_EVIDENCE_FRAME_03_000272s.jpg",
+      "/data/streams/shiori/2026_09_05_01_30_38/录制-26966466-20260905-013038-458-小播几分钟zzZ_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_09_03_23_03_27",
     "title": "小栞来！",
     "date": "2026-09-03",

@@ -20,14 +20,20 @@
     "date": "2026-09-04",
     "time": "22:01:07",
     "startTime": "22:01",
-    "endTime": "22:50",
-    "duration": 2949,
-    "durationStr": "0.8 小时",
-    "srt": null,
-    "xml": "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台.xml",
+    "endTime": "23:35",
+    "duration": 5669,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged.srt",
+    "xml": "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged.xml",
     "cover": "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/hazel/2026_09_04_22_01_07/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_EVIDENCE_FRAME_01_003420s.jpg",
+      "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
   },
   {
     "id": "2026_09_03_20_12_53",

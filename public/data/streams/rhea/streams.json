@@ -5,14 +5,19 @@
     "date": "2026-09-04",
     "time": "22:53:45",
     "startTime": "22:53",
-    "endTime": "23:13",
-    "duration": 1200,
-    "durationStr": "0.3 小时",
-    "srt": null,
-    "xml": "/data/streams/rhea/2026_09_04_22_53_45/录制-23260993-20260904-225345-288-被shadow一拳打晕了555.xml",
+    "endTime": "03:37",
+    "duration": 17089,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/rhea/2026_09_04_22_53_45/录制-23260993-20260904-225345-288-被shadow一拳打晕了555_merged.srt",
+    "xml": "/data/streams/rhea/2026_09_04_22_53_45/录制-23260993-20260904-225345-288-被shadow一拳打晕了555_merged.xml",
     "cover": "/data/streams/rhea/2026_09_04_22_53_45/录制-23260993-20260904-225345-288-被shadow一拳打晕了555.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/rhea/2026_09_04_22_53_45/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_09_04_22_53_45/录制-23260993-20260904-225345-288-被shadow一拳打晕了555_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_09_04_22_53_45/录制-23260993-20260904-225345-288-被shadow一拳打晕了555_merged_EVIDENCE_FRAME_01_015480s.jpg",
+      "/data/streams/rhea/2026_09_04_22_53_45/录制-23260993-20260904-225345-288-被shadow一拳打晕了555_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/rhea/2026_09_04_22_53_45/录制-23260993-20260904-225345-288-被shadow一拳打晕了555_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_04_18_04_29",
@@ -30,7 +35,9 @@
     "images": [
       "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged_COMIC_FACTORY.png",
       "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged_EVIDENCE_FRAME_01_001980s.jpg",
-      "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged_EVIDENCE_FRAME_02_009060s.jpg"
+      "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged_EVIDENCE_FRAME_02_009060s.jpg",
+      "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged_EVIDENCE_REQUEST_E3.jpg"
     ]
   },
   {

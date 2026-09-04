@@ -20,14 +20,20 @@
     "date": "2026-09-04",
     "time": "20:04:20",
     "startTime": "20:04",
-    "endTime": "21:28",
-    "duration": 5078,
-    "durationStr": "1.4 小时",
-    "srt": null,
-    "xml": "/data/streams/mingqian-nailv/2026_09_04_20_04_20/录制-25034104-20260904-200420-741-玩啥…….xml",
+    "endTime": "00:37",
+    "duration": 16438,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_09_04_20_04_20/录制-25034104-20260904-200420-741-玩啥……_merged.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_09_04_20_04_20/录制-25034104-20260904-200420-741-玩啥……_merged.xml",
     "cover": "/data/streams/mingqian-nailv/2026_09_04_20_04_20/录制-25034104-20260904-200420-741-玩啥…….cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/mingqian-nailv/2026_09_04_20_04_20/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_09_04_20_04_20/录制-25034104-20260904-200420-741-玩啥……_merged_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_09_04_20_04_20/录制-25034104-20260904-200420-741-玩啥……_merged_EVIDENCE_FRAME_01_005280s.jpg",
+      "/data/streams/mingqian-nailv/2026_09_04_20_04_20/录制-25034104-20260904-200420-741-玩啥……_merged_EVIDENCE_FRAME_02_008280s.jpg",
+      "/data/streams/mingqian-nailv/2026_09_04_20_04_20/录制-25034104-20260904-200420-741-玩啥……_merged_EVIDENCE_FRAME_03_008700s.jpg",
+      "/data/streams/mingqian-nailv/2026_09_04_20_04_20/录制-25034104-20260904-200420-741-玩啥……_merged_EVIDENCE_FRAME_04_007380s.jpg"
+    ]
   },
   {
     "id": "2026_09_03_23_02_10",
