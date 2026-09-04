@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_09_04_22_53_45",
+    "title": "被shadow一拳打晕了555",
+    "date": "2026-09-04",
+    "time": "22:53:45",
+    "startTime": "22:53",
+    "endTime": "23:13",
+    "duration": 1200,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/rhea/2026_09_04_22_53_45/录制-23260993-20260904-225345-288-被shadow一拳打晕了555.xml",
+    "cover": "/data/streams/rhea/2026_09_04_22_53_45/录制-23260993-20260904-225345-288-被shadow一拳打晕了555.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_04_18_04_29",
+    "title": "结城理快到碗里来！",
+    "date": "2026-09-04",
+    "time": "18:04:29",
+    "startTime": "18:04",
+    "endTime": "20:35",
+    "duration": 9081,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged.srt",
+    "xml": "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged.xml",
+    "cover": "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_09_04_18_04_29/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged_EVIDENCE_FRAME_01_001980s.jpg",
+      "/data/streams/rhea/2026_09_04_18_04_29/录制-23260993-20260904-180429-378-结城理快到碗里来！_merged_EVIDENCE_FRAME_02_009060s.jpg"
+    ]
+  },
+  {
     "id": "2026_09_02_21_19_07",
     "title": "疯狂星期三",
     "date": "2026-09-02",

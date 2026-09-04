@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_09_04_20_46_41",
+    "title": "【鬼武者】战狂来也",
+    "date": "2026-09-04",
+    "time": "20:46:41",
+    "startTime": "20:46",
+    "endTime": "23:13",
+    "duration": 8822,
+    "durationStr": "2.5 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_09_04_20_46_41/录制-24872476-20260904-204641-525-【鬼武者】战狂来也.xml",
+    "cover": "/data/streams/nightin/2026_09_04_20_46_41/录制-24872476-20260904-204641-525-【鬼武者】战狂来也.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_04_14_02_17",
+    "title": "听说今天是6倍堡堡！",
+    "date": "2026-09-04",
+    "time": "14:02:17",
+    "startTime": "14:02",
+    "endTime": "17:03",
+    "duration": 10910,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/nightin/2026_09_04_14_02_17/录制-24872476-20260904-140217-848-听说今天是6倍堡堡！.srt",
+    "xml": "/data/streams/nightin/2026_09_04_14_02_17/录制-24872476-20260904-140217-848-听说今天是6倍堡堡！.xml",
+    "cover": "/data/streams/nightin/2026_09_04_14_02_17/录制-24872476-20260904-140217-848-听说今天是6倍堡堡！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_04_14_02_17/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_04_14_02_17/录制-24872476-20260904-140217-848-听说今天是6倍堡堡！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_04_14_02_17/录制-24872476-20260904-140217-848-听说今天是6倍堡堡！_EVIDENCE_FRAME_01_008100s.jpg",
+      "/data/streams/nightin/2026_09_04_14_02_17/录制-24872476-20260904-140217-848-听说今天是6倍堡堡！_EVIDENCE_FRAME_02_009720s.jpg"
+    ]
+  },
+  {
     "id": "2026_09_03_21_22_26",
     "title": "打电话",
     "date": "2026-09-03",
@@ -8,11 +42,16 @@
     "endTime": "22:31",
     "duration": 4181,
     "durationStr": "1.2 小时",
-    "srt": null,
+    "srt": "/data/streams/nightin/2026_09_03_21_22_26/录制-24872476-20260903-212226-334-打电话.srt",
     "xml": "/data/streams/nightin/2026_09_03_21_22_26/录制-24872476-20260903-212226-334-打电话.xml",
     "cover": "/data/streams/nightin/2026_09_03_21_22_26/录制-24872476-20260903-212226-334-打电话.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nightin/2026_09_03_21_22_26/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_03_21_22_26/录制-24872476-20260903-212226-334-打电话_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_03_21_22_26/录制-24872476-20260903-212226-334-打电话_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/nightin/2026_09_03_21_22_26/录制-24872476-20260903-212226-334-打电话_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_09_03_21_22_26/录制-24872476-20260903-212226-334-打电话_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_03_16_04_26",
@@ -30,7 +69,9 @@
     "images": [
       "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人…_COMIC_FACTORY.png",
       "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人…_EVIDENCE_FRAME_01_000120s.jpg",
-      "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人…_EVIDENCE_FRAME_02_000780s.jpg"
+      "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人…_EVIDENCE_FRAME_02_000780s.jpg",
+      "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人…_EVIDENCE_FRAME_03_006300s.jpg",
+      "/data/streams/nightin/2026_09_03_16_04_26/录制-24872476-20260903-160426-064-天呐作息大人…_EVIDENCE_REQUEST_E4.jpg"
     ]
   },
   {

@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026_09_04_20_01_12",
+    "title": "魔兽世界练练大米",
+    "date": "2026-09-04",
+    "time": "20:01:12",
+    "startTime": "20:01",
+    "endTime": "23:13",
+    "duration": 11545,
+    "durationStr": "3.2 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米.xml",
+    "cover": "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_09_04_03_33_18",
     "title": "鬼武者！",
     "date": "2026-09-03",
@@ -20,14 +35,16 @@
     "date": "2026-09-03",
     "time": "03:22:12",
     "startTime": "03:22",
-    "endTime": "03:30",
-    "duration": 509,
-    "durationStr": "0.1 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_09_04_03_22_12/录制-21452505-20260904-032212-295-鬼武者！.xml",
+    "endTime": "04:04",
+    "duration": 2558,
+    "durationStr": "0.7 小时",
+    "srt": "/data/streams/nana7mi/2026_09_04_03_22_12/录制-21452505-20260904-032212-295-鬼武者！_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_09_04_03_22_12/录制-21452505-20260904-032212-295-鬼武者！_merged.xml",
     "cover": "/data/streams/nana7mi/2026_09_04_03_22_12/录制-21452505-20260904-032212-295-鬼武者！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_09_04_03_22_12/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_09_04_03_22_12/录制-21452505-20260904-032212-295-鬼武者！_merged_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_09_03_23_02_04",
@@ -50,13 +67,13 @@
     "date": "2026-09-03",
     "time": "20:02:17",
     "startTime": "20:02",
-    "endTime": "22:31",
-    "duration": 8992,
-    "durationStr": "2.5 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_09_03_20_02_17/录制-21452505-20260903-200217-613-鬼武者！.xml",
+    "endTime": "00:38",
+    "duration": 16604,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/nana7mi/2026_09_03_20_02_17/录制-21452505-20260903-200217-613-鬼武者！_recovered_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_09_03_20_02_17/录制-21452505-20260903-200217-613-鬼武者！_recovered_merged.xml",
     "cover": "/data/streams/nana7mi/2026_09_03_20_02_17/录制-21452505-20260903-200217-613-鬼武者！.cover.jpg",
-    "highlights": null,
+    "highlights": "/data/streams/nana7mi/2026_09_03_20_02_17/highlights.md",
     "images": []
   },
   {
