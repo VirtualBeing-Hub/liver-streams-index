@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_09_05_20_04_33",
+    "title": "唱歌歌",
+    "date": "2026-09-05",
+    "time": "20:04:33",
+    "startTime": "20:04",
+    "endTime": "00:39",
+    "duration": 16520,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌.srt",
+    "xml": "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌.xml",
+    "cover": "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_05_20_04_33/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌_EVIDENCE_FRAME_01_001380s.jpg",
+      "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_05_12_33_20",
+    "title": "料理电台",
+    "date": "2026-09-05",
+    "time": "12:33:20",
+    "startTime": "12:33",
+    "endTime": "14:53",
+    "duration": 8445,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged.srt",
+    "xml": "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged.xml",
+    "cover": "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_05_12_33_20/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_EVIDENCE_FRAME_01_002220s.jpg",
+      "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_EVIDENCE_FRAME_02_006840s.jpg",
+      "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_04_23_07_08",
     "title": "被窝电台～",
     "date": "2026-09-04",

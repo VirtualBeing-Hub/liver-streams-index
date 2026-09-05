@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_09_05_21_02_24",
+    "title": "水友开开开车⭐",
+    "date": "2026-09-05",
+    "time": "21:02:24",
+    "startTime": "21:02",
+    "endTime": "00:14",
+    "duration": 11520,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/mizuki/2026_09_05_21_02_24/录制-30655190-20260905-210224-687-水友开开开车⭐.srt",
+    "xml": "/data/streams/mizuki/2026_09_05_21_02_24/录制-30655190-20260905-210224-687-水友开开开车⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_05_21_02_24/录制-30655190-20260905-210224-687-水友开开开车⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_05_21_02_24/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_05_21_02_24/录制-30655190-20260905-210224-687-水友开开开车⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_05_21_02_24/录制-30655190-20260905-210224-687-水友开开开车⭐_EVIDENCE_FRAME_01_000780s.jpg",
+      "/data/streams/mizuki/2026_09_05_21_02_24/录制-30655190-20260905-210224-687-水友开开开车⭐_EVIDENCE_FRAME_02_008820s.jpg",
+      "/data/streams/mizuki/2026_09_05_21_02_24/录制-30655190-20260905-210224-687-水友开开开车⭐_EVIDENCE_FRAME_03_009900s.jpg",
+      "/data/streams/mizuki/2026_09_05_21_02_24/录制-30655190-20260905-210224-687-水友开开开车⭐_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_05_14_01_25",
+    "title": "魔兽！小组训练大米！⭐",
+    "date": "2026-09-05",
+    "time": "14:01:25",
+    "startTime": "14:01",
+    "endTime": "20:06",
+    "duration": 21931,
+    "durationStr": "6.1 小时",
+    "srt": "/data/streams/mizuki/2026_09_05_14_01_25/录制-30655190-20260905-140125-111-唱点小歌哟⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_09_05_14_01_25/录制-30655190-20260905-140125-111-唱点小歌哟⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_09_05_14_01_25/录制-30655190-20260905-140125-111-唱点小歌哟⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_05_14_01_25/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_05_14_01_25/录制-30655190-20260905-140125-111-唱点小歌哟⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_05_14_01_25/录制-30655190-20260905-140125-111-唱点小歌哟⭐_merged_EVIDENCE_FRAME_01_010920s.jpg",
+      "/data/streams/mizuki/2026_09_05_14_01_25/录制-30655190-20260905-140125-111-唱点小歌哟⭐_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/mizuki/2026_09_05_14_01_25/录制-30655190-20260905-140125-111-唱点小歌哟⭐_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_04_21_33_30",
     "title": "pakoyoi⭐",
     "date": "2026-09-04",

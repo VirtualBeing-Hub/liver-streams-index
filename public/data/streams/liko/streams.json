@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_09_05_20_10_40",
+    "title": "唱唱唠唠",
+    "date": "2026-09-05",
+    "time": "20:10:40",
+    "startTime": "20:10",
+    "endTime": "00:25",
+    "duration": 15307,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠.srt",
+    "xml": "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠.xml",
+    "cover": "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_05_20_10_40/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠_EVIDENCE_FRAME_01_001500s.jpg",
+      "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_05_11_08_31",
+    "title": "久违午台",
+    "date": "2026-09-05",
+    "time": "11:08:31",
+    "startTime": "11:08",
+    "endTime": "14:54",
+    "duration": 13581,
+    "durationStr": "3.8 小时",
+    "srt": "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged.srt",
+    "xml": "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged.xml",
+    "cover": "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_05_11_08_31/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged_EVIDENCE_FRAME_01_002700s.jpg",
+      "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged_EVIDENCE_FRAME_02_000300s.jpg",
+      "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_04_22_18_10",
     "title": "水煮雪兔第一期",
     "date": "2026-09-04",

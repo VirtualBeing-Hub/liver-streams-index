@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_09_05_21_13_38",
+    "title": "小栞回来啦！",
+    "date": "2026-09-05",
+    "time": "21:13:38",
+    "startTime": "21:13",
+    "endTime": "23:13",
+    "duration": 7241,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/shiori/2026_09_05_21_13_38/录制-26966466-20260905-211338-457-小栞回来啦！.srt",
+    "xml": "/data/streams/shiori/2026_09_05_21_13_38/录制-26966466-20260905-211338-457-小栞回来啦！.xml",
+    "cover": "/data/streams/shiori/2026_09_05_21_13_38/录制-26966466-20260905-211338-457-小栞回来啦！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_05_21_13_38/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_05_21_13_38/录制-26966466-20260905-211338-457-小栞回来啦！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_05_21_13_38/录制-26966466-20260905-211338-457-小栞回来啦！_EVIDENCE_FRAME_01_003170s.jpg",
+      "/data/streams/shiori/2026_09_05_21_13_38/录制-26966466-20260905-211338-457-小栞回来啦！_EVIDENCE_FRAME_02_003205s.jpg",
+      "/data/streams/shiori/2026_09_05_21_13_38/录制-26966466-20260905-211338-457-小栞回来啦！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_05_18_04_26",
+    "title": "栞来！！魔兽！",
+    "date": "2026-09-05",
+    "time": "18:04:26",
+    "startTime": "18:04",
+    "endTime": "20:10",
+    "duration": 7601,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/shiori/2026_09_05_18_04_26/录制-26966466-20260905-180426-670-栞来！！魔兽！.srt",
+    "xml": "/data/streams/shiori/2026_09_05_18_04_26/录制-26966466-20260905-180426-670-栞来！！魔兽！.xml",
+    "cover": "/data/streams/shiori/2026_09_05_18_04_26/录制-26966466-20260905-180426-670-栞来！！魔兽！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_05_18_04_26/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_05_18_04_26/录制-26966466-20260905-180426-670-栞来！！魔兽！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_05_18_04_26/录制-26966466-20260905-180426-670-栞来！！魔兽！_EVIDENCE_FRAME_01_001807s.jpg",
+      "/data/streams/shiori/2026_09_05_18_04_26/录制-26966466-20260905-180426-670-栞来！！魔兽！_EVIDENCE_FRAME_02_007107s.jpg",
+      "/data/streams/shiori/2026_09_05_18_04_26/录制-26966466-20260905-180426-670-栞来！！魔兽！_EVIDENCE_FRAME_03_007390s.jpg",
+      "/data/streams/shiori/2026_09_05_18_04_26/录制-26966466-20260905-180426-670-栞来！！魔兽！_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_09_05_01_30_38",
     "title": "小播几分钟zzZ",
     "date": "2026-09-04",

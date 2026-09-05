@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026_09_05_21_02_07",
+    "title": "黎明行者之血",
+    "date": "2026-09-05",
+    "time": "21:02:07",
+    "startTime": "21:02",
+    "endTime": "03:59",
+    "duration": 25022,
+    "durationStr": "7.0 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血.xml",
+    "cover": "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_09_04_23_16_48",
     "title": "魔兽世界练练大米",
     "date": "2026-09-04",
@@ -20,14 +35,20 @@
     "date": "2026-09-04",
     "time": "20:01:12",
     "startTime": "20:01",
-    "endTime": "23:13",
-    "duration": 11545,
-    "durationStr": "3.2 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米.xml",
+    "endTime": "05:14",
+    "duration": 33237,
+    "durationStr": "9.2 小时",
+    "srt": "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米_merged.xml",
     "cover": "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_09_04_20_01_12/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米_merged_EVIDENCE_FRAME_01_000300s.jpg",
+      "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米_merged_EVIDENCE_FRAME_02_008880s.jpg",
+      "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米_merged_EVIDENCE_FRAME_03_009780s.jpg",
+      "/data/streams/nana7mi/2026_09_04_20_01_12/录制-21452505-20260904-200112-436-魔兽世界练练大米_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_04_03_33_18",

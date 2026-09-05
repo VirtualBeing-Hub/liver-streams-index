@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_05_15_10_28",
+    "title": "【歌杂】试试新麦！",
+    "date": "2026-09-05",
+    "time": "15:10:28",
+    "startTime": "15:10",
+    "endTime": "19:01",
+    "duration": 13868,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nightin/2026_09_05_15_10_28/录制-24872476-20260905-151028-396-【歌杂】试试新麦！.srt",
+    "xml": "/data/streams/nightin/2026_09_05_15_10_28/录制-24872476-20260905-151028-396-【歌杂】试试新麦！.xml",
+    "cover": "/data/streams/nightin/2026_09_05_15_10_28/录制-24872476-20260905-151028-396-【歌杂】试试新麦！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_05_15_10_28/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_05_15_10_28/录制-24872476-20260905-151028-396-【歌杂】试试新麦！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_05_15_10_28/录制-24872476-20260905-151028-396-【歌杂】试试新麦！_EVIDENCE_FRAME_01_013680s.jpg",
+      "/data/streams/nightin/2026_09_05_15_10_28/录制-24872476-20260905-151028-396-【歌杂】试试新麦！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nightin/2026_09_05_15_10_28/录制-24872476-20260905-151028-396-【歌杂】试试新麦！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_09_05_15_10_28/录制-24872476-20260905-151028-396-【歌杂】试试新麦！_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_09_04_20_46_41",
     "title": "【鬼武者】战狂来也",
     "date": "2026-09-04",

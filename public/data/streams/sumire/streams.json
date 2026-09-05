@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_05_19_04_21",
+    "title": "紫发女路人",
+    "date": "2026-09-05",
+    "time": "19:04:21",
+    "startTime": "19:04",
+    "endTime": "21:20",
+    "duration": 8181,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/sumire/2026_09_05_19_04_21/录制-1727076670-20260905-190421-835-紫发女路人.srt",
+    "xml": "/data/streams/sumire/2026_09_05_19_04_21/录制-1727076670-20260905-190421-835-紫发女路人.xml",
+    "cover": "/data/streams/sumire/2026_09_05_19_04_21/录制-1727076670-20260905-190421-835-紫发女路人.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_05_19_04_21/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_05_19_04_21/录制-1727076670-20260905-190421-835-紫发女路人_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_05_19_04_21/录制-1727076670-20260905-190421-835-紫发女路人_EVIDENCE_FRAME_01_000660s.jpg",
+      "/data/streams/sumire/2026_09_05_19_04_21/录制-1727076670-20260905-190421-835-紫发女路人_EVIDENCE_FRAME_02_006180s.jpg",
+      "/data/streams/sumire/2026_09_05_19_04_21/录制-1727076670-20260905-190421-835-紫发女路人_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sumire/2026_09_05_19_04_21/录制-1727076670-20260905-190421-835-紫发女路人_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_09_04_22_03_01",
     "title": "蝉鸣，夏日末",
     "date": "2026-09-04",
