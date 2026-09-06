@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_06_20_32_55",
+    "title": "嘟嘟登场！",
+    "date": "2026-09-06",
+    "time": "20:32:55",
+    "startTime": "20:32",
+    "endTime": "02:26",
+    "duration": 21270,
+    "durationStr": "5.9 小时",
+    "srt": "/data/streams/mitsuri/2026_09_06_20_32_55/录制-1967216004-20260906-203255-822-嘟嘟登场！.srt",
+    "xml": "/data/streams/mitsuri/2026_09_06_20_32_55/录制-1967216004-20260906-203255-822-嘟嘟登场！.xml",
+    "cover": "/data/streams/mitsuri/2026_09_06_20_32_55/录制-1967216004-20260906-203255-822-嘟嘟登场！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_09_06_20_32_55/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_09_06_20_32_55/录制-1967216004-20260906-203255-822-嘟嘟登场！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_09_06_20_32_55/录制-1967216004-20260906-203255-822-嘟嘟登场！_EVIDENCE_FRAME_01_000420s.jpg",
+      "/data/streams/mitsuri/2026_09_06_20_32_55/录制-1967216004-20260906-203255-822-嘟嘟登场！_EVIDENCE_FRAME_02_005820s.jpg",
+      "/data/streams/mitsuri/2026_09_06_20_32_55/录制-1967216004-20260906-203255-822-嘟嘟登场！_EVIDENCE_FRAME_03_012000s.jpg",
+      "/data/streams/mitsuri/2026_09_06_20_32_55/录制-1967216004-20260906-203255-822-嘟嘟登场！_EVIDENCE_FRAME_04_013080s.jpg"
+    ]
+  },
+  {
     "id": "2026_09_05_14_03_15",
     "title": "对抗！！！",
     "date": "2026-09-05",

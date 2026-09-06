@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_09_06_21_07_06",
+    "title": "「魔兽世界」VRG再集",
+    "date": "2026-09-06",
+    "time": "21:07:06",
+    "startTime": "21:07",
+    "endTime": "02:37",
+    "duration": 19804,
+    "durationStr": "5.5 小时",
+    "srt": "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_06_21_07_06/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged_EVIDENCE_FRAME_01_000240s.jpg",
+      "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged_EVIDENCE_FRAME_02_006180s.jpg",
+      "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_06_14_08_42",
+    "title": "「古诺西亚」",
+    "date": "2026-09-06",
+    "time": "14:08:42",
+    "startTime": "14:08",
+    "endTime": "18:44",
+    "duration": 16581,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」.srt",
+    "xml": "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」.xml",
+    "cover": "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_06_14_08_42/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_EVIDENCE_FRAME_01_000180s.jpg",
+      "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_EVIDENCE_FRAME_02_000360s.jpg",
+      "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_09_05_20_06_17",
     "title": "周六练练歌",
     "date": "2026-09-05",

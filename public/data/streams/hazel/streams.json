@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_06_20_04_47",
+    "title": "上课",
+    "date": "2026-09-06",
+    "time": "20:04:47",
+    "startTime": "20:04",
+    "endTime": "22:21",
+    "duration": 8275,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课.srt",
+    "xml": "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课.xml",
+    "cover": "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_09_06_20_04_47/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_EVIDENCE_FRAME_01_000480s.jpg",
+      "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_EVIDENCE_FRAME_02_004980s.jpg",
+      "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_09_05_20_06_51",
     "title": "你会按下按钮吗的游戏",
     "date": "2026-09-05",

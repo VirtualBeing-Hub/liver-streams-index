@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_09_06_20_02_35",
+    "title": "躲猫猫水友回",
+    "date": "2026-09-06",
+    "time": "20:02:35",
+    "startTime": "20:02",
+    "endTime": "00:38",
+    "duration": 16609,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged.srt",
+    "xml": "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged.xml",
+    "cover": "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_06_20_02_35/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_EVIDENCE_FRAME_01_001140s.jpg",
+      "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_EVIDENCE_FRAME_02_010440s.jpg",
+      "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_06_11_04_30",
+    "title": "展现厨艺中",
+    "date": "2026-09-06",
+    "time": "11:04:30",
+    "startTime": "11:04",
+    "endTime": "13:08",
+    "duration": 7466,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中.srt",
+    "xml": "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中.xml",
+    "cover": "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_06_11_04_30/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_EVIDENCE_FRAME_01_002160s.jpg",
+      "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_EVIDENCE_FRAME_02_003420s.jpg",
+      "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_EVIDENCE_FRAME_03_004320s.jpg",
+      "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_EVIDENCE_FRAME_04_005040s.jpg"
+    ]
+  },
+  {
     "id": "2026_09_05_20_10_40",
     "title": "唱唱唠唠",
     "date": "2026-09-05",

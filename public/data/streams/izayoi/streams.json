@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_09_06_19_58_48",
+    "title": "开饭！",
+    "date": "2026-09-06",
+    "time": "19:58:48",
+    "startTime": "19:58",
+    "endTime": "01:05",
+    "duration": 18469,
+    "durationStr": "5.1 小时",
+    "srt": "/data/streams/izayoi/2026_09_06_19_58_48/录制-1741667419-20260906-195848-958-开饭！.srt",
+    "xml": "/data/streams/izayoi/2026_09_06_19_58_48/录制-1741667419-20260906-195848-958-开饭！.xml",
+    "cover": "/data/streams/izayoi/2026_09_06_19_58_48/录制-1741667419-20260906-195848-958-开饭！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_06_19_58_48/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_06_19_58_48/录制-1741667419-20260906-195848-958-开饭！_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_06_19_58_48/录制-1741667419-20260906-195848-958-开饭！_EVIDENCE_FRAME_01_000600s.jpg",
+      "/data/streams/izayoi/2026_09_06_19_58_48/录制-1741667419-20260906-195848-958-开饭！_EVIDENCE_FRAME_02_004920s.jpg",
+      "/data/streams/izayoi/2026_09_06_19_58_48/录制-1741667419-20260906-195848-958-开饭！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/izayoi/2026_09_06_19_58_48/录制-1741667419-20260906-195848-958-开饭！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_06_12_04_48",
+    "title": "躺",
+    "date": "2026-09-06",
+    "time": "12:04:48",
+    "startTime": "12:04",
+    "endTime": "14:07",
+    "duration": 7415,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/izayoi/2026_09_06_12_04_48/录制-1741667419-20260906-120448-513-躺_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_06_12_04_48/录制-1741667419-20260906-120448-513-躺_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_06_12_04_48/录制-1741667419-20260906-120448-513-躺.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_06_12_04_48/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_06_12_04_48/录制-1741667419-20260906-120448-513-躺_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_06_12_04_48/录制-1741667419-20260906-120448-513-躺_merged_EVIDENCE_FRAME_01_000840s.jpg",
+      "/data/streams/izayoi/2026_09_06_12_04_48/录制-1741667419-20260906-120448-513-躺_merged_EVIDENCE_FRAME_02_003480s.jpg",
+      "/data/streams/izayoi/2026_09_06_12_04_48/录制-1741667419-20260906-120448-513-躺_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_05_19_58_41",
     "title": "1616我们喜浣你",
     "date": "2026-09-05",

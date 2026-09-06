@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_09_06_22_14_22",
+    "title": "小栞来！",
+    "date": "2026-09-06",
+    "time": "22:14:22",
+    "startTime": "22:14",
+    "endTime": "00:18",
+    "duration": 7443,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/shiori/2026_09_06_22_14_22/录制-26966466-20260906-221422-614-小栞来！.srt",
+    "xml": "/data/streams/shiori/2026_09_06_22_14_22/录制-26966466-20260906-221422-614-小栞来！.xml",
+    "cover": "/data/streams/shiori/2026_09_06_22_14_22/录制-26966466-20260906-221422-614-小栞来！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_06_22_14_22/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_06_22_14_22/录制-26966466-20260906-221422-614-小栞来！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_06_22_14_22/录制-26966466-20260906-221422-614-小栞来！_EVIDENCE_FRAME_01_001009s.jpg",
+      "/data/streams/shiori/2026_09_06_22_14_22/录制-26966466-20260906-221422-614-小栞来！_EVIDENCE_FRAME_02_001036s.jpg",
+      "/data/streams/shiori/2026_09_06_22_14_22/录制-26966466-20260906-221422-614-小栞来！_EVIDENCE_FRAME_03_001056s.jpg",
+      "/data/streams/shiori/2026_09_06_22_14_22/录制-26966466-20260906-221422-614-小栞来！_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_06_10_07_38",
+    "title": "久违的早台！",
+    "date": "2026-09-06",
+    "time": "10:07:38",
+    "startTime": "10:07",
+    "endTime": "12:12",
+    "duration": 7529,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/shiori/2026_09_06_10_07_38/录制-26966466-20260906-100738-395-久违的早台！.srt",
+    "xml": "/data/streams/shiori/2026_09_06_10_07_38/录制-26966466-20260906-100738-395-久违的早台！.xml",
+    "cover": "/data/streams/shiori/2026_09_06_10_07_38/录制-26966466-20260906-100738-395-久违的早台！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_06_10_07_38/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_06_10_07_38/录制-26966466-20260906-100738-395-久违的早台！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_06_10_07_38/录制-26966466-20260906-100738-395-久违的早台！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/shiori/2026_09_06_10_07_38/录制-26966466-20260906-100738-395-久违的早台！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_09_06_10_07_38/录制-26966466-20260906-100738-395-久违的早台！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/shiori/2026_09_06_10_07_38/录制-26966466-20260906-100738-395-久违的早台！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_05_21_13_38",
     "title": "小栞回来啦！",
     "date": "2026-09-05",

@@ -1,18 +1,54 @@
 [
   {
+    "id": "2026_09_06_22_33_39",
+    "title": "无穷无尽的魔兽但是前VRG",
+    "date": "2026-09-06",
+    "time": "22:33:39",
+    "startTime": "22:33",
+    "endTime": "03:59",
+    "duration": 19592,
+    "durationStr": "5.4 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_09_06_22_33_39/录制-21452505-20260906-223339-215-无穷无尽的魔兽但是前VRG.xml",
+    "cover": "/data/streams/nana7mi/2026_09_06_22_33_39/录制-21452505-20260906-223339-215-无穷无尽的魔兽但是前VRG.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_06_20_58_52",
+    "title": "无穷无尽的魔兽但是前VRG",
+    "date": "2026-09-06",
+    "time": "20:58:52",
+    "startTime": "20:58",
+    "endTime": "22:30",
+    "duration": 5562,
+    "durationStr": "1.5 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG.xml",
+    "cover": "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_09_05_21_02_07",
-    "title": "黎明行者之血",
+    "title": "黎明行者之血第二集",
     "date": "2026-09-05",
     "time": "21:02:07",
     "startTime": "21:02",
-    "endTime": "03:59",
-    "duration": 25022,
-    "durationStr": "7.0 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血.xml",
+    "endTime": "04:53",
+    "duration": 28279,
+    "durationStr": "7.9 小时",
+    "srt": "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血_merged.xml",
     "cover": "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_09_05_21_02_07/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血_merged_EVIDENCE_FRAME_01_000900s.jpg",
+      "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血_merged_EVIDENCE_FRAME_02_005100s.jpg",
+      "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血_merged_EVIDENCE_FRAME_03_008100s.jpg",
+      "/data/streams/nana7mi/2026_09_05_21_02_07/录制-21452505-20260905-210207-755-黎明行者之血_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
   },
   {
     "id": "2026_09_04_23_16_48",
