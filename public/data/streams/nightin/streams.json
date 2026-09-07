@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_07_21_07_03",
+    "title": "晚上好我来啦",
+    "date": "2026-09-07",
+    "time": "21:07:03",
+    "startTime": "21:07",
+    "endTime": "23:16",
+    "duration": 7745,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/nightin/2026_09_07_21_07_03/录制-24872476-20260907-210703-572-晚上好我来啦.srt",
+    "xml": "/data/streams/nightin/2026_09_07_21_07_03/录制-24872476-20260907-210703-572-晚上好我来啦.xml",
+    "cover": "/data/streams/nightin/2026_09_07_21_07_03/录制-24872476-20260907-210703-572-晚上好我来啦.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_07_21_07_03/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_07_21_07_03/录制-24872476-20260907-210703-572-晚上好我来啦_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_07_21_07_03/录制-24872476-20260907-210703-572-晚上好我来啦_EVIDENCE_FRAME_01_000960s.jpg",
+      "/data/streams/nightin/2026_09_07_21_07_03/录制-24872476-20260907-210703-572-晚上好我来啦_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_09_07_21_07_03/录制-24872476-20260907-210703-572-晚上好我来啦_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nightin/2026_09_07_21_07_03/录制-24872476-20260907-210703-572-晚上好我来啦_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_09_05_15_10_28",
     "title": "【歌杂】试试新麦！",
     "date": "2026-09-05",

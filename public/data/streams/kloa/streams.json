@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_07_20_15_05",
+    "title": "歌回~",
+    "date": "2026-09-07",
+    "time": "20:15:05",
+    "startTime": "20:15",
+    "endTime": "00:01",
+    "duration": 13616,
+    "durationStr": "3.8 小时",
+    "srt": "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged.srt",
+    "xml": "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged.xml",
+    "cover": "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_07_20_15_05/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_EVIDENCE_FRAME_01_010500s.jpg",
+      "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_09_06_20_09_31",
     "title": "水友游戏回~",
     "date": "2026-09-06",

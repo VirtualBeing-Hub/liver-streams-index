@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_07_20_10_51",
+    "title": "悠闲夜晚 玩一下网页",
+    "date": "2026-09-07",
+    "time": "20:10:51",
+    "startTime": "20:10",
+    "endTime": "22:28",
+    "duration": 8312,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged.srt",
+    "xml": "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged.xml",
+    "cover": "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_09_07_20_10_51/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_EVIDENCE_FRAME_01_000480s.jpg",
+      "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_09_06_20_04_47",
     "title": "上课",
     "date": "2026-09-06",

@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_07_14_10_49",
+    "title": "魔兽！",
+    "date": "2026-09-07",
+    "time": "14:10:49",
+    "startTime": "14:10",
+    "endTime": "16:48",
+    "duration": 9500,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/shiori/2026_09_07_14_10_49/录制-26966466-20260907-141049-298-魔兽！.srt",
+    "xml": "/data/streams/shiori/2026_09_07_14_10_49/录制-26966466-20260907-141049-298-魔兽！.xml",
+    "cover": "/data/streams/shiori/2026_09_07_14_10_49/录制-26966466-20260907-141049-298-魔兽！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_07_14_10_49/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_07_14_10_49/录制-26966466-20260907-141049-298-魔兽！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_07_14_10_49/录制-26966466-20260907-141049-298-魔兽！_EVIDENCE_FRAME_01_000720s.jpg",
+      "/data/streams/shiori/2026_09_07_14_10_49/录制-26966466-20260907-141049-298-魔兽！_EVIDENCE_FRAME_02_002910s.jpg",
+      "/data/streams/shiori/2026_09_07_14_10_49/录制-26966466-20260907-141049-298-魔兽！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_09_07_14_10_49/录制-26966466-20260907-141049-298-魔兽！_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_09_06_22_14_22",
     "title": "小栞来！",
     "date": "2026-09-06",

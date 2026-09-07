@@ -1,5 +1,42 @@
 [
   {
+    "id": "2026_09_07_21_07_21",
+    "title": "周一的歌杂",
+    "date": "2026-09-07",
+    "time": "21:07:21",
+    "startTime": "21:07",
+    "endTime": "00:46",
+    "duration": 13162,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_07_21_07_21/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged_EVIDENCE_FRAME_01_002580s.jpg",
+      "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_07_08_10_45",
+    "title": "早安一会儿",
+    "date": "2026-09-07",
+    "time": "08:10:45",
+    "startTime": "08:10",
+    "endTime": "11:09",
+    "duration": 10747,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/nagisa/2026_09_07_08_10_45/录制-31368705-20260907-081045-114-早安一会儿_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_07_08_10_45/录制-31368705-20260907-081045-114-早安一会儿_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_07_08_10_45/录制-31368705-20260907-081045-114-早安一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_07_08_10_45/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_07_08_10_45/录制-31368705-20260907-081045-114-早安一会儿_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_06_21_07_06",
     "title": "「魔兽世界」VRG再集",
     "date": "2026-09-06",

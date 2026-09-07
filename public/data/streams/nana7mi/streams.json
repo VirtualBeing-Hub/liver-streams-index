@@ -16,18 +16,24 @@
   },
   {
     "id": "2026_09_06_20_58_52",
-    "title": "无穷无尽的魔兽但是前VRG",
+    "title": "黎明行者之血第二集",
     "date": "2026-09-06",
     "time": "20:58:52",
     "startTime": "20:58",
-    "endTime": "22:30",
-    "duration": 5562,
-    "durationStr": "1.5 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG.xml",
+    "endTime": "06:24",
+    "duration": 34017,
+    "durationStr": "9.4 小时",
+    "srt": "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG_merged.xml",
     "cover": "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_09_06_20_58_52/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG_merged_EVIDENCE_FRAME_01_000780s.jpg",
+      "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG_merged_EVIDENCE_FRAME_02_031080s.jpg",
+      "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nana7mi/2026_09_06_20_58_52/录制-21452505-20260906-205852-613-无穷无尽的魔兽但是前VRG_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
   },
   {
     "id": "2026_09_05_21_02_07",
