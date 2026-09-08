@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026_09_09_00_38_41",
+    "title": "通宵也三动的鼠^^",
+    "date": "2026-09-08",
+    "time": "00:38:41",
+    "startTime": "00:38",
+    "endTime": "01:48",
+    "duration": 4231,
+    "durationStr": "1.2 小时",
+    "srt": "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^.srt",
+    "xml": "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^.xml",
+    "cover": "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_09_00_38_41/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^_EVIDENCE_FRAME_01_000240s.jpg",
+      "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^_EVIDENCE_FRAME_02_001020s.jpg",
+      "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^_EVIDENCE_FRAME_03_000540s.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_08_22_00_46",
+    "title": "通宵也三动的鼠^^",
+    "date": "2026-09-08",
+    "time": "22:00:46",
+    "startTime": "22:00",
+    "endTime": "23:13",
+    "duration": 4386,
+    "durationStr": "1.2 小时",
+    "srt": null,
+    "xml": "/data/streams/harei/2026_09_08_22_00_46/录制-1820703922-20260908-220046-287-通宵也三动的鼠^^.xml",
+    "cover": "/data/streams/harei/2026_09_08_22_00_46/录制-1820703922-20260908-220046-287-通宵也三动的鼠^^.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_08_16_52_38",
+    "title": "督战鼠_IG vs lgd^^",
+    "date": "2026-09-08",
+    "time": "16:52:38",
+    "startTime": "16:52",
+    "endTime": "19:49",
+    "duration": 10671,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^.srt",
+    "xml": "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^.xml",
+    "cover": "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_08_16_52_38/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^_EVIDENCE_FRAME_01_001500s.jpg",
+      "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^_EVIDENCE_FRAME_02_006120s.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_08_10_00_11",
+    "title": "好困吧鼠^^",
+    "date": "2026-09-08",
+    "time": "10:00:11",
+    "startTime": "10:00",
+    "endTime": "12:21",
+    "duration": 8502,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^.srt",
+    "xml": "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^.xml",
+    "cover": "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_08_10_00_11/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^_EVIDENCE_FRAME_01_000180s.jpg",
+      "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_09_06_21_04_45",
     "title": "小鼠要唱歌^^",
     "date": "2026-09-06",

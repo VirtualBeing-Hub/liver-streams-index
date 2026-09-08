@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_08_21_01_23",
+    "title": "魔兽人会飞，mcy也会",
+    "date": "2026-09-08",
+    "time": "21:01:23",
+    "startTime": "21:01",
+    "endTime": "23:25",
+    "duration": 8658,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/michiya/2026_09_08_21_01_23/录制-27628030-20260908-210123-065-魔兽人会飞，mcy也会_merged.srt",
+    "xml": "/data/streams/michiya/2026_09_08_21_01_23/录制-27628030-20260908-210123-065-魔兽人会飞，mcy也会_merged.xml",
+    "cover": "/data/streams/michiya/2026_09_08_21_01_23/录制-27628030-20260908-210123-065-魔兽人会飞，mcy也会.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_09_08_21_01_23/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_09_08_21_01_23/录制-27628030-20260908-210123-065-魔兽人会飞，mcy也会_merged_EVIDENCE_FRAME_01_002580s.jpg",
+      "/data/streams/michiya/2026_09_08_21_01_23/录制-27628030-20260908-210123-065-魔兽人会飞，mcy也会_merged_EVIDENCE_FRAME_02_007980s.jpg",
+      "/data/streams/michiya/2026_09_08_21_01_23/录制-27628030-20260908-210123-065-魔兽人会飞，mcy也会_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/michiya/2026_09_08_21_01_23/录制-27628030-20260908-210123-065-魔兽人会飞，mcy也会_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/michiya/2026_09_08_21_01_23/录制-27628030-20260908-210123-065-魔兽人会飞，mcy也会_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_07_21_29_59",
     "title": "雷霆寿司我吃吃吃",
     "date": "2026-09-07",

@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_09_08_21_28_20",
+    "title": "咪咪咪咪咪咪咪",
+    "date": "2026-09-08",
+    "time": "21:28:20",
+    "startTime": "21:28",
+    "endTime": "23:14",
+    "duration": 6374,
+    "durationStr": "1.8 小时",
+    "srt": null,
+    "xml": "/data/streams/mofu/2026_09_08_21_28_20/录制-1791260716-20260908-212820-224-咪咪咪咪咪咪咪.xml",
+    "cover": "/data/streams/mofu/2026_09_08_21_28_20/录制-1791260716-20260908-212820-224-咪咪咪咪咪咪咪.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_08_15_05_02",
+    "title": "组内momo",
+    "date": "2026-09-08",
+    "time": "15:05:02",
+    "startTime": "15:05",
+    "endTime": "19:03",
+    "duration": 14338,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/mofu/2026_09_08_15_05_02/录制-1791260716-20260908-150502-850-组内momo.srt",
+    "xml": "/data/streams/mofu/2026_09_08_15_05_02/录制-1791260716-20260908-150502-850-组内momo.xml",
+    "cover": "/data/streams/mofu/2026_09_08_15_05_02/录制-1791260716-20260908-150502-850-组内momo.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_09_08_15_05_02/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_09_08_15_05_02/录制-1791260716-20260908-150502-850-组内momo_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_09_08_15_05_02/录制-1791260716-20260908-150502-850-组内momo_EVIDENCE_FRAME_01_004440s.jpg",
+      "/data/streams/mofu/2026_09_08_15_05_02/录制-1791260716-20260908-150502-850-组内momo_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_09_07_21_07_32",
     "title": "逃出生天with小岁",
     "date": "2026-09-07",

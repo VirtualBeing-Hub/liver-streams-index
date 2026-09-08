@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_09_08_18_01_26",
+    "title": "画之",
+    "date": "2026-09-08",
+    "time": "18:01:26",
+    "startTime": "18:01",
+    "endTime": "22:08",
+    "duration": 14833,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/izayoi/2026_09_08_18_01_26/录制-1741667419-20260908-180126-311-画之.srt",
+    "xml": "/data/streams/izayoi/2026_09_08_18_01_26/录制-1741667419-20260908-180126-311-画之.xml",
+    "cover": "/data/streams/izayoi/2026_09_08_18_01_26/录制-1741667419-20260908-180126-311-画之.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_08_18_01_26/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_08_18_01_26/录制-1741667419-20260908-180126-311-画之_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_08_18_01_26/录制-1741667419-20260908-180126-311-画之_EVIDENCE_FRAME_01_011880s.jpg",
+      "/data/streams/izayoi/2026_09_08_18_01_26/录制-1741667419-20260908-180126-311-画之_EVIDENCE_FRAME_02_009660s.jpg",
+      "/data/streams/izayoi/2026_09_08_18_01_26/录制-1741667419-20260908-180126-311-画之_EVIDENCE_FRAME_03_008400s.jpg",
+      "/data/streams/izayoi/2026_09_08_18_01_26/录制-1741667419-20260908-180126-311-画之_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_08_08_58_05",
+    "title": "早茶第九十二天",
+    "date": "2026-09-08",
+    "time": "08:58:05",
+    "startTime": "08:58",
+    "endTime": "12:06",
+    "duration": 11292,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/izayoi/2026_09_08_08_58_05/录制-1741667419-20260908-085805-556-早茶第九十二天.srt",
+    "xml": "/data/streams/izayoi/2026_09_08_08_58_05/录制-1741667419-20260908-085805-556-早茶第九十二天.xml",
+    "cover": "/data/streams/izayoi/2026_09_08_08_58_05/录制-1741667419-20260908-085805-556-早茶第九十二天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_08_08_58_05/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_08_08_58_05/录制-1741667419-20260908-085805-556-早茶第九十二天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_08_08_58_05/录制-1741667419-20260908-085805-556-早茶第九十二天_EVIDENCE_FRAME_01_007680s.jpg",
+      "/data/streams/izayoi/2026_09_08_08_58_05/录制-1741667419-20260908-085805-556-早茶第九十二天_EVIDENCE_FRAME_02_006540s.jpg",
+      "/data/streams/izayoi/2026_09_08_08_58_05/录制-1741667419-20260908-085805-556-早茶第九十二天_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/izayoi/2026_09_08_08_58_05/录制-1741667419-20260908-085805-556-早茶第九十二天_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_09_06_19_58_48",
     "title": "开饭！",
     "date": "2026-09-06",

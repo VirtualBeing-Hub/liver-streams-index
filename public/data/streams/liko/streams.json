@@ -1,5 +1,38 @@
 [
   {
+    "id": "2026_09_08_20_06_45",
+    "title": "兔兔贴贴",
+    "date": "2026-09-08",
+    "time": "20:06:45",
+    "startTime": "20:06",
+    "endTime": "23:12",
+    "duration": 11208,
+    "durationStr": "3.1 小时",
+    "srt": null,
+    "xml": "/data/streams/liko/2026_09_08_20_06_45/录制-1713548468-20260908-200645-037-兔兔贴贴.xml",
+    "cover": "/data/streams/liko/2026_09_08_20_06_45/录制-1713548468-20260908-200645-037-兔兔贴贴.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_08_10_02_44",
+    "title": "早早早",
+    "date": "2026-09-08",
+    "time": "10:02:44",
+    "startTime": "10:02",
+    "endTime": "13:03",
+    "duration": 10908,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/liko/2026_09_08_10_02_44/录制-1713548468-20260908-100244-988-早早早_merged.srt",
+    "xml": "/data/streams/liko/2026_09_08_10_02_44/录制-1713548468-20260908-100244-988-早早早_merged.xml",
+    "cover": "/data/streams/liko/2026_09_08_10_02_44/录制-1713548468-20260908-100244-988-早早早.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_08_10_02_44/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_08_10_02_44/录制-1713548468-20260908-100244-988-早早早_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_08_10_02_44/录制-1713548468-20260908-100244-988-早早早_merged_EVIDENCE_FRAME_01_003180s.jpg"
+    ]
+  },
+  {
     "id": "2026_09_06_20_02_35",
     "title": "躲猫猫水友回",
     "date": "2026-09-06",

@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_09_08_15_04_16",
+    "title": "「魔兽世界」训练日",
+    "date": "2026-09-08",
+    "time": "15:04:16",
+    "startTime": "15:04",
+    "endTime": "19:45",
+    "duration": 16912,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_08_15_04_16/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_EVIDENCE_FRAME_01_001005s.jpg",
+      "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_EVIDENCE_FRAME_02_006500s.jpg",
+      "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_EVIDENCE_FRAME_03_014580s.jpg",
+      "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_08_08_04_49",
+    "title": "早安一会儿",
+    "date": "2026-09-08",
+    "time": "08:04:49",
+    "startTime": "08:04",
+    "endTime": "09:54",
+    "duration": 6639,
+    "durationStr": "1.8 小时",
+    "srt": "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_08_08_04_49/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿_merged_EVIDENCE_FRAME_01_000872s.jpg",
+      "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿_merged_EVIDENCE_FRAME_02_002980s.jpg",
+      "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_07_21_07_21",
     "title": "周一的歌杂",
     "date": "2026-09-07",

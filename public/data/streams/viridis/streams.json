@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026_09_09_00_38_59",
+    "title": "小唱多聊应该是",
+    "date": "2026-09-08",
+    "time": "00:38:59",
+    "startTime": "00:38",
+    "endTime": "01:14",
+    "duration": 2198,
+    "durationStr": "0.6 小时",
+    "srt": "/data/streams/viridis/2026_09_09_00_38_59/录制-1727071052-20260909-003859-790-小唱多聊应该是.srt",
+    "xml": "/data/streams/viridis/2026_09_09_00_38_59/录制-1727071052-20260909-003859-790-小唱多聊应该是.xml",
+    "cover": "/data/streams/viridis/2026_09_09_00_38_59/录制-1727071052-20260909-003859-790-小唱多聊应该是.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_09_09_00_38_59/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_09_09_00_38_59/录制-1727071052-20260909-003859-790-小唱多聊应该是_EVIDENCE_FRAME_01_001740s.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_08_21_01_35",
+    "title": "小唱多聊应该是",
+    "date": "2026-09-08",
+    "time": "21:01:35",
+    "startTime": "21:01",
+    "endTime": "23:13",
+    "duration": 7979,
+    "durationStr": "2.2 小时",
+    "srt": null,
+    "xml": "/data/streams/viridis/2026_09_08_21_01_35/录制-1727071052-20260908-210135-099-小唱多聊应该是.xml",
+    "cover": "/data/streams/viridis/2026_09_08_21_01_35/录制-1727071052-20260908-210135-099-小唱多聊应该是.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_09_07_22_00_28",
     "title": "勾兑一下小饮料",
     "date": "2026-09-07",
