@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_09_15_02_52",
+    "title": "健身浣",
+    "date": "2026-09-09",
+    "time": "15:02:52",
+    "startTime": "15:02",
+    "endTime": "17:04",
+    "duration": 7339,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/izayoi/2026_09_09_15_02_52/录制-1741667419-20260909-150252-149-健身浣_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_09_15_02_52/录制-1741667419-20260909-150252-149-健身浣_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_09_15_02_52/录制-1741667419-20260909-150252-149-健身浣.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_09_15_02_52/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_09_15_02_52/录制-1741667419-20260909-150252-149-健身浣_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_09_09_05_07",
+    "title": "早茶第九十三天",
+    "date": "2026-09-09",
+    "time": "09:05:07",
+    "startTime": "09:05",
+    "endTime": "11:12",
+    "duration": 7623,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/izayoi/2026_09_09_09_05_07/录制-1741667419-20260909-090507-943-早茶第九十三天.srt",
+    "xml": "/data/streams/izayoi/2026_09_09_09_05_07/录制-1741667419-20260909-090507-943-早茶第九十三天.xml",
+    "cover": "/data/streams/izayoi/2026_09_09_09_05_07/录制-1741667419-20260909-090507-943-早茶第九十三天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_09_09_05_07/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_09_09_05_07/录制-1741667419-20260909-090507-943-早茶第九十三天_EVIDENCE_FRAME_01_000060s.jpg",
+      "/data/streams/izayoi/2026_09_09_09_05_07/录制-1741667419-20260909-090507-943-早茶第九十三天_EVIDENCE_FRAME_02_002160s.jpg",
+      "/data/streams/izayoi/2026_09_09_09_05_07/录制-1741667419-20260909-090507-943-早茶第九十三天_EVIDENCE_FRAME_03_003900s.jpg"
+    ]
+  },
+  {
     "id": "2026_09_08_18_01_26",
     "title": "画之",
     "date": "2026-09-08",

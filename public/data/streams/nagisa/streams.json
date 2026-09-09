@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_09_09_21_08_43",
+    "title": "「鬼武者」初见",
+    "date": "2026-09-09",
+    "time": "21:08:43",
+    "startTime": "21:08",
+    "endTime": "02:15",
+    "duration": 18426,
+    "durationStr": "5.1 小时",
+    "srt": "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见.srt",
+    "xml": "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见.xml",
+    "cover": "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_09_21_08_43/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_EVIDENCE_FRAME_01_000900s.jpg",
+      "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_09_08_06_24",
+    "title": "早歌一会儿",
+    "date": "2026-09-09",
+    "time": "08:06:24",
+    "startTime": "08:06",
+    "endTime": "11:23",
+    "duration": 11845,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿.srt",
+    "xml": "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿.xml",
+    "cover": "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_09_08_06_24/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿_EVIDENCE_FRAME_01_000300s.jpg",
+      "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿_EVIDENCE_FRAME_02_004120s.jpg",
+      "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_08_15_04_16",
     "title": "「魔兽世界」训练日",
     "date": "2026-09-08",

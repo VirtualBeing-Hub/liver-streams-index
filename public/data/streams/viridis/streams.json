@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_09_21_00_29",
+    "title": "这是什么电台",
+    "date": "2026-09-09",
+    "time": "21:00:29",
+    "startTime": "21:00",
+    "endTime": "23:10",
+    "duration": 7855,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/viridis/2026_09_09_21_00_29/录制-1727071052-20260909-210029-989-这是什么电台.srt",
+    "xml": "/data/streams/viridis/2026_09_09_21_00_29/录制-1727071052-20260909-210029-989-这是什么电台.xml",
+    "cover": "/data/streams/viridis/2026_09_09_21_00_29/录制-1727071052-20260909-210029-989-这是什么电台.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_09_09_21_00_29/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_09_09_21_00_29/录制-1727071052-20260909-210029-989-这是什么电台_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_09_09_21_00_29/录制-1727071052-20260909-210029-989-这是什么电台_EVIDENCE_FRAME_01_000180s.jpg",
+      "/data/streams/viridis/2026_09_09_21_00_29/录制-1727071052-20260909-210029-989-这是什么电台_EVIDENCE_FRAME_02_002760s.jpg",
+      "/data/streams/viridis/2026_09_09_21_00_29/录制-1727071052-20260909-210029-989-这是什么电台_EVIDENCE_FRAME_03_006600s.jpg",
+      "/data/streams/viridis/2026_09_09_21_00_29/录制-1727071052-20260909-210029-989-这是什么电台_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_09_09_00_38_59",
     "title": "小唱多聊应该是",
     "date": "2026-09-08",

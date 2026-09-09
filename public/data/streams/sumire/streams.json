@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_09_22_01_09",
+    "title": "看星星电台",
+    "date": "2026-09-09",
+    "time": "22:01:09",
+    "startTime": "22:01",
+    "endTime": "00:15",
+    "duration": 8061,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/sumire/2026_09_09_22_01_09/录制-1727076670-20260909-220109-524-看星星电台.srt",
+    "xml": "/data/streams/sumire/2026_09_09_22_01_09/录制-1727076670-20260909-220109-524-看星星电台.xml",
+    "cover": "/data/streams/sumire/2026_09_09_22_01_09/录制-1727076670-20260909-220109-524-看星星电台.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_09_22_01_09/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_09_22_01_09/录制-1727076670-20260909-220109-524-看星星电台_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_09_22_01_09/录制-1727076670-20260909-220109-524-看星星电台_EVIDENCE_FRAME_01_000600s.jpg",
+      "/data/streams/sumire/2026_09_09_22_01_09/录制-1727076670-20260909-220109-524-看星星电台_EVIDENCE_FRAME_02_007740s.jpg",
+      "/data/streams/sumire/2026_09_09_22_01_09/录制-1727076670-20260909-220109-524-看星星电台_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sumire/2026_09_09_22_01_09/录制-1727076670-20260909-220109-524-看星星电台_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_08_18_00_55",
     "title": "紫发女路人经过中",
     "date": "2026-09-08",

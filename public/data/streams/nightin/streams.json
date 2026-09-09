@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_09_09_19_14_08",
+    "title": "re一下",
+    "date": "2026-09-09",
+    "time": "19:14:08",
+    "startTime": "19:14",
+    "endTime": "23:50",
+    "duration": 16614,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/nightin/2026_09_09_19_14_08/录制-24872476-20260909-191408-771-先打鬼武者再re！_merged.srt",
+    "xml": "/data/streams/nightin/2026_09_09_19_14_08/录制-24872476-20260909-191408-771-先打鬼武者再re！_merged.xml",
+    "cover": "/data/streams/nightin/2026_09_09_19_14_08/录制-24872476-20260909-191408-771-先打鬼武者再re！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_09_19_14_08/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_09_19_14_08/录制-24872476-20260909-191408-771-先打鬼武者再re！_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_09_19_14_08/录制-24872476-20260909-191408-771-先打鬼武者再re！_merged_EVIDENCE_FRAME_01_000720s.jpg",
+      "/data/streams/nightin/2026_09_09_19_14_08/录制-24872476-20260909-191408-771-先打鬼武者再re！_merged_EVIDENCE_FRAME_02_014760s.jpg",
+      "/data/streams/nightin/2026_09_09_19_14_08/录制-24872476-20260909-191408-771-先打鬼武者再re！_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_09_09_19_14_08/录制-24872476-20260909-191408-771-先打鬼武者再re！_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_09_14_06_24",
+    "title": "我来杂谈啦",
+    "date": "2026-09-09",
+    "time": "14:06:24",
+    "startTime": "14:06",
+    "endTime": "16:06",
+    "duration": 7227,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/nightin/2026_09_09_14_06_24/录制-24872476-20260909-140624-876-我来杂谈啦.srt",
+    "xml": "/data/streams/nightin/2026_09_09_14_06_24/录制-24872476-20260909-140624-876-我来杂谈啦.xml",
+    "cover": "/data/streams/nightin/2026_09_09_14_06_24/录制-24872476-20260909-140624-876-我来杂谈啦.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_09_14_06_24/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_09_14_06_24/录制-24872476-20260909-140624-876-我来杂谈啦_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_09_14_06_24/录制-24872476-20260909-140624-876-我来杂谈啦_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/nightin/2026_09_09_14_06_24/录制-24872476-20260909-140624-876-我来杂谈啦_EVIDENCE_FRAME_02_003120s.jpg",
+      "/data/streams/nightin/2026_09_09_14_06_24/录制-24872476-20260909-140624-876-我来杂谈啦_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_09_09_14_06_24/录制-24872476-20260909-140624-876-我来杂谈啦_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_09_08_21_08_04",
     "title": "【鬼武者】战狂来也",
     "date": "2026-09-08",
