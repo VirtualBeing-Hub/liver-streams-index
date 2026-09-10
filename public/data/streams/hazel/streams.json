@@ -1,5 +1,25 @@
 [
   {
+    "id": "2026_09_10_18_36_32",
+    "title": "灵异论坛调查记录",
+    "date": "2026-09-10",
+    "time": "18:36:32",
+    "startTime": "18:36",
+    "endTime": "22:12",
+    "duration": 13014,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件_merged.srt",
+    "xml": "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件_merged.xml",
+    "cover": "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_09_10_18_36_32/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件_merged_EVIDENCE_FRAME_01_000780s.jpg",
+      "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件_merged_EVIDENCE_FRAME_02_001020s.jpg",
+      "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_09_10_18_30",
     "title": "青苹果味的早安",
     "date": "2026-09-09",

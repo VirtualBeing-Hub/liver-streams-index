@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026_09_10_21_26_50",
+    "title": "小栞来咯！！",
+    "date": "2026-09-10",
+    "time": "21:26:50",
+    "startTime": "21:26",
+    "endTime": "00:14",
+    "duration": 10123,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/shiori/2026_09_10_21_26_50/录制-26966466-20260910-212650-911-小栞来咯！！_merged.srt",
+    "xml": "/data/streams/shiori/2026_09_10_21_26_50/录制-26966466-20260910-212650-911-小栞来咯！！_merged.xml",
+    "cover": "/data/streams/shiori/2026_09_10_21_26_50/录制-26966466-20260910-212650-911-小栞来咯！！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_10_21_26_50/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_10_21_26_50/录制-26966466-20260910-212650-911-小栞来咯！！_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_10_21_26_50/录制-26966466-20260910-212650-911-小栞来咯！！_merged_EVIDENCE_FRAME_01_001050s.jpg",
+      "/data/streams/shiori/2026_09_10_21_26_50/录制-26966466-20260910-212650-911-小栞来咯！！_merged_EVIDENCE_FRAME_02_008400s.jpg",
+      "/data/streams/shiori/2026_09_10_21_26_50/录制-26966466-20260910-212650-911-小栞来咯！！_merged_EVIDENCE_FRAME_03_009510s.jpg",
+      "/data/streams/shiori/2026_09_10_21_26_50/录制-26966466-20260910-212650-911-小栞来咯！！_merged_EVIDENCE_REQUEST_E1.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_10_14_06_33",
+    "title": "小栞来魔兽！",
+    "date": "2026-09-10",
+    "time": "14:06:33",
+    "startTime": "14:06",
+    "endTime": "16:56",
+    "duration": 10250,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/shiori/2026_09_10_14_06_33/录制-26966466-20260910-140633-657-小栞来魔兽！.srt",
+    "xml": "/data/streams/shiori/2026_09_10_14_06_33/录制-26966466-20260910-140633-657-小栞来魔兽！.xml",
+    "cover": "/data/streams/shiori/2026_09_10_14_06_33/录制-26966466-20260910-140633-657-小栞来魔兽！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_10_14_06_33/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_10_14_06_33/录制-26966466-20260910-140633-657-小栞来魔兽！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_10_14_06_33/录制-26966466-20260910-140633-657-小栞来魔兽！_EVIDENCE_FRAME_01_000300s.jpg",
+      "/data/streams/shiori/2026_09_10_14_06_33/录制-26966466-20260910-140633-657-小栞来魔兽！_EVIDENCE_FRAME_02_003000s.jpg",
+      "/data/streams/shiori/2026_09_10_14_06_33/录制-26966466-20260910-140633-657-小栞来魔兽！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_09_10_14_06_33/录制-26966466-20260910-140633-657-小栞来魔兽！_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_10_10_12_09",
+    "title": "小栞来！",
+    "date": "2026-09-10",
+    "time": "10:12:09",
+    "startTime": "10:12",
+    "endTime": "12:10",
+    "duration": 7095,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/shiori/2026_09_10_10_12_09/录制-26966466-20260910-101209-475-小栞来！.srt",
+    "xml": "/data/streams/shiori/2026_09_10_10_12_09/录制-26966466-20260910-101209-475-小栞来！.xml",
+    "cover": "/data/streams/shiori/2026_09_10_10_12_09/录制-26966466-20260910-101209-475-小栞来！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_10_10_12_09/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_10_10_12_09/录制-26966466-20260910-101209-475-小栞来！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_10_10_12_09/录制-26966466-20260910-101209-475-小栞来！_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/shiori/2026_09_10_10_12_09/录制-26966466-20260910-101209-475-小栞来！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/shiori/2026_09_10_10_12_09/录制-26966466-20260910-101209-475-小栞来！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/shiori/2026_09_10_10_12_09/录制-26966466-20260910-101209-475-小栞来！_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
     "id": "2026_09_09_22_48_43",
     "title": "小栞来！",
     "date": "2026-09-09",

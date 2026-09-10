@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_09_10_23_42_56",
+    "title": "小小的电台",
+    "date": "2026-09-10",
+    "time": "23:42:56",
+    "startTime": "23:42",
+    "endTime": "23:58",
+    "duration": 1019,
+    "durationStr": "0.3 小时",
+    "srt": "/data/streams/sumire/2026_09_10_23_42_56/录制-1727076670-20260910-234256-010-小小的电台.srt",
+    "xml": "/data/streams/sumire/2026_09_10_23_42_56/录制-1727076670-20260910-234256-010-小小的电台.xml",
+    "cover": "/data/streams/sumire/2026_09_10_23_42_56/录制-1727076670-20260910-234256-010-小小的电台.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_10_23_42_56/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_10_23_42_56/录制-1727076670-20260910-234256-010-小小的电台_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_10_23_42_56/录制-1727076670-20260910-234256-010-小小的电台_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/sumire/2026_09_10_23_42_56/录制-1727076670-20260910-234256-010-小小的电台_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sumire/2026_09_10_23_42_56/录制-1727076670-20260910-234256-010-小小的电台_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/sumire/2026_09_10_23_42_56/录制-1727076670-20260910-234256-010-小小的电台_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_10_09_02_37",
+    "title": "早读（去你的岛）",
+    "date": "2026-09-10",
+    "time": "09:02:37",
+    "startTime": "09:02",
+    "endTime": "11:43",
+    "duration": 9688,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/sumire/2026_09_10_09_02_37/录制-1727076670-20260910-090237-945-早读（去你的岛）_merged.srt",
+    "xml": "/data/streams/sumire/2026_09_10_09_02_37/录制-1727076670-20260910-090237-945-早读（去你的岛）_merged.xml",
+    "cover": "/data/streams/sumire/2026_09_10_09_02_37/录制-1727076670-20260910-090237-945-早读（去你的岛）.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_10_09_02_37/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_10_09_02_37/录制-1727076670-20260910-090237-945-早读（去你的岛）_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_10_09_02_37/录制-1727076670-20260910-090237-945-早读（去你的岛）_merged_EVIDENCE_FRAME_01_001020s.jpg",
+      "/data/streams/sumire/2026_09_10_09_02_37/录制-1727076670-20260910-090237-945-早读（去你的岛）_merged_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sumire/2026_09_10_09_02_37/录制-1727076670-20260910-090237-945-早读（去你的岛）_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_09_22_01_09",
     "title": "看星星电台",
     "date": "2026-09-09",

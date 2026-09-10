@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_09_10_18_11_13",
+    "title": "我来打游戏！",
+    "date": "2026-09-10",
+    "time": "18:11:13",
+    "startTime": "18:11",
+    "endTime": "22:57",
+    "duration": 17172,
+    "durationStr": "4.8 小时",
+    "srt": "/data/streams/nightin/2026_09_10_18_11_13/录制-24872476-20260910-181113-840-我来打游戏！.srt",
+    "xml": "/data/streams/nightin/2026_09_10_18_11_13/录制-24872476-20260910-181113-840-我来打游戏！.xml",
+    "cover": "/data/streams/nightin/2026_09_10_18_11_13/录制-24872476-20260910-181113-840-我来打游戏！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_10_18_11_13/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_10_18_11_13/录制-24872476-20260910-181113-840-我来打游戏！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_10_18_11_13/录制-24872476-20260910-181113-840-我来打游戏！_EVIDENCE_FRAME_01_004560s.jpg",
+      "/data/streams/nightin/2026_09_10_18_11_13/录制-24872476-20260910-181113-840-我来打游戏！_EVIDENCE_FRAME_02_015120s.jpg",
+      "/data/streams/nightin/2026_09_10_18_11_13/录制-24872476-20260910-181113-840-我来打游戏！_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/nightin/2026_09_10_18_11_13/录制-24872476-20260910-181113-840-我来打游戏！_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_10_09_24_12",
+    "title": "早！上！好！@#￥",
+    "date": "2026-09-10",
+    "time": "09:24:12",
+    "startTime": "09:24",
+    "endTime": "11:29",
+    "duration": 7503,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/nightin/2026_09_10_09_24_12/录制-24872476-20260910-092412-832-早！上！好！@#￥.srt",
+    "xml": "/data/streams/nightin/2026_09_10_09_24_12/录制-24872476-20260910-092412-832-早！上！好！@#￥.xml",
+    "cover": "/data/streams/nightin/2026_09_10_09_24_12/录制-24872476-20260910-092412-832-早！上！好！@#￥.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_10_09_24_12/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_10_09_24_12/录制-24872476-20260910-092412-832-早！上！好！@#￥_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_10_09_24_12/录制-24872476-20260910-092412-832-早！上！好！@#￥_EVIDENCE_FRAME_01_000120s.jpg",
+      "/data/streams/nightin/2026_09_10_09_24_12/录制-24872476-20260910-092412-832-早！上！好！@#￥_EVIDENCE_FRAME_02_001500s.jpg",
+      "/data/streams/nightin/2026_09_10_09_24_12/录制-24872476-20260910-092412-832-早！上！好！@#￥_EVIDENCE_FRAME_03_006840s.jpg",
+      "/data/streams/nightin/2026_09_10_09_24_12/录制-24872476-20260910-092412-832-早！上！好！@#￥_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_09_19_14_08",
     "title": "re一下",
     "date": "2026-09-09",
