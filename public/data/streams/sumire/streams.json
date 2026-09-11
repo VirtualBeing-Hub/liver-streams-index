@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_11_18_03_09",
+    "title": "小唱一下",
+    "date": "2026-09-11",
+    "time": "18:03:09",
+    "startTime": "18:03",
+    "endTime": "20:03",
+    "duration": 7258,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/sumire/2026_09_11_18_03_09/录制-1727076670-20260911-180309-710-小唱一下_merged.srt",
+    "xml": "/data/streams/sumire/2026_09_11_18_03_09/录制-1727076670-20260911-180309-710-小唱一下_merged.xml",
+    "cover": "/data/streams/sumire/2026_09_11_18_03_09/录制-1727076670-20260911-180309-710-小唱一下.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_11_18_03_09/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_11_18_03_09/录制-1727076670-20260911-180309-710-小唱一下_merged_EVIDENCE_FRAME_01_000180s.jpg",
+      "/data/streams/sumire/2026_09_11_18_03_09/录制-1727076670-20260911-180309-710-小唱一下_merged_EVIDENCE_FRAME_02_000840s.jpg",
+      "/data/streams/sumire/2026_09_11_18_03_09/录制-1727076670-20260911-180309-710-小唱一下_merged_EVIDENCE_FRAME_03_003420s.jpg",
+      "/data/streams/sumire/2026_09_11_18_03_09/录制-1727076670-20260911-180309-710-小唱一下_merged_EVIDENCE_FRAME_04_006780s.jpg",
+      "/data/streams/sumire/2026_09_11_18_03_09/录制-1727076670-20260911-180309-710-小唱一下_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_10_23_42_56",
     "title": "小小的电台",
     "date": "2026-09-10",

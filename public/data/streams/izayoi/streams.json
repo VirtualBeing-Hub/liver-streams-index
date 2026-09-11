@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_09_11_17_58_14",
+    "title": "好物分享特别篇",
+    "date": "2026-09-11",
+    "time": "17:58:14",
+    "startTime": "17:58",
+    "endTime": "21:12",
+    "duration": 11659,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/izayoi/2026_09_11_17_58_14/录制-1741667419-20260911-175814-262-好物分享特别篇.srt",
+    "xml": "/data/streams/izayoi/2026_09_11_17_58_14/录制-1741667419-20260911-175814-262-好物分享特别篇.xml",
+    "cover": "/data/streams/izayoi/2026_09_11_17_58_14/录制-1741667419-20260911-175814-262-好物分享特别篇.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_11_17_58_14/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_11_17_58_14/录制-1741667419-20260911-175814-262-好物分享特别篇_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_11_17_58_14/录制-1741667419-20260911-175814-262-好物分享特别篇_EVIDENCE_FRAME_01_001020s.jpg",
+      "/data/streams/izayoi/2026_09_11_17_58_14/录制-1741667419-20260911-175814-262-好物分享特别篇_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/izayoi/2026_09_11_17_58_14/录制-1741667419-20260911-175814-262-好物分享特别篇_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/izayoi/2026_09_11_17_58_14/录制-1741667419-20260911-175814-262-好物分享特别篇_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_11_09_05_12",
+    "title": "被窝早茶！",
+    "date": "2026-09-11",
+    "time": "09:05:12",
+    "startTime": "09:05",
+    "endTime": "11:07",
+    "duration": 7321,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/izayoi/2026_09_11_09_05_12/录制-1741667419-20260911-090512-627-被窝早茶！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_11_09_05_12/录制-1741667419-20260911-090512-627-被窝早茶！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_11_09_05_12/录制-1741667419-20260911-090512-627-被窝早茶！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_11_09_05_12/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_11_09_05_12/录制-1741667419-20260911-090512-627-被窝早茶！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_11_09_05_12/录制-1741667419-20260911-090512-627-被窝早茶！_merged_EVIDENCE_FRAME_01_000720s.jpg",
+      "/data/streams/izayoi/2026_09_11_09_05_12/录制-1741667419-20260911-090512-627-被窝早茶！_merged_EVIDENCE_FRAME_02_007080s.jpg",
+      "/data/streams/izayoi/2026_09_11_09_05_12/录制-1741667419-20260911-090512-627-被窝早茶！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_10_18_06_42",
     "title": "植物大战僵尸恐怖版！",
     "date": "2026-09-10",

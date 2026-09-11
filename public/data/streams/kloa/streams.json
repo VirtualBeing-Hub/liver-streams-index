@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_09_11_21_05_29",
+    "title": "汤沐电台～",
+    "date": "2026-09-11",
+    "time": "21:05:29",
+    "startTime": "21:05",
+    "endTime": "00:19",
+    "duration": 11681,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged.srt",
+    "xml": "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged.xml",
+    "cover": "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_11_21_05_29/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_EVIDENCE_FRAME_01_005160s.jpg",
+      "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_EVIDENCE_FRAME_02_010560s.jpg",
+      "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_11_09_04_13",
+    "title": "早安~",
+    "date": "2026-09-11",
+    "time": "09:04:13",
+    "startTime": "09:04",
+    "endTime": "11:09",
+    "duration": 7521,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~.srt",
+    "xml": "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~.xml",
+    "cover": "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_11_09_04_13/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_EVIDENCE_FRAME_02_002460s.jpg",
+      "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_EVIDENCE_FRAME_03_007200s.jpg",
+      "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_09_09_20_02_50",
     "title": "唱歌歌~",
     "date": "2026-09-09",
