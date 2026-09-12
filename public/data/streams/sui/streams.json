@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026_09_12_20_03_26",
+    "title": "陪你这个猪过周6！5070ti版",
+    "date": "2026-09-12",
+    "time": "20:03:26",
+    "startTime": "20:03",
+    "endTime": "01:05",
+    "duration": 18153,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/sui/2026_09_12_20_03_26/录制-25788785-20260912-200326-314-陪你这个猪过周6！5070ti版.srt",
+    "xml": "/data/streams/sui/2026_09_12_20_03_26/录制-25788785-20260912-200326-314-陪你这个猪过周6！5070ti版.xml",
+    "cover": "/data/streams/sui/2026_09_12_20_03_26/录制-25788785-20260912-200326-314-陪你这个猪过周6！5070ti版.cover.jpg",
+    "highlights": "/data/streams/sui/2026_09_12_20_03_26/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_09_12_20_03_26/录制-25788785-20260912-200326-314-陪你这个猪过周6！5070ti版_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_09_12_20_03_26/录制-25788785-20260912-200326-314-陪你这个猪过周6！5070ti版_EVIDENCE_FRAME_01_011460s.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/录制-25788785-20260912-200326-314-陪你这个猪过周6！5070ti版_EVIDENCE_FRAME_02_013800s.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/录制-25788785-20260912-200326-314-陪你这个猪过周6！5070ti版_EVIDENCE_FRAME_03_000960s.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/录制-25788785-20260912-200326-314-陪你这个猪过周6！5070ti版_SCREENSHOTS.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/qa-0-3.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/pause-0-0.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/pause-0-1.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/pause-0-2.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/qa-0-0.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/qa-0-1.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/qa-0-2.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/variant-1.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/pause-1-0.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/pause-1-1.jpg",
+      "/data/streams/sui/2026_09_12_20_03_26/pause-1-2.jpg"
+    ]
+  },
+  {
     "id": "2026_09_11_20_12_14",
     "title": "陪你这个猪过周五！5070ti版",
     "date": "2026-09-11",

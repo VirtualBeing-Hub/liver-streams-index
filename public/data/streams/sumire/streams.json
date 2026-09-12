@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_09_12_20_59_48",
+    "title": "封锁协议游玩中",
+    "date": "2026-09-12",
+    "time": "20:59:48",
+    "startTime": "20:59",
+    "endTime": "23:57",
+    "duration": 10728,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/sumire/2026_09_12_20_59_48/录制-1727076670-20260912-205948-506-封锁协议游玩中.srt",
+    "xml": "/data/streams/sumire/2026_09_12_20_59_48/录制-1727076670-20260912-205948-506-封锁协议游玩中.xml",
+    "cover": "/data/streams/sumire/2026_09_12_20_59_48/录制-1727076670-20260912-205948-506-封锁协议游玩中.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_12_20_59_48/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_12_20_59_48/录制-1727076670-20260912-205948-506-封锁协议游玩中_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_12_20_59_48/录制-1727076670-20260912-205948-506-封锁协议游玩中_EVIDENCE_FRAME_01_000600s.jpg",
+      "/data/streams/sumire/2026_09_12_20_59_48/录制-1727076670-20260912-205948-506-封锁协议游玩中_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/sumire/2026_09_12_20_59_48/录制-1727076670-20260912-205948-506-封锁协议游玩中_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/sumire/2026_09_12_20_59_48/录制-1727076670-20260912-205948-506-封锁协议游玩中_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_12_17_02_37",
+    "title": "聊一会儿会儿",
+    "date": "2026-09-12",
+    "time": "17:02:37",
+    "startTime": "17:02",
+    "endTime": "17:53",
+    "duration": 3102,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/sumire/2026_09_12_17_02_37/录制-1727076670-20260912-170237-073-聊一会儿会儿.srt",
+    "xml": "/data/streams/sumire/2026_09_12_17_02_37/录制-1727076670-20260912-170237-073-聊一会儿会儿.xml",
+    "cover": "/data/streams/sumire/2026_09_12_17_02_37/录制-1727076670-20260912-170237-073-聊一会儿会儿.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_12_17_02_37/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_12_17_02_37/录制-1727076670-20260912-170237-073-聊一会儿会儿_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_12_17_02_37/录制-1727076670-20260912-170237-073-聊一会儿会儿_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/sumire/2026_09_12_17_02_37/录制-1727076670-20260912-170237-073-聊一会儿会儿_EVIDENCE_FRAME_02_001680s.jpg",
+      "/data/streams/sumire/2026_09_12_17_02_37/录制-1727076670-20260912-170237-073-聊一会儿会儿_EVIDENCE_FRAME_03_001740s.jpg",
+      "/data/streams/sumire/2026_09_12_17_02_37/录制-1727076670-20260912-170237-073-聊一会儿会儿_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_11_18_03_09",
     "title": "小唱一下",
     "date": "2026-09-11",

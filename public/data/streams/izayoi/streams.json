@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_09_12_23_40_40",
+    "title": "深夜歌回",
+    "date": "2026-09-12",
+    "time": "23:40:40",
+    "startTime": "23:40",
+    "endTime": "03:59",
+    "duration": 15552,
+    "durationStr": "4.3 小时",
+    "srt": null,
+    "xml": "/data/streams/izayoi/2026_09_12_23_40_40/录制-1741667419-20260912-234040-980-深夜歌回.xml",
+    "cover": "/data/streams/izayoi/2026_09_12_23_40_40/录制-1741667419-20260912-234040-980-深夜歌回.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_12_21_06_48",
+    "title": "好多人啊！",
+    "date": "2026-09-12",
+    "time": "21:06:48",
+    "startTime": "21:06",
+    "endTime": "23:36",
+    "duration": 9025,
+    "durationStr": "2.5 小时",
+    "srt": null,
+    "xml": "/data/streams/izayoi/2026_09_12_21_06_48/录制-1741667419-20260912-210648-953-好多人啊！.xml",
+    "cover": "/data/streams/izayoi/2026_09_12_21_06_48/录制-1741667419-20260912-210648-953-好多人啊！.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_09_11_17_58_14",
     "title": "好物分享特别篇",
     "date": "2026-09-11",

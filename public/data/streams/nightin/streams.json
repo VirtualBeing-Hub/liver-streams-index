@@ -1,5 +1,46 @@
 [
   {
+    "id": "2026_09_12_21_53_23",
+    "title": "鬼武者！",
+    "date": "2026-09-12",
+    "time": "21:53:23",
+    "startTime": "21:53",
+    "endTime": "23:21",
+    "duration": 5295,
+    "durationStr": "1.5 小时",
+    "srt": "/data/streams/nightin/2026_09_12_21_53_23/录制-24872476-20260912-215323-246-鬼武者！.srt",
+    "xml": "/data/streams/nightin/2026_09_12_21_53_23/录制-24872476-20260912-215323-246-鬼武者！.xml",
+    "cover": "/data/streams/nightin/2026_09_12_21_53_23/录制-24872476-20260912-215323-246-鬼武者！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_12_21_53_23/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_12_21_53_23/录制-24872476-20260912-215323-246-鬼武者！_EVIDENCE_FRAME_01_000720s.jpg",
+      "/data/streams/nightin/2026_09_12_21_53_23/录制-24872476-20260912-215323-246-鬼武者！_EVIDENCE_FRAME_02_002160s.jpg",
+      "/data/streams/nightin/2026_09_12_21_53_23/录制-24872476-20260912-215323-246-鬼武者！_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nightin/2026_09_12_21_53_23/录制-24872476-20260912-215323-246-鬼武者！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_12_14_07_28",
+    "title": "吃饭锻炼鬼武者！",
+    "date": "2026-09-12",
+    "time": "14:07:28",
+    "startTime": "14:07",
+    "endTime": "21:00",
+    "duration": 24825,
+    "durationStr": "6.9 小时",
+    "srt": "/data/streams/nightin/2026_09_12_14_07_28/录制-24872476-20260912-140728-421-吃饭锻炼鬼武者！_merged.srt",
+    "xml": "/data/streams/nightin/2026_09_12_14_07_28/录制-24872476-20260912-140728-421-吃饭锻炼鬼武者！_merged.xml",
+    "cover": "/data/streams/nightin/2026_09_12_14_07_28/录制-24872476-20260912-140728-421-吃饭锻炼鬼武者！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_12_14_07_28/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_12_14_07_28/录制-24872476-20260912-140728-421-吃饭锻炼鬼武者！_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_12_14_07_28/录制-24872476-20260912-140728-421-吃饭锻炼鬼武者！_merged_EVIDENCE_FRAME_01_003780s.jpg",
+      "/data/streams/nightin/2026_09_12_14_07_28/录制-24872476-20260912-140728-421-吃饭锻炼鬼武者！_merged_EVIDENCE_FRAME_02_005760s.jpg",
+      "/data/streams/nightin/2026_09_12_14_07_28/录制-24872476-20260912-140728-421-吃饭锻炼鬼武者！_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/nightin/2026_09_12_14_07_28/录制-24872476-20260912-140728-421-吃饭锻炼鬼武者！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_11_20_03_06",
     "title": "矮人联盟拆弹！！",
     "date": "2026-09-11",

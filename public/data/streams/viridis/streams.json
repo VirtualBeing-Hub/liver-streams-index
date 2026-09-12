@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_12_17_38_42",
+    "title": "这是一个测试。",
+    "date": "2026-09-12",
+    "time": "17:38:42",
+    "startTime": "17:38",
+    "endTime": "18:01",
+    "duration": 1413,
+    "durationStr": "0.4 小时",
+    "srt": "/data/streams/viridis/2026_09_12_17_38_42/录制-1727071052-20260912-173842-939-这是一个测试。.srt",
+    "xml": "/data/streams/viridis/2026_09_12_17_38_42/录制-1727071052-20260912-173842-939-这是一个测试。.xml",
+    "cover": "/data/streams/viridis/2026_09_12_17_38_42/录制-1727071052-20260912-173842-939-这是一个测试。.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_09_12_17_38_42/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_09_12_17_38_42/录制-1727071052-20260912-173842-939-这是一个测试。_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_09_12_17_38_42/录制-1727071052-20260912-173842-939-这是一个测试。_EVIDENCE_FRAME_01_000480s.jpg",
+      "/data/streams/viridis/2026_09_12_17_38_42/录制-1727071052-20260912-173842-939-这是一个测试。_EVIDENCE_FRAME_02_000481s.jpg",
+      "/data/streams/viridis/2026_09_12_17_38_42/录制-1727071052-20260912-173842-939-这是一个测试。_EVIDENCE_FRAME_03_000482s.jpg",
+      "/data/streams/viridis/2026_09_12_17_38_42/录制-1727071052-20260912-173842-939-这是一个测试。_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
     "id": "2026_09_09_21_00_29",
     "title": "这是什么电台",
     "date": "2026-09-09",

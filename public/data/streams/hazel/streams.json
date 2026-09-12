@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_12_18_43_18",
+    "title": "底特律初见",
+    "date": "2026-09-12",
+    "time": "18:43:18",
+    "startTime": "18:43",
+    "endTime": "22:55",
+    "duration": 15129,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged.srt",
+    "xml": "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged.xml",
+    "cover": "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_09_12_18_43_18/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged_EVIDENCE_FRAME_01_002940s.jpg",
+      "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged_EVIDENCE_FRAME_02_002520s.jpg",
+      "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged_EVIDENCE_REQUEST_E4.jpg",
+      "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_11_21_37_19",
     "title": "夜聊",
     "date": "2026-09-11",

@@ -1,5 +1,66 @@
 [
   {
+    "id": "2026_09_12_23_02_36",
+    "title": "鼠来唱唱歌^^",
+    "date": "2026-09-12",
+    "time": "23:02:36",
+    "startTime": "23:02",
+    "endTime": "02:29",
+    "duration": 12460,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^.srt",
+    "xml": "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^.xml",
+    "cover": "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_12_23_02_36/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^_EVIDENCE_FRAME_01_001200s.jpg",
+      "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^_EVIDENCE_FRAME_02_002940s.jpg",
+      "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^_EVIDENCE_FRAME_03_008340s.jpg",
+      "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_12_16_56_37",
+    "title": "督战鼠_ IG vs al^^",
+    "date": "2026-09-12",
+    "time": "16:56:37",
+    "startTime": "16:56",
+    "endTime": "21:41",
+    "duration": 17148,
+    "durationStr": "4.8 小时",
+    "srt": "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^.srt",
+    "xml": "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^.xml",
+    "cover": "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_12_16_56_37/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^_EVIDENCE_FRAME_01_000000s.jpg",
+      "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_12_10_00_45",
+    "title": "已力竭已早起^^",
+    "date": "2026-09-12",
+    "time": "10:00:45",
+    "startTime": "10:00",
+    "endTime": "12:19",
+    "duration": 8347,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^.srt",
+    "xml": "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^.xml",
+    "cover": "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_12_10_00_45/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^_EVIDENCE_FRAME_01_001020s.jpg",
+      "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_11_20_02_50",
     "title": "矮人同盟引爆炸弹中！^^",
     "date": "2026-09-11",
