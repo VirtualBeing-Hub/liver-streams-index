@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_09_14_00_27_49",
+    "title": "「魔兽世界」训练日",
+    "date": "2026-09-13",
+    "time": "00:27:49",
+    "startTime": "00:27",
+    "endTime": "01:16",
+    "duration": 2948,
+    "durationStr": "0.8 小时",
+    "srt": "/data/streams/nagisa/2026_09_14_00_27_49/录制-31368705-20260914-002749-206-「魔兽世界」训练日.srt",
+    "xml": "/data/streams/nagisa/2026_09_14_00_27_49/录制-31368705-20260914-002749-206-「魔兽世界」训练日.xml",
+    "cover": "/data/streams/nagisa/2026_09_14_00_27_49/录制-31368705-20260914-002749-206-「魔兽世界」训练日.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_14_00_27_49/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_14_00_27_49/录制-31368705-20260914-002749-206-「魔兽世界」训练日_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_09_13_15_04_32",
+    "title": "周日练练歌",
+    "date": "2026-09-13",
+    "time": "15:04:32",
+    "startTime": "15:04",
+    "endTime": "19:03",
+    "duration": 14396,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/nagisa/2026_09_13_15_04_32/录制-31368705-20260913-150432-854-周日练练歌_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_13_15_04_32/录制-31368705-20260913-150432-854-周日练练歌_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_13_15_04_32/录制-31368705-20260913-150432-854-周日练练歌.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_13_15_04_32/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_13_15_04_32/录制-31368705-20260913-150432-854-周日练练歌_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_12_21_06_48",
     "title": "一起「封锁协议」",
     "date": "2026-09-12",

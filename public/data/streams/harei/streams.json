@@ -1,5 +1,65 @@
 [
   {
+    "id": "2026_09_14_00_27_50",
+    "title": "小鼠唱唱歌^^",
+    "date": "2026-09-13",
+    "time": "00:27:50",
+    "startTime": "00:27",
+    "endTime": "01:42",
+    "duration": 4512,
+    "durationStr": "1.3 小时",
+    "srt": "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^.srt",
+    "xml": "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^.xml",
+    "cover": "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_14_00_27_50/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^_EVIDENCE_FRAME_01_004320s.jpg",
+      "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_13_16_30_53",
+    "title": "看lpl决赛^^",
+    "date": "2026-09-13",
+    "time": "16:30:53",
+    "startTime": "16:30",
+    "endTime": "19:03",
+    "duration": 9207,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged.srt",
+    "xml": "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged.xml",
+    "cover": "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_13_16_30_53/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged_EVIDENCE_FRAME_01_001800s.jpg",
+      "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged_EVIDENCE_FRAME_02_015600s.jpg",
+      "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_13_14_10_28",
+    "title": "小鼠来聊聊^^",
+    "date": "2026-09-13",
+    "time": "14:10:28",
+    "startTime": "14:10",
+    "endTime": "15:07",
+    "duration": 3477,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^.srt",
+    "xml": "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^.xml",
+    "cover": "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_13_14_10_28/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^_EVIDENCE_REQUEST_E1.jpg",
+      "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^_EVIDENCE_REQUEST_E2.jpg",
+      "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_09_12_23_02_36",
     "title": "鼠来唱唱歌^^",
     "date": "2026-09-12",

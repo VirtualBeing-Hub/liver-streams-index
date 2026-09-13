@@ -1,5 +1,43 @@
 [
   {
+    "id": "2026_09_14_00_27_53",
+    "title": "嘟嘟登场！！",
+    "date": "2026-09-13",
+    "time": "00:27:53",
+    "startTime": "00:27",
+    "endTime": "02:23",
+    "duration": 6983,
+    "durationStr": "1.9 小时",
+    "srt": "/data/streams/mitsuri/2026_09_14_00_27_53/录制-1967216004-20260914-002753-698-嘟嘟登场！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_09_14_00_27_53/录制-1967216004-20260914-002753-698-嘟嘟登场！！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_09_14_00_27_53/录制-1967216004-20260914-002753-698-嘟嘟登场！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_09_14_00_27_53/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_09_14_00_27_53/录制-1967216004-20260914-002753-698-嘟嘟登场！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_09_14_00_27_53/录制-1967216004-20260914-002753-698-嘟嘟登场！！_merged_EVIDENCE_FRAME_01_002940s.jpg",
+      "/data/streams/mitsuri/2026_09_14_00_27_53/录制-1967216004-20260914-002753-698-嘟嘟登场！！_merged_EVIDENCE_FRAME_02_003600s.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_13_17_03_05",
+    "title": "和花礼哈雷一起看决赛！！",
+    "date": "2026-09-13",
+    "time": "17:03:05",
+    "startTime": "17:03",
+    "endTime": "19:04",
+    "duration": 7285,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/mitsuri/2026_09_13_17_03_05/录制-1967216004-20260913-170305-004-和花礼哈雷一起看决赛！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_09_13_17_03_05/录制-1967216004-20260913-170305-004-和花礼哈雷一起看决赛！！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_09_13_17_03_05/录制-1967216004-20260913-170305-004-和花礼哈雷一起看决赛！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_09_13_17_03_05/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_09_13_17_03_05/录制-1967216004-20260913-170305-004-和花礼哈雷一起看决赛！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_09_13_17_03_05/录制-1967216004-20260913-170305-004-和花礼哈雷一起看决赛！！_merged_EVIDENCE_FRAME_01_005040s.jpg",
+      "/data/streams/mitsuri/2026_09_13_17_03_05/录制-1967216004-20260913-170305-004-和花礼哈雷一起看决赛！！_merged_EVIDENCE_REQUEST_E1.jpg"
+    ]
+  },
+  {
     "id": "2026_09_12_17_16_15",
     "title": "pocky喵喵！！",
     "date": "2026-09-12",

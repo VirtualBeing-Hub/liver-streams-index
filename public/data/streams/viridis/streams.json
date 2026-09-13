@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_14_00_28_08",
+    "title": "安静唱唱歌",
+    "date": "2026-09-13",
+    "time": "00:28:08",
+    "startTime": "00:28",
+    "endTime": "01:30",
+    "duration": 3746,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/viridis/2026_09_14_00_28_08/录制-1727071052-20260914-002808-477-安静唱唱歌.srt",
+    "xml": "/data/streams/viridis/2026_09_14_00_28_08/录制-1727071052-20260914-002808-477-安静唱唱歌.xml",
+    "cover": "/data/streams/viridis/2026_09_14_00_28_08/录制-1727071052-20260914-002808-477-安静唱唱歌.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_09_14_00_28_08/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_09_14_00_28_08/录制-1727071052-20260914-002808-477-安静唱唱歌_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_09_14_00_28_08/录制-1727071052-20260914-002808-477-安静唱唱歌_EVIDENCE_FRAME_01_001440s.jpg",
+      "/data/streams/viridis/2026_09_14_00_28_08/录制-1727071052-20260914-002808-477-安静唱唱歌_EVIDENCE_FRAME_02_001740s.jpg",
+      "/data/streams/viridis/2026_09_14_00_28_08/录制-1727071052-20260914-002808-477-安静唱唱歌_EVIDENCE_FRAME_03_003120s.jpg",
+      "/data/streams/viridis/2026_09_14_00_28_08/录制-1727071052-20260914-002808-477-安静唱唱歌_EVIDENCE_REQUEST_E3.jpg"
+    ]
+  },
+  {
     "id": "2026_09_12_17_38_42",
     "title": "这是一个测试。",
     "date": "2026-09-12",

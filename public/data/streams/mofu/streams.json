@@ -1,5 +1,47 @@
 [
   {
+    "id": "2026_09_13_20_57_11",
+    "title": "晚上好，小狗味组训",
+    "date": "2026-09-13",
+    "time": "20:57:11",
+    "startTime": "20:57",
+    "endTime": "01:22",
+    "duration": 15911,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/mofu/2026_09_13_20_57_11/录制-1791260716-20260913-205711-506-晚上好，小狗味组训_merged.srt",
+    "xml": "/data/streams/mofu/2026_09_13_20_57_11/录制-1791260716-20260913-205711-506-晚上好，小狗味组训_merged.xml",
+    "cover": "/data/streams/mofu/2026_09_13_20_57_11/录制-1791260716-20260913-205711-506-晚上好，小狗味组训.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_09_13_20_57_11/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_09_13_20_57_11/录制-1791260716-20260913-205711-506-晚上好，小狗味组训_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_09_13_20_57_11/录制-1791260716-20260913-205711-506-晚上好，小狗味组训_merged_EVIDENCE_FRAME_01_005460s.jpg",
+      "/data/streams/mofu/2026_09_13_20_57_11/录制-1791260716-20260913-205711-506-晚上好，小狗味组训_merged_EVIDENCE_FRAME_02_014280s.jpg",
+      "/data/streams/mofu/2026_09_13_20_57_11/录制-1791260716-20260913-205711-506-晚上好，小狗味组训_merged_EVIDENCE_FRAME_03_015780s.jpg",
+      "/data/streams/mofu/2026_09_13_20_57_11/录制-1791260716-20260913-205711-506-晚上好，小狗味组训_merged_EVIDENCE_REQUEST_E2.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_13_12_03_10",
+    "title": "泳装小狗测谎大挑战！",
+    "date": "2026-09-13",
+    "time": "12:03:10",
+    "startTime": "12:03",
+    "endTime": "15:01",
+    "duration": 10691,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/mofu/2026_09_13_12_03_10/录制-1791260716-20260913-120310-738-泳装小狗测谎大挑战！_merged.srt",
+    "xml": "/data/streams/mofu/2026_09_13_12_03_10/录制-1791260716-20260913-120310-738-泳装小狗测谎大挑战！_merged.xml",
+    "cover": "/data/streams/mofu/2026_09_13_12_03_10/录制-1791260716-20260913-120310-738-泳装小狗测谎大挑战！.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_09_13_12_03_10/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_09_13_12_03_10/录制-1791260716-20260913-120310-738-泳装小狗测谎大挑战！_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_09_13_12_03_10/录制-1791260716-20260913-120310-738-泳装小狗测谎大挑战！_merged_EVIDENCE_FRAME_01_000480s.jpg",
+      "/data/streams/mofu/2026_09_13_12_03_10/录制-1791260716-20260913-120310-738-泳装小狗测谎大挑战！_merged_EVIDENCE_FRAME_02_002160s.jpg",
+      "/data/streams/mofu/2026_09_13_12_03_10/录制-1791260716-20260913-120310-738-泳装小狗测谎大挑战！_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/mofu/2026_09_13_12_03_10/录制-1791260716-20260913-120310-738-泳装小狗测谎大挑战！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_12_21_01_49",
     "title": "小狗视角口人魔",
     "date": "2026-09-12",
