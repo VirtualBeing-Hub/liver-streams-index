@@ -1,5 +1,26 @@
 [
   {
+    "id": "2026_09_14_21_04_34",
+    "title": "周一的歌杂",
+    "date": "2026-09-14",
+    "time": "21:04:34",
+    "startTime": "21:04",
+    "endTime": "01:35",
+    "duration": 16307,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂.srt",
+    "xml": "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂.xml",
+    "cover": "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_14_21_04_34/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂_EVIDENCE_FRAME_01_000610s.jpg",
+      "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂_EVIDENCE_FRAME_02_003753s.jpg",
+      "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂_EVIDENCE_FRAME_03_015325s.jpg",
+      "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_14_00_27_49",
     "title": "「魔兽世界」训练日",
     "date": "2026-09-13",

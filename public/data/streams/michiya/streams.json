@@ -1,7 +1,49 @@
 [
   {
+    "id": "2026_09_14_21_24_02",
+    "title": "第三章_夫人，小姐她又去网吧打魔兽了！",
+    "date": "2026-09-14",
+    "time": "21:24:02",
+    "startTime": "21:24",
+    "endTime": "02:09",
+    "duration": 17112,
+    "durationStr": "4.8 小时",
+    "srt": "/data/streams/michiya/2026_09_14_21_24_02/录制-27628030-20260914-212402-093-第三章_夫人，小姐她又去网吧打魔兽了！_merged.srt",
+    "xml": "/data/streams/michiya/2026_09_14_21_24_02/录制-27628030-20260914-212402-093-第三章_夫人，小姐她又去网吧打魔兽了！_merged.xml",
+    "cover": "/data/streams/michiya/2026_09_14_21_24_02/录制-27628030-20260914-212402-093-第三章_夫人，小姐她又去网吧打魔兽了！.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_09_14_21_24_02/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_09_14_21_24_02/录制-27628030-20260914-212402-093-第三章_夫人，小姐她又去网吧打魔兽了！_merged_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_09_14_21_24_02/录制-27628030-20260914-212402-093-第三章_夫人，小姐她又去网吧打魔兽了！_merged_EVIDENCE_FRAME_01_000360s.jpg",
+      "/data/streams/michiya/2026_09_14_21_24_02/录制-27628030-20260914-212402-093-第三章_夫人，小姐她又去网吧打魔兽了！_merged_EVIDENCE_FRAME_02_001920s.jpg",
+      "/data/streams/michiya/2026_09_14_21_24_02/录制-27628030-20260914-212402-093-第三章_夫人，小姐她又去网吧打魔兽了！_merged_EVIDENCE_REQUEST_E3.jpg",
+      "/data/streams/michiya/2026_09_14_21_24_02/录制-27628030-20260914-212402-093-第三章_夫人，小姐她又去网吧打魔兽了！_merged_EVIDENCE_REQUEST_E4.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_14_15_58_31",
+    "title": "第二章_A市，我一定会回来的",
+    "date": "2026-09-14",
+    "time": "15:58:31",
+    "startTime": "15:58",
+    "endTime": "19:05",
+    "duration": 11225,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/michiya/2026_09_14_15_58_31/录制-27628030-20260914-155831-804-第二章_A市，我一定会回来的_merged.srt",
+    "xml": "/data/streams/michiya/2026_09_14_15_58_31/录制-27628030-20260914-155831-804-第二章_A市，我一定会回来的_merged.xml",
+    "cover": "/data/streams/michiya/2026_09_14_15_58_31/录制-27628030-20260914-155831-804-第二章_A市，我一定会回来的.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_09_14_15_58_31/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_09_14_15_58_31/录制-27628030-20260914-155831-804-第二章_A市，我一定会回来的_merged_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_09_14_15_58_31/录制-27628030-20260914-155831-804-第二章_A市，我一定会回来的_merged_EVIDENCE_FRAME_01_004800s.jpg",
+      "/data/streams/michiya/2026_09_14_15_58_31/录制-27628030-20260914-155831-804-第二章_A市，我一定会回来的_merged_EVIDENCE_FRAME_02_005040s.jpg",
+      "/data/streams/michiya/2026_09_14_15_58_31/录制-27628030-20260914-155831-804-第二章_A市，我一定会回来的_merged_EVIDENCE_FRAME_03_008880s.jpg",
+      "/data/streams/michiya/2026_09_14_15_58_31/录制-27628030-20260914-155831-804-第二章_A市，我一定会回来的_merged_EVIDENCE_FRAME_04_009360s.jpg"
+    ]
+  },
+  {
     "id": "2026_09_08_21_01_23",
-    "title": "魔兽人会飞，mcy也会",
+    "title": "第一章_A市，我回来了",
     "date": "2026-09-08",
     "time": "21:01:23",
     "startTime": "21:01",
