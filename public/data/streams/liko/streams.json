@@ -1,18 +1,55 @@
 [
   {
+    "id": "2026_09_15_20_08_31",
+    "title": "真的不是早上八点吗",
+    "date": "2026-09-15",
+    "time": "20:08:31",
+    "startTime": "20:08",
+    "endTime": "00:33",
+    "duration": 15921,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/liko/2026_09_15_20_08_31/录制-1713548468-20260915-200831-153-真的不是早上八点吗.srt",
+    "xml": "/data/streams/liko/2026_09_15_20_08_31/录制-1713548468-20260915-200831-153-真的不是早上八点吗.xml",
+    "cover": "/data/streams/liko/2026_09_15_20_08_31/录制-1713548468-20260915-200831-153-真的不是早上八点吗.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_15_20_08_31/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_15_20_08_31/录制-1713548468-20260915-200831-153-真的不是早上八点吗_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_15_20_08_31/录制-1713548468-20260915-200831-153-真的不是早上八点吗_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_15_11_10_16",
+    "title": "有点困呜呜",
+    "date": "2026-09-15",
+    "time": "11:10:16",
+    "startTime": "11:10",
+    "endTime": "14:27",
+    "duration": 11821,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/liko/2026_09_15_11_10_16/录制-1713548468-20260915-111016-972-有点困呜呜.srt",
+    "xml": "/data/streams/liko/2026_09_15_11_10_16/录制-1713548468-20260915-111016-972-有点困呜呜.xml",
+    "cover": "/data/streams/liko/2026_09_15_11_10_16/录制-1713548468-20260915-111016-972-有点困呜呜.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_15_11_10_16/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_15_11_10_16/录制-1713548468-20260915-111016-972-有点困呜呜_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_15_02_44_34",
     "title": "钓鱼大赛第二期",
     "date": "2026-09-14",
     "time": "02:44:34",
     "startTime": "02:44",
-    "endTime": "03:59",
-    "duration": 4529,
+    "endTime": "04:01",
+    "duration": 4661,
     "durationStr": "1.3 小时",
-    "srt": null,
+    "srt": "/data/streams/liko/2026_09_15_02_44_34/录制-1713548468-20260915-024434-832-钓鱼大赛第二期.srt",
     "xml": "/data/streams/liko/2026_09_15_02_44_34/录制-1713548468-20260915-024434-832-钓鱼大赛第二期.xml",
     "cover": "/data/streams/liko/2026_09_15_02_44_34/录制-1713548468-20260915-024434-832-钓鱼大赛第二期.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/liko/2026_09_15_02_44_34/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_15_02_44_34/录制-1713548468-20260915-024434-832-钓鱼大赛第二期_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_09_14_20_05_11",
@@ -28,9 +65,7 @@
     "cover": "/data/streams/liko/2026_09_14_20_05_11/录制-1713548468-20260914-200511-843-钓鱼大赛第二期.cover.jpg",
     "highlights": "/data/streams/liko/2026_09_14_20_05_11/highlights.md",
     "images": [
-      "/data/streams/liko/2026_09_14_20_05_11/录制-1713548468-20260914-200511-843-钓鱼大赛第二期_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_14_20_05_11/录制-1713548468-20260914-200511-843-钓鱼大赛第二期_merged_EVIDENCE_FRAME_01_000840s.jpg",
-      "/data/streams/liko/2026_09_14_20_05_11/录制-1713548468-20260914-200511-843-钓鱼大赛第二期_merged_EVIDENCE_FRAME_02_017880s.jpg"
+      "/data/streams/liko/2026_09_14_20_05_11/录制-1713548468-20260914-200511-843-钓鱼大赛第二期_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -48,9 +83,6 @@
     "highlights": "/data/streams/liko/2026_09_13_11_02_28/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_13_11_02_28/录制-1713548468-20260913-110228-147-兔兔啵啵_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_13_11_02_28/录制-1713548468-20260913-110228-147-兔兔啵啵_EVIDENCE_FRAME_01_000900s.jpg",
-      "/data/streams/liko/2026_09_13_11_02_28/录制-1713548468-20260913-110228-147-兔兔啵啵_EVIDENCE_FRAME_02_001320s.jpg",
-      "/data/streams/liko/2026_09_13_11_02_28/录制-1713548468-20260913-110228-147-兔兔啵啵_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/liko/2026_09_13_11_02_28/录制-1713548468-20260913-110228-147-兔兔啵啵_SCREENSHOTS.jpg"
     ]
   },
@@ -68,9 +100,6 @@
     "cover": "/data/streams/liko/2026_09_12_21_06_56/录制-1713548468-20260912-210656-863-封锁协议启动.cover.jpg",
     "highlights": "/data/streams/liko/2026_09_12_21_06_56/highlights.md",
     "images": [
-      "/data/streams/liko/2026_09_12_21_06_56/录制-1713548468-20260912-210656-863-封锁协议启动_EVIDENCE_FRAME_01_004440s.jpg",
-      "/data/streams/liko/2026_09_12_21_06_56/录制-1713548468-20260912-210656-863-封锁协议启动_EVIDENCE_FRAME_02_004740s.jpg",
-      "/data/streams/liko/2026_09_12_21_06_56/录制-1713548468-20260912-210656-863-封锁协议启动_EVIDENCE_REQUEST_E1.jpg",
       "/data/streams/liko/2026_09_12_21_06_56/录制-1713548468-20260912-210656-863-封锁协议启动_SCREENSHOTS.jpg"
     ]
   },
@@ -89,10 +118,7 @@
     "highlights": "/data/streams/liko/2026_09_11_20_02_55/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_11_20_02_55/录制-1713548468-20260911-200255-355-矮人帮来咯~_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_11_20_02_55/录制-1713548468-20260911-200255-355-矮人帮来咯~_EVIDENCE_FRAME_01_000720s.jpg",
-      "/data/streams/liko/2026_09_11_20_02_55/录制-1713548468-20260911-200255-355-矮人帮来咯~_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/liko/2026_09_11_20_02_55/录制-1713548468-20260911-200255-355-矮人帮来咯~_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/liko/2026_09_11_20_02_55/录制-1713548468-20260911-200255-355-矮人帮来咯~_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_09_11_20_02_55/录制-1713548468-20260911-200255-355-矮人帮来咯~_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -110,8 +136,6 @@
     "highlights": "/data/streams/liko/2026_09_11_17_26_54/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_11_17_26_54/录制-1713548468-20260911-172654-629-来唱歌拉_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_11_17_26_54/录制-1713548468-20260911-172654-629-来唱歌拉_EVIDENCE_FRAME_01_002520s.jpg",
-      "/data/streams/liko/2026_09_11_17_26_54/录制-1713548468-20260911-172654-629-来唱歌拉_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/liko/2026_09_11_17_26_54/录制-1713548468-20260911-172654-629-来唱歌拉_SCREENSHOTS.jpg"
     ]
   },
@@ -130,9 +154,6 @@
     "highlights": "/data/streams/liko/2026_09_10_20_05_28/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_10_20_05_28/录制-1713548468-20260910-200528-265-晚间贴贴_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_10_20_05_28/录制-1713548468-20260910-200528-265-晚间贴贴_EVIDENCE_FRAME_01_007500s.jpg",
-      "/data/streams/liko/2026_09_10_20_05_28/录制-1713548468-20260910-200528-265-晚间贴贴_EVIDENCE_FRAME_02_009360s.jpg",
-      "/data/streams/liko/2026_09_10_20_05_28/录制-1713548468-20260910-200528-265-晚间贴贴_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/liko/2026_09_10_20_05_28/录制-1713548468-20260910-200528-265-晚间贴贴_SCREENSHOTS.jpg"
     ]
   },
@@ -151,9 +172,6 @@
     "highlights": "/data/streams/liko/2026_09_10_11_13_12/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_10_11_13_12/录制-1713548468-20260910-111312-628-打打游戏_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_10_11_13_12/录制-1713548468-20260910-111312-628-打打游戏_merged_EVIDENCE_FRAME_01_002580s.jpg",
-      "/data/streams/liko/2026_09_10_11_13_12/录制-1713548468-20260910-111312-628-打打游戏_merged_EVIDENCE_FRAME_02_006240s.jpg",
-      "/data/streams/liko/2026_09_10_11_13_12/录制-1713548468-20260910-111312-628-打打游戏_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/liko/2026_09_10_11_13_12/录制-1713548468-20260910-111312-628-打打游戏_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -172,7 +190,6 @@
     "highlights": "/data/streams/liko/2026_09_09_20_04_39/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_09_20_04_39/录制-1713548468-20260909-200439-813-被窝悄悄话_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_09_20_04_39/录制-1713548468-20260909-200439-813-被窝悄悄话_EVIDENCE_FRAME_01_011940s.jpg",
       "/data/streams/liko/2026_09_09_20_04_39/录制-1713548468-20260909-200439-813-被窝悄悄话_SCREENSHOTS.jpg"
     ]
   },
@@ -191,9 +208,7 @@
     "highlights": "/data/streams/liko/2026_09_09_11_08_23/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_09_11_08_23/录制-1713548468-20260909-110823-459-兔兔贴贴_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_09_11_08_23/录制-1713548468-20260909-110823-459-兔兔贴贴_EVIDENCE_FRAME_01_003720s.jpg",
-      "/data/streams/liko/2026_09_09_11_08_23/录制-1713548468-20260909-110823-459-兔兔贴贴_EVIDENCE_FRAME_02_003840s.jpg",
-      "/data/streams/liko/2026_09_09_11_08_23/录制-1713548468-20260909-110823-459-兔兔贴贴_EVIDENCE_REQUEST_E1.jpg"
+      "/data/streams/liko/2026_09_09_11_08_23/录制-1713548468-20260909-110823-459-兔兔贴贴_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -225,8 +240,7 @@
     "cover": "/data/streams/liko/2026_09_08_10_02_44/录制-1713548468-20260908-100244-988-早早早.cover.jpg",
     "highlights": "/data/streams/liko/2026_09_08_10_02_44/highlights.md",
     "images": [
-      "/data/streams/liko/2026_09_08_10_02_44/录制-1713548468-20260908-100244-988-早早早_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_08_10_02_44/录制-1713548468-20260908-100244-988-早早早_merged_EVIDENCE_FRAME_01_003180s.jpg"
+      "/data/streams/liko/2026_09_08_10_02_44/录制-1713548468-20260908-100244-988-早早早_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -244,10 +258,7 @@
     "highlights": "/data/streams/liko/2026_09_06_20_02_35/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_EVIDENCE_FRAME_01_001140s.jpg",
-      "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_EVIDENCE_FRAME_02_010440s.jpg",
-      "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_09_06_20_02_35/录制-1713548468-20260906-200235-659-躲猫猫水友回_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -265,10 +276,7 @@
     "highlights": "/data/streams/liko/2026_09_06_11_04_30/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_EVIDENCE_FRAME_01_002160s.jpg",
-      "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_EVIDENCE_FRAME_02_003420s.jpg",
-      "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_EVIDENCE_FRAME_03_004320s.jpg",
-      "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_EVIDENCE_FRAME_04_005040s.jpg"
+      "/data/streams/liko/2026_09_06_11_04_30/录制-1713548468-20260906-110430-953-展现厨艺中_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -286,8 +294,6 @@
     "highlights": "/data/streams/liko/2026_09_05_20_10_40/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠_EVIDENCE_FRAME_01_001500s.jpg",
-      "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/liko/2026_09_05_20_10_40/录制-1713548468-20260905-201040-249-唱唱唠唠_SCREENSHOTS.jpg"
     ]
   },
@@ -306,9 +312,6 @@
     "highlights": "/data/streams/liko/2026_09_05_11_08_31/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged_EVIDENCE_FRAME_01_002700s.jpg",
-      "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged_EVIDENCE_FRAME_02_000300s.jpg",
-      "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/liko/2026_09_05_11_08_31/录制-1713548468-20260905-110831-896-久违午台_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -342,10 +345,7 @@
     "highlights": "/data/streams/liko/2026_09_04_21_06_39/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_04_21_06_39/录制-1713548468-20260904-210639-675-水煮雪兔第一期_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_04_21_06_39/录制-1713548468-20260904-210639-675-水煮雪兔第一期_merged_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/liko/2026_09_04_21_06_39/录制-1713548468-20260904-210639-675-水煮雪兔第一期_merged_EVIDENCE_FRAME_02_015660s.jpg",
-      "/data/streams/liko/2026_09_04_21_06_39/录制-1713548468-20260904-210639-675-水煮雪兔第一期_merged_EVIDENCE_FRAME_03_017040s.jpg",
-      "/data/streams/liko/2026_09_04_21_06_39/录制-1713548468-20260904-210639-675-水煮雪兔第一期_merged_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/liko/2026_09_04_21_06_39/录制-1713548468-20260904-210639-675-水煮雪兔第一期_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -362,8 +362,6 @@
     "cover": "/data/streams/liko/2026_09_03_21_02_42/录制-1713548468-20260903-210242-924-被窝电台.cover.jpg",
     "highlights": "/data/streams/liko/2026_09_03_21_02_42/highlights.md",
     "images": [
-      "/data/streams/liko/2026_09_03_21_02_42/录制-1713548468-20260903-210242-924-被窝电台_merged_EVIDENCE_FRAME_01_001740s.jpg",
-      "/data/streams/liko/2026_09_03_21_02_42/录制-1713548468-20260903-210242-924-被窝电台_merged_EVIDENCE_FRAME_02_011040s.jpg",
       "/data/streams/liko/2026_09_03_21_02_42/录制-1713548468-20260903-210242-924-被窝电台_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -381,11 +379,7 @@
     "cover": "/data/streams/liko/2026_09_03_13_03_21/录制-1713548468-20260903-130321-429-钓鱼比赛.cover.jpg",
     "highlights": "/data/streams/liko/2026_09_03_13_03_21/highlights.md",
     "images": [
-      "/data/streams/liko/2026_09_03_13_03_21/录制-1713548468-20260903-130321-429-钓鱼比赛_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_03_13_03_21/录制-1713548468-20260903-130321-429-钓鱼比赛_merged_EVIDENCE_FRAME_01_003480s.jpg",
-      "/data/streams/liko/2026_09_03_13_03_21/录制-1713548468-20260903-130321-429-钓鱼比赛_merged_EVIDENCE_FRAME_02_013320s.jpg",
-      "/data/streams/liko/2026_09_03_13_03_21/录制-1713548468-20260903-130321-429-钓鱼比赛_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/liko/2026_09_03_13_03_21/录制-1713548468-20260903-130321-429-钓鱼比赛_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_09_03_13_03_21/录制-1713548468-20260903-130321-429-钓鱼比赛_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -403,9 +397,6 @@
     "highlights": "/data/streams/liko/2026_09_02_20_09_04/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_02_20_09_04/录制-1713548468-20260902-200904-551-晚上波波！_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_02_20_09_04/录制-1713548468-20260902-200904-551-晚上波波！_EVIDENCE_FRAME_01_000600s.jpg",
-      "/data/streams/liko/2026_09_02_20_09_04/录制-1713548468-20260902-200904-551-晚上波波！_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/liko/2026_09_02_20_09_04/录制-1713548468-20260902-200904-551-晚上波波！_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/liko/2026_09_02_20_09_04/录制-1713548468-20260902-200904-551-晚上波波！_SCREENSHOTS.jpg"
     ]
   },
@@ -424,9 +415,6 @@
     "highlights": "/data/streams/liko/2026_09_02_11_13_11/highlights.md",
     "images": [
       "/data/streams/liko/2026_09_02_11_13_11/录制-1713548468-20260902-111311-812-激情健身环~_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_09_02_11_13_11/录制-1713548468-20260902-111311-812-激情健身环~_merged_EVIDENCE_FRAME_01_002400s.jpg",
-      "/data/streams/liko/2026_09_02_11_13_11/录制-1713548468-20260902-111311-812-激情健身环~_merged_EVIDENCE_FRAME_02_007800s.jpg",
-      "/data/streams/liko/2026_09_02_11_13_11/录制-1713548468-20260902-111311-812-激情健身环~_merged_EVIDENCE_FRAME_03_008700s.jpg",
       "/data/streams/liko/2026_09_02_11_13_11/录制-1713548468-20260902-111311-812-激情健身环~_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -445,8 +433,6 @@
     "highlights": "/data/streams/liko/2026_08_31_20_10_40/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_31_20_10_40/录制-1713548468-20260831-201040-448-生日月最后一天~_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_31_20_10_40/录制-1713548468-20260831-201040-448-生日月最后一天~_EVIDENCE_FRAME_01_014880s.jpg",
-      "/data/streams/liko/2026_08_31_20_10_40/录制-1713548468-20260831-201040-448-生日月最后一天~_EVIDENCE_FRAME_02_014940s.jpg",
       "/data/streams/liko/2026_08_31_20_10_40/录制-1713548468-20260831-201040-448-生日月最后一天~_SCREENSHOTS.jpg"
     ]
   },
@@ -465,9 +451,6 @@
     "highlights": "/data/streams/liko/2026_08_30_20_10_31/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_30_20_10_31/录制-1713548468-20260830-201031-242-生日月最后两天~_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_30_20_10_31/录制-1713548468-20260830-201031-242-生日月最后两天~_EVIDENCE_FRAME_01_007080s.jpg",
-      "/data/streams/liko/2026_08_30_20_10_31/录制-1713548468-20260830-201031-242-生日月最后两天~_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_30_20_10_31/录制-1713548468-20260830-201031-242-生日月最后两天~_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/liko/2026_08_30_20_10_31/录制-1713548468-20260830-201031-242-生日月最后两天~_SCREENSHOTS.jpg"
     ]
   },
@@ -485,11 +468,7 @@
     "cover": "/data/streams/liko/2026_08_30_13_54_31/录制-1713548468-20260830-135431-066-生日月 做做饭～.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_30_13_54_31/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_30_13_54_31/录制-1713548468-20260830-135431-066-生日月 做做饭～_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_30_13_54_31/录制-1713548468-20260830-135431-066-生日月 做做饭～_EVIDENCE_FRAME_01_000360s.jpg",
-      "/data/streams/liko/2026_08_30_13_54_31/录制-1713548468-20260830-135431-066-生日月 做做饭～_EVIDENCE_FRAME_02_001020s.jpg",
-      "/data/streams/liko/2026_08_30_13_54_31/录制-1713548468-20260830-135431-066-生日月 做做饭～_EVIDENCE_FRAME_03_004440s.jpg",
-      "/data/streams/liko/2026_08_30_13_54_31/录制-1713548468-20260830-135431-066-生日月 做做饭～_EVIDENCE_FRAME_04_005520s.jpg"
+      "/data/streams/liko/2026_08_30_13_54_31/录制-1713548468-20260830-135431-066-生日月 做做饭～_COMIC_FACTORY.png"
     ]
   },
   {
@@ -506,11 +485,7 @@
     "cover": "/data/streams/liko/2026_08_29_20_06_36/录制-1713548468-20260829-200636-496-生日月 视频鉴赏.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_29_20_06_36/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_29_20_06_36/录制-1713548468-20260829-200636-496-生日月 视频鉴赏_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_29_20_06_36/录制-1713548468-20260829-200636-496-生日月 视频鉴赏_EVIDENCE_FRAME_01_000480s.jpg",
-      "/data/streams/liko/2026_08_29_20_06_36/录制-1713548468-20260829-200636-496-生日月 视频鉴赏_EVIDENCE_FRAME_02_003060s.jpg",
-      "/data/streams/liko/2026_08_29_20_06_36/录制-1713548468-20260829-200636-496-生日月 视频鉴赏_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/liko/2026_08_29_20_06_36/录制-1713548468-20260829-200636-496-生日月 视频鉴赏_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_29_20_06_36/录制-1713548468-20260829-200636-496-生日月 视频鉴赏_COMIC_FACTORY.png"
     ]
   },
   {
@@ -527,11 +502,7 @@
     "cover": "/data/streams/liko/2026_08_29_17_54_19/录制-1713548468-20260829-175419-455-生日月的最后三天~.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_29_17_54_19/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_29_17_54_19/录制-1713548468-20260829-175419-455-生日月的最后三天~_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_29_17_54_19/录制-1713548468-20260829-175419-455-生日月的最后三天~_merged_EVIDENCE_FRAME_01_000480s.jpg",
-      "/data/streams/liko/2026_08_29_17_54_19/录制-1713548468-20260829-175419-455-生日月的最后三天~_merged_EVIDENCE_FRAME_02_003660s.jpg",
-      "/data/streams/liko/2026_08_29_17_54_19/录制-1713548468-20260829-175419-455-生日月的最后三天~_merged_EVIDENCE_FRAME_03_002880s.jpg",
-      "/data/streams/liko/2026_08_29_17_54_19/录制-1713548468-20260829-175419-455-生日月的最后三天~_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/liko/2026_08_29_17_54_19/录制-1713548468-20260829-175419-455-生日月的最后三天~_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -548,11 +519,7 @@
     "cover": "/data/streams/liko/2026_08_29_11_10_25/录制-1713548468-20260829-111025-513-生日月的最后三天~.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_29_11_10_25/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_29_11_10_25/录制-1713548468-20260829-111025-513-生日月的最后三天~_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_29_11_10_25/录制-1713548468-20260829-111025-513-生日月的最后三天~_EVIDENCE_FRAME_01_000960s.jpg",
-      "/data/streams/liko/2026_08_29_11_10_25/录制-1713548468-20260829-111025-513-生日月的最后三天~_EVIDENCE_FRAME_02_005280s.jpg",
-      "/data/streams/liko/2026_08_29_11_10_25/录制-1713548468-20260829-111025-513-生日月的最后三天~_EVIDENCE_FRAME_03_010500s.jpg",
-      "/data/streams/liko/2026_08_29_11_10_25/录制-1713548468-20260829-111025-513-生日月的最后三天~_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/liko/2026_08_29_11_10_25/录制-1713548468-20260829-111025-513-生日月的最后三天~_COMIC_FACTORY.png"
     ]
   },
   {
@@ -569,10 +536,7 @@
     "cover": "/data/streams/liko/2026_08_28_20_07_20/录制-1713548468-20260828-200720-250-生日月的最后一星期~.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_28_20_07_20/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_28_20_07_20/录制-1713548468-20260828-200720-250-生日月的最后一星期~_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_28_20_07_20/录制-1713548468-20260828-200720-250-生日月的最后一星期~_EVIDENCE_FRAME_01_000780s.jpg",
-      "/data/streams/liko/2026_08_28_20_07_20/录制-1713548468-20260828-200720-250-生日月的最后一星期~_EVIDENCE_FRAME_02_006000s.jpg",
-      "/data/streams/liko/2026_08_28_20_07_20/录制-1713548468-20260828-200720-250-生日月的最后一星期~_EVIDENCE_FRAME_03_007200s.jpg"
+      "/data/streams/liko/2026_08_28_20_07_20/录制-1713548468-20260828-200720-250-生日月的最后一星期~_COMIC_FACTORY.png"
     ]
   },
   {
@@ -607,9 +571,6 @@
     "highlights": "/data/streams/liko/2026_08_27_21_08_28/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_27_21_08_28/录制-1713548468-20260827-210828-484-生日月的最后一星期~_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_27_21_08_28/录制-1713548468-20260827-210828-484-生日月的最后一星期~_EVIDENCE_FRAME_01_004800s.jpg",
-      "/data/streams/liko/2026_08_27_21_08_28/录制-1713548468-20260827-210828-484-生日月的最后一星期~_EVIDENCE_FRAME_02_007440s.jpg",
-      "/data/streams/liko/2026_08_27_21_08_28/录制-1713548468-20260827-210828-484-生日月的最后一星期~_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/liko/2026_08_27_21_08_28/录制-1713548468-20260827-210828-484-生日月的最后一星期~_SCREENSHOTS.jpg"
     ]
   },
@@ -627,11 +588,7 @@
     "cover": "/data/streams/liko/2026_08_27_14_08_56/录制-1713548468-20260827-140856-862-生日月的最后一星期~激情健身环.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_27_14_08_56/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_27_14_08_56/录制-1713548468-20260827-140856-862-生日月的最后一星期~激情健身环_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_27_14_08_56/录制-1713548468-20260827-140856-862-生日月的最后一星期~激情健身环_EVIDENCE_FRAME_01_004680s.jpg",
-      "/data/streams/liko/2026_08_27_14_08_56/录制-1713548468-20260827-140856-862-生日月的最后一星期~激情健身环_EVIDENCE_FRAME_02_003540s.jpg",
-      "/data/streams/liko/2026_08_27_14_08_56/录制-1713548468-20260827-140856-862-生日月的最后一星期~激情健身环_EVIDENCE_FRAME_03_009900s.jpg",
-      "/data/streams/liko/2026_08_27_14_08_56/录制-1713548468-20260827-140856-862-生日月的最后一星期~激情健身环_EVIDENCE_FRAME_04_000840s.jpg"
+      "/data/streams/liko/2026_08_27_14_08_56/录制-1713548468-20260827-140856-862-生日月的最后一星期~激情健身环_COMIC_FACTORY.png"
     ]
   },
   {
@@ -649,8 +606,6 @@
     "highlights": "/data/streams/liko/2026_08_26_20_05_50/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_26_20_05_50/录制-1713548468-20260826-200550-059-生日月的最后一星期~_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_26_20_05_50/录制-1713548468-20260826-200550-059-生日月的最后一星期~_merged_EVIDENCE_FRAME_01_003960s.jpg",
-      "/data/streams/liko/2026_08_26_20_05_50/录制-1713548468-20260826-200550-059-生日月的最后一星期~_merged_EVIDENCE_FRAME_02_007620s.jpg",
       "/data/streams/liko/2026_08_26_20_05_50/录制-1713548468-20260826-200550-059-生日月的最后一星期~_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -669,8 +624,6 @@
     "highlights": "/data/streams/liko/2026_08_26_11_08_07/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_26_11_08_07/录制-1713548468-20260826-110807-268-生日月的最后一星期~_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_26_11_08_07/录制-1713548468-20260826-110807-268-生日月的最后一星期~_EVIDENCE_FRAME_01_010620s.jpg",
-      "/data/streams/liko/2026_08_26_11_08_07/录制-1713548468-20260826-110807-268-生日月的最后一星期~_EVIDENCE_FRAME_02_011940s.jpg",
       "/data/streams/liko/2026_08_26_11_08_07/录制-1713548468-20260826-110807-268-生日月的最后一星期~_SCREENSHOTS.jpg"
     ]
   },
@@ -688,11 +641,7 @@
     "cover": "/data/streams/liko/2026_08_24_19_56_57/录制-1713548468-20260824-195657-642-超级兔子兔.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_24_19_56_57/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_24_19_56_57/录制-1713548468-20260824-195657-642-超级兔子兔_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_24_19_56_57/录制-1713548468-20260824-195657-642-超级兔子兔_EVIDENCE_FRAME_01_000240s.jpg",
-      "/data/streams/liko/2026_08_24_19_56_57/录制-1713548468-20260824-195657-642-超级兔子兔_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/liko/2026_08_24_19_56_57/录制-1713548468-20260824-195657-642-超级兔子兔_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/liko/2026_08_24_19_56_57/录制-1713548468-20260824-195657-642-超级兔子兔_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_24_19_56_57/录制-1713548468-20260824-195657-642-超级兔子兔_COMIC_FACTORY.png"
     ]
   },
   {
@@ -710,9 +659,6 @@
     "highlights": "/data/streams/liko/2026_08_23_20_02_37/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！_EVIDENCE_FRAME_01_001140s.jpg",
-      "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！_EVIDENCE_FRAME_02_007320s.jpg",
-      "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/liko/2026_08_23_20_02_37/录制-1713548468-20260823-200237-249-水友大乱斗！_SCREENSHOTS.jpg"
     ]
   },
@@ -730,11 +676,7 @@
     "cover": "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_23_11_04_54/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_EVIDENCE_FRAME_01_000540s.jpg",
-      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_EVIDENCE_FRAME_02_002940s.jpg",
-      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_EVIDENCE_FRAME_03_003300s.jpg",
-      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_23_11_04_54/录制-1713548468-20260823-110454-816-兔子做饭_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -751,11 +693,7 @@
     "cover": "/data/streams/liko/2026_08_22_20_12_13/录制-1713548468-20260822-201213-152-兔子唱歌！.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_22_20_12_13/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_22_20_12_13/录制-1713548468-20260822-201213-152-兔子唱歌！_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_22_20_12_13/录制-1713548468-20260822-201213-152-兔子唱歌！_merged_EVIDENCE_FRAME_01_001260s.jpg",
-      "/data/streams/liko/2026_08_22_20_12_13/录制-1713548468-20260822-201213-152-兔子唱歌！_merged_EVIDENCE_FRAME_02_002040s.jpg",
-      "/data/streams/liko/2026_08_22_20_12_13/录制-1713548468-20260822-201213-152-兔子唱歌！_merged_EVIDENCE_FRAME_03_002340s.jpg",
-      "/data/streams/liko/2026_08_22_20_12_13/录制-1713548468-20260822-201213-152-兔子唱歌！_merged_EVIDENCE_FRAME_04_015360s.jpg"
+      "/data/streams/liko/2026_08_22_20_12_13/录制-1713548468-20260822-201213-152-兔子唱歌！_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -772,9 +710,6 @@
     "cover": "/data/streams/liko/2026_08_22_11_09_12/录制-1713548468-20260822-110912-120-兔子贴贴！！.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_22_11_09_12/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_22_11_09_12/录制-1713548468-20260822-110912-120-兔子贴贴！！_EVIDENCE_FRAME_01_001560s.jpg",
-      "/data/streams/liko/2026_08_22_11_09_12/录制-1713548468-20260822-110912-120-兔子贴贴！！_EVIDENCE_FRAME_02_002640s.jpg",
-      "/data/streams/liko/2026_08_22_11_09_12/录制-1713548468-20260822-110912-120-兔子贴贴！！_EVIDENCE_FRAME_03_004560s.jpg",
       "/data/streams/liko/2026_08_22_11_09_12/录制-1713548468-20260822-110912-120-兔子贴贴！！_SCREENSHOTS.jpg"
     ]
   },
@@ -792,11 +727,7 @@
     "cover": "/data/streams/liko/2026_08_21_20_01_26/录制-1713548468-20260821-200126-236-公司派遣中.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_21_20_01_26/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_21_20_01_26/录制-1713548468-20260821-200126-236-公司派遣中_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_21_20_01_26/录制-1713548468-20260821-200126-236-公司派遣中_EVIDENCE_FRAME_01_000780s.jpg",
-      "/data/streams/liko/2026_08_21_20_01_26/录制-1713548468-20260821-200126-236-公司派遣中_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/liko/2026_08_21_20_01_26/录制-1713548468-20260821-200126-236-公司派遣中_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/liko/2026_08_21_20_01_26/录制-1713548468-20260821-200126-236-公司派遣中_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_21_20_01_26/录制-1713548468-20260821-200126-236-公司派遣中_COMIC_FACTORY.png"
     ]
   },
   {
@@ -813,11 +744,7 @@
     "cover": "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_20_21_04_31/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_EVIDENCE_FRAME_01_000900s.jpg",
-      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_EVIDENCE_FRAME_02_002460s.jpg",
-      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_EVIDENCE_FRAME_03_002700s.jpg",
-      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_20_21_04_31/录制-1713548468-20260820-210431-841-在被窝里躺一会儿_COMIC_FACTORY.png"
     ]
   },
   {
@@ -834,11 +761,7 @@
     "cover": "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_20_14_17_37/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_EVIDENCE_FRAME_01_004080s.jpg",
-      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_EVIDENCE_FRAME_02_009840s.jpg",
-      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_EVIDENCE_FRAME_03_010200s.jpg",
-      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/liko/2026_08_20_14_17_37/录制-1713548468-20260820-141737-433-激情健身环_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -856,9 +779,6 @@
     "highlights": "/data/streams/liko/2026_08_19_20_08_53/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged_EVIDENCE_FRAME_01_001620s.jpg",
-      "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged_EVIDENCE_FRAME_02_004860s.jpg",
-      "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/liko/2026_08_19_20_08_53/录制-1713548468-20260819-200853-410-七夕小酌_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -877,9 +797,6 @@
     "highlights": "/data/streams/liko/2026_08_19_10_23_00/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！_EVIDENCE_FRAME_01_000840s.jpg",
-      "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！_EVIDENCE_FRAME_02_005340s.jpg",
-      "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/liko/2026_08_19_10_23_00/录制-1713548468-20260819-102300-655-七夕联动！_SCREENSHOTS.jpg"
     ]
   },
@@ -898,9 +815,6 @@
     "highlights": "/data/streams/liko/2026_08_17_21_02_50/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_17_21_02_50/录制-1713548468-20260817-210250-779-277机械狂欢来咯！_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_17_21_02_50/录制-1713548468-20260817-210250-779-277机械狂欢来咯！_EVIDENCE_FRAME_01_000540s.jpg",
-      "/data/streams/liko/2026_08_17_21_02_50/录制-1713548468-20260817-210250-779-277机械狂欢来咯！_EVIDENCE_FRAME_02_001560s.jpg",
-      "/data/streams/liko/2026_08_17_21_02_50/录制-1713548468-20260817-210250-779-277机械狂欢来咯！_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/liko/2026_08_17_21_02_50/录制-1713548468-20260817-210250-779-277机械狂欢来咯！_SCREENSHOTS.jpg"
     ]
   },
@@ -933,8 +847,7 @@
     "cover": "/data/streams/liko/2026_08_16_11_04_55/录制-1713548468-20260816-110455-033-睡醒咯！.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_16_11_04_55/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_16_11_04_55/录制-1713548468-20260816-110455-033-睡醒咯！_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_16_11_04_55/录制-1713548468-20260816-110455-033-睡醒咯！_EVIDENCE_REQUEST_E1.jpg"
+      "/data/streams/liko/2026_08_16_11_04_55/录制-1713548468-20260816-110455-033-睡醒咯！_COMIC_FACTORY.png"
     ]
   },
   {
@@ -951,11 +864,7 @@
     "cover": "/data/streams/liko/2026_08_15_20_05_00/录制-1713548468-20260815-200500-191-棉花糖来啦·.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_15_20_05_00/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_15_20_05_00/录制-1713548468-20260815-200500-191-棉花糖来啦·_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_15_20_05_00/录制-1713548468-20260815-200500-191-棉花糖来啦·_EVIDENCE_FRAME_01_000480s.jpg",
-      "/data/streams/liko/2026_08_15_20_05_00/录制-1713548468-20260815-200500-191-棉花糖来啦·_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/liko/2026_08_15_20_05_00/录制-1713548468-20260815-200500-191-棉花糖来啦·_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/liko/2026_08_15_20_05_00/录制-1713548468-20260815-200500-191-棉花糖来啦·_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_15_20_05_00/录制-1713548468-20260815-200500-191-棉花糖来啦·_COMIC_FACTORY.png"
     ]
   },
   {
@@ -972,11 +881,7 @@
     "cover": "/data/streams/liko/2026_08_15_12_08_12/录制-1713548468-20260815-120812-521-好困啊，，.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_15_12_08_12/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_15_12_08_12/录制-1713548468-20260815-120812-521-好困啊，，_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_15_12_08_12/录制-1713548468-20260815-120812-521-好困啊，，_EVIDENCE_FRAME_01_003300s.jpg",
-      "/data/streams/liko/2026_08_15_12_08_12/录制-1713548468-20260815-120812-521-好困啊，，_EVIDENCE_FRAME_02_004380s.jpg",
-      "/data/streams/liko/2026_08_15_12_08_12/录制-1713548468-20260815-120812-521-好困啊，，_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_15_12_08_12/录制-1713548468-20260815-120812-521-好困啊，，_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_15_12_08_12/录制-1713548468-20260815-120812-521-好困啊，，_COMIC_FACTORY.png"
     ]
   },
   {
@@ -994,9 +899,6 @@
     "highlights": "/data/streams/liko/2026_08_14_20_13_18/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/liko/2026_08_14_20_13_18/录制-1713548468-20260814-201318-327-睡醒咯_SCREENSHOTS.jpg"
     ]
   },
@@ -1014,11 +916,7 @@
     "cover": "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_14_11_14_32/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_14_11_14_32/录制-1713548468-20260814-111432-027-兔兔开播!_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1035,11 +933,7 @@
     "cover": "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_13_20_20_27/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_EVIDENCE_FRAME_01_002160s.jpg",
-      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_13_20_20_27/录制-1713548468-20260813-202027-126-兔兔开播!_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1057,8 +951,6 @@
     "highlights": "/data/streams/liko/2026_08_13_11_06_16/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/liko/2026_08_13_11_06_16/录制-1713548468-20260813-110616-752-兔兔开播!_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1076,9 +968,7 @@
     "cover": "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_12_21_04_39/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/liko/2026_08_12_21_04_39/录制-1713548468-20260812-210439-829-谁是真正的大画家_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1113,8 +1003,6 @@
     "highlights": "/data/streams/liko/2026_08_10_20_06_14/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_10_20_06_14/录制-1713548468-20260810-200614-768-虚弱小兔_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_10_20_06_14/录制-1713548468-20260810-200614-768-虚弱小兔_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_10_20_06_14/录制-1713548468-20260810-200614-768-虚弱小兔_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/liko/2026_08_10_20_06_14/录制-1713548468-20260810-200614-768-虚弱小兔_SCREENSHOTS.jpg"
     ]
   },
@@ -1132,11 +1020,7 @@
     "cover": "/data/streams/liko/2026_08_09_20_18_37/录制-1713548468-20260809-201837-009-虚弱小兔.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_09_20_18_37/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_09_20_18_37/录制-1713548468-20260809-201837-009-虚弱小兔_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_09_20_18_37/录制-1713548468-20260809-201837-009-虚弱小兔_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_09_20_18_37/录制-1713548468-20260809-201837-009-虚弱小兔_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/liko/2026_08_09_20_18_37/录制-1713548468-20260809-201837-009-虚弱小兔_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/liko/2026_08_09_20_18_37/录制-1713548468-20260809-201837-009-虚弱小兔_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_09_20_18_37/录制-1713548468-20260809-201837-009-虚弱小兔_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1154,8 +1038,6 @@
     "highlights": "/data/streams/liko/2026_08_09_12_01_07/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_09_12_01_07/录制-1713548468-20260809-120107-346-迟到了呜呜然后掘地求升2_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_09_12_01_07/录制-1713548468-20260809-120107-346-迟到了呜呜然后掘地求升2_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_09_12_01_07/录制-1713548468-20260809-120107-346-迟到了呜呜然后掘地求升2_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/liko/2026_08_09_12_01_07/录制-1713548468-20260809-120107-346-迟到了呜呜然后掘地求升2_SCREENSHOTS.jpg"
     ]
   },
@@ -1173,11 +1055,7 @@
     "cover": "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_08_20_04_30/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/liko/2026_08_08_20_04_30/录制-1713548468-20260808-200430-694-唱唱聊聊_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1195,9 +1073,6 @@
     "highlights": "/data/streams/liko/2026_08_08_11_10_28/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~_EVIDENCE_FRAME_01_002640s.jpg",
-      "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~_EVIDENCE_FRAME_02_005220s.jpg",
-      "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/liko/2026_08_08_11_10_28/录制-1713548468-20260808-111028-711-小兔贴贴~_SCREENSHOTS.jpg"
     ]
   },
@@ -1215,10 +1090,7 @@
     "cover": "/data/streams/liko/2026_08_07_20_34_26/录制-1713548468-20260807-203426-316-小兔贴贴~.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_07_20_34_26/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_07_20_34_26/录制-1713548468-20260807-203426-316-小兔贴贴~_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_07_20_34_26/录制-1713548468-20260807-203426-316-小兔贴贴~_EVIDENCE_FRAME_01_002520s.jpg",
-      "/data/streams/liko/2026_08_07_20_34_26/录制-1713548468-20260807-203426-316-小兔贴贴~_EVIDENCE_FRAME_02_011820s.jpg",
-      "/data/streams/liko/2026_08_07_20_34_26/录制-1713548468-20260807-203426-316-小兔贴贴~_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/liko/2026_08_07_20_34_26/录制-1713548468-20260807-203426-316-小兔贴贴~_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1254,8 +1126,6 @@
     "highlights": "/data/streams/liko/2026_08_06_21_00_38/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_06_21_00_38/录制-1713548468-20260806-210038-875-一起被窝悄悄话_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_06_21_00_38/录制-1713548468-20260806-210038-875-一起被窝悄悄话_EVIDENCE_FRAME_01_002160s.jpg",
-      "/data/streams/liko/2026_08_06_21_00_38/录制-1713548468-20260806-210038-875-一起被窝悄悄话_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/liko/2026_08_06_21_00_38/录制-1713548468-20260806-210038-875-一起被窝悄悄话_SCREENSHOTS.jpg"
     ]
   },
@@ -1274,7 +1144,6 @@
     "highlights": "/data/streams/liko/2026_08_06_14_06_15/highlights.md",
     "images": [
       "/data/streams/liko/2026_08_06_14_06_15/录制-1713548468-20260806-140615-308-激情健身环_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_06_14_06_15/录制-1713548468-20260806-140615-308-激情健身环_EVIDENCE_REQUEST_E1.jpg",
       "/data/streams/liko/2026_08_06_14_06_15/录制-1713548468-20260806-140615-308-激情健身环_SCREENSHOTS.jpg"
     ]
   },
@@ -1328,9 +1197,7 @@
     "cover": "/data/streams/liko/2026_08_04_11_04_35/录制-1713548468-20260804-110435-869-兔兔来咯~.cover.jpg",
     "highlights": "/data/streams/liko/2026_08_04_11_04_35/highlights.md",
     "images": [
-      "/data/streams/liko/2026_08_04_11_04_35/录制-1713548468-20260804-110435-869-兔兔来咯~_COMIC_FACTORY.png",
-      "/data/streams/liko/2026_08_04_11_04_35/录制-1713548468-20260804-110435-869-兔兔来咯~_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/liko/2026_08_04_11_04_35/录制-1713548468-20260804-110435-869-兔兔来咯~_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/liko/2026_08_04_11_04_35/录制-1713548468-20260804-110435-869-兔兔来咯~_COMIC_FACTORY.png"
     ]
   },
   {

@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_09_15_15_25_11",
+    "title": "「魔兽世界」师徒杯正赛",
+    "date": "2026-09-15",
+    "time": "15:25:11",
+    "startTime": "15:25",
+    "endTime": "00:18",
+    "duration": 32036,
+    "durationStr": "8.9 小时",
+    "srt": "/data/streams/nagisa/2026_09_15_15_25_11/录制-31368705-20260915-152511-720-「魔兽世界」加练_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_15_15_25_11/录制-31368705-20260915-152511-720-「魔兽世界」加练_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_15_15_25_11/录制-31368705-20260915-152511-720-「魔兽世界」加练.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_15_15_25_11/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_15_15_25_11/录制-31368705-20260915-152511-720-「魔兽世界」加练_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_15_15_25_11/录制-31368705-20260915-152511-720-「魔兽世界」加练_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_15_08_06_32",
+    "title": "早安一会儿",
+    "date": "2026-09-15",
+    "time": "08:06:32",
+    "startTime": "08:06",
+    "endTime": "10:33",
+    "duration": 8867,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/nagisa/2026_09_15_08_06_32/录制-31368705-20260915-080632-826-早安一会儿_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_15_08_06_32/录制-31368705-20260915-080632-826-早安一会儿_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_15_08_06_32/录制-31368705-20260915-080632-826-早安一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_15_08_06_32/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_15_08_06_32/录制-31368705-20260915-080632-826-早安一会儿_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_14_21_04_34",
     "title": "周一的歌杂",
     "date": "2026-09-14",
@@ -14,9 +49,6 @@
     "highlights": "/data/streams/nagisa/2026_09_14_21_04_34/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂_EVIDENCE_FRAME_01_000610s.jpg",
-      "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂_EVIDENCE_FRAME_02_003753s.jpg",
-      "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂_EVIDENCE_FRAME_03_015325s.jpg",
       "/data/streams/nagisa/2026_09_14_21_04_34/录制-31368705-20260914-210434-728-周一的歌杂_SCREENSHOTS.jpg"
     ]
   },
@@ -69,10 +101,7 @@
     "highlights": "/data/streams/nagisa/2026_09_12_21_06_48/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_12_21_06_48/录制-31368705-20260912-210648-832-一起「封锁协议」_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_12_21_06_48/录制-31368705-20260912-210648-832-一起「封锁协议」_EVIDENCE_FRAME_01_000238s.jpg",
-      "/data/streams/nagisa/2026_09_12_21_06_48/录制-31368705-20260912-210648-832-一起「封锁协议」_EVIDENCE_FRAME_02_001770s.jpg",
-      "/data/streams/nagisa/2026_09_12_21_06_48/录制-31368705-20260912-210648-832-一起「封锁协议」_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_09_12_21_06_48/录制-31368705-20260912-210648-832-一起「封锁协议」_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/nagisa/2026_09_12_21_06_48/录制-31368705-20260912-210648-832-一起「封锁协议」_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -90,10 +119,7 @@
     "highlights": "/data/streams/nagisa/2026_09_11_21_11_44/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_11_21_11_44/录制-31368705-20260911-211144-318-周五的歌杂_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_11_21_11_44/录制-31368705-20260911-211144-318-周五的歌杂_EVIDENCE_FRAME_01_001641s.jpg",
-      "/data/streams/nagisa/2026_09_11_21_11_44/录制-31368705-20260911-211144-318-周五的歌杂_EVIDENCE_FRAME_02_014048s.jpg",
-      "/data/streams/nagisa/2026_09_11_21_11_44/录制-31368705-20260911-211144-318-周五的歌杂_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/nagisa/2026_09_11_21_11_44/录制-31368705-20260911-211144-318-周五的歌杂_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/nagisa/2026_09_11_21_11_44/录制-31368705-20260911-211144-318-周五的歌杂_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -111,10 +137,7 @@
     "highlights": "/data/streams/nagisa/2026_09_11_08_06_21/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_11_08_06_21/录制-31368705-20260911-080621-535-早安整理_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_11_08_06_21/录制-31368705-20260911-080621-535-早安整理_EVIDENCE_FRAME_01_000900s.jpg",
-      "/data/streams/nagisa/2026_09_11_08_06_21/录制-31368705-20260911-080621-535-早安整理_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_09_11_08_06_21/录制-31368705-20260911-080621-535-早安整理_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/nagisa/2026_09_11_08_06_21/录制-31368705-20260911-080621-535-早安整理_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/nagisa/2026_09_11_08_06_21/录制-31368705-20260911-080621-535-早安整理_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -132,10 +155,7 @@
     "highlights": "/data/streams/nagisa/2026_09_10_21_04_55/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_10_21_04_55/录制-31368705-20260910-210455-382-「魔兽世界」训练日_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_10_21_04_55/录制-31368705-20260910-210455-382-「魔兽世界」训练日_EVIDENCE_FRAME_01_000245s.jpg",
-      "/data/streams/nagisa/2026_09_10_21_04_55/录制-31368705-20260910-210455-382-「魔兽世界」训练日_EVIDENCE_FRAME_02_002470s.jpg",
-      "/data/streams/nagisa/2026_09_10_21_04_55/录制-31368705-20260910-210455-382-「魔兽世界」训练日_EVIDENCE_FRAME_03_018408s.jpg",
-      "/data/streams/nagisa/2026_09_10_21_04_55/录制-31368705-20260910-210455-382-「魔兽世界」训练日_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/nagisa/2026_09_10_21_04_55/录制-31368705-20260910-210455-382-「魔兽世界」训练日_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -153,10 +173,7 @@
     "highlights": "/data/streams/nagisa/2026_09_09_21_08_43/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_EVIDENCE_FRAME_01_000900s.jpg",
-      "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/nagisa/2026_09_09_21_08_43/录制-31368705-20260909-210843-922-「鬼武者」初见_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -173,9 +190,6 @@
     "cover": "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_09_09_08_06_24/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿_EVIDENCE_FRAME_01_000300s.jpg",
-      "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿_EVIDENCE_FRAME_02_004120s.jpg",
-      "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/nagisa/2026_09_09_08_06_24/录制-31368705-20260909-080624-331-早歌一会儿_SCREENSHOTS.jpg"
     ]
   },
@@ -194,10 +208,7 @@
     "highlights": "/data/streams/nagisa/2026_09_08_15_04_16/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_EVIDENCE_FRAME_01_001005s.jpg",
-      "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_EVIDENCE_FRAME_02_006500s.jpg",
-      "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_EVIDENCE_FRAME_03_014580s.jpg",
-      "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/nagisa/2026_09_08_15_04_16/录制-31368705-20260908-150416-369-「魔兽世界」训练日_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -215,8 +226,6 @@
     "highlights": "/data/streams/nagisa/2026_09_08_08_04_49/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿_merged_EVIDENCE_FRAME_01_000872s.jpg",
-      "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿_merged_EVIDENCE_FRAME_02_002980s.jpg",
       "/data/streams/nagisa/2026_09_08_08_04_49/录制-31368705-20260908-080449-619-早安一会儿_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -235,9 +244,7 @@
     "highlights": "/data/streams/nagisa/2026_09_07_21_07_21/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged_EVIDENCE_FRAME_01_002580s.jpg",
-      "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/nagisa/2026_09_07_21_07_21/录制-31368705-20260907-210721-160-周一的歌杂_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -272,9 +279,6 @@
     "highlights": "/data/streams/nagisa/2026_09_06_21_07_06/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged_EVIDENCE_FRAME_01_000240s.jpg",
-      "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged_EVIDENCE_FRAME_02_006180s.jpg",
-      "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/nagisa/2026_09_06_21_07_06/录制-31368705-20260906-210706-133-「魔兽世界」VRG再集_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -293,10 +297,7 @@
     "highlights": "/data/streams/nagisa/2026_09_06_14_08_42/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_EVIDENCE_FRAME_01_000180s.jpg",
-      "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_EVIDENCE_FRAME_02_000360s.jpg",
-      "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/nagisa/2026_09_06_14_08_42/录制-31368705-20260906-140842-312-「古诺西亚」_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -374,7 +375,9 @@
     "xml": "/data/streams/nagisa/2026_09_03_20_10_33/录制-31368705-20260903-201033-589-周四的歌杂_recovered_merged.xml",
     "cover": "/data/streams/nagisa/2026_09_03_20_10_33/录制-31368705-20260903-201033-589-周四的歌杂.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_09_03_20_10_33/highlights.md",
-    "images": []
+    "images": [
+      "/data/streams/nagisa/2026_09_03_20_10_33/录制-31368705-20260903-201033-589-周四的歌杂_recovered_merged_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_09_03_08_12_13",
@@ -407,11 +410,7 @@
     "cover": "/data/streams/nagisa/2026_09_02_08_10_47/录制-31368705-20260902-081047-439-早歌一会儿.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_09_02_08_10_47/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_09_02_08_10_47/录制-31368705-20260902-081047-439-早歌一会儿_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_02_08_10_47/录制-31368705-20260902-081047-439-早歌一会儿_EVIDENCE_FRAME_01_000180s.jpg",
-      "/data/streams/nagisa/2026_09_02_08_10_47/录制-31368705-20260902-081047-439-早歌一会儿_EVIDENCE_FRAME_02_001320s.jpg",
-      "/data/streams/nagisa/2026_09_02_08_10_47/录制-31368705-20260902-081047-439-早歌一会儿_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/nagisa/2026_09_02_08_10_47/录制-31368705-20260902-081047-439-早歌一会儿_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/nagisa/2026_09_02_08_10_47/录制-31368705-20260902-081047-439-早歌一会儿_COMIC_FACTORY.png"
     ]
   },
   {
@@ -445,10 +444,7 @@
     "cover": "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_09_01_08_10_34/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿_EVIDENCE_FRAME_01_000180s.jpg",
-      "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿_EVIDENCE_FRAME_02_001740s.jpg",
-      "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿_EVIDENCE_FRAME_03_003660s.jpg"
+      "/data/streams/nagisa/2026_09_01_08_10_34/录制-31368705-20260901-081034-414-早安一会儿_COMIC_FACTORY.png"
     ]
   },
   {
@@ -465,11 +461,7 @@
     "cover": "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_31_21_07_04/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_EVIDENCE_FRAME_01_000360s.jpg",
-      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_EVIDENCE_FRAME_02_001920s.jpg",
-      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_EVIDENCE_FRAME_03_010440s.jpg",
-      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_EVIDENCE_FRAME_04_013080s.jpg"
+      "/data/streams/nagisa/2026_08_31_21_07_04/录制-31368705-20260831-210704-410-周一的歌杂_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -487,8 +479,6 @@
     "highlights": "/data/streams/nagisa/2026_08_31_08_08_45/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿_merged_EVIDENCE_FRAME_01_003360s.jpg",
-      "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿_merged_EVIDENCE_FRAME_02_007680s.jpg",
       "/data/streams/nagisa/2026_08_31_08_08_45/录制-31368705-20260831-080845-178-早安一会儿_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -506,11 +496,7 @@
     "cover": "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_30_21_00_37/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_EVIDENCE_FRAME_01_000180s.jpg",
-      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_EVIDENCE_FRAME_02_000660s.jpg",
-      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_EVIDENCE_FRAME_03_001560s.jpg",
-      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_EVIDENCE_FRAME_04_005760s.jpg"
+      "/data/streams/nagisa/2026_08_30_21_00_37/录制-31368705-20260830-210037-620-学当「破烂艺术家」_COMIC_FACTORY.png"
     ]
   },
   {
@@ -527,11 +513,7 @@
     "cover": "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_30_15_06_56/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_EVIDENCE_FRAME_01_000360s.jpg",
-      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_EVIDENCE_FRAME_02_009000s.jpg",
-      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_EVIDENCE_FRAME_03_009120s.jpg",
-      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/nagisa/2026_08_30_15_06_56/录制-31368705-20260830-150656-237-「魔兽世界」学手法_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -548,10 +530,7 @@
     "cover": "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_29_20_08_42/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1_EVIDENCE_FRAME_01_000180s.jpg",
-      "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1_EVIDENCE_FRAME_02_003060s.jpg",
-      "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1_EVIDENCE_FRAME_03_007920s.jpg"
+      "/data/streams/nagisa/2026_08_29_20_08_42/录制-31368705-20260829-200842-469-「魔兽世界」团本Day1_COMIC_FACTORY.png"
     ]
   },
   {
@@ -585,11 +564,7 @@
     "cover": "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_28_21_07_16/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_EVIDENCE_FRAME_01_000240s.jpg",
-      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_EVIDENCE_FRAME_02_000240s.jpg",
-      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/nagisa/2026_08_28_21_07_16/录制-31368705-20260828-210716-070-周五的歌杂_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -607,9 +582,6 @@
     "highlights": "/data/streams/nagisa/2026_08_28_08_08_38/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理_EVIDENCE_FRAME_01_000720s.jpg",
-      "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/nagisa/2026_08_28_08_08_38/录制-31368705-20260828-080838-394-早安整理_SCREENSHOTS.jpg"
     ]
   },
@@ -627,10 +599,7 @@
     "cover": "/data/streams/nagisa/2026_08_27_21_04_13/录制-31368705-20260827-210413-582-周四的歌杂.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_27_21_04_13/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_27_21_04_13/录制-31368705-20260827-210413-582-周四的歌杂_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_27_21_04_13/录制-31368705-20260827-210413-582-周四的歌杂_merged_EVIDENCE_FRAME_01_000480s.jpg",
-      "/data/streams/nagisa/2026_08_27_21_04_13/录制-31368705-20260827-210413-582-周四的歌杂_merged_EVIDENCE_FRAME_02_010980s.jpg",
-      "/data/streams/nagisa/2026_08_27_21_04_13/录制-31368705-20260827-210413-582-周四的歌杂_merged_EVIDENCE_FRAME_03_016200s.jpg"
+      "/data/streams/nagisa/2026_08_27_21_04_13/录制-31368705-20260827-210413-582-周四的歌杂_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -664,11 +633,7 @@
     "cover": "/data/streams/nagisa/2026_08_26_20_01_07/录制-31368705-20260826-200107-386-「Big Walk」vrpsp.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_26_20_01_07/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_26_20_01_07/录制-31368705-20260826-200107-386-「Big Walk」vrpsp_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_26_20_01_07/录制-31368705-20260826-200107-386-「Big Walk」vrpsp_merged_EVIDENCE_FRAME_01_001200s.jpg",
-      "/data/streams/nagisa/2026_08_26_20_01_07/录制-31368705-20260826-200107-386-「Big Walk」vrpsp_merged_EVIDENCE_FRAME_02_017760s.jpg",
-      "/data/streams/nagisa/2026_08_26_20_01_07/录制-31368705-20260826-200107-386-「Big Walk」vrpsp_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_26_20_01_07/录制-31368705-20260826-200107-386-「Big Walk」vrpsp_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/nagisa/2026_08_26_20_01_07/录制-31368705-20260826-200107-386-「Big Walk」vrpsp_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -686,8 +651,6 @@
     "highlights": "/data/streams/nagisa/2026_08_26_08_08_36/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_26_08_08_36/录制-31368705-20260826-080836-075-早歌一会儿_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_26_08_08_36/录制-31368705-20260826-080836-075-早歌一会儿_merged_EVIDENCE_FRAME_01_000300s.jpg",
-      "/data/streams/nagisa/2026_08_26_08_08_36/录制-31368705-20260826-080836-075-早歌一会儿_merged_EVIDENCE_FRAME_02_005220s.jpg",
       "/data/streams/nagisa/2026_08_26_08_08_36/录制-31368705-20260826-080836-075-早歌一会儿_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -786,10 +749,7 @@
     "cover": "/data/streams/nagisa/2026_08_22_15_08_42/录制-31368705-20260822-150842-346-周六练练歌.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_22_15_08_42/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_22_15_08_42/录制-31368705-20260822-150842-346-周六练练歌_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_22_15_08_42/录制-31368705-20260822-150842-346-周六练练歌_merged_EVIDENCE_FRAME_01_000840s.jpg",
-      "/data/streams/nagisa/2026_08_22_15_08_42/录制-31368705-20260822-150842-346-周六练练歌_merged_EVIDENCE_FRAME_02_003300s.jpg",
-      "/data/streams/nagisa/2026_08_22_15_08_42/录制-31368705-20260822-150842-346-周六练练歌_merged_EVIDENCE_FRAME_03_013800s.jpg"
+      "/data/streams/nagisa/2026_08_22_15_08_42/录制-31368705-20260822-150842-346-周六练练歌_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -807,9 +767,6 @@
     "highlights": "/data/streams/nagisa/2026_08_21_21_05_29/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂_EVIDENCE_FRAME_01_012360s.jpg",
-      "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂_EVIDENCE_FRAME_02_003060s.jpg",
-      "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂_EVIDENCE_FRAME_03_010680s.jpg",
       "/data/streams/nagisa/2026_08_21_21_05_29/录制-31368705-20260821-210529-568-周五的歌杂_SCREENSHOTS.jpg"
     ]
   },
@@ -827,11 +784,7 @@
     "cover": "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_21_08_11_01/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_EVIDENCE_FRAME_01_005280s.jpg",
-      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_EVIDENCE_FRAME_02_005940s.jpg",
-      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/nagisa/2026_08_21_08_11_01/录制-31368705-20260821-081101-065-早收一会儿_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -865,9 +818,7 @@
     "cover": "/data/streams/nagisa/2026_08_20_08_08_58/录制-31368705-20260820-080858-140-早安一会儿.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_20_08_08_58/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_20_08_08_58/录制-31368705-20260820-080858-140-早安一会儿_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_20_08_08_58/录制-31368705-20260820-080858-140-早安一会儿_EVIDENCE_FRAME_01_005520s.jpg",
-      "/data/streams/nagisa/2026_08_20_08_08_58/录制-31368705-20260820-080858-140-早安一会儿_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/nagisa/2026_08_20_08_08_58/录制-31368705-20260820-080858-140-早安一会儿_COMIC_FACTORY.png"
     ]
   },
   {
@@ -884,11 +835,7 @@
     "cover": "/data/streams/nagisa/2026_08_19_21_10_48/录制-31368705-20260819-211048-816-「Endacopia」第二回.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_19_21_10_48/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_19_21_10_48/录制-31368705-20260819-211048-816-「Endacopia」第二回_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_19_21_10_48/录制-31368705-20260819-211048-816-「Endacopia」第二回_EVIDENCE_FRAME_01_001200s.jpg",
-      "/data/streams/nagisa/2026_08_19_21_10_48/录制-31368705-20260819-211048-816-「Endacopia」第二回_EVIDENCE_FRAME_02_001800s.jpg",
-      "/data/streams/nagisa/2026_08_19_21_10_48/录制-31368705-20260819-211048-816-「Endacopia」第二回_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/nagisa/2026_08_19_21_10_48/录制-31368705-20260819-211048-816-「Endacopia」第二回_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/nagisa/2026_08_19_21_10_48/录制-31368705-20260819-211048-816-「Endacopia」第二回_COMIC_FACTORY.png"
     ]
   },
   {
@@ -905,11 +852,7 @@
     "cover": "/data/streams/nagisa/2026_08_19_08_10_11/录制-31368705-20260819-081011-571-早歌一会儿.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_19_08_10_11/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_19_08_10_11/录制-31368705-20260819-081011-571-早歌一会儿_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_19_08_10_11/录制-31368705-20260819-081011-571-早歌一会儿_EVIDENCE_FRAME_01_000300s.jpg",
-      "/data/streams/nagisa/2026_08_19_08_10_11/录制-31368705-20260819-081011-571-早歌一会儿_EVIDENCE_FRAME_02_000720s.jpg",
-      "/data/streams/nagisa/2026_08_19_08_10_11/录制-31368705-20260819-081011-571-早歌一会儿_EVIDENCE_FRAME_03_001320s.jpg",
-      "/data/streams/nagisa/2026_08_19_08_10_11/录制-31368705-20260819-081011-571-早歌一会儿_EVIDENCE_FRAME_04_014520s.jpg"
+      "/data/streams/nagisa/2026_08_19_08_10_11/录制-31368705-20260819-081011-571-早歌一会儿_COMIC_FACTORY.png"
     ]
   },
   {
@@ -927,9 +870,6 @@
     "highlights": "/data/streams/nagisa/2026_08_18_20_08_49/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged_EVIDENCE_FRAME_01_000300s.jpg",
-      "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged_EVIDENCE_FRAME_02_000840s.jpg",
-      "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged_EVIDENCE_FRAME_03_010500s.jpg",
       "/data/streams/nagisa/2026_08_18_20_08_49/录制-31368705-20260818-200849-604-「修电机」_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -948,9 +888,6 @@
     "highlights": "/data/streams/nagisa/2026_08_18_08_06_58/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged_EVIDENCE_FRAME_01_004920s.jpg",
-      "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/nagisa/2026_08_18_08_06_58/录制-31368705-20260818-080658-025-早安一会儿_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -969,8 +906,6 @@
     "highlights": "/data/streams/nagisa/2026_08_17_21_08_18/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_17_21_08_18/录制-31368705-20260817-210818-947-周一的歌杂_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_17_21_08_18/录制-31368705-20260817-210818-947-周一的歌杂_EVIDENCE_FRAME_01_006360s.jpg",
-      "/data/streams/nagisa/2026_08_17_21_08_18/录制-31368705-20260817-210818-947-周一的歌杂_EVIDENCE_FRAME_02_001440s.jpg",
       "/data/streams/nagisa/2026_08_17_21_08_18/录制-31368705-20260817-210818-947-周一的歌杂_SCREENSHOTS.jpg"
     ]
   },
@@ -989,8 +924,6 @@
     "highlights": "/data/streams/nagisa/2026_08_17_08_08_37/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_17_08_08_37/录制-31368705-20260817-080837-812-早安一会儿_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_17_08_08_37/录制-31368705-20260817-080837-812-早安一会儿_EVIDENCE_FRAME_01_000840s.jpg",
-      "/data/streams/nagisa/2026_08_17_08_08_37/录制-31368705-20260817-080837-812-早安一会儿_EVIDENCE_FRAME_02_001620s.jpg",
       "/data/streams/nagisa/2026_08_17_08_08_37/录制-31368705-20260817-080837-812-早安一会儿_SCREENSHOTS.jpg"
     ]
   },
@@ -1053,8 +986,7 @@
     "cover": "/data/streams/nagisa/2026_08_16_15_06_48/录制-31368705-20260816-150648-121-周日练练歌.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_16_15_06_48/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_16_15_06_48/录制-31368705-20260816-150648-121-周日练练歌_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_16_15_06_48/录制-31368705-20260816-150648-121-周日练练歌_EVIDENCE_FRAME_01_002280s.jpg"
+      "/data/streams/nagisa/2026_08_16_15_06_48/录制-31368705-20260816-150648-121-周日练练歌_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1105,10 +1037,7 @@
     "cover": "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_13_21_20_22/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/nagisa/2026_08_13_21_20_22/录制-31368705-20260813-212022-213-「锈湖：湖之仆从」第一回_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1126,8 +1055,6 @@
     "highlights": "/data/streams/nagisa/2026_08_13_08_11_40/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿_EVIDENCE_REQUEST_E1.jpg",
       "/data/streams/nagisa/2026_08_13_08_11_40/录制-31368705-20260813-081140-071-早安一会儿_SCREENSHOTS.jpg"
     ]
   },
@@ -1161,9 +1088,6 @@
     "highlights": "/data/streams/nagisa/2026_08_12_21_04_32/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/nagisa/2026_08_12_21_04_32/录制-31368705-20260812-210432-516-一起躲猫猫_SCREENSHOTS.jpg"
     ]
   },
@@ -1182,9 +1106,6 @@
     "highlights": "/data/streams/nagisa/2026_08_12_08_06_21/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/nagisa/2026_08_12_08_06_21/录制-31368705-20260812-080621-055-早歌一会儿_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1202,11 +1123,7 @@
     "cover": null,
     "highlights": "/data/streams/nagisa/2026_08_11_15_03_44/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_EVIDENCE_FRAME_01_000120s.jpg",
-      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/nagisa/2026_08_11_15_03_44/录制-31368705-20260811-150344-484-「机械狂欢」with帕岁栞_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1223,11 +1140,7 @@
     "cover": "/data/streams/nagisa/2026_08_10_08_06_32/录制-31368705-20260810-080632-292-早安一会儿.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_10_08_06_32/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_10_08_06_32/录制-31368705-20260810-080632-292-早安一会儿_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_10_08_06_32/录制-31368705-20260810-080632-292-早安一会儿_EVIDENCE_FRAME_01_003900s.jpg",
-      "/data/streams/nagisa/2026_08_10_08_06_32/录制-31368705-20260810-080632-292-早安一会儿_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/nagisa/2026_08_10_08_06_32/录制-31368705-20260810-080632-292-早安一会儿_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_10_08_06_32/录制-31368705-20260810-080632-292-早安一会儿_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/nagisa/2026_08_10_08_06_32/录制-31368705-20260810-080632-292-早安一会儿_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1245,9 +1158,6 @@
     "highlights": "/data/streams/nagisa/2026_08_09_21_19_34/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_09_21_19_34/录制-31368705-20260809-211934-481-「僵尸毁灭工程」单人42_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_09_21_19_34/录制-31368705-20260809-211934-481-「僵尸毁灭工程」单人42_EVIDENCE_FRAME_01_001020s.jpg",
-      "/data/streams/nagisa/2026_08_09_21_19_34/录制-31368705-20260809-211934-481-「僵尸毁灭工程」单人42_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_09_21_19_34/录制-31368705-20260809-211934-481-「僵尸毁灭工程」单人42_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/nagisa/2026_08_09_21_19_34/录制-31368705-20260809-211934-481-「僵尸毁灭工程」单人42_SCREENSHOTS.jpg"
     ]
   },
@@ -1265,11 +1175,7 @@
     "cover": "/data/streams/nagisa/2026_08_08_21_08_51/录制-31368705-20260808-210851-602-「识质存在」第六回.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_08_21_08_51/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_08_21_08_51/录制-31368705-20260808-210851-602-「识质存在」第六回_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_08_21_08_51/录制-31368705-20260808-210851-602-「识质存在」第六回_merged_EVIDENCE_FRAME_01_000420s.jpg",
-      "/data/streams/nagisa/2026_08_08_21_08_51/录制-31368705-20260808-210851-602-「识质存在」第六回_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_08_21_08_51/录制-31368705-20260808-210851-602-「识质存在」第六回_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/nagisa/2026_08_08_21_08_51/录制-31368705-20260808-210851-602-「识质存在」第六回_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/nagisa/2026_08_08_21_08_51/录制-31368705-20260808-210851-602-「识质存在」第六回_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1286,9 +1192,6 @@
     "cover": "/data/streams/nagisa/2026_08_08_15_10_24/录制-31368705-20260808-151024-014-周六练练歌.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_08_15_10_24/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_08_15_10_24/录制-31368705-20260808-151024-014-周六练练歌_EVIDENCE_FRAME_01_001320s.jpg",
-      "/data/streams/nagisa/2026_08_08_15_10_24/录制-31368705-20260808-151024-014-周六练练歌_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_08_15_10_24/录制-31368705-20260808-151024-014-周六练练歌_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/nagisa/2026_08_08_15_10_24/录制-31368705-20260808-151024-014-周六练练歌_SCREENSHOTS.jpg"
     ]
   },
@@ -1307,9 +1210,6 @@
     "highlights": "/data/streams/nagisa/2026_08_07_21_12_28/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂_EVIDENCE_FRAME_01_006360s.jpg",
-      "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/nagisa/2026_08_07_21_12_28/录制-31368705-20260807-211228-818-周五的歌杂_SCREENSHOTS.jpg"
     ]
   },
@@ -1327,11 +1227,7 @@
     "cover": "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_07_10_51_40/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_EVIDENCE_FRAME_01_000180s.jpg",
-      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_EVIDENCE_FRAME_02_003000s.jpg",
-      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/nagisa/2026_08_07_10_51_40/录制-31368705-20260807-105140-529-早安司机_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1348,11 +1244,7 @@
     "cover": "/data/streams/nagisa/2026_08_05_21_04_10/录制-31368705-20260805-210410-540-继续「斯普拉遁 涂击队」.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_08_05_21_04_10/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_08_05_21_04_10/录制-31368705-20260805-210410-540-继续「斯普拉遁 涂击队」_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_05_21_04_10/录制-31368705-20260805-210410-540-继续「斯普拉遁 涂击队」_EVIDENCE_FRAME_01_005940s.jpg",
-      "/data/streams/nagisa/2026_08_05_21_04_10/录制-31368705-20260805-210410-540-继续「斯普拉遁 涂击队」_EVIDENCE_FRAME_02_006000s.jpg",
-      "/data/streams/nagisa/2026_08_05_21_04_10/录制-31368705-20260805-210410-540-继续「斯普拉遁 涂击队」_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/nagisa/2026_08_05_21_04_10/录制-31368705-20260805-210410-540-继续「斯普拉遁 涂击队」_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/nagisa/2026_08_05_21_04_10/录制-31368705-20260805-210410-540-继续「斯普拉遁 涂击队」_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1370,9 +1262,6 @@
     "highlights": "/data/streams/nagisa/2026_08_05_08_11_19/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_05_08_11_19/录制-31368705-20260805-081119-092-早歌一会儿_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_05_08_11_19/录制-31368705-20260805-081119-092-早歌一会儿_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/nagisa/2026_08_05_08_11_19/录制-31368705-20260805-081119-092-早歌一会儿_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/nagisa/2026_08_05_08_11_19/录制-31368705-20260805-081119-092-早歌一会儿_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/nagisa/2026_08_05_08_11_19/录制-31368705-20260805-081119-092-早歌一会儿_SCREENSHOTS.jpg"
     ]
   },
@@ -1517,8 +1406,6 @@
     "highlights": "/data/streams/nagisa/2026_08_02_21_06_44/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_02_21_06_44/录制-31368705-20260802-210644-970-「识质存在」第四回_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_02_21_06_44/录制-31368705-20260802-210644-970-「识质存在」第四回_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/nagisa/2026_08_02_21_06_44/录制-31368705-20260802-210644-970-「识质存在」第四回_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/nagisa/2026_08_02_21_06_44/录制-31368705-20260802-210644-970-「识质存在」第四回_SCREENSHOTS.jpg"
     ]
   },
@@ -1537,10 +1424,7 @@
     "highlights": "/data/streams/nagisa/2026_08_02_15_20_46/highlights.md",
     "images": [
       "/data/streams/nagisa/2026_08_02_15_20_46/录制-31368705-20260802-152046-321-「黎明」with帕七焦_merged_COMIC_FACTORY.png",
-      "/data/streams/nagisa/2026_08_02_15_20_46/录制-31368705-20260802-152046-321-「黎明」with帕七焦_merged_EVIDENCE_COVERAGE_RESULT.jpg",
-      "/data/streams/nagisa/2026_08_02_15_20_46/录制-31368705-20260802-152046-321-「黎明」with帕七焦_merged_EVIDENCE_FRAME_01_009615s.jpg",
-      "/data/streams/nagisa/2026_08_02_15_20_46/录制-31368705-20260802-152046-321-「黎明」with帕七焦_merged_EVIDENCE_FRAME_02_001800s.jpg",
-      "/data/streams/nagisa/2026_08_02_15_20_46/录制-31368705-20260802-152046-321-「黎明」with帕七焦_merged_EVIDENCE_FRAME_03_000840s.jpg"
+      "/data/streams/nagisa/2026_08_02_15_20_46/录制-31368705-20260802-152046-321-「黎明」with帕七焦_merged_EVIDENCE_COVERAGE_RESULT.jpg"
     ]
   },
   {

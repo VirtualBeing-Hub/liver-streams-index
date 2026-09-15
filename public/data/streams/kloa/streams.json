@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_15_20_07_28",
+    "title": "唱歌歌~",
+    "date": "2026-09-15",
+    "time": "20:07:28",
+    "startTime": "20:07",
+    "endTime": "23:33",
+    "duration": 12372,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/kloa/2026_09_15_20_07_28/录制-1986461465-20260915-200728-251-唱歌歌~.srt",
+    "xml": "/data/streams/kloa/2026_09_15_20_07_28/录制-1986461465-20260915-200728-251-唱歌歌~.xml",
+    "cover": "/data/streams/kloa/2026_09_15_20_07_28/录制-1986461465-20260915-200728-251-唱歌歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_15_20_07_28/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_15_20_07_28/录制-1986461465-20260915-200728-251-唱歌歌~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_15_20_07_28/录制-1986461465-20260915-200728-251-唱歌歌~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_15_09_04_16",
+    "title": "早安~",
+    "date": "2026-09-15",
+    "time": "09:04:16",
+    "startTime": "09:04",
+    "endTime": "12:04",
+    "duration": 10807,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/kloa/2026_09_15_09_04_16/录制-1986461465-20260915-090416-809-早安~.srt",
+    "xml": "/data/streams/kloa/2026_09_15_09_04_16/录制-1986461465-20260915-090416-809-早安~.xml",
+    "cover": "/data/streams/kloa/2026_09_15_09_04_16/录制-1986461465-20260915-090416-809-早安~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_15_09_04_16/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_15_09_04_16/录制-1986461465-20260915-090416-809-早安~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_15_09_04_16/录制-1986461465-20260915-090416-809-早安~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_14_20_04_38",
     "title": "钓鱼！",
     "date": "2026-09-14",
@@ -14,9 +50,6 @@
     "highlights": "/data/streams/kloa/2026_09_14_20_04_38/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_14_20_04_38/录制-1986461465-20260914-200438-900-钓鱼！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_14_20_04_38/录制-1986461465-20260914-200438-900-钓鱼！_merged_EVIDENCE_FRAME_01_000120s.jpg",
-      "/data/streams/kloa/2026_09_14_20_04_38/录制-1986461465-20260914-200438-900-钓鱼！_merged_EVIDENCE_FRAME_02_000780s.jpg",
-      "/data/streams/kloa/2026_09_14_20_04_38/录制-1986461465-20260914-200438-900-钓鱼！_merged_EVIDENCE_FRAME_03_003180s.jpg",
       "/data/streams/kloa/2026_09_14_20_04_38/录制-1986461465-20260914-200438-900-钓鱼！_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -35,8 +68,6 @@
     "highlights": "/data/streams/kloa/2026_09_13_14_06_31/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_13_14_06_31/录制-1986461465-20260913-140631-389-歌杂~呜啊好困_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_13_14_06_31/录制-1986461465-20260913-140631-389-歌杂~呜啊好困_EVIDENCE_FRAME_01_002160s.jpg",
-      "/data/streams/kloa/2026_09_13_14_06_31/录制-1986461465-20260913-140631-389-歌杂~呜啊好困_EVIDENCE_FRAME_02_011280s.jpg",
       "/data/streams/kloa/2026_09_13_14_06_31/录制-1986461465-20260913-140631-389-歌杂~呜啊好困_SCREENSHOTS.jpg"
     ]
   },
@@ -54,10 +85,6 @@
     "cover": "/data/streams/kloa/2026_09_12_20_08_55/录制-1986461465-20260912-200855-055-写写周表~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_09_12_20_08_55/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_09_12_20_08_55/录制-1986461465-20260912-200855-055-写写周表~_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_09_12_20_08_55/录制-1986461465-20260912-200855-055-写写周表~_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_09_12_20_08_55/录制-1986461465-20260912-200855-055-写写周表~_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/kloa/2026_09_12_20_08_55/录制-1986461465-20260912-200855-055-写写周表~_merged_EVIDENCE_REQUEST_E4.jpg",
       "/data/streams/kloa/2026_09_12_20_08_55/录制-1986461465-20260912-200855-055-写写周表~_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -75,10 +102,6 @@
     "cover": "/data/streams/kloa/2026_09_12_12_04_25/录制-1986461465-20260912-120425-309-学习人类知识.cover.jpg",
     "highlights": "/data/streams/kloa/2026_09_12_12_04_25/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_09_12_12_04_25/录制-1986461465-20260912-120425-309-学习人类知识_EVIDENCE_FRAME_01_001080s.jpg",
-      "/data/streams/kloa/2026_09_12_12_04_25/录制-1986461465-20260912-120425-309-学习人类知识_EVIDENCE_FRAME_02_004140s.jpg",
-      "/data/streams/kloa/2026_09_12_12_04_25/录制-1986461465-20260912-120425-309-学习人类知识_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_09_12_12_04_25/录制-1986461465-20260912-120425-309-学习人类知识_EVIDENCE_REQUEST_E4.jpg",
       "/data/streams/kloa/2026_09_12_12_04_25/录制-1986461465-20260912-120425-309-学习人类知识_SCREENSHOTS.jpg"
     ]
   },
@@ -97,10 +120,7 @@
     "highlights": "/data/streams/kloa/2026_09_11_21_05_29/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_EVIDENCE_FRAME_01_005160s.jpg",
-      "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_EVIDENCE_FRAME_02_010560s.jpg",
-      "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/kloa/2026_09_11_21_05_29/录制-1986461465-20260911-210529-883-汤沐电台～_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -118,10 +138,7 @@
     "highlights": "/data/streams/kloa/2026_09_11_09_04_13/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_EVIDENCE_FRAME_02_002460s.jpg",
-      "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_EVIDENCE_FRAME_03_007200s.jpg",
-      "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/kloa/2026_09_11_09_04_13/录制-1986461465-20260911-090413-792-早安~_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -139,10 +156,7 @@
     "highlights": "/data/streams/kloa/2026_09_09_20_02_50/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_09_20_02_50/录制-1986461465-20260909-200250-433-唱歌歌~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_09_20_02_50/录制-1986461465-20260909-200250-433-唱歌歌~_EVIDENCE_FRAME_01_000360s.jpg",
-      "/data/streams/kloa/2026_09_09_20_02_50/录制-1986461465-20260909-200250-433-唱歌歌~_EVIDENCE_FRAME_02_004020s.jpg",
-      "/data/streams/kloa/2026_09_09_20_02_50/录制-1986461465-20260909-200250-433-唱歌歌~_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_09_09_20_02_50/录制-1986461465-20260909-200250-433-唱歌歌~_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/kloa/2026_09_09_20_02_50/录制-1986461465-20260909-200250-433-唱歌歌~_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -160,10 +174,7 @@
     "highlights": "/data/streams/kloa/2026_09_09_14_04_14/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_09_14_04_14/录制-1986461465-20260909-140414-979-健身环！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_09_14_04_14/录制-1986461465-20260909-140414-979-健身环！_merged_EVIDENCE_FRAME_01_001080s.jpg",
-      "/data/streams/kloa/2026_09_09_14_04_14/录制-1986461465-20260909-140414-979-健身环！_merged_EVIDENCE_FRAME_02_001980s.jpg",
-      "/data/streams/kloa/2026_09_09_14_04_14/录制-1986461465-20260909-140414-979-健身环！_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/kloa/2026_09_09_14_04_14/录制-1986461465-20260909-140414-979-健身环！_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/kloa/2026_09_09_14_04_14/录制-1986461465-20260909-140414-979-健身环！_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -180,7 +191,7 @@
     "cover": "/data/streams/kloa/2026_09_09_00_38_44/录制-1986461465-20260909-003844-758-植物大战僵尸恐怖版.cover.jpg",
     "highlights": "/data/streams/kloa/2026_09_09_00_38_44/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_09_09_00_38_44/录制-1986461465-20260909-003844-758-植物大战僵尸恐怖版_EVIDENCE_FRAME_01_000000s.jpg"
+      "/data/streams/kloa/2026_09_09_00_38_44/录制-1986461465-20260909-003844-758-植物大战僵尸恐怖版_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -245,10 +256,7 @@
     "highlights": "/data/streams/kloa/2026_09_07_20_15_05/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_EVIDENCE_FRAME_01_010500s.jpg",
-      "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/kloa/2026_09_07_20_15_05/录制-1986461465-20260907-201505-676-歌回~_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -266,9 +274,6 @@
     "highlights": "/data/streams/kloa/2026_09_06_20_09_31/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_06_20_09_31/录制-1986461465-20260906-200931-584-水友游戏回~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_06_20_09_31/录制-1986461465-20260906-200931-584-水友游戏回~_EVIDENCE_FRAME_01_000600s.jpg",
-      "/data/streams/kloa/2026_09_06_20_09_31/录制-1986461465-20260906-200931-584-水友游戏回~_EVIDENCE_FRAME_02_011220s.jpg",
-      "/data/streams/kloa/2026_09_06_20_09_31/录制-1986461465-20260906-200931-584-水友游戏回~_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/kloa/2026_09_06_20_09_31/录制-1986461465-20260906-200931-584-水友游戏回~_SCREENSHOTS.jpg"
     ]
   },
@@ -287,8 +292,6 @@
     "highlights": "/data/streams/kloa/2026_09_06_12_03_12/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_06_12_03_12/录制-1986461465-20260906-120312-594-一起吃午饭_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_06_12_03_12/录制-1986461465-20260906-120312-594-一起吃午饭_EVIDENCE_FRAME_01_001980s.jpg",
-      "/data/streams/kloa/2026_09_06_12_03_12/录制-1986461465-20260906-120312-594-一起吃午饭_EVIDENCE_FRAME_02_006000s.jpg",
       "/data/streams/kloa/2026_09_06_12_03_12/录制-1986461465-20260906-120312-594-一起吃午饭_SCREENSHOTS.jpg"
     ]
   },
@@ -307,8 +310,6 @@
     "highlights": "/data/streams/kloa/2026_09_05_20_04_33/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌_EVIDENCE_FRAME_01_001380s.jpg",
-      "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/kloa/2026_09_05_20_04_33/录制-1986461465-20260905-200433-735-唱歌歌_SCREENSHOTS.jpg"
     ]
   },
@@ -327,9 +328,6 @@
     "highlights": "/data/streams/kloa/2026_09_05_12_33_20/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_EVIDENCE_FRAME_01_002220s.jpg",
-      "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_EVIDENCE_FRAME_02_006840s.jpg",
-      "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -438,9 +436,6 @@
     "highlights": "/data/streams/kloa/2026_09_04_21_39_54/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_04_21_39_54/录制-1986461465-20260904-213954-576-被窝电台～_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_04_21_39_54/录制-1986461465-20260904-213954-576-被窝电台～_merged_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/kloa/2026_09_04_21_39_54/录制-1986461465-20260904-213954-576-被窝电台～_merged_EVIDENCE_FRAME_02_001860s.jpg",
-      "/data/streams/kloa/2026_09_04_21_39_54/录制-1986461465-20260904-213954-576-被窝电台～_merged_EVIDENCE_FRAME_03_000540s.jpg",
       "/data/streams/kloa/2026_09_04_21_39_54/录制-1986461465-20260904-213954-576-被窝电台～_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -459,8 +454,6 @@
     "highlights": "/data/streams/kloa/2026_09_04_09_08_45/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_04_09_08_45/录制-1986461465-20260904-090845-524-早安大家~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_04_09_08_45/录制-1986461465-20260904-090845-524-早安大家~_merged_EVIDENCE_FRAME_01_001800s.jpg",
-      "/data/streams/kloa/2026_09_04_09_08_45/录制-1986461465-20260904-090845-524-早安大家~_merged_EVIDENCE_FRAME_02_000720s.jpg",
       "/data/streams/kloa/2026_09_04_09_08_45/录制-1986461465-20260904-090845-524-早安大家~_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -479,8 +472,6 @@
     "highlights": "/data/streams/kloa/2026_09_02_20_02_55/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_02_20_02_55/录制-1986461465-20260902-200255-469-唱歌歌~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_02_20_02_55/录制-1986461465-20260902-200255-469-唱歌歌~_EVIDENCE_FRAME_01_010680s.jpg",
-      "/data/streams/kloa/2026_09_02_20_02_55/录制-1986461465-20260902-200255-469-唱歌歌~_EVIDENCE_FRAME_02_011340s.jpg",
       "/data/streams/kloa/2026_09_02_20_02_55/录制-1986461465-20260902-200255-469-唱歌歌~_SCREENSHOTS.jpg"
     ]
   },
@@ -499,8 +490,6 @@
     "highlights": "/data/streams/kloa/2026_09_02_14_07_11/highlights.md",
     "images": [
       "/data/streams/kloa/2026_09_02_14_07_11/录制-1986461465-20260902-140711-338-来跳舞吧！_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_02_14_07_11/录制-1986461465-20260902-140711-338-来跳舞吧！_EVIDENCE_FRAME_01_000660s.jpg",
-      "/data/streams/kloa/2026_09_02_14_07_11/录制-1986461465-20260902-140711-338-来跳舞吧！_EVIDENCE_FRAME_02_002820s.jpg",
       "/data/streams/kloa/2026_09_02_14_07_11/录制-1986461465-20260902-140711-338-来跳舞吧！_SCREENSHOTS.jpg"
     ]
   },
@@ -518,11 +507,7 @@
     "cover": "/data/streams/kloa/2026_09_01_20_10_41/录制-1986461465-20260901-201041-119-来当一下经纪人.cover.jpg",
     "highlights": "/data/streams/kloa/2026_09_01_20_10_41/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_09_01_20_10_41/录制-1986461465-20260901-201041-119-来当一下经纪人_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_01_20_10_41/录制-1986461465-20260901-201041-119-来当一下经纪人_merged_EVIDENCE_FRAME_01_000420s.jpg",
-      "/data/streams/kloa/2026_09_01_20_10_41/录制-1986461465-20260901-201041-119-来当一下经纪人_merged_EVIDENCE_FRAME_02_012660s.jpg",
-      "/data/streams/kloa/2026_09_01_20_10_41/录制-1986461465-20260901-201041-119-来当一下经纪人_merged_EVIDENCE_FRAME_03_015240s.jpg",
-      "/data/streams/kloa/2026_09_01_20_10_41/录制-1986461465-20260901-201041-119-来当一下经纪人_merged_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/kloa/2026_09_01_20_10_41/录制-1986461465-20260901-201041-119-来当一下经纪人_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -539,11 +524,7 @@
     "cover": "/data/streams/kloa/2026_09_01_09_04_40/录制-1986461465-20260901-090440-967-歌杂~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_09_01_09_04_40/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_09_01_09_04_40/录制-1986461465-20260901-090440-967-歌杂~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_09_01_09_04_40/录制-1986461465-20260901-090440-967-歌杂~_merged_EVIDENCE_FRAME_01_003960s.jpg",
-      "/data/streams/kloa/2026_09_01_09_04_40/录制-1986461465-20260901-090440-967-歌杂~_merged_EVIDENCE_FRAME_02_004500s.jpg",
-      "/data/streams/kloa/2026_09_01_09_04_40/录制-1986461465-20260901-090440-967-歌杂~_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_09_01_09_04_40/录制-1986461465-20260901-090440-967-歌杂~_merged_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/kloa/2026_09_01_09_04_40/录制-1986461465-20260901-090440-967-歌杂~_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -561,8 +542,6 @@
     "highlights": "/data/streams/kloa/2026_08_31_20_07_38/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_31_20_07_38/录制-1986461465-20260831-200738-225-歌杂~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_31_20_07_38/录制-1986461465-20260831-200738-225-歌杂~_EVIDENCE_FRAME_01_000480s.jpg",
-      "/data/streams/kloa/2026_08_31_20_07_38/录制-1986461465-20260831-200738-225-歌杂~_EVIDENCE_FRAME_02_013500s.jpg",
       "/data/streams/kloa/2026_08_31_20_07_38/录制-1986461465-20260831-200738-225-歌杂~_SCREENSHOTS.jpg"
     ]
   },
@@ -580,11 +559,7 @@
     "cover": "/data/streams/kloa/2026_08_30_20_07_15/录制-1986461465-20260830-200715-289-啵啵唇印明信片.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_30_20_07_15/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_30_20_07_15/录制-1986461465-20260830-200715-289-啵啵唇印明信片_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_30_20_07_15/录制-1986461465-20260830-200715-289-啵啵唇印明信片_EVIDENCE_FRAME_01_000720s.jpg",
-      "/data/streams/kloa/2026_08_30_20_07_15/录制-1986461465-20260830-200715-289-啵啵唇印明信片_EVIDENCE_FRAME_02_000900s.jpg",
-      "/data/streams/kloa/2026_08_30_20_07_15/录制-1986461465-20260830-200715-289-啵啵唇印明信片_EVIDENCE_FRAME_03_001800s.jpg",
-      "/data/streams/kloa/2026_08_30_20_07_15/录制-1986461465-20260830-200715-289-啵啵唇印明信片_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/kloa/2026_08_30_20_07_15/录制-1986461465-20260830-200715-289-啵啵唇印明信片_COMIC_FACTORY.png"
     ]
   },
   {
@@ -602,8 +577,6 @@
     "highlights": "/data/streams/kloa/2026_08_30_14_04_29/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_30_14_04_29/录制-1986461465-20260830-140429-800-歌杂_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_30_14_04_29/录制-1986461465-20260830-140429-800-歌杂_EVIDENCE_FRAME_01_000300s.jpg",
-      "/data/streams/kloa/2026_08_30_14_04_29/录制-1986461465-20260830-140429-800-歌杂_EVIDENCE_FRAME_02_008760s.jpg",
       "/data/streams/kloa/2026_08_30_14_04_29/录制-1986461465-20260830-140429-800-歌杂_SCREENSHOTS.jpg"
     ]
   },
@@ -621,11 +594,7 @@
     "cover": "/data/streams/kloa/2026_08_29_20_09_29/录制-1986461465-20260829-200929-572-唱歌歌~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_29_20_09_29/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_29_20_09_29/录制-1986461465-20260829-200929-572-唱歌歌~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_29_20_09_29/录制-1986461465-20260829-200929-572-唱歌歌~_merged_EVIDENCE_FRAME_01_002700s.jpg",
-      "/data/streams/kloa/2026_08_29_20_09_29/录制-1986461465-20260829-200929-572-唱歌歌~_merged_EVIDENCE_FRAME_02_005640s.jpg",
-      "/data/streams/kloa/2026_08_29_20_09_29/录制-1986461465-20260829-200929-572-唱歌歌~_merged_EVIDENCE_FRAME_03_014640s.jpg",
-      "/data/streams/kloa/2026_08_29_20_09_29/录制-1986461465-20260829-200929-572-唱歌歌~_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/kloa/2026_08_29_20_09_29/录制-1986461465-20260829-200929-572-唱歌歌~_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -643,8 +612,6 @@
     "highlights": "/data/streams/kloa/2026_08_29_12_02_16/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_29_12_02_16/录制-1986461465-20260829-120216-460-一起吃午饭~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_29_12_02_16/录制-1986461465-20260829-120216-460-一起吃午饭~_EVIDENCE_FRAME_01_006300s.jpg",
-      "/data/streams/kloa/2026_08_29_12_02_16/录制-1986461465-20260829-120216-460-一起吃午饭~_EVIDENCE_FRAME_02_006540s.jpg",
       "/data/streams/kloa/2026_08_29_12_02_16/录制-1986461465-20260829-120216-460-一起吃午饭~_SCREENSHOTS.jpg"
     ]
   },
@@ -662,11 +629,7 @@
     "cover": "/data/streams/kloa/2026_08_28_21_09_20/录制-1986461465-20260828-210920-314-汤沐回～.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_28_21_09_20/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_28_21_09_20/录制-1986461465-20260828-210920-314-汤沐回～_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_28_21_09_20/录制-1986461465-20260828-210920-314-汤沐回～_merged_EVIDENCE_FRAME_01_003600s.jpg",
-      "/data/streams/kloa/2026_08_28_21_09_20/录制-1986461465-20260828-210920-314-汤沐回～_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_28_21_09_20/录制-1986461465-20260828-210920-314-汤沐回～_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_08_28_21_09_20/录制-1986461465-20260828-210920-314-汤沐回～_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/kloa/2026_08_28_21_09_20/录制-1986461465-20260828-210920-314-汤沐回～_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -684,9 +647,6 @@
     "highlights": "/data/streams/kloa/2026_08_28_15_04_20/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_28_15_04_20/录制-1986461465-20260828-150420-463-运动回！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_28_15_04_20/录制-1986461465-20260828-150420-463-运动回！_merged_EVIDENCE_FRAME_01_003000s.jpg",
-      "/data/streams/kloa/2026_08_28_15_04_20/录制-1986461465-20260828-150420-463-运动回！_merged_EVIDENCE_FRAME_02_003240s.jpg",
-      "/data/streams/kloa/2026_08_28_15_04_20/录制-1986461465-20260828-150420-463-运动回！_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/kloa/2026_08_28_15_04_20/录制-1986461465-20260828-150420-463-运动回！_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -704,7 +664,6 @@
     "cover": "/data/streams/kloa/2026_08_27_15_20_38/录制-1986461465-20260827-152038-862-帮忙撸一下猫.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_27_15_20_38/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_27_15_20_38/录制-1986461465-20260827-152038-862-帮忙撸一下猫_EVIDENCE_FRAME_01_000060s.jpg",
       "/data/streams/kloa/2026_08_27_15_20_38/录制-1986461465-20260827-152038-862-帮忙撸一下猫_SCREENSHOTS.jpg"
     ]
   },
@@ -722,11 +681,7 @@
     "cover": "/data/streams/kloa/2026_08_26_20_03_41/录制-1986461465-20260826-200341-687-big walk！.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_26_20_03_41/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_26_20_03_41/录制-1986461465-20260826-200341-687-big walk！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_26_20_03_41/录制-1986461465-20260826-200341-687-big walk！_merged_EVIDENCE_FRAME_01_001020s.jpg",
-      "/data/streams/kloa/2026_08_26_20_03_41/录制-1986461465-20260826-200341-687-big walk！_merged_EVIDENCE_FRAME_02_004140s.jpg",
-      "/data/streams/kloa/2026_08_26_20_03_41/录制-1986461465-20260826-200341-687-big walk！_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/kloa/2026_08_26_20_03_41/录制-1986461465-20260826-200341-687-big walk！_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/kloa/2026_08_26_20_03_41/录制-1986461465-20260826-200341-687-big walk！_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -744,9 +699,6 @@
     "highlights": "/data/streams/kloa/2026_08_26_10_34_45/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_26_10_34_45/录制-1986461465-20260826-103445-516-迟到了呜啊啊啊歌杂_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_26_10_34_45/录制-1986461465-20260826-103445-516-迟到了呜啊啊啊歌杂_merged_EVIDENCE_FRAME_01_000960s.jpg",
-      "/data/streams/kloa/2026_08_26_10_34_45/录制-1986461465-20260826-103445-516-迟到了呜啊啊啊歌杂_merged_EVIDENCE_FRAME_02_001140s.jpg",
-      "/data/streams/kloa/2026_08_26_10_34_45/录制-1986461465-20260826-103445-516-迟到了呜啊啊啊歌杂_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/kloa/2026_08_26_10_34_45/录制-1986461465-20260826-103445-516-迟到了呜啊啊啊歌杂_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -764,11 +716,7 @@
     "cover": "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_25_20_07_20/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_EVIDENCE_FRAME_01_000360s.jpg",
-      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_EVIDENCE_FRAME_02_000540s.jpg",
-      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_EVIDENCE_FRAME_03_010080s.jpg",
-      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_EVIDENCE_FRAME_04_011700s.jpg"
+      "/data/streams/kloa/2026_08_25_20_07_20/录制-1986461465-20260825-200720-659-本所~_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -786,9 +734,6 @@
     "highlights": "/data/streams/kloa/2026_08_25_09_11_35/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_EVIDENCE_FRAME_01_006120s.jpg",
-      "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_EVIDENCE_FRAME_02_002700s.jpg",
-      "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_EVIDENCE_FRAME_03_004380s.jpg",
       "/data/streams/kloa/2026_08_25_09_11_35/录制-1986461465-20260825-091135-805-好 hot！_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -807,9 +752,6 @@
     "highlights": "/data/streams/kloa/2026_08_24_20_04_27/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_24_20_04_27/录制-1986461465-20260824-200427-791-唱歌歌！_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_24_20_04_27/录制-1986461465-20260824-200427-791-唱歌歌！_EVIDENCE_FRAME_01_000540s.jpg",
-      "/data/streams/kloa/2026_08_24_20_04_27/录制-1986461465-20260824-200427-791-唱歌歌！_EVIDENCE_FRAME_02_002340s.jpg",
-      "/data/streams/kloa/2026_08_24_20_04_27/录制-1986461465-20260824-200427-791-唱歌歌！_EVIDENCE_FRAME_03_013200s.jpg",
       "/data/streams/kloa/2026_08_24_20_04_27/录制-1986461465-20260824-200427-791-唱歌歌！_SCREENSHOTS.jpg"
     ]
   },
@@ -827,11 +769,7 @@
     "cover": "/data/streams/kloa/2026_08_23_20_10_58/录制-1986461465-20260823-201058-631-写写周表~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_23_20_10_58/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_23_20_10_58/录制-1986461465-20260823-201058-631-写写周表~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_23_20_10_58/录制-1986461465-20260823-201058-631-写写周表~_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_23_20_10_58/录制-1986461465-20260823-201058-631-写写周表~_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_08_23_20_10_58/录制-1986461465-20260823-201058-631-写写周表~_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/kloa/2026_08_23_20_10_58/录制-1986461465-20260823-201058-631-写写周表~_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/kloa/2026_08_23_20_10_58/录制-1986461465-20260823-201058-631-写写周表~_COMIC_FACTORY.png"
     ]
   },
   {
@@ -848,11 +786,7 @@
     "cover": "/data/streams/kloa/2026_08_23_14_34_58/录制-1986461465-20260823-143458-444-歌杂~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_23_14_34_58/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_23_14_34_58/录制-1986461465-20260823-143458-444-歌杂~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_23_14_34_58/录制-1986461465-20260823-143458-444-歌杂~_merged_EVIDENCE_FRAME_01_001380s.jpg",
-      "/data/streams/kloa/2026_08_23_14_34_58/录制-1986461465-20260823-143458-444-歌杂~_merged_EVIDENCE_FRAME_02_001800s.jpg",
-      "/data/streams/kloa/2026_08_23_14_34_58/录制-1986461465-20260823-143458-444-歌杂~_merged_EVIDENCE_FRAME_03_003180s.jpg",
-      "/data/streams/kloa/2026_08_23_14_34_58/录制-1986461465-20260823-143458-444-歌杂~_merged_EVIDENCE_FRAME_04_001440s.jpg"
+      "/data/streams/kloa/2026_08_23_14_34_58/录制-1986461465-20260823-143458-444-歌杂~_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -870,9 +804,6 @@
     "highlights": "/data/streams/kloa/2026_08_22_20_00_25/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged_EVIDENCE_FRAME_01_006960s.jpg",
-      "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged_EVIDENCE_FRAME_02_011640s.jpg",
-      "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged_EVIDENCE_FRAME_03_012240s.jpg",
       "/data/streams/kloa/2026_08_22_20_00_25/录制-1986461465-20260822-200025-063-唱歌歌~_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -890,11 +821,7 @@
     "cover": "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_22_12_21_12/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_EVIDENCE_FRAME_02_000780s.jpg",
-      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_EVIDENCE_FRAME_03_006480s.jpg",
-      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/kloa/2026_08_22_12_21_12/录制-1986461465-20260822-122112-612-吃午饭_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -911,11 +838,7 @@
     "cover": "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_21_20_03_09/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_EVIDENCE_FRAME_01_000720s.jpg",
-      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_EVIDENCE_FRAME_02_009420s.jpg",
-      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/kloa/2026_08_21_20_03_09/录制-1986461465-20260821-200309-337-致命公司联动！_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -933,9 +856,6 @@
     "highlights": "/data/streams/kloa/2026_08_21_09_08_19/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡_EVIDENCE_FRAME_01_004800s.jpg",
-      "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡_EVIDENCE_FRAME_02_012720s.jpg",
-      "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/kloa/2026_08_21_09_08_19/录制-1986461465-20260821-090819-485-早上好（瞌睡_SCREENSHOTS.jpg"
     ]
   },
@@ -953,11 +873,7 @@
     "cover": "/data/streams/kloa/2026_08_20_20_05_42/录制-1986461465-20260820-200542-646-来织围巾！！.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_20_20_05_42/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_20_20_05_42/录制-1986461465-20260820-200542-646-来织围巾！！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_20_20_05_42/录制-1986461465-20260820-200542-646-来织围巾！！_merged_EVIDENCE_FRAME_01_002220s.jpg",
-      "/data/streams/kloa/2026_08_20_20_05_42/录制-1986461465-20260820-200542-646-来织围巾！！_merged_EVIDENCE_FRAME_02_005400s.jpg",
-      "/data/streams/kloa/2026_08_20_20_05_42/录制-1986461465-20260820-200542-646-来织围巾！！_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_20_20_05_42/录制-1986461465-20260820-200542-646-来织围巾！！_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/kloa/2026_08_20_20_05_42/录制-1986461465-20260820-200542-646-来织围巾！！_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -974,11 +890,7 @@
     "cover": "/data/streams/kloa/2026_08_20_14_06_32/录制-1986461465-20260820-140632-020-午间歌回~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_20_14_06_32/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_20_14_06_32/录制-1986461465-20260820-140632-020-午间歌回~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_20_14_06_32/录制-1986461465-20260820-140632-020-午间歌回~_merged_EVIDENCE_FRAME_01_001260s.jpg",
-      "/data/streams/kloa/2026_08_20_14_06_32/录制-1986461465-20260820-140632-020-午间歌回~_merged_EVIDENCE_FRAME_02_003480s.jpg",
-      "/data/streams/kloa/2026_08_20_14_06_32/录制-1986461465-20260820-140632-020-午间歌回~_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_20_14_06_32/录制-1986461465-20260820-140632-020-午间歌回~_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/kloa/2026_08_20_14_06_32/录制-1986461465-20260820-140632-020-午间歌回~_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -996,9 +908,6 @@
     "highlights": "/data/streams/kloa/2026_08_19_20_04_36/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged_EVIDENCE_FRAME_01_000780s.jpg",
-      "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged_EVIDENCE_FRAME_02_000240s.jpg",
-      "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/kloa/2026_08_19_20_04_36/录制-1986461465-20260819-200436-199-过七夕啦~_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1016,11 +925,7 @@
     "cover": null,
     "highlights": "/data/streams/kloa/2026_08_19_15_16_24/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_EVIDENCE_FRAME_01_004680s.jpg",
-      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_EVIDENCE_FRAME_02_003840s.jpg",
-      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_EVIDENCE_FRAME_03_005040s.jpg",
-      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_EVIDENCE_FRAME_04_003900s.jpg"
+      "/data/streams/kloa/2026_08_19_15_16_24/录制-1986461465-20260819-151624-501-虚弱中睡不着也吃不下_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1037,11 +942,7 @@
     "cover": "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_19_10_04_24/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_EVIDENCE_FRAME_01_001440s.jpg",
-      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_EVIDENCE_FRAME_02_005160s.jpg",
-      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_EVIDENCE_FRAME_03_000480s.jpg",
-      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/kloa/2026_08_19_10_04_24/录制-1986461465-20260819-100424-475-七夕的约会地点是伪人超市？_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1058,11 +959,7 @@
     "cover": "/data/streams/kloa/2026_08_18_09_04_12/录制-1986461465-20260818-090412-023-早安~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_18_09_04_12/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_18_09_04_12/录制-1986461465-20260818-090412-023-早安~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_18_09_04_12/录制-1986461465-20260818-090412-023-早安~_EVIDENCE_FRAME_01_005520s.jpg",
-      "/data/streams/kloa/2026_08_18_09_04_12/录制-1986461465-20260818-090412-023-早安~_EVIDENCE_FRAME_02_004260s.jpg",
-      "/data/streams/kloa/2026_08_18_09_04_12/录制-1986461465-20260818-090412-023-早安~_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_08_18_09_04_12/录制-1986461465-20260818-090412-023-早安~_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/kloa/2026_08_18_09_04_12/录制-1986461465-20260818-090412-023-早安~_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1079,11 +976,7 @@
     "cover": "/data/streams/kloa/2026_08_17_21_01_45/录制-1986461465-20260817-210145-382-机械狂欢！.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_17_21_01_45/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_17_21_01_45/录制-1986461465-20260817-210145-382-机械狂欢！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_17_21_01_45/录制-1986461465-20260817-210145-382-机械狂欢！_merged_EVIDENCE_FRAME_01_000720s.jpg",
-      "/data/streams/kloa/2026_08_17_21_01_45/录制-1986461465-20260817-210145-382-机械狂欢！_merged_EVIDENCE_FRAME_02_001500s.jpg",
-      "/data/streams/kloa/2026_08_17_21_01_45/录制-1986461465-20260817-210145-382-机械狂欢！_merged_EVIDENCE_FRAME_03_002880s.jpg",
-      "/data/streams/kloa/2026_08_17_21_01_45/录制-1986461465-20260817-210145-382-机械狂欢！_merged_EVIDENCE_FRAME_04_004080s.jpg"
+      "/data/streams/kloa/2026_08_17_21_01_45/录制-1986461465-20260817-210145-382-机械狂欢！_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1115,9 +1008,7 @@
     "cover": "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_16_15_46_25/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下_merged_EVIDENCE_FRAME_01_000720s.jpg",
-      "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下_merged_EVIDENCE_FRAME_02_006300s.jpg"
+      "/data/streams/kloa/2026_08_16_15_46_25/录制-1986461465-20260816-154625-943-歌杂一下_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1151,9 +1042,7 @@
     "cover": "/data/streams/kloa/2026_08_15_10_04_22/录制-1986461465-20260815-100422-092-早安歌杂~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_15_10_04_22/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_15_10_04_22/录制-1986461465-20260815-100422-092-早安歌杂~_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_15_10_04_22/录制-1986461465-20260815-100422-092-早安歌杂~_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_15_10_04_22/录制-1986461465-20260815-100422-092-早安歌杂~_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/kloa/2026_08_15_10_04_22/录制-1986461465-20260815-100422-092-早安歌杂~_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1171,9 +1060,6 @@
     "highlights": "/data/streams/kloa/2026_08_14_21_02_34/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_14_21_02_34/录制-1986461465-20260814-210234-802-克罗雅家的晚饭！！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_14_21_02_34/录制-1986461465-20260814-210234-802-克罗雅家的晚饭！！_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_14_21_02_34/录制-1986461465-20260814-210234-802-克罗雅家的晚饭！！_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_08_14_21_02_34/录制-1986461465-20260814-210234-802-克罗雅家的晚饭！！_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/kloa/2026_08_14_21_02_34/录制-1986461465-20260814-210234-802-克罗雅家的晚饭！！_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1191,11 +1077,7 @@
     "cover": "/data/streams/kloa/2026_08_14_10_06_15/录制-1986461465-20260814-100615-047-大家…...cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_14_10_06_15/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_14_10_06_15/录制-1986461465-20260814-100615-047-大家….._merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_14_10_06_15/录制-1986461465-20260814-100615-047-大家….._merged_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/kloa/2026_08_14_10_06_15/录制-1986461465-20260814-100615-047-大家….._merged_EVIDENCE_FRAME_02_005040s.jpg",
-      "/data/streams/kloa/2026_08_14_10_06_15/录制-1986461465-20260814-100615-047-大家….._merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_08_14_10_06_15/录制-1986461465-20260814-100615-047-大家….._merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/kloa/2026_08_14_10_06_15/录制-1986461465-20260814-100615-047-大家….._merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1212,11 +1094,7 @@
     "cover": "/data/streams/kloa/2026_08_13_21_46_24/录制-1986461465-20260813-214624-247-蔻蔻雅雅骑单车.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_13_21_46_24/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_13_21_46_24/录制-1986461465-20260813-214624-247-蔻蔻雅雅骑单车_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_13_21_46_24/录制-1986461465-20260813-214624-247-蔻蔻雅雅骑单车_EVIDENCE_FRAME_01_004080s.jpg",
-      "/data/streams/kloa/2026_08_13_21_46_24/录制-1986461465-20260813-214624-247-蔻蔻雅雅骑单车_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_13_21_46_24/录制-1986461465-20260813-214624-247-蔻蔻雅雅骑单车_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_08_13_21_46_24/录制-1986461465-20260813-214624-247-蔻蔻雅雅骑单车_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/kloa/2026_08_13_21_46_24/录制-1986461465-20260813-214624-247-蔻蔻雅雅骑单车_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1234,8 +1112,6 @@
     "highlights": "/data/streams/kloa/2026_08_12_22_02_58/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_12_22_02_58/录制-1986461465-20260812-220258-472-躲猫猫！_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_12_22_02_58/录制-1986461465-20260812-220258-472-躲猫猫！_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_12_22_02_58/录制-1986461465-20260812-220258-472-躲猫猫！_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/kloa/2026_08_12_22_02_58/录制-1986461465-20260812-220258-472-躲猫猫！_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1254,8 +1130,6 @@
     "highlights": "/data/streams/kloa/2026_08_12_10_08_18/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_12_10_08_18/录制-1986461465-20260812-100818-694-早上好！可能..没法健身环？_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_12_10_08_18/录制-1986461465-20260812-100818-694-早上好！可能..没法健身环？_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_12_10_08_18/录制-1986461465-20260812-100818-694-早上好！可能..没法健身环？_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/kloa/2026_08_12_10_08_18/录制-1986461465-20260812-100818-694-早上好！可能..没法健身环？_SCREENSHOTS.jpg"
     ]
   },
@@ -1274,8 +1148,6 @@
     "highlights": "/data/streams/kloa/2026_08_11_20_12_21/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/kloa/2026_08_11_20_12_21/录制-1986461465-20260811-201221-513-唱歌歌_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1308,11 +1180,7 @@
     "cover": "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_10_21_32_52/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/kloa/2026_08_10_21_32_52/录制-1986461465-20260810-213252-708-晚安歌杂~_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1329,9 +1197,7 @@
     "cover": "/data/streams/kloa/2026_08_09_20_06_46/录制-1986461465-20260809-200646-006-夏日恐怖挑战~玩玩本所.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_09_20_06_46/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_09_20_06_46/录制-1986461465-20260809-200646-006-夏日恐怖挑战~玩玩本所_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_09_20_06_46/录制-1986461465-20260809-200646-006-夏日恐怖挑战~玩玩本所_EVIDENCE_FRAME_01_001260s.jpg",
-      "/data/streams/kloa/2026_08_09_20_06_46/录制-1986461465-20260809-200646-006-夏日恐怖挑战~玩玩本所_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/kloa/2026_08_09_20_06_46/录制-1986461465-20260809-200646-006-夏日恐怖挑战~玩玩本所_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1348,9 +1214,7 @@
     "cover": "/data/streams/kloa/2026_08_09_17_53_45/录制-1986461465-20260809-175345-723-歌杂一会儿~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_09_17_53_45/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_09_17_53_45/录制-1986461465-20260809-175345-723-歌杂一会儿~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_09_17_53_45/录制-1986461465-20260809-175345-723-歌杂一会儿~_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_09_17_53_45/录制-1986461465-20260809-175345-723-歌杂一会儿~_merged_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/kloa/2026_08_09_17_53_45/录制-1986461465-20260809-175345-723-歌杂一会儿~_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1397,11 +1261,7 @@
     "cover": "/data/streams/kloa/2026_08_08_20_03_32/录制-1986461465-20260808-200332-804-晚间唱唱歌~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_08_20_03_32/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_08_20_03_32/录制-1986461465-20260808-200332-804-晚间唱唱歌~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_08_20_03_32/录制-1986461465-20260808-200332-804-晚间唱唱歌~_merged_EVIDENCE_FRAME_01_000900s.jpg",
-      "/data/streams/kloa/2026_08_08_20_03_32/录制-1986461465-20260808-200332-804-晚间唱唱歌~_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_08_08_20_03_32/录制-1986461465-20260808-200332-804-晚间唱唱歌~_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/kloa/2026_08_08_20_03_32/录制-1986461465-20260808-200332-804-晚间唱唱歌~_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/kloa/2026_08_08_20_03_32/录制-1986461465-20260808-200332-804-晚间唱唱歌~_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1419,8 +1279,6 @@
     "highlights": "/data/streams/kloa/2026_08_08_10_06_51/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_08_10_06_51/录制-1986461465-20260808-100651-812-早安~玩玩本所_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_08_10_06_51/录制-1986461465-20260808-100651-812-早安~玩玩本所_EVIDENCE_FRAME_01_005220s.jpg",
-      "/data/streams/kloa/2026_08_08_10_06_51/录制-1986461465-20260808-100651-812-早安~玩玩本所_EVIDENCE_REQUEST_E1.jpg",
       "/data/streams/kloa/2026_08_08_10_06_51/录制-1986461465-20260808-100651-812-早安~玩玩本所_SCREENSHOTS.jpg"
     ]
   },
@@ -1490,9 +1348,6 @@
     "highlights": "/data/streams/kloa/2026_08_06_20_03_54/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！_EVIDENCE_FRAME_01_000660s.jpg",
-      "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/kloa/2026_08_06_20_03_54/录制-1986461465-20260806-200354-160-来唱歌！！_SCREENSHOTS.jpg"
     ]
   },
@@ -1511,8 +1366,6 @@
     "highlights": "/data/streams/kloa/2026_08_06_10_04_17/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~_merged_EVIDENCE_FRAME_01_005580s.jpg",
-      "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~_merged_EVIDENCE_REQUEST_E1.jpg",
       "/data/streams/kloa/2026_08_06_10_04_17/录制-1986461465-20260806-100417-168-虽然是早上但是来点恐怖的！本所~_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1531,8 +1384,6 @@
     "highlights": "/data/streams/kloa/2026_08_05_20_04_16/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩_merged_EVIDENCE_FRAME_01_014520s.jpg",
-      "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩_merged_EVIDENCE_REQUEST_E1.jpg",
       "/data/streams/kloa/2026_08_05_20_04_16/录制-1986461465-20260805-200416-037-蔻雅玩玩_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1551,9 +1402,6 @@
     "highlights": "/data/streams/kloa/2026_08_05_10_02_10/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged_EVIDENCE_FRAME_01_014220s.jpg",
-      "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/kloa/2026_08_05_10_02_10/录制-1986461465-20260805-100210-029-早餐~健身环~_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1572,8 +1420,6 @@
     "highlights": "/data/streams/kloa/2026_08_04_20_05_30/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_04_20_05_30/录制-1986461465-20260804-200530-631-外语歌回~_merged_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_04_20_05_30/录制-1986461465-20260804-200530-631-外语歌回~_merged_EVIDENCE_FRAME_01_004680s.jpg",
-      "/data/streams/kloa/2026_08_04_20_05_30/录制-1986461465-20260804-200530-631-外语歌回~_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/kloa/2026_08_04_20_05_30/录制-1986461465-20260804-200530-631-外语歌回~_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1592,8 +1438,6 @@
     "highlights": "/data/streams/kloa/2026_08_04_09_07_34/highlights.md",
     "images": [
       "/data/streams/kloa/2026_08_04_09_07_34/录制-1986461465-20260804-090734-879-早上好宝们！！_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_04_09_07_34/录制-1986461465-20260804-090734-879-早上好宝们！！_EVIDENCE_FRAME_01_001980s.jpg",
-      "/data/streams/kloa/2026_08_04_09_07_34/录制-1986461465-20260804-090734-879-早上好宝们！！_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/kloa/2026_08_04_09_07_34/录制-1986461465-20260804-090734-879-早上好宝们！！_SCREENSHOTS.jpg"
     ]
   },
@@ -1644,9 +1488,7 @@
     "cover": "/data/streams/kloa/2026_08_02_13_04_57/录制-1986461465-20260802-130457-889-午间歌杂~唔姆唔姆.cover.jpg",
     "highlights": "/data/streams/kloa/2026_08_02_13_04_57/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_08_02_13_04_57/录制-1986461465-20260802-130457-889-午间歌杂~唔姆唔姆_COMIC_FACTORY.png",
-      "/data/streams/kloa/2026_08_02_13_04_57/录制-1986461465-20260802-130457-889-午间歌杂~唔姆唔姆_EVIDENCE_FRAME_01_001260s.jpg",
-      "/data/streams/kloa/2026_08_02_13_04_57/录制-1986461465-20260802-130457-889-午间歌杂~唔姆唔姆_EVIDENCE_FRAME_02_002880s.jpg"
+      "/data/streams/kloa/2026_08_02_13_04_57/录制-1986461465-20260802-130457-889-午间歌杂~唔姆唔姆_COMIC_FACTORY.png"
     ]
   },
   {

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_15_19_23_30",
+    "title": "底特律初见 玩到结局",
+    "date": "2026-09-15",
+    "time": "19:23:30",
+    "startTime": "19:23",
+    "endTime": "23:48",
+    "duration": 15947,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/hazel/2026_09_15_19_23_30/录制-1713546334-20260915-192330-126-底特律初见 玩到结局_merged.srt",
+    "xml": "/data/streams/hazel/2026_09_15_19_23_30/录制-1713546334-20260915-192330-126-底特律初见 玩到结局_merged.xml",
+    "cover": "/data/streams/hazel/2026_09_15_19_23_30/录制-1713546334-20260915-192330-126-底特律初见 玩到结局.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_09_15_19_23_30/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_09_15_19_23_30/录制-1713546334-20260915-192330-126-底特律初见 玩到结局_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_09_15_19_23_30/录制-1713546334-20260915-192330-126-底特律初见 玩到结局_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_15_12_40_17",
+    "title": "电话一小会儿",
+    "date": "2026-09-15",
+    "time": "12:40:17",
+    "startTime": "12:40",
+    "endTime": "12:57",
+    "duration": 1038,
+    "durationStr": "0.3 小时",
+    "srt": "/data/streams/hazel/2026_09_15_12_40_17/录制-1713546334-20260915-124017-965-电话一小会儿.srt",
+    "xml": "/data/streams/hazel/2026_09_15_12_40_17/录制-1713546334-20260915-124017-965-电话一小会儿.xml",
+    "cover": "/data/streams/hazel/2026_09_15_12_40_17/录制-1713546334-20260915-124017-965-电话一小会儿.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_09_15_12_40_17/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_09_15_12_40_17/录制-1713546334-20260915-124017-965-电话一小会儿_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_09_15_12_40_17/录制-1713546334-20260915-124017-965-电话一小会儿_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_13_14_51_00",
     "title": "午安",
     "date": "2026-09-13",
@@ -14,9 +50,6 @@
     "highlights": "/data/streams/hazel/2026_09_13_14_51_00/highlights.md",
     "images": [
       "/data/streams/hazel/2026_09_13_14_51_00/录制-1713546334-20260913-145100-661-午安_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_13_14_51_00/录制-1713546334-20260913-145100-661-午安_EVIDENCE_FRAME_01_005520s.jpg",
-      "/data/streams/hazel/2026_09_13_14_51_00/录制-1713546334-20260913-145100-661-午安_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/hazel/2026_09_13_14_51_00/录制-1713546334-20260913-145100-661-午安_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/hazel/2026_09_13_14_51_00/录制-1713546334-20260913-145100-661-午安_SCREENSHOTS.jpg"
     ]
   },
@@ -34,10 +67,6 @@
     "cover": "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见.cover.jpg",
     "highlights": "/data/streams/hazel/2026_09_12_18_43_18/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged_EVIDENCE_FRAME_01_002940s.jpg",
-      "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged_EVIDENCE_FRAME_02_002520s.jpg",
-      "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged_EVIDENCE_REQUEST_E4.jpg",
       "/data/streams/hazel/2026_09_12_18_43_18/录制-1713546334-20260912-184318-988-底特律初见_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -56,9 +85,6 @@
     "highlights": "/data/streams/hazel/2026_09_11_21_37_19/highlights.md",
     "images": [
       "/data/streams/hazel/2026_09_11_21_37_19/录制-1713546334-20260911-213719-021-夜聊_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_11_21_37_19/录制-1713546334-20260911-213719-021-夜聊_merged_EVIDENCE_FRAME_01_003840s.jpg",
-      "/data/streams/hazel/2026_09_11_21_37_19/录制-1713546334-20260911-213719-021-夜聊_merged_EVIDENCE_FRAME_02_004140s.jpg",
-      "/data/streams/hazel/2026_09_11_21_37_19/录制-1713546334-20260911-213719-021-夜聊_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/hazel/2026_09_11_21_37_19/录制-1713546334-20260911-213719-021-夜聊_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -77,8 +103,6 @@
     "highlights": "/data/streams/hazel/2026_09_10_18_36_32/highlights.md",
     "images": [
       "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件_merged_EVIDENCE_FRAME_01_000780s.jpg",
-      "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件_merged_EVIDENCE_FRAME_02_001020s.jpg",
       "/data/streams/hazel/2026_09_10_18_36_32/录制-1713546334-20260910-183632-344-诡异广告调查事件_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -97,10 +121,7 @@
     "highlights": "/data/streams/hazel/2026_09_09_10_18_30/highlights.md",
     "images": [
       "/data/streams/hazel/2026_09_09_10_18_30/录制-1713546334-20260909-101830-323-青苹果味的早安_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_09_10_18_30/录制-1713546334-20260909-101830-323-青苹果味的早安_EVIDENCE_FRAME_01_000180s.jpg",
-      "/data/streams/hazel/2026_09_09_10_18_30/录制-1713546334-20260909-101830-323-青苹果味的早安_EVIDENCE_FRAME_02_001740s.jpg",
-      "/data/streams/hazel/2026_09_09_10_18_30/录制-1713546334-20260909-101830-323-青苹果味的早安_EVIDENCE_FRAME_03_003300s.jpg",
-      "/data/streams/hazel/2026_09_09_10_18_30/录制-1713546334-20260909-101830-323-青苹果味的早安_EVIDENCE_FRAME_04_007800s.jpg"
+      "/data/streams/hazel/2026_09_09_10_18_30/录制-1713546334-20260909-101830-323-青苹果味的早安_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -118,10 +139,7 @@
     "highlights": "/data/streams/hazel/2026_09_07_20_10_51/highlights.md",
     "images": [
       "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_EVIDENCE_FRAME_01_000480s.jpg",
-      "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/hazel/2026_09_07_20_10_51/录制-1713546334-20260907-201051-556-悠闲夜晚 玩一下网页_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -139,10 +157,7 @@
     "highlights": "/data/streams/hazel/2026_09_06_20_04_47/highlights.md",
     "images": [
       "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_EVIDENCE_FRAME_01_000480s.jpg",
-      "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_EVIDENCE_FRAME_02_004980s.jpg",
-      "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/hazel/2026_09_06_20_04_47/录制-1713546334-20260906-200447-461-上课_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -160,9 +175,6 @@
     "highlights": "/data/streams/hazel/2026_09_05_20_06_51/highlights.md",
     "images": [
       "/data/streams/hazel/2026_09_05_20_06_51/录制-1713546334-20260905-200651-009-你会按下按钮吗的游戏_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_05_20_06_51/录制-1713546334-20260905-200651-009-你会按下按钮吗的游戏_EVIDENCE_FRAME_01_000360s.jpg",
-      "/data/streams/hazel/2026_09_05_20_06_51/录制-1713546334-20260905-200651-009-你会按下按钮吗的游戏_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/hazel/2026_09_05_20_06_51/录制-1713546334-20260905-200651-009-你会按下按钮吗的游戏_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/hazel/2026_09_05_20_06_51/录制-1713546334-20260905-200651-009-你会按下按钮吗的游戏_SCREENSHOTS.jpg"
     ]
   },
@@ -196,10 +208,7 @@
     "highlights": "/data/streams/hazel/2026_09_04_22_01_07/highlights.md",
     "images": [
       "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_EVIDENCE_FRAME_01_003420s.jpg",
-      "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/hazel/2026_09_04_22_01_07/录制-1713546334-20260904-220107-128-土豆网络电台_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -216,11 +225,7 @@
     "cover": "/data/streams/hazel/2026_09_03_20_12_53/录制-1713546334-20260903-201253-597-电台一会儿.cover.jpg",
     "highlights": "/data/streams/hazel/2026_09_03_20_12_53/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_09_03_20_12_53/录制-1713546334-20260903-201253-597-电台一会儿_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_03_20_12_53/录制-1713546334-20260903-201253-597-电台一会儿_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/hazel/2026_09_03_20_12_53/录制-1713546334-20260903-201253-597-电台一会儿_EVIDENCE_FRAME_02_000240s.jpg",
-      "/data/streams/hazel/2026_09_03_20_12_53/录制-1713546334-20260903-201253-597-电台一会儿_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/hazel/2026_09_03_20_12_53/录制-1713546334-20260903-201253-597-电台一会儿_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/hazel/2026_09_03_20_12_53/录制-1713546334-20260903-201253-597-电台一会儿_COMIC_FACTORY.png"
     ]
   },
   {
@@ -237,11 +242,7 @@
     "cover": "/data/streams/hazel/2026_09_03_13_08_55/录制-1713546334-20260903-130855-027-联动 玩玩渔力全开.cover.jpg",
     "highlights": "/data/streams/hazel/2026_09_03_13_08_55/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_09_03_13_08_55/录制-1713546334-20260903-130855-027-联动 玩玩渔力全开_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_03_13_08_55/录制-1713546334-20260903-130855-027-联动 玩玩渔力全开_EVIDENCE_FRAME_01_000120s.jpg",
-      "/data/streams/hazel/2026_09_03_13_08_55/录制-1713546334-20260903-130855-027-联动 玩玩渔力全开_EVIDENCE_FRAME_02_002220s.jpg",
-      "/data/streams/hazel/2026_09_03_13_08_55/录制-1713546334-20260903-130855-027-联动 玩玩渔力全开_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/hazel/2026_09_03_13_08_55/录制-1713546334-20260903-130855-027-联动 玩玩渔力全开_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/hazel/2026_09_03_13_08_55/录制-1713546334-20260903-130855-027-联动 玩玩渔力全开_COMIC_FACTORY.png"
     ]
   },
   {
@@ -258,11 +259,7 @@
     "cover": "/data/streams/hazel/2026_09_02_10_19_13/录制-1713546334-20260902-101913-146-如此咖啡的一场早台.cover.jpg",
     "highlights": "/data/streams/hazel/2026_09_02_10_19_13/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_09_02_10_19_13/录制-1713546334-20260902-101913-146-如此咖啡的一场早台_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_09_02_10_19_13/录制-1713546334-20260902-101913-146-如此咖啡的一场早台_merged_EVIDENCE_FRAME_01_007800s.jpg",
-      "/data/streams/hazel/2026_09_02_10_19_13/录制-1713546334-20260902-101913-146-如此咖啡的一场早台_merged_EVIDENCE_FRAME_02_000000s.jpg",
-      "/data/streams/hazel/2026_09_02_10_19_13/录制-1713546334-20260902-101913-146-如此咖啡的一场早台_merged_EVIDENCE_FRAME_03_007860s.jpg",
-      "/data/streams/hazel/2026_09_02_10_19_13/录制-1713546334-20260902-101913-146-如此咖啡的一场早台_merged_EVIDENCE_FRAME_04_007920s.jpg"
+      "/data/streams/hazel/2026_09_02_10_19_13/录制-1713546334-20260902-101913-146-如此咖啡的一场早台_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -296,11 +293,7 @@
     "cover": "/data/streams/hazel/2026_08_31_19_00_43/录制-1713546334-20260831-190043-892-玩一下 闪耀优俊少女.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_31_19_00_43/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_31_19_00_43/录制-1713546334-20260831-190043-892-玩一下 闪耀优俊少女_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_31_19_00_43/录制-1713546334-20260831-190043-892-玩一下 闪耀优俊少女_EVIDENCE_FRAME_01_001080s.jpg",
-      "/data/streams/hazel/2026_08_31_19_00_43/录制-1713546334-20260831-190043-892-玩一下 闪耀优俊少女_EVIDENCE_FRAME_02_002880s.jpg",
-      "/data/streams/hazel/2026_08_31_19_00_43/录制-1713546334-20260831-190043-892-玩一下 闪耀优俊少女_EVIDENCE_FRAME_03_005580s.jpg",
-      "/data/streams/hazel/2026_08_31_19_00_43/录制-1713546334-20260831-190043-892-玩一下 闪耀优俊少女_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/hazel/2026_08_31_19_00_43/录制-1713546334-20260831-190043-892-玩一下 闪耀优俊少女_COMIC_FACTORY.png"
     ]
   },
   {
@@ -318,9 +311,6 @@
     "highlights": "/data/streams/hazel/2026_08_31_01_44_13/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_31_01_44_13/录制-1713546334-20260831-014413-346-晚上...还是早上_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_31_01_44_13/录制-1713546334-20260831-014413-346-晚上...还是早上_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/hazel/2026_08_31_01_44_13/录制-1713546334-20260831-014413-346-晚上...还是早上_EVIDENCE_FRAME_02_004080s.jpg",
-      "/data/streams/hazel/2026_08_31_01_44_13/录制-1713546334-20260831-014413-346-晚上...还是早上_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/hazel/2026_08_31_01_44_13/录制-1713546334-20260831-014413-346-晚上...还是早上_SCREENSHOTS.jpg"
     ]
   },
@@ -338,11 +328,7 @@
     "cover": "/data/streams/hazel/2026_08_29_18_58_25/录制-1713546334-20260829-185825-560-游玩 芙娅之魂.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_29_18_58_25/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_29_18_58_25/录制-1713546334-20260829-185825-560-游玩 芙娅之魂_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_29_18_58_25/录制-1713546334-20260829-185825-560-游玩 芙娅之魂_EVIDENCE_FRAME_01_000020s.jpg",
-      "/data/streams/hazel/2026_08_29_18_58_25/录制-1713546334-20260829-185825-560-游玩 芙娅之魂_EVIDENCE_FRAME_02_001500s.jpg",
-      "/data/streams/hazel/2026_08_29_18_58_25/录制-1713546334-20260829-185825-560-游玩 芙娅之魂_EVIDENCE_FRAME_03_001860s.jpg",
-      "/data/streams/hazel/2026_08_29_18_58_25/录制-1713546334-20260829-185825-560-游玩 芙娅之魂_EVIDENCE_FRAME_04_004260s.jpg"
+      "/data/streams/hazel/2026_08_29_18_58_25/录制-1713546334-20260829-185825-560-游玩 芙娅之魂_COMIC_FACTORY.png"
     ]
   },
   {
@@ -360,9 +346,6 @@
     "highlights": "/data/streams/hazel/2026_08_28_21_10_20/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_28_21_10_20/录制-1713546334-20260828-211020-719-聊一聊玩一玩_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_28_21_10_20/录制-1713546334-20260828-211020-719-聊一聊玩一玩_merged_EVIDENCE_FRAME_01_001680s.jpg",
-      "/data/streams/hazel/2026_08_28_21_10_20/录制-1713546334-20260828-211020-719-聊一聊玩一玩_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/hazel/2026_08_28_21_10_20/录制-1713546334-20260828-211020-719-聊一聊玩一玩_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/hazel/2026_08_28_21_10_20/录制-1713546334-20260828-211020-719-聊一聊玩一玩_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -381,9 +364,6 @@
     "highlights": "/data/streams/hazel/2026_08_28_03_27_42/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_28_03_27_42/录制-1713546334-20260828-032742-172-被蚊子吵醒了_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_28_03_27_42/录制-1713546334-20260828-032742-172-被蚊子吵醒了_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/hazel/2026_08_28_03_27_42/录制-1713546334-20260828-032742-172-被蚊子吵醒了_EVIDENCE_FRAME_02_002640s.jpg",
-      "/data/streams/hazel/2026_08_28_03_27_42/录制-1713546334-20260828-032742-172-被蚊子吵醒了_EVIDENCE_FRAME_03_002940s.jpg",
       "/data/streams/hazel/2026_08_28_03_27_42/录制-1713546334-20260828-032742-172-被蚊子吵醒了_SCREENSHOTS.jpg"
     ]
   },
@@ -401,9 +381,7 @@
     "cover": "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_27_20_10_16/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读_merged_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读_merged_EVIDENCE_FRAME_02_000420s.jpg"
+      "/data/streams/hazel/2026_08_27_20_10_16/录制-1713546334-20260827-201016-623-晚上的读一读_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -420,12 +398,7 @@
     "cover": "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_26_19_40_10/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_EVIDENCE_FRAME_01_002640s.jpg",
-      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_EVIDENCE_FRAME_02_006900s.jpg",
-      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_EVIDENCE_REQUEST_E4.jpg",
-      "/data/streams/hazel/2026_08_26_19_40_10/hazel_shame_frame.jpg"
+      "/data/streams/hazel/2026_08_26_19_40_10/录制-1713546334-20260826-194010-903-悠闲夜晚 通关动物迷城_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -442,9 +415,6 @@
     "cover": "/data/streams/hazel/2026_08_25_15_12_32/录制-1713546334-20260825-151232-114-虚弱午后.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_25_15_12_32/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_25_15_12_32/录制-1713546334-20260825-151232-114-虚弱午后_EVIDENCE_FRAME_01_005640s.jpg",
-      "/data/streams/hazel/2026_08_25_15_12_32/录制-1713546334-20260825-151232-114-虚弱午后_EVIDENCE_FRAME_02_004800s.jpg",
-      "/data/streams/hazel/2026_08_25_15_12_32/录制-1713546334-20260825-151232-114-虚弱午后_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/hazel/2026_08_25_15_12_32/录制-1713546334-20260825-151232-114-虚弱午后_SCREENSHOTS.jpg"
     ]
   },
@@ -463,8 +433,6 @@
     "highlights": "/data/streams/hazel/2026_08_23_22_06_25/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊_EVIDENCE_FRAME_01_004140s.jpg",
-      "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊_EVIDENCE_FRAME_02_006840s.jpg",
       "/data/streams/hazel/2026_08_23_22_06_25/录制-1713546334-20260823-220625-006-随便聊聊_SCREENSHOTS.jpg"
     ]
   },
@@ -483,9 +451,6 @@
     "highlights": "/data/streams/hazel/2026_08_23_19_26_52/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛_EVIDENCE_FRAME_02_000300s.jpg",
-      "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/hazel/2026_08_23_19_26_52/录制-1713546334-20260823-192652-652-突击 看完IVL总决赛_SCREENSHOTS.jpg"
     ]
   },
@@ -503,11 +468,7 @@
     "cover": "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_22_21_13_11/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_EVIDENCE_FRAME_01_000420s.jpg",
-      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_EVIDENCE_FRAME_02_000600s.jpg",
-      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_EVIDENCE_FRAME_03_002280s.jpg",
-      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/hazel/2026_08_22_21_13_11/录制-1713546334-20260822-211311-274-转学日 新衣回_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -524,11 +485,7 @@
     "cover": "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_21_19_42_36/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_EVIDENCE_FRAME_01_001920s.jpg",
-      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_EVIDENCE_FRAME_02_001620s.jpg",
-      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_EVIDENCE_FRAME_03_005400s.jpg",
-      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/hazel/2026_08_21_19_42_36/录制-1713546334-20260821-194236-588-联动玩一下致命公司_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -546,9 +503,6 @@
     "highlights": "/data/streams/hazel/2026_08_20_20_54_05/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged_EVIDENCE_FRAME_01_000600s.jpg",
-      "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged_EVIDENCE_FRAME_02_011160s.jpg",
-      "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/hazel/2026_08_20_20_54_05/录制-1713546334-20260820-205405-761-悠闲夜晚与动物迷城_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -567,8 +521,6 @@
     "highlights": "/data/streams/hazel/2026_08_19_20_25_00/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_19_20_25_00/录制-1713546334-20260819-202500-039-七七夕夕果汁回_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_19_20_25_00/录制-1713546334-20260819-202500-039-七七夕夕果汁回_merged_EVIDENCE_FRAME_01_000960s.jpg",
-      "/data/streams/hazel/2026_08_19_20_25_00/录制-1713546334-20260819-202500-039-七七夕夕果汁回_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/hazel/2026_08_19_20_25_00/录制-1713546334-20260819-202500-039-七七夕夕果汁回_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -602,9 +554,6 @@
     "highlights": "/data/streams/hazel/2026_08_16_01_46_27/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_16_01_46_27/录制-1713546334-20260816-014627-506-半夜路灯下背书的少女竟是…_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_16_01_46_27/录制-1713546334-20260816-014627-506-半夜路灯下背书的少女竟是…_EVIDENCE_FRAME_01_000120s.jpg",
-      "/data/streams/hazel/2026_08_16_01_46_27/录制-1713546334-20260816-014627-506-半夜路灯下背书的少女竟是…_EVIDENCE_FRAME_02_002220s.jpg",
-      "/data/streams/hazel/2026_08_16_01_46_27/录制-1713546334-20260816-014627-506-半夜路灯下背书的少女竟是…_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/hazel/2026_08_16_01_46_27/录制-1713546334-20260816-014627-506-半夜路灯下背书的少女竟是…_SCREENSHOTS.jpg"
     ]
   },
@@ -623,9 +572,6 @@
     "highlights": "/data/streams/hazel/2026_08_14_21_04_54/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_14_21_04_54/录制-1713546334-20260814-210454-729-悠闲夜晚_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_14_21_04_54/录制-1713546334-20260814-210454-729-悠闲夜晚_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/hazel/2026_08_14_21_04_54/录制-1713546334-20260814-210454-729-悠闲夜晚_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/hazel/2026_08_14_21_04_54/录制-1713546334-20260814-210454-729-悠闲夜晚_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/hazel/2026_08_14_21_04_54/录制-1713546334-20260814-210454-729-悠闲夜晚_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -643,11 +589,7 @@
     "cover": "/data/streams/hazel/2026_08_13_14_44_15/录制-1713546334-20260813-144415-741-陪灰泽满吃饭.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_13_14_44_15/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_13_14_44_15/录制-1713546334-20260813-144415-741-陪灰泽满吃饭_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_13_14_44_15/录制-1713546334-20260813-144415-741-陪灰泽满吃饭_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/hazel/2026_08_13_14_44_15/录制-1713546334-20260813-144415-741-陪灰泽满吃饭_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/hazel/2026_08_13_14_44_15/录制-1713546334-20260813-144415-741-陪灰泽满吃饭_merged_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/hazel/2026_08_13_14_44_15/录制-1713546334-20260813-144415-741-陪灰泽满吃饭_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/hazel/2026_08_13_14_44_15/录制-1713546334-20260813-144415-741-陪灰泽满吃饭_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -664,11 +606,7 @@
     "cover": "/data/streams/hazel/2026_08_12_20_08_18/录制-1713546334-20260812-200818-780-悠闲夜晚和种田.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_12_20_08_18/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_12_20_08_18/录制-1713546334-20260812-200818-780-悠闲夜晚和种田_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_12_20_08_18/录制-1713546334-20260812-200818-780-悠闲夜晚和种田_EVIDENCE_FRAME_01_001500s.jpg",
-      "/data/streams/hazel/2026_08_12_20_08_18/录制-1713546334-20260812-200818-780-悠闲夜晚和种田_EVIDENCE_FRAME_02_001860s.jpg",
-      "/data/streams/hazel/2026_08_12_20_08_18/录制-1713546334-20260812-200818-780-悠闲夜晚和种田_EVIDENCE_FRAME_03_008220s.jpg",
-      "/data/streams/hazel/2026_08_12_20_08_18/录制-1713546334-20260812-200818-780-悠闲夜晚和种田_EVIDENCE_FRAME_04_006480s.jpg"
+      "/data/streams/hazel/2026_08_12_20_08_18/录制-1713546334-20260812-200818-780-悠闲夜晚和种田_COMIC_FACTORY.png"
     ]
   },
   {
@@ -730,10 +668,7 @@
     "cover": "/data/streams/hazel/2026_08_09_21_08_46/录制-1713546334-20260809-210846-380-随便聊聊+谢礼物.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_09_21_08_46/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_09_21_08_46/录制-1713546334-20260809-210846-380-随便聊聊+谢礼物_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_09_21_08_46/录制-1713546334-20260809-210846-380-随便聊聊+谢礼物_merged_EVIDENCE_FRAME_01_001020s.jpg",
-      "/data/streams/hazel/2026_08_09_21_08_46/录制-1713546334-20260809-210846-380-随便聊聊+谢礼物_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/hazel/2026_08_09_21_08_46/录制-1713546334-20260809-210846-380-随便聊聊+谢礼物_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/hazel/2026_08_09_21_08_46/录制-1713546334-20260809-210846-380-随便聊聊+谢礼物_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -751,7 +686,6 @@
     "highlights": "/data/streams/hazel/2026_08_09_20_42_53/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_09_20_42_53/录制-1713546334-20260809-204253-568-随便聊聊+谢礼物_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_09_20_42_53/录制-1713546334-20260809-204253-568-随便聊聊+谢礼物_merged_EVIDENCE_REQUEST_E1.jpg",
       "/data/streams/hazel/2026_08_09_20_42_53/录制-1713546334-20260809-204253-568-随便聊聊+谢礼物_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -769,11 +703,7 @@
     "cover": "/data/streams/hazel/2026_08_08_19_00_50/录制-1713546334-20260808-190050-821-过下生日吧.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_08_19_00_50/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_08_19_00_50/录制-1713546334-20260808-190050-821-过下生日吧_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_08_19_00_50/录制-1713546334-20260808-190050-821-过下生日吧_EVIDENCE_FRAME_01_009660s.jpg",
-      "/data/streams/hazel/2026_08_08_19_00_50/录制-1713546334-20260808-190050-821-过下生日吧_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/hazel/2026_08_08_19_00_50/录制-1713546334-20260808-190050-821-过下生日吧_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/hazel/2026_08_08_19_00_50/录制-1713546334-20260808-190050-821-过下生日吧_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/hazel/2026_08_08_19_00_50/录制-1713546334-20260808-190050-821-过下生日吧_COMIC_FACTORY.png"
     ]
   },
   {
@@ -791,8 +721,6 @@
     "highlights": "/data/streams/hazel/2026_08_07_22_54_26/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_07_22_54_26/录制-1713546334-20260807-225426-318-悠闲夜晚_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_07_22_54_26/录制-1713546334-20260807-225426-318-悠闲夜晚_merged_EVIDENCE_FRAME_01_003480s.jpg",
-      "/data/streams/hazel/2026_08_07_22_54_26/录制-1713546334-20260807-225426-318-悠闲夜晚_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/hazel/2026_08_07_22_54_26/录制-1713546334-20260807-225426-318-悠闲夜晚_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -828,7 +756,6 @@
     "highlights": "/data/streams/hazel/2026_08_05_23_10_41/highlights.md",
     "images": [
       "/data/streams/hazel/2026_08_05_23_10_41/录制-1713546334-20260805-231041-339-电话一会儿_merged_COMIC_FACTORY.png",
-      "/data/streams/hazel/2026_08_05_23_10_41/录制-1713546334-20260805-231041-339-电话一会儿_merged_EVIDENCE_REQUEST_E1.jpg",
       "/data/streams/hazel/2026_08_05_23_10_41/录制-1713546334-20260805-231041-339-电话一会儿_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -864,8 +791,6 @@
     "cover": "/data/streams/hazel/2026_08_04_20_05_28/录制-1713546334-20260804-200528-735-悠闲夜晚.cover.jpg",
     "highlights": "/data/streams/hazel/2026_08_04_20_05_28/highlights.md",
     "images": [
-      "/data/streams/hazel/2026_08_04_20_05_28/录制-1713546334-20260804-200528-735-悠闲夜晚_EVIDENCE_FRAME_01_006180s.jpg",
-      "/data/streams/hazel/2026_08_04_20_05_28/录制-1713546334-20260804-200528-735-悠闲夜晚_EVIDENCE_REQUEST_E1.jpg",
       "/data/streams/hazel/2026_08_04_20_05_28/录制-1713546334-20260804-200528-735-悠闲夜晚_SCREENSHOTS.jpg"
     ]
   },

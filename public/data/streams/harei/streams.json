@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_15_19_41_28",
+    "title": "鱼人队决赛冲呀！",
+    "date": "2026-09-15",
+    "time": "19:41:28",
+    "startTime": "19:41",
+    "endTime": "02:38",
+    "duration": 25035,
+    "durationStr": "7.0 小时",
+    "srt": "/data/streams/harei/2026_09_15_19_41_28/录制-1820703922-20260915-194128-505-鱼人队决赛冲呀！_merged.srt",
+    "xml": "/data/streams/harei/2026_09_15_19_41_28/录制-1820703922-20260915-194128-505-鱼人队决赛冲呀！_merged.xml",
+    "cover": "/data/streams/harei/2026_09_15_19_41_28/录制-1820703922-20260915-194128-505-鱼人队决赛冲呀！.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_15_19_41_28/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_15_19_41_28/录制-1820703922-20260915-194128-505-鱼人队决赛冲呀！_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_15_19_41_28/录制-1820703922-20260915-194128-505-鱼人队决赛冲呀！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_15_12_03_16",
+    "title": "鼠的训练^^",
+    "date": "2026-09-15",
+    "time": "12:03:16",
+    "startTime": "12:03",
+    "endTime": "15:28",
+    "duration": 12359,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/harei/2026_09_15_12_03_16/录制-1820703922-20260915-120316-630-鼠的训练^^_merged.srt",
+    "xml": "/data/streams/harei/2026_09_15_12_03_16/录制-1820703922-20260915-120316-630-鼠的训练^^_merged.xml",
+    "cover": "/data/streams/harei/2026_09_15_12_03_16/录制-1820703922-20260915-120316-630-鼠的训练^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_15_12_03_16/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_15_12_03_16/录制-1820703922-20260915-120316-630-鼠的训练^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_15_12_03_16/录制-1820703922-20260915-120316-630-鼠的训练^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_14_19_59_07",
     "title": "矮人的最后一晚训练^^",
     "date": "2026-09-14",
@@ -14,9 +50,6 @@
     "highlights": "/data/streams/harei/2026_09_14_19_59_07/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_14_19_59_07/录制-1820703922-20260914-195907-775-矮人的最后一晚训练^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_14_19_59_07/录制-1820703922-20260914-195907-775-矮人的最后一晚训练^^_merged_EVIDENCE_FRAME_01_019800s.jpg",
-      "/data/streams/harei/2026_09_14_19_59_07/录制-1820703922-20260914-195907-775-矮人的最后一晚训练^^_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_09_14_19_59_07/录制-1820703922-20260914-195907-775-矮人的最后一晚训练^^_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_09_14_19_59_07/录制-1820703922-20260914-195907-775-矮人的最后一晚训练^^_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -35,8 +68,6 @@
     "highlights": "/data/streams/harei/2026_09_14_00_27_50/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^_EVIDENCE_FRAME_01_004320s.jpg",
-      "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^_EVIDENCE_REQUEST_E1.jpg",
       "/data/streams/harei/2026_09_14_00_27_50/录制-1820703922-20260914-002750-934-小鼠唱唱歌^^_SCREENSHOTS.jpg"
     ]
   },
@@ -55,9 +86,7 @@
     "highlights": "/data/streams/harei/2026_09_13_16_30_53/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged_EVIDENCE_FRAME_01_001800s.jpg",
-      "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged_EVIDENCE_FRAME_02_015600s.jpg",
-      "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/harei/2026_09_13_16_30_53/录制-1820703922-20260913-163053-912-看lpl决赛^^_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -75,9 +104,7 @@
     "highlights": "/data/streams/harei/2026_09_13_14_10_28/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/harei/2026_09_13_14_10_28/录制-1820703922-20260913-141028-090-小鼠来聊聊^^_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -95,9 +122,6 @@
     "highlights": "/data/streams/harei/2026_09_12_23_02_36/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^_EVIDENCE_FRAME_01_001200s.jpg",
-      "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^_EVIDENCE_FRAME_02_002940s.jpg",
-      "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^_EVIDENCE_FRAME_03_008340s.jpg",
       "/data/streams/harei/2026_09_12_23_02_36/录制-1820703922-20260912-230236-669-鼠来唱唱歌^^_SCREENSHOTS.jpg"
     ]
   },
@@ -115,9 +139,6 @@
     "cover": "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_09_12_16_56_37/highlights.md",
     "images": [
-      "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_09_12_16_56_37/录制-1820703922-20260912-165637-030-督战鼠_ IG vs al^^_SCREENSHOTS.jpg"
     ]
   },
@@ -136,8 +157,6 @@
     "highlights": "/data/streams/harei/2026_09_12_10_00_45/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^_EVIDENCE_FRAME_01_001020s.jpg",
-      "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/harei/2026_09_12_10_00_45/录制-1820703922-20260912-100045-698-已力竭已早起^^_SCREENSHOTS.jpg"
     ]
   },
@@ -156,9 +175,6 @@
     "highlights": "/data/streams/harei/2026_09_11_20_02_50/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_11_20_02_50/录制-1820703922-20260911-200250-471-矮人同盟引爆炸弹中！^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_11_20_02_50/录制-1820703922-20260911-200250-471-矮人同盟引爆炸弹中！^^_EVIDENCE_FRAME_01_000780s.jpg",
-      "/data/streams/harei/2026_09_11_20_02_50/录制-1820703922-20260911-200250-471-矮人同盟引爆炸弹中！^^_EVIDENCE_FRAME_02_016140s.jpg",
-      "/data/streams/harei/2026_09_11_20_02_50/录制-1820703922-20260911-200250-471-矮人同盟引爆炸弹中！^^_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/harei/2026_09_11_20_02_50/录制-1820703922-20260911-200250-471-矮人同盟引爆炸弹中！^^_SCREENSHOTS.jpg"
     ]
   },
@@ -177,10 +193,7 @@
     "highlights": "/data/streams/harei/2026_09_10_21_01_06/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_10_21_01_06/录制-1820703922-20260910-210106-489-小鼠聊点啥^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_10_21_01_06/录制-1820703922-20260910-210106-489-小鼠聊点啥^^_EVIDENCE_FRAME_01_012000s.jpg",
-      "/data/streams/harei/2026_09_10_21_01_06/录制-1820703922-20260910-210106-489-小鼠聊点啥^^_EVIDENCE_FRAME_02_013380s.jpg",
-      "/data/streams/harei/2026_09_10_21_01_06/录制-1820703922-20260910-210106-489-小鼠聊点啥^^_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_09_10_21_01_06/录制-1820703922-20260910-210106-489-小鼠聊点啥^^_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_09_10_21_01_06/录制-1820703922-20260910-210106-489-小鼠聊点啥^^_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -198,10 +211,7 @@
     "highlights": "/data/streams/harei/2026_09_10_10_02_49/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_10_10_02_49/录制-1820703922-20260910-100249-462-吃一份小鼠早餐^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_10_10_02_49/录制-1820703922-20260910-100249-462-吃一份小鼠早餐^^_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/harei/2026_09_10_10_02_49/录制-1820703922-20260910-100249-462-吃一份小鼠早餐^^_EVIDENCE_FRAME_02_006480s.jpg",
-      "/data/streams/harei/2026_09_10_10_02_49/录制-1820703922-20260910-100249-462-吃一份小鼠早餐^^_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_09_10_10_02_49/录制-1820703922-20260910-100249-462-吃一份小鼠早餐^^_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_09_10_10_02_49/录制-1820703922-20260910-100249-462-吃一份小鼠早餐^^_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -219,10 +229,7 @@
     "highlights": "/data/streams/harei/2026_09_09_19_58_16/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_09_19_58_16/录制-1820703922-20260909-195816-789-魔兽！鼠考集合^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_09_19_58_16/录制-1820703922-20260909-195816-789-魔兽！鼠考集合^^_EVIDENCE_FRAME_01_001080s.jpg",
-      "/data/streams/harei/2026_09_09_19_58_16/录制-1820703922-20260909-195816-789-魔兽！鼠考集合^^_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_09_09_19_58_16/录制-1820703922-20260909-195816-789-魔兽！鼠考集合^^_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/harei/2026_09_09_19_58_16/录制-1820703922-20260909-195816-789-魔兽！鼠考集合^^_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_09_09_19_58_16/录制-1820703922-20260909-195816-789-魔兽！鼠考集合^^_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -239,9 +246,7 @@
     "cover": "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_09_09_00_38_41/highlights.md",
     "images": [
-      "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^_EVIDENCE_FRAME_01_000240s.jpg",
-      "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^_EVIDENCE_FRAME_02_001020s.jpg",
-      "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^_EVIDENCE_FRAME_03_000540s.jpg"
+      "/data/streams/harei/2026_09_09_00_38_41/录制-1820703922-20260909-003841-756-通宵也三动的鼠^^_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -273,9 +278,7 @@
     "cover": "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_09_08_16_52_38/highlights.md",
     "images": [
-      "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^_EVIDENCE_FRAME_01_001500s.jpg",
-      "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^_EVIDENCE_FRAME_02_006120s.jpg"
+      "/data/streams/harei/2026_09_08_16_52_38/录制-1820703922-20260908-165238-927-督战鼠_IG vs lgd^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -292,9 +295,7 @@
     "cover": "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_09_08_10_00_11/highlights.md",
     "images": [
-      "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^_EVIDENCE_FRAME_01_000180s.jpg",
-      "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/harei/2026_09_08_10_00_11/录制-1820703922-20260908-100011-681-好困吧鼠^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -312,10 +313,7 @@
     "highlights": "/data/streams/harei/2026_09_06_21_04_45/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_06_21_04_45/录制-1820703922-20260906-210445-333-小鼠要唱歌^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_06_21_04_45/录制-1820703922-20260906-210445-333-小鼠要唱歌^^_merged_EVIDENCE_FRAME_01_007920s.jpg",
-      "/data/streams/harei/2026_09_06_21_04_45/录制-1820703922-20260906-210445-333-小鼠要唱歌^^_merged_EVIDENCE_FRAME_02_007980s.jpg",
-      "/data/streams/harei/2026_09_06_21_04_45/录制-1820703922-20260906-210445-333-小鼠要唱歌^^_merged_EVIDENCE_FRAME_03_008220s.jpg",
-      "/data/streams/harei/2026_09_06_21_04_45/录制-1820703922-20260906-210445-333-小鼠要唱歌^^_merged_EVIDENCE_FRAME_04_008340s.jpg"
+      "/data/streams/harei/2026_09_06_21_04_45/录制-1820703922-20260906-210445-333-小鼠要唱歌^^_merged_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -333,9 +331,6 @@
     "highlights": "/data/streams/harei/2026_09_06_13_58_44/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_06_13_58_44/录制-1820703922-20260906-135844-706-督战鼠_IG vs we^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_06_13_58_44/录制-1820703922-20260906-135844-706-督战鼠_IG vs we^^_EVIDENCE_FRAME_01_002340s.jpg",
-      "/data/streams/harei/2026_09_06_13_58_44/录制-1820703922-20260906-135844-706-督战鼠_IG vs we^^_EVIDENCE_FRAME_02_004740s.jpg",
-      "/data/streams/harei/2026_09_06_13_58_44/录制-1820703922-20260906-135844-706-督战鼠_IG vs we^^_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_09_06_13_58_44/录制-1820703922-20260906-135844-706-督战鼠_IG vs we^^_SCREENSHOTS.jpg"
     ]
   },
@@ -354,9 +349,6 @@
     "highlights": "/data/streams/harei/2026_09_06_09_04_25/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_06_09_04_25/录制-1820703922-20260906-090425-323-早饭一只鼠^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_06_09_04_25/录制-1820703922-20260906-090425-323-早饭一只鼠^^_EVIDENCE_FRAME_01_000900s.jpg",
-      "/data/streams/harei/2026_09_06_09_04_25/录制-1820703922-20260906-090425-323-早饭一只鼠^^_EVIDENCE_FRAME_02_007020s.jpg",
-      "/data/streams/harei/2026_09_06_09_04_25/录制-1820703922-20260906-090425-323-早饭一只鼠^^_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_09_06_09_04_25/录制-1820703922-20260906-090425-323-早饭一只鼠^^_SCREENSHOTS.jpg"
     ]
   },
@@ -375,10 +367,7 @@
     "highlights": "/data/streams/harei/2026_09_05_14_21_33/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_05_14_21_33/录制-1820703922-20260905-142133-937-来^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_05_14_21_33/录制-1820703922-20260905-142133-937-来^^_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/harei/2026_09_05_14_21_33/录制-1820703922-20260905-142133-937-来^^_EVIDENCE_FRAME_02_015000s.jpg",
-      "/data/streams/harei/2026_09_05_14_21_33/录制-1820703922-20260905-142133-937-来^^_EVIDENCE_FRAME_03_015120s.jpg",
-      "/data/streams/harei/2026_09_05_14_21_33/录制-1820703922-20260905-142133-937-来^^_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/harei/2026_09_05_14_21_33/录制-1820703922-20260905-142133-937-来^^_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -426,9 +415,6 @@
     "highlights": "/data/streams/harei/2026_09_04_19_59_16/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_04_19_59_16/录制-1820703922-20260904-195916-163-小鼠的魔兽时间^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_04_19_59_16/录制-1820703922-20260904-195916-163-小鼠的魔兽时间^^_merged_EVIDENCE_FRAME_01_002520s.jpg",
-      "/data/streams/harei/2026_09_04_19_59_16/录制-1820703922-20260904-195916-163-小鼠的魔兽时间^^_merged_EVIDENCE_FRAME_02_003660s.jpg",
-      "/data/streams/harei/2026_09_04_19_59_16/录制-1820703922-20260904-195916-163-小鼠的魔兽时间^^_merged_EVIDENCE_FRAME_03_007620s.jpg",
       "/data/streams/harei/2026_09_04_19_59_16/录制-1820703922-20260904-195916-163-小鼠的魔兽时间^^_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -447,9 +433,6 @@
     "highlights": "/data/streams/harei/2026_09_04_14_04_31/highlights.md",
     "images": [
       "/data/streams/harei/2026_09_04_14_04_31/录制-1820703922-20260904-140431-928-小鼠的弹唱实况^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_04_14_04_31/录制-1820703922-20260904-140431-928-小鼠的弹唱实况^^_merged_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/harei/2026_09_04_14_04_31/录制-1820703922-20260904-140431-928-小鼠的弹唱实况^^_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_09_04_14_04_31/录制-1820703922-20260904-140431-928-小鼠的弹唱实况^^_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_09_04_14_04_31/录制-1820703922-20260904-140431-928-小鼠的弹唱实况^^_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -496,7 +479,9 @@
     "xml": "/data/streams/harei/2026_09_03_21_01_15/录制-1820703922-20260903-210115-274-小鼠的窒爱恐怖实况^^_recovered_merged.xml",
     "cover": "/data/streams/harei/2026_09_03_21_01_15/录制-1820703922-20260903-210115-274-小鼠的窒爱恐怖实况^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_09_03_21_01_15/highlights.md",
-    "images": []
+    "images": [
+      "/data/streams/harei/2026_09_03_21_01_15/录制-1820703922-20260903-210115-274-小鼠的窒爱恐怖实况^^_recovered_merged_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_09_03_09_06_36",
@@ -512,8 +497,7 @@
     "cover": "/data/streams/harei/2026_09_03_09_06_36/录制-1820703922-20260903-090636-929-小鼠一只我抓^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_09_03_09_06_36/highlights.md",
     "images": [
-      "/data/streams/harei/2026_09_03_09_06_36/录制-1820703922-20260903-090636-929-小鼠一只我抓^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_03_09_06_36/录制-1820703922-20260903-090636-929-小鼠一只我抓^^_EVIDENCE_FRAME_01_000060s.jpg"
+      "/data/streams/harei/2026_09_03_09_06_36/录制-1820703922-20260903-090636-929-小鼠一只我抓^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -530,11 +514,7 @@
     "cover": "/data/streams/harei/2026_09_02_21_00_14/录制-1820703922-20260902-210014-660-抓一只小鼠^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_09_02_21_00_14/highlights.md",
     "images": [
-      "/data/streams/harei/2026_09_02_21_00_14/录制-1820703922-20260902-210014-660-抓一只小鼠^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_02_21_00_14/录制-1820703922-20260902-210014-660-抓一只小鼠^^_EVIDENCE_FRAME_01_014220s.jpg",
-      "/data/streams/harei/2026_09_02_21_00_14/录制-1820703922-20260902-210014-660-抓一只小鼠^^_EVIDENCE_FRAME_02_014460s.jpg",
-      "/data/streams/harei/2026_09_02_21_00_14/录制-1820703922-20260902-210014-660-抓一只小鼠^^_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_09_02_21_00_14/录制-1820703922-20260902-210014-660-抓一只小鼠^^_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/harei/2026_09_02_21_00_14/录制-1820703922-20260902-210014-660-抓一只小鼠^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -551,11 +531,7 @@
     "cover": "/data/streams/harei/2026_09_01_20_03_10/录制-1820703922-20260901-200310-548-小鼠机械狂欢^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_09_01_20_03_10/highlights.md",
     "images": [
-      "/data/streams/harei/2026_09_01_20_03_10/录制-1820703922-20260901-200310-548-小鼠机械狂欢^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_09_01_20_03_10/录制-1820703922-20260901-200310-548-小鼠机械狂欢^^_EVIDENCE_FRAME_01_000720s.jpg",
-      "/data/streams/harei/2026_09_01_20_03_10/录制-1820703922-20260901-200310-548-小鼠机械狂欢^^_EVIDENCE_FRAME_02_002820s.jpg",
-      "/data/streams/harei/2026_09_01_20_03_10/录制-1820703922-20260901-200310-548-小鼠机械狂欢^^_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/harei/2026_09_01_20_03_10/录制-1820703922-20260901-200310-548-小鼠机械狂欢^^_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_09_01_20_03_10/录制-1820703922-20260901-200310-548-小鼠机械狂欢^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -572,11 +548,7 @@
     "cover": "/data/streams/harei/2026_08_30_20_02_59/录制-1820703922-20260830-200259-334-小鼠玩一下芙娅之魂^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_30_20_02_59/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_30_20_02_59/录制-1820703922-20260830-200259-334-小鼠玩一下芙娅之魂^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_30_20_02_59/录制-1820703922-20260830-200259-334-小鼠玩一下芙娅之魂^^_EVIDENCE_FRAME_01_000240s.jpg",
-      "/data/streams/harei/2026_08_30_20_02_59/录制-1820703922-20260830-200259-334-小鼠玩一下芙娅之魂^^_EVIDENCE_FRAME_02_000480s.jpg",
-      "/data/streams/harei/2026_08_30_20_02_59/录制-1820703922-20260830-200259-334-小鼠玩一下芙娅之魂^^_EVIDENCE_FRAME_03_003420s.jpg",
-      "/data/streams/harei/2026_08_30_20_02_59/录制-1820703922-20260830-200259-334-小鼠玩一下芙娅之魂^^_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/harei/2026_08_30_20_02_59/录制-1820703922-20260830-200259-334-小鼠玩一下芙娅之魂^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -594,9 +566,6 @@
     "highlights": "/data/streams/harei/2026_08_30_09_03_52/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_30_09_03_52/录制-1820703922-20260830-090352-207-早餐一只鼠^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_30_09_03_52/录制-1820703922-20260830-090352-207-早餐一只鼠^^_EVIDENCE_FRAME_01_003780s.jpg",
-      "/data/streams/harei/2026_08_30_09_03_52/录制-1820703922-20260830-090352-207-早餐一只鼠^^_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_30_09_03_52/录制-1820703922-20260830-090352-207-早餐一只鼠^^_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_08_30_09_03_52/录制-1820703922-20260830-090352-207-早餐一只鼠^^_SCREENSHOTS.jpg"
     ]
   },
@@ -614,11 +583,7 @@
     "cover": "/data/streams/harei/2026_08_29_19_58_23/录制-1820703922-20260829-195823-941-小鼠今晚将一次不死^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_29_19_58_23/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_29_19_58_23/录制-1820703922-20260829-195823-941-小鼠今晚将一次不死^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_29_19_58_23/录制-1820703922-20260829-195823-941-小鼠今晚将一次不死^^_merged_EVIDENCE_FRAME_01_001320s.jpg",
-      "/data/streams/harei/2026_08_29_19_58_23/录制-1820703922-20260829-195823-941-小鼠今晚将一次不死^^_merged_EVIDENCE_FRAME_02_009540s.jpg",
-      "/data/streams/harei/2026_08_29_19_58_23/录制-1820703922-20260829-195823-941-小鼠今晚将一次不死^^_merged_EVIDENCE_FRAME_03_012480s.jpg",
-      "/data/streams/harei/2026_08_29_19_58_23/录制-1820703922-20260829-195823-941-小鼠今晚将一次不死^^_merged_EVIDENCE_FRAME_04_014880s.jpg"
+      "/data/streams/harei/2026_08_29_19_58_23/录制-1820703922-20260829-195823-941-小鼠今晚将一次不死^^_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -636,9 +601,6 @@
     "highlights": "/data/streams/harei/2026_08_29_15_02_44/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_29_15_02_44/录制-1820703922-20260829-150244-264-鼠大王打会儿大米^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_29_15_02_44/录制-1820703922-20260829-150244-264-鼠大王打会儿大米^^_EVIDENCE_FRAME_01_002520s.jpg",
-      "/data/streams/harei/2026_08_29_15_02_44/录制-1820703922-20260829-150244-264-鼠大王打会儿大米^^_EVIDENCE_FRAME_02_002160s.jpg",
-      "/data/streams/harei/2026_08_29_15_02_44/录制-1820703922-20260829-150244-264-鼠大王打会儿大米^^_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_08_29_15_02_44/录制-1820703922-20260829-150244-264-鼠大王打会儿大米^^_SCREENSHOTS.jpg"
     ]
   },
@@ -656,9 +618,7 @@
     "cover": "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_28_21_33_42/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^_EVIDENCE_FRAME_01_000060s.jpg",
-      "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^_EVIDENCE_FRAME_02_002340s.jpg"
+      "/data/streams/harei/2026_08_28_21_33_42/录制-1820703922-20260828-213342-028-海边唱歌的一只鼠^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -692,11 +652,7 @@
     "cover": "/data/streams/harei/2026_08_27_20_16_46/录制-1820703922-20260827-201646-309-养成小鼠术士^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_27_20_16_46/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_27_20_16_46/录制-1820703922-20260827-201646-309-养成小鼠术士^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_27_20_16_46/录制-1820703922-20260827-201646-309-养成小鼠术士^^_EVIDENCE_FRAME_01_000360s.jpg",
-      "/data/streams/harei/2026_08_27_20_16_46/录制-1820703922-20260827-201646-309-养成小鼠术士^^_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_08_27_20_16_46/录制-1820703922-20260827-201646-309-养成小鼠术士^^_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/harei/2026_08_27_20_16_46/录制-1820703922-20260827-201646-309-养成小鼠术士^^_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_08_27_20_16_46/录制-1820703922-20260827-201646-309-养成小鼠术士^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -714,9 +670,6 @@
     "highlights": "/data/streams/harei/2026_08_26_19_58_45/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_26_19_58_45/录制-1820703922-20260826-195845-579-谁是我的新娘^^bigwalk_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_26_19_58_45/录制-1820703922-20260826-195845-579-谁是我的新娘^^bigwalk_EVIDENCE_FRAME_01_000420s.jpg",
-      "/data/streams/harei/2026_08_26_19_58_45/录制-1820703922-20260826-195845-579-谁是我的新娘^^bigwalk_EVIDENCE_FRAME_02_006060s.jpg",
-      "/data/streams/harei/2026_08_26_19_58_45/录制-1820703922-20260826-195845-579-谁是我的新娘^^bigwalk_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_08_26_19_58_45/录制-1820703922-20260826-195845-579-谁是我的新娘^^bigwalk_SCREENSHOTS.jpg"
     ]
   },
@@ -734,11 +687,7 @@
     "cover": "/data/streams/harei/2026_08_26_14_07_07/录制-1820703922-20260826-140707-383-小鼠签名会^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_26_14_07_07/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_26_14_07_07/录制-1820703922-20260826-140707-383-小鼠签名会^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_26_14_07_07/录制-1820703922-20260826-140707-383-小鼠签名会^^_EVIDENCE_FRAME_01_000420s.jpg",
-      "/data/streams/harei/2026_08_26_14_07_07/录制-1820703922-20260826-140707-383-小鼠签名会^^_EVIDENCE_FRAME_02_003840s.jpg",
-      "/data/streams/harei/2026_08_26_14_07_07/录制-1820703922-20260826-140707-383-小鼠签名会^^_EVIDENCE_FRAME_03_011700s.jpg",
-      "/data/streams/harei/2026_08_26_14_07_07/录制-1820703922-20260826-140707-383-小鼠签名会^^_EVIDENCE_FRAME_04_014220s.jpg"
+      "/data/streams/harei/2026_08_26_14_07_07/录制-1820703922-20260826-140707-383-小鼠签名会^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -756,8 +705,6 @@
     "highlights": "/data/streams/harei/2026_08_25_21_05_38/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^_merged_EVIDENCE_FRAME_01_004080s.jpg",
-      "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^_merged_EVIDENCE_FRAME_02_013980s.jpg",
       "/data/streams/harei/2026_08_25_21_05_38/录制-1820703922-20260825-210538-022-今晚小鼠^^_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -775,11 +722,7 @@
     "cover": "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_25_13_02_59/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_EVIDENCE_FRAME_01_003060s.jpg",
-      "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_EVIDENCE_FRAME_02_004080s.jpg",
-      "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_EVIDENCE_FRAME_03_012300s.jpg",
-      "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_EVIDENCE_REQUEST_E1.jpg"
+      "/data/streams/harei/2026_08_25_13_02_59/录制-1820703922-20260825-130259-735-艺术鼠来画头像^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -797,9 +740,6 @@
     "highlights": "/data/streams/harei/2026_08_24_19_14_34/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_24_19_14_34/录制-1820703922-20260824-191434-774-今晚！小鼠！^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_24_19_14_34/录制-1820703922-20260824-191434-774-今晚！小鼠！^^_EVIDENCE_FRAME_01_002880s.jpg",
-      "/data/streams/harei/2026_08_24_19_14_34/录制-1820703922-20260824-191434-774-今晚！小鼠！^^_EVIDENCE_FRAME_02_003060s.jpg",
-      "/data/streams/harei/2026_08_24_19_14_34/录制-1820703922-20260824-191434-774-今晚！小鼠！^^_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_08_24_19_14_34/录制-1820703922-20260824-191434-774-今晚！小鼠！^^_SCREENSHOTS.jpg"
     ]
   },
@@ -817,10 +757,6 @@
     "cover": "/data/streams/harei/2026_08_23_18_46_56/录制-1820703922-20260823-184656-196-先来聊聊再看冰火歌回吧^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_23_18_46_56/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_23_18_46_56/录制-1820703922-20260823-184656-196-先来聊聊再看冰火歌回吧^^_merged_EVIDENCE_FRAME_01_003720s.jpg",
-      "/data/streams/harei/2026_08_23_18_46_56/录制-1820703922-20260823-184656-196-先来聊聊再看冰火歌回吧^^_merged_EVIDENCE_FRAME_02_007380s.jpg",
-      "/data/streams/harei/2026_08_23_18_46_56/录制-1820703922-20260823-184656-196-先来聊聊再看冰火歌回吧^^_merged_EVIDENCE_FRAME_03_019560s.jpg",
-      "/data/streams/harei/2026_08_23_18_46_56/录制-1820703922-20260823-184656-196-先来聊聊再看冰火歌回吧^^_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_08_23_18_46_56/录制-1820703922-20260823-184656-196-先来聊聊再看冰火歌回吧^^_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -838,11 +774,7 @@
     "cover": "/data/streams/harei/2026_08_23_01_05_29/录制-1820703922-20260823-010529-617-小鼠说点事儿^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_23_01_05_29/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_23_01_05_29/录制-1820703922-20260823-010529-617-小鼠说点事儿^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_23_01_05_29/录制-1820703922-20260823-010529-617-小鼠说点事儿^^_merged_EVIDENCE_FRAME_01_000120s.jpg",
-      "/data/streams/harei/2026_08_23_01_05_29/录制-1820703922-20260823-010529-617-小鼠说点事儿^^_merged_EVIDENCE_FRAME_02_001140s.jpg",
-      "/data/streams/harei/2026_08_23_01_05_29/录制-1820703922-20260823-010529-617-小鼠说点事儿^^_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_08_23_01_05_29/录制-1820703922-20260823-010529-617-小鼠说点事儿^^_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_08_23_01_05_29/录制-1820703922-20260823-010529-617-小鼠说点事儿^^_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -859,11 +791,7 @@
     "cover": "/data/streams/harei/2026_08_22_00_49_30/录制-1820703922-20260822-004930-960-小鼠旅游的第二天^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_22_00_49_30/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_22_00_49_30/录制-1820703922-20260822-004930-960-小鼠旅游的第二天^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_22_00_49_30/录制-1820703922-20260822-004930-960-小鼠旅游的第二天^^_EVIDENCE_FRAME_01_000420s.jpg",
-      "/data/streams/harei/2026_08_22_00_49_30/录制-1820703922-20260822-004930-960-小鼠旅游的第二天^^_EVIDENCE_FRAME_02_000600s.jpg",
-      "/data/streams/harei/2026_08_22_00_49_30/录制-1820703922-20260822-004930-960-小鼠旅游的第二天^^_EVIDENCE_FRAME_03_003960s.jpg",
-      "/data/streams/harei/2026_08_22_00_49_30/录制-1820703922-20260822-004930-960-小鼠旅游的第二天^^_EVIDENCE_REQUEST_E1.jpg"
+      "/data/streams/harei/2026_08_22_00_49_30/录制-1820703922-20260822-004930-960-小鼠旅游的第二天^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -880,11 +808,7 @@
     "cover": "/data/streams/harei/2026_08_20_21_49_46/录制-1820703922-20260820-214946-337-小鼠旅游的天^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_20_21_49_46/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_20_21_49_46/录制-1820703922-20260820-214946-337-小鼠旅游的天^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_20_21_49_46/录制-1820703922-20260820-214946-337-小鼠旅游的天^^_merged_EVIDENCE_FRAME_01_002220s.jpg",
-      "/data/streams/harei/2026_08_20_21_49_46/录制-1820703922-20260820-214946-337-小鼠旅游的天^^_merged_EVIDENCE_FRAME_02_004320s.jpg",
-      "/data/streams/harei/2026_08_20_21_49_46/录制-1820703922-20260820-214946-337-小鼠旅游的天^^_merged_EVIDENCE_FRAME_03_009060s.jpg",
-      "/data/streams/harei/2026_08_20_21_49_46/录制-1820703922-20260820-214946-337-小鼠旅游的天^^_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_08_20_21_49_46/录制-1820703922-20260820-214946-337-小鼠旅游的天^^_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -902,8 +826,6 @@
     "highlights": "/data/streams/harei/2026_08_19_21_04_22/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_19_21_04_22/录制-1820703922-20260819-210422-488-七夕晕晕念台词^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_19_21_04_22/录制-1820703922-20260819-210422-488-七夕晕晕念台词^^_EVIDENCE_FRAME_01_004380s.jpg",
-      "/data/streams/harei/2026_08_19_21_04_22/录制-1820703922-20260819-210422-488-七夕晕晕念台词^^_EVIDENCE_FRAME_02_004500s.jpg",
       "/data/streams/harei/2026_08_19_21_04_22/录制-1820703922-20260819-210422-488-七夕晕晕念台词^^_SCREENSHOTS.jpg"
     ]
   },
@@ -921,11 +843,7 @@
     "cover": "/data/streams/harei/2026_08_19_14_02_56/录制-1820703922-20260819-140256-792-七夕弹唱一会儿^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_19_14_02_56/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_19_14_02_56/录制-1820703922-20260819-140256-792-七夕弹唱一会儿^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_19_14_02_56/录制-1820703922-20260819-140256-792-七夕弹唱一会儿^^_EVIDENCE_FRAME_01_000420s.jpg",
-      "/data/streams/harei/2026_08_19_14_02_56/录制-1820703922-20260819-140256-792-七夕弹唱一会儿^^_EVIDENCE_FRAME_02_000300s.jpg",
-      "/data/streams/harei/2026_08_19_14_02_56/录制-1820703922-20260819-140256-792-七夕弹唱一会儿^^_EVIDENCE_FRAME_03_001800s.jpg",
-      "/data/streams/harei/2026_08_19_14_02_56/录制-1820703922-20260819-140256-792-七夕弹唱一会儿^^_EVIDENCE_FRAME_04_007020s.jpg"
+      "/data/streams/harei/2026_08_19_14_02_56/录制-1820703922-20260819-140256-792-七夕弹唱一会儿^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -943,7 +861,6 @@
     "highlights": "/data/streams/harei/2026_08_18_21_04_43/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_18_21_04_43/录制-1820703922-20260818-210443-683-一只小鼠^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_18_21_04_43/录制-1820703922-20260818-210443-683-一只小鼠^^_EVIDENCE_FRAME_01_004320s.jpg",
       "/data/streams/harei/2026_08_18_21_04_43/录制-1820703922-20260818-210443-683-一只小鼠^^_SCREENSHOTS.jpg"
     ]
   },
@@ -961,11 +878,7 @@
     "cover": "/data/streams/harei/2026_08_18_14_02_29/录制-1820703922-20260818-140229-638-小鼠鸣鸣的潮2.8^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_18_14_02_29/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_18_14_02_29/录制-1820703922-20260818-140229-638-小鼠鸣鸣的潮2.8^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_18_14_02_29/录制-1820703922-20260818-140229-638-小鼠鸣鸣的潮2.8^^_EVIDENCE_FRAME_01_001440s.jpg",
-      "/data/streams/harei/2026_08_18_14_02_29/录制-1820703922-20260818-140229-638-小鼠鸣鸣的潮2.8^^_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_08_18_14_02_29/录制-1820703922-20260818-140229-638-小鼠鸣鸣的潮2.8^^_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/harei/2026_08_18_14_02_29/录制-1820703922-20260818-140229-638-小鼠鸣鸣的潮2.8^^_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_08_18_14_02_29/录制-1820703922-20260818-140229-638-小鼠鸣鸣的潮2.8^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -997,11 +910,7 @@
     "cover": "/data/streams/harei/2026_08_15_21_32_23/录制-1820703922-20260815-213223-113-小猫的好物推荐^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_15_21_32_23/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_15_21_32_23/录制-1820703922-20260815-213223-113-小猫的好物推荐^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_15_21_32_23/录制-1820703922-20260815-213223-113-小猫的好物推荐^^_EVIDENCE_FRAME_01_008040s.jpg",
-      "/data/streams/harei/2026_08_15_21_32_23/录制-1820703922-20260815-213223-113-小猫的好物推荐^^_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_15_21_32_23/录制-1820703922-20260815-213223-113-小猫的好物推荐^^_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/harei/2026_08_15_21_32_23/录制-1820703922-20260815-213223-113-小猫的好物推荐^^_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_08_15_21_32_23/录制-1820703922-20260815-213223-113-小猫的好物推荐^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1018,11 +927,7 @@
     "cover": "/data/streams/harei/2026_08_14_20_02_29/录制-1820703922-20260814-200229-752-鼠，今天来唱歌^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_14_20_02_29/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_14_20_02_29/录制-1820703922-20260814-200229-752-鼠，今天来唱歌^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_14_20_02_29/录制-1820703922-20260814-200229-752-鼠，今天来唱歌^^_merged_EVIDENCE_FRAME_01_002340s.jpg",
-      "/data/streams/harei/2026_08_14_20_02_29/录制-1820703922-20260814-200229-752-鼠，今天来唱歌^^_merged_EVIDENCE_FRAME_02_003060s.jpg",
-      "/data/streams/harei/2026_08_14_20_02_29/录制-1820703922-20260814-200229-752-鼠，今天来唱歌^^_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_14_20_02_29/录制-1820703922-20260814-200229-752-鼠，今天来唱歌^^_merged_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_08_14_20_02_29/录制-1820703922-20260814-200229-752-鼠，今天来唱歌^^_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1040,8 +945,6 @@
     "highlights": "/data/streams/harei/2026_08_13_21_07_33/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_13_21_07_33/录制-1820703922-20260813-210733-028-鼠，今天好热吧^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_13_21_07_33/录制-1820703922-20260813-210733-028-鼠，今天好热吧^^_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_13_21_07_33/录制-1820703922-20260813-210733-028-鼠，今天好热吧^^_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/harei/2026_08_13_21_07_33/录制-1820703922-20260813-210733-028-鼠，今天好热吧^^_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1060,9 +963,6 @@
     "highlights": "/data/streams/harei/2026_08_13_13_02_24/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_13_13_02_24/录制-1820703922-20260813-130224-388-来玩玩小鼠gal^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_13_13_02_24/录制-1820703922-20260813-130224-388-来玩玩小鼠gal^^_merged_EVIDENCE_FRAME_01_004500s.jpg",
-      "/data/streams/harei/2026_08_13_13_02_24/录制-1820703922-20260813-130224-388-来玩玩小鼠gal^^_merged_EVIDENCE_FRAME_02_003480s.jpg",
-      "/data/streams/harei/2026_08_13_13_02_24/录制-1820703922-20260813-130224-388-来玩玩小鼠gal^^_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_08_13_13_02_24/录制-1820703922-20260813-130224-388-来玩玩小鼠gal^^_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1095,11 +995,7 @@
     "cover": "/data/streams/harei/2026_08_11_21_32_47/录制-1820703922-20260811-213247-140-和八尺大人约会^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_11_21_32_47/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_11_21_32_47/录制-1820703922-20260811-213247-140-和八尺大人约会^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_11_21_32_47/录制-1820703922-20260811-213247-140-和八尺大人约会^^_EVIDENCE_FRAME_01_002220s.jpg",
-      "/data/streams/harei/2026_08_11_21_32_47/录制-1820703922-20260811-213247-140-和八尺大人约会^^_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_11_21_32_47/录制-1820703922-20260811-213247-140-和八尺大人约会^^_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/harei/2026_08_11_21_32_47/录制-1820703922-20260811-213247-140-和八尺大人约会^^_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_08_11_21_32_47/录制-1820703922-20260811-213247-140-和八尺大人约会^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1116,11 +1012,7 @@
     "cover": "/data/streams/harei/2026_08_11_14_25_23/录制-1820703922-20260811-142523-656-小鼠来唱会儿^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_11_14_25_23/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_11_14_25_23/录制-1820703922-20260811-142523-656-小鼠来唱会儿^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_11_14_25_23/录制-1820703922-20260811-142523-656-小鼠来唱会儿^^_merged_EVIDENCE_FRAME_01_014700s.jpg",
-      "/data/streams/harei/2026_08_11_14_25_23/录制-1820703922-20260811-142523-656-小鼠来唱会儿^^_merged_EVIDENCE_FRAME_02_014760s.jpg",
-      "/data/streams/harei/2026_08_11_14_25_23/录制-1820703922-20260811-142523-656-小鼠来唱会儿^^_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_11_14_25_23/录制-1820703922-20260811-142523-656-小鼠来唱会儿^^_merged_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/harei/2026_08_11_14_25_23/录制-1820703922-20260811-142523-656-小鼠来唱会儿^^_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1138,9 +1030,6 @@
     "highlights": "/data/streams/harei/2026_08_10_21_05_46/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_10_21_05_46/录制-1820703922-20260810-210546-220-进来听一下新声卡^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_10_21_05_46/录制-1820703922-20260810-210546-220-进来听一下新声卡^^_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_10_21_05_46/录制-1820703922-20260810-210546-220-进来听一下新声卡^^_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_08_10_21_05_46/录制-1820703922-20260810-210546-220-进来听一下新声卡^^_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_08_10_21_05_46/录制-1820703922-20260810-210546-220-进来听一下新声卡^^_SCREENSHOTS.jpg"
     ]
   },
@@ -1158,9 +1047,7 @@
     "cover": "/data/streams/harei/2026_08_09_17_53_44/录制-1820703922-20260809-175344-043-小鼠人机解说_TES VS TT.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_09_17_53_44/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_09_17_53_44/录制-1820703922-20260809-175344-043-小鼠人机解说_TES VS TT_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_09_17_53_44/录制-1820703922-20260809-175344-043-小鼠人机解说_TES VS TT_merged_EVIDENCE_FRAME_01_000000s.jpg",
-      "/data/streams/harei/2026_08_09_17_53_44/录制-1820703922-20260809-175344-043-小鼠人机解说_TES VS TT_merged_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/harei/2026_08_09_17_53_44/录制-1820703922-20260809-175344-043-小鼠人机解说_TES VS TT_merged_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1193,8 +1080,6 @@
     "highlights": "/data/streams/harei/2026_08_08_20_16_26/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^_merged_EVIDENCE_FRAME_01_001560s.jpg",
-      "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^_merged_EVIDENCE_REQUEST_E2.jpg",
       "/data/streams/harei/2026_08_08_20_16_26/录制-1820703922-20260808-201626-733-小鼠来噜^^_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1213,8 +1098,6 @@
     "highlights": "/data/streams/harei/2026_08_08_20_02_14/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^_EVIDENCE_FRAME_01_000060s.jpg",
-      "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^_EVIDENCE_FRAME_02_000120s.jpg",
       "/data/streams/harei/2026_08_08_20_02_14/录制-1820703922-20260808-200214-146-小鼠来噜^^_SCREENSHOTS.jpg"
     ]
   },
@@ -1232,11 +1115,7 @@
     "cover": "/data/streams/harei/2026_08_07_19_00_39/录制-1820703922-20260807-190039-232-和三理一起看新人首播^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_07_19_00_39/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_07_19_00_39/录制-1820703922-20260807-190039-232-和三理一起看新人首播^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_07_19_00_39/录制-1820703922-20260807-190039-232-和三理一起看新人首播^^_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_07_19_00_39/录制-1820703922-20260807-190039-232-和三理一起看新人首播^^_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_08_07_19_00_39/录制-1820703922-20260807-190039-232-和三理一起看新人首播^^_EVIDENCE_REQUEST_E3.jpg",
-      "/data/streams/harei/2026_08_07_19_00_39/录制-1820703922-20260807-190039-232-和三理一起看新人首播^^_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_08_07_19_00_39/录制-1820703922-20260807-190039-232-和三理一起看新人首播^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1254,9 +1133,6 @@
     "highlights": "/data/streams/harei/2026_08_06_21_33_37/highlights.md",
     "images": [
       "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged_EVIDENCE_REQUEST_E3.jpg",
       "/data/streams/harei/2026_08_06_21_33_37/录制-1820703922-20260806-213337-308-劳累小鼠^^_merged_SCREENSHOTS.jpg"
     ]
   },
@@ -1274,11 +1150,7 @@
     "cover": "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_06_13_40_20/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_EVIDENCE_FRAME_01_003600s.jpg",
-      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_EVIDENCE_FRAME_02_006240s.jpg",
-      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_EVIDENCE_REQUEST_E4.jpg"
+      "/data/streams/harei/2026_08_06_13_40_20/录制-1820703922-20260806-134020-018-小鼠练一练lol^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1295,9 +1167,7 @@
     "cover": "/data/streams/harei/2026_08_05_21_02_40/录制-1820703922-20260805-210240-788-小鼠来了^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_05_21_02_40/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_05_21_02_40/录制-1820703922-20260805-210240-788-小鼠来了^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_05_21_02_40/录制-1820703922-20260805-210240-788-小鼠来了^^_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_05_21_02_40/录制-1820703922-20260805-210240-788-小鼠来了^^_EVIDENCE_REQUEST_E2.jpg"
+      "/data/streams/harei/2026_08_05_21_02_40/录制-1820703922-20260805-210240-788-小鼠来了^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1350,10 +1220,7 @@
     "cover": "/data/streams/harei/2026_08_04_14_02_39/录制-1820703922-20260804-140239-986-小鼠起床画画的天^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_04_14_02_39/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_04_14_02_39/录制-1820703922-20260804-140239-986-小鼠起床画画的天^^_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_04_14_02_39/录制-1820703922-20260804-140239-986-小鼠起床画画的天^^_EVIDENCE_REQUEST_E1.jpg",
-      "/data/streams/harei/2026_08_04_14_02_39/录制-1820703922-20260804-140239-986-小鼠起床画画的天^^_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_08_04_14_02_39/录制-1820703922-20260804-140239-986-小鼠起床画画的天^^_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/harei/2026_08_04_14_02_39/录制-1820703922-20260804-140239-986-小鼠起床画画的天^^_COMIC_FACTORY.png"
     ]
   },
   {
@@ -1370,11 +1237,7 @@
     "cover": "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_08_02_21_32_35/highlights.md",
     "images": [
-      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_COMIC_FACTORY.png",
-      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_EVIDENCE_FRAME_01_000420s.jpg",
-      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_EVIDENCE_FRAME_02_015660s.jpg",
-      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_EVIDENCE_REQUEST_E2.jpg",
-      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_EVIDENCE_REQUEST_E3.jpg"
+      "/data/streams/harei/2026_08_02_21_32_35/录制-1820703922-20260802-213235-431-一只小鼠^^_merged_COMIC_FACTORY.png"
     ]
   },
   {
