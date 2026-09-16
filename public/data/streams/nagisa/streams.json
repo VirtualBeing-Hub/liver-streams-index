@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_16_20_02_38",
+    "title": "「魔兽世界」表演赛+PVP",
+    "date": "2026-09-16",
+    "time": "20:02:38",
+    "startTime": "20:02",
+    "endTime": "01:09",
+    "duration": 18439,
+    "durationStr": "5.1 小时",
+    "srt": "/data/streams/nagisa/2026_09_16_20_02_38/录制-31368705-20260916-200238-188-「魔兽世界」表演赛+PVP.srt",
+    "xml": "/data/streams/nagisa/2026_09_16_20_02_38/录制-31368705-20260916-200238-188-「魔兽世界」表演赛+PVP.xml",
+    "cover": "/data/streams/nagisa/2026_09_16_20_02_38/录制-31368705-20260916-200238-188-「魔兽世界」表演赛+PVP.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_16_20_02_38/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_16_20_02_38/录制-31368705-20260916-200238-188-「魔兽世界」表演赛+PVP_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_16_20_02_38/录制-31368705-20260916-200238-188-「魔兽世界」表演赛+PVP_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_16_08_04_22",
+    "title": "早歌一会儿",
+    "date": "2026-09-16",
+    "time": "08:04:22",
+    "startTime": "08:04",
+    "endTime": "09:40",
+    "duration": 5803,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/nagisa/2026_09_16_08_04_22/录制-31368705-20260916-080422-066-早歌一会儿_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_16_08_04_22/录制-31368705-20260916-080422-066-早歌一会儿_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_16_08_04_22/录制-31368705-20260916-080422-066-早歌一会儿.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_16_08_04_22/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_16_08_04_22/录制-31368705-20260916-080422-066-早歌一会儿_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_16_08_04_22/录制-31368705-20260916-080422-066-早歌一会儿_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_15_15_25_11",
     "title": "「魔兽世界」师徒杯正赛",
     "date": "2026-09-15",

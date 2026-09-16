@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_16_19_59_22",
+    "title": "紫色女路人经过中",
+    "date": "2026-09-16",
+    "time": "19:59:22",
+    "startTime": "19:59",
+    "endTime": "22:18",
+    "duration": 8378,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/sumire/2026_09_16_19_59_22/录制-1727076670-20260916-195922-454-紫色女路人经过中.srt",
+    "xml": "/data/streams/sumire/2026_09_16_19_59_22/录制-1727076670-20260916-195922-454-紫色女路人经过中.xml",
+    "cover": "/data/streams/sumire/2026_09_16_19_59_22/录制-1727076670-20260916-195922-454-紫色女路人经过中.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_16_19_59_22/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_16_19_59_22/录制-1727076670-20260916-195922-454-紫色女路人经过中_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_16_19_59_22/录制-1727076670-20260916-195922-454-紫色女路人经过中_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_16_09_03_14",
+    "title": "早读",
+    "date": "2026-09-16",
+    "time": "09:03:14",
+    "startTime": "09:03",
+    "endTime": "09:41",
+    "duration": 2329,
+    "durationStr": "0.6 小时",
+    "srt": "/data/streams/sumire/2026_09_16_09_03_14/录制-1727076670-20260916-090314-345-早读_merged.srt",
+    "xml": "/data/streams/sumire/2026_09_16_09_03_14/录制-1727076670-20260916-090314-345-早读_merged.xml",
+    "cover": "/data/streams/sumire/2026_09_16_09_03_14/录制-1727076670-20260916-090314-345-早读.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_16_09_03_14/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_16_09_03_14/录制-1727076670-20260916-090314-345-早读_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_16_09_03_14/录制-1727076670-20260916-090314-345-早读_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_15_19_23_45",
     "title": "紫发女路人经过中",
     "date": "2026-09-15",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_16_20_00_28",
+    "title": "OVA之魔兽PVP",
+    "date": "2026-09-16",
+    "time": "20:00:28",
+    "startTime": "20:00",
+    "endTime": "01:48",
+    "duration": 20884,
+    "durationStr": "5.8 小时",
+    "srt": "/data/streams/nana7mi/2026_09_16_20_00_28/录制-21452505-20260916-200028-856-OVA之魔兽PVP.srt",
+    "xml": "/data/streams/nana7mi/2026_09_16_20_00_28/录制-21452505-20260916-200028-856-OVA之魔兽PVP.xml",
+    "cover": "/data/streams/nana7mi/2026_09_16_20_00_28/录制-21452505-20260916-200028-856-OVA之魔兽PVP.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_09_16_20_00_28/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_09_16_20_00_28/录制-21452505-20260916-200028-856-OVA之魔兽PVP_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_09_16_20_00_28/录制-21452505-20260916-200028-856-OVA之魔兽PVP_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_15_19_41_34",
     "title": "最终集之大米比赛",
     "date": "2026-09-15",
