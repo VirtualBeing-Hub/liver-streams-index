@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_09_17_21_04_25",
+    "title": "287联动",
+    "date": "2026-09-17",
+    "time": "21:04:25",
+    "startTime": "21:04",
+    "endTime": "01:20",
+    "duration": 15375,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/sumire/2026_09_17_21_04_25/录制-1727076670-20260917-210425-083-287联动_merged.srt",
+    "xml": "/data/streams/sumire/2026_09_17_21_04_25/录制-1727076670-20260917-210425-083-287联动_merged.xml",
+    "cover": "/data/streams/sumire/2026_09_17_21_04_25/录制-1727076670-20260917-210425-083-287联动.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_17_21_04_25/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_17_21_04_25/录制-1727076670-20260917-210425-083-287联动_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_16_19_59_22",
     "title": "紫色女路人经过中",
     "date": "2026-09-16",

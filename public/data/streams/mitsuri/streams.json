@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_17_22_16_52",
+    "title": "pocky喵喵！",
+    "date": "2026-09-17",
+    "time": "22:16:52",
+    "startTime": "22:16",
+    "endTime": "02:57",
+    "duration": 16883,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/mitsuri/2026_09_17_22_16_52/录制-1967216004-20260917-221652-489-pocky喵喵！.srt",
+    "xml": "/data/streams/mitsuri/2026_09_17_22_16_52/录制-1967216004-20260917-221652-489-pocky喵喵！.xml",
+    "cover": "/data/streams/mitsuri/2026_09_17_22_16_52/录制-1967216004-20260917-221652-489-pocky喵喵！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_09_17_22_16_52/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_09_17_22_16_52/录制-1967216004-20260917-221652-489-pocky喵喵！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_09_17_22_16_52/录制-1967216004-20260917-221652-489-pocky喵喵！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_17_15_30_20",
+    "title": "俺来抓咪！",
+    "date": "2026-09-17",
+    "time": "15:30:20",
+    "startTime": "15:30",
+    "endTime": "21:13",
+    "duration": 20591,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/mitsuri/2026_09_17_15_30_20/录制-1967216004-20260917-153020-537-俺来抓咪！.srt",
+    "xml": "/data/streams/mitsuri/2026_09_17_15_30_20/录制-1967216004-20260917-153020-537-俺来抓咪！.xml",
+    "cover": "/data/streams/mitsuri/2026_09_17_15_30_20/录制-1967216004-20260917-153020-537-俺来抓咪！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_09_17_15_30_20/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_09_17_15_30_20/录制-1967216004-20260917-153020-537-俺来抓咪！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_09_17_15_30_20/录制-1967216004-20260917-153020-537-俺来抓咪！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_16_22_03_44",
     "title": "好睡歌台但是不可以睡！",
     "date": "2026-09-16",

@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_09_17_16_42_25",
+    "title": "督战鼠_IG vs tes",
+    "date": "2026-09-17",
+    "time": "16:42:25",
+    "startTime": "16:42",
+    "endTime": "21:10",
+    "duration": 16118,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/harei/2026_09_17_16_42_25/录制-1820703922-20260917-164225-078-督战鼠_IG vs tes.srt",
+    "xml": "/data/streams/harei/2026_09_17_16_42_25/录制-1820703922-20260917-164225-078-督战鼠_IG vs tes.xml",
+    "cover": "/data/streams/harei/2026_09_17_16_42_25/录制-1820703922-20260917-164225-078-督战鼠_IG vs tes.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_17_16_42_25/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_17_16_42_25/录制-1820703922-20260917-164225-078-督战鼠_IG vs tes_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_17_10_00_26",
+    "title": "早安小鼠^^",
+    "date": "2026-09-17",
+    "time": "10:00:26",
+    "startTime": "10:00",
+    "endTime": "12:45",
+    "duration": 9902,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/harei/2026_09_17_10_00_26/录制-1820703922-20260917-100026-424-早安小鼠^^.srt",
+    "xml": "/data/streams/harei/2026_09_17_10_00_26/录制-1820703922-20260917-100026-424-早安小鼠^^.xml",
+    "cover": "/data/streams/harei/2026_09_17_10_00_26/录制-1820703922-20260917-100026-424-早安小鼠^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_09_17_10_00_26/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_17_10_00_26/录制-1820703922-20260917-100026-424-早安小鼠^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_17_10_00_26/录制-1820703922-20260917-100026-424-早安小鼠^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_16_20_03_32",
     "title": "今晚观赛一下大米^^",
     "date": "2026-09-16",

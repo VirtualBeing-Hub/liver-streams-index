@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026_09_17_22_34_58",
+    "title": "030歌回",
+    "date": "2026-09-17",
+    "time": "22:34:58",
+    "startTime": "22:34",
+    "endTime": "00:33",
+    "duration": 7143,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/mofu/2026_09_17_22_34_58/录制-1791260716-20260917-223458-569-030歌回.srt",
+    "xml": "/data/streams/mofu/2026_09_17_22_34_58/录制-1791260716-20260917-223458-569-030歌回.xml",
+    "cover": "/data/streams/mofu/2026_09_17_22_34_58/录制-1791260716-20260917-223458-569-030歌回.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_09_17_22_34_58/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_09_17_22_34_58/录制-1791260716-20260917-223458-569-030歌回_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_09_17_21_49_24",
+    "title": "030歌回",
+    "date": "2026-09-17",
+    "time": "21:49:24",
+    "startTime": "21:49",
+    "endTime": "22:31",
+    "duration": 2539,
+    "durationStr": "0.7 小时",
+    "srt": null,
+    "xml": "/data/streams/mofu/2026_09_17_21_49_24/录制-1791260716-20260917-214924-406-030歌回.xml",
+    "cover": "/data/streams/mofu/2026_09_17_21_49_24/录制-1791260716-20260917-214924-406-030歌回.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_17_21_32_35",
+    "title": "030歌回",
+    "date": "2026-09-17",
+    "time": "21:32:35",
+    "startTime": "21:32",
+    "endTime": "21:48",
+    "duration": 1006,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/mofu/2026_09_17_21_32_35/录制-1791260716-20260917-213235-126-030歌回.xml",
+    "cover": "/data/streams/mofu/2026_09_17_21_32_35/录制-1791260716-20260917-213235-126-030歌回.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_17_21_14_57",
+    "title": "030歌回",
+    "date": "2026-09-17",
+    "time": "21:14:57",
+    "startTime": "21:14",
+    "endTime": "21:30",
+    "duration": 1017,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/mofu/2026_09_17_21_14_57/录制-1791260716-20260917-211457-016-030歌回.xml",
+    "cover": "/data/streams/mofu/2026_09_17_21_14_57/录制-1791260716-20260917-211457-016-030歌回.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_09_16_20_02_37",
     "title": "冠军pvp",
     "date": "2026-09-16",

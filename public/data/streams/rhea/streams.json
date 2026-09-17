@@ -1,7 +1,25 @@
 [
   {
+    "id": "2026_09_18_01_44_36",
+    "title": "无效直播",
+    "date": "2026-09-17",
+    "time": "01:44:36",
+    "startTime": "01:44",
+    "endTime": "02:27",
+    "duration": 2619,
+    "durationStr": "0.7 小时",
+    "srt": "/data/streams/rhea/2026_09_18_01_44_36/录制-23260993-20260918-014436-786-生存报告_merged.srt",
+    "xml": "/data/streams/rhea/2026_09_18_01_44_36/录制-23260993-20260918-014436-786-生存报告_merged.xml",
+    "cover": "/data/streams/rhea/2026_09_18_01_44_36/录制-23260993-20260918-014436-786-生存报告.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_09_18_01_44_36/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_09_18_01_44_36/录制-23260993-20260918-014436-786-生存报告_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_09_18_01_44_36/录制-23260993-20260918-014436-786-生存报告_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_16_20_04_20",
-    "title": "魔兽师徒杯收官之夜",
+    "title": "生存报告",
     "date": "2026-09-16",
     "time": "20:04:20",
     "startTime": "20:04",

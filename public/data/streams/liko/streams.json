@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_09_17_20_04_40",
+    "title": "模仿大咖秀",
+    "date": "2026-09-17",
+    "time": "20:04:40",
+    "startTime": "20:04",
+    "endTime": "00:20",
+    "duration": 15400,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/liko/2026_09_17_20_04_40/录制-1713548468-20260917-200440-337-模仿大咖秀_merged.srt",
+    "xml": "/data/streams/liko/2026_09_17_20_04_40/录制-1713548468-20260917-200440-337-模仿大咖秀_merged.xml",
+    "cover": "/data/streams/liko/2026_09_17_20_04_40/录制-1713548468-20260917-200440-337-模仿大咖秀.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_17_20_04_40/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_17_20_04_40/录制-1713548468-20260917-200440-337-模仿大咖秀_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_17_11_08_37",
+    "title": "兔兔贴贴",
+    "date": "2026-09-17",
+    "time": "11:08:37",
+    "startTime": "11:08",
+    "endTime": "15:17",
+    "duration": 14946,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/liko/2026_09_17_11_08_37/录制-1713548468-20260917-110837-970-兔兔贴贴.srt",
+    "xml": "/data/streams/liko/2026_09_17_11_08_37/录制-1713548468-20260917-110837-970-兔兔贴贴.xml",
+    "cover": "/data/streams/liko/2026_09_17_11_08_37/录制-1713548468-20260917-110837-970-兔兔贴贴.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_17_11_08_37/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_17_11_08_37/录制-1713548468-20260917-110837-970-兔兔贴贴_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_15_20_08_31",
     "title": "真的不是早上八点吗",
     "date": "2026-09-15",
