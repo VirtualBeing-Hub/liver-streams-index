@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_18_20_56_31",
+    "title": "有效周五无效周日！",
+    "date": "2026-09-18",
+    "time": "20:56:31",
+    "startTime": "20:56",
+    "endTime": "22:03",
+    "duration": 4035,
+    "durationStr": "1.1 小时",
+    "srt": "/data/streams/rhea/2026_09_18_20_56_31/录制-23260993-20260918-205631-409-有效周五无效周日！_merged.srt",
+    "xml": "/data/streams/rhea/2026_09_18_20_56_31/录制-23260993-20260918-205631-409-有效周五无效周日！_merged.xml",
+    "cover": "/data/streams/rhea/2026_09_18_20_56_31/录制-23260993-20260918-205631-409-有效周五无效周日！.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_09_18_20_56_31/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_09_18_20_56_31/录制-23260993-20260918-205631-409-有效周五无效周日！_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_09_18_20_56_31/录制-23260993-20260918-205631-409-有效周五无效周日！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_18_01_44_36",
     "title": "无效直播",
     "date": "2026-09-17",

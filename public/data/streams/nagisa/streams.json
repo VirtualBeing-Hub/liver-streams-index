@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_09_18_21_12_56",
+    "title": "周五的歌杂",
+    "date": "2026-09-18",
+    "time": "21:12:56",
+    "startTime": "21:12",
+    "endTime": "22:02",
+    "duration": 3026,
+    "durationStr": "0.8 小时",
+    "srt": "/data/streams/nagisa/2026_09_18_21_12_56/录制-31368705-20260918-211256-488-周五的歌杂.srt",
+    "xml": "/data/streams/nagisa/2026_09_18_21_12_56/录制-31368705-20260918-211256-488-周五的歌杂.xml",
+    "cover": "/data/streams/nagisa/2026_09_18_21_12_56/录制-31368705-20260918-211256-488-周五的歌杂.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_18_21_12_56/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_18_21_12_56/录制-31368705-20260918-211256-488-周五的歌杂_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_18_21_12_56/录制-31368705-20260918-211256-488-周五的歌杂_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_18_08_08_25",
+    "title": "早安整理",
+    "date": "2026-09-18",
+    "time": "08:08:25",
+    "startTime": "08:08",
+    "endTime": "11:17",
+    "duration": 11395,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/nagisa/2026_09_18_08_08_25/录制-31368705-20260918-080825-888-早安整理_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_18_08_08_25/录制-31368705-20260918-080825-888-早安整理_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_18_08_08_25/录制-31368705-20260918-080825-888-早安整理.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_18_08_08_25/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_18_08_08_25/录制-31368705-20260918-080825-888-早安整理_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_16_20_02_38",
     "title": "「魔兽世界」表演赛+PVP",
     "date": "2026-09-16",
