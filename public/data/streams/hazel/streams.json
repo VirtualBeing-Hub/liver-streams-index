@@ -1,7 +1,25 @@
 [
   {
+    "id": "2026_09_19_18_03_16",
+    "title": "青鬼·临海学校",
+    "date": "2026-09-19",
+    "time": "18:03:16",
+    "startTime": "18:03",
+    "endTime": "21:18",
+    "duration": 11741,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/hazel/2026_09_19_18_03_16/录制-1713546334-20260919-180316-567-青鬼·临海学校_merged.srt",
+    "xml": "/data/streams/hazel/2026_09_19_18_03_16/录制-1713546334-20260919-180316-567-青鬼·临海学校_merged.xml",
+    "cover": "/data/streams/hazel/2026_09_19_18_03_16/录制-1713546334-20260919-180316-567-青鬼·临海学校.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_09_19_18_03_16/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_09_19_18_03_16/录制-1713546334-20260919-180316-567-青鬼·临海学校_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_09_19_18_03_16/录制-1713546334-20260919-180316-567-青鬼·临海学校_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_17_13_05_31",
-    "title": "中午好 准备捉宠",
+    "title": "下午好 捉宠一会儿",
     "date": "2026-09-17",
     "time": "13:05:31",
     "startTime": "13:05",

@@ -1,7 +1,25 @@
 [
   {
+    "id": "2026_09_19_21_21_14",
+    "title": "小栞来啦！",
+    "date": "2026-09-19",
+    "time": "21:21:14",
+    "startTime": "21:21",
+    "endTime": "00:18",
+    "duration": 10670,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/shiori/2026_09_19_21_21_14/录制-26966466-20260919-212114-802-小栞来啦！.srt",
+    "xml": "/data/streams/shiori/2026_09_19_21_21_14/录制-26966466-20260919-212114-802-小栞来啦！.xml",
+    "cover": "/data/streams/shiori/2026_09_19_21_21_14/录制-26966466-20260919-212114-802-小栞来啦！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_19_21_21_14/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_19_21_21_14/录制-26966466-20260919-212114-802-小栞来啦！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_19_21_21_14/录制-26966466-20260919-212114-802-小栞来啦！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_18_10_14_28",
-    "title": "小栞来！",
+    "title": "困困小栞！",
     "date": "2026-09-18",
     "time": "10:14:28",
     "startTime": "10:14",

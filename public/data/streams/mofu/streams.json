@@ -1,7 +1,43 @@
 [
   {
+    "id": "2026_09_20_01_26_13",
+    "title": "ciallo",
+    "date": "2026-09-19",
+    "time": "01:26:13",
+    "startTime": "01:26",
+    "endTime": "03:36",
+    "duration": 7837,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/mofu/2026_09_20_01_26_13/录制-1791260716-20260920-012613-278-ciallo_merged.srt",
+    "xml": "/data/streams/mofu/2026_09_20_01_26_13/录制-1791260716-20260920-012613-278-ciallo_merged.xml",
+    "cover": "/data/streams/mofu/2026_09_20_01_26_13/录制-1791260716-20260920-012613-278-ciallo.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_09_20_01_26_13/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_09_20_01_26_13/录制-1791260716-20260920-012613-278-ciallo_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_09_20_01_26_13/录制-1791260716-20260920-012613-278-ciallo_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_19_20_02_16",
+    "title": "ciallo",
+    "date": "2026-09-19",
+    "time": "20:02:16",
+    "startTime": "20:02",
+    "endTime": "23:25",
+    "duration": 12236,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/mofu/2026_09_19_20_02_16/录制-1791260716-20260919-200216-230-严肃对待.srt",
+    "xml": "/data/streams/mofu/2026_09_19_20_02_16/录制-1791260716-20260919-200216-230-严肃对待.xml",
+    "cover": null,
+    "highlights": "/data/streams/mofu/2026_09_19_20_02_16/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_09_19_20_02_16/录制-1791260716-20260919-200216-230-严肃对待_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_09_19_20_02_16/录制-1791260716-20260919-200216-230-严肃对待_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_17_22_34_58",
-    "title": "030歌回",
+    "title": "小狗味杂谈",
     "date": "2026-09-17",
     "time": "22:34:58",
     "startTime": "22:34",

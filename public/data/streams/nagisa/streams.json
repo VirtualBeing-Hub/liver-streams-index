@@ -1,7 +1,40 @@
 [
   {
+    "id": "2026_09_19_20_32_23",
+    "title": "「Big Walk」vrpsp",
+    "date": "2026-09-19",
+    "time": "20:32:23",
+    "startTime": "20:32",
+    "endTime": "01:16",
+    "duration": 17092,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/nagisa/2026_09_19_20_32_23/录制-31368705-20260919-203223-163-「Big Walk」vrpsp_merged.srt",
+    "xml": "/data/streams/nagisa/2026_09_19_20_32_23/录制-31368705-20260919-203223-163-「Big Walk」vrpsp_merged.xml",
+    "cover": "/data/streams/nagisa/2026_09_19_20_32_23/录制-31368705-20260919-203223-163-「Big Walk」vrpsp.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_09_19_20_32_23/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_09_19_20_32_23/录制-31368705-20260919-203223-163-「Big Walk」vrpsp_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_09_19_20_32_23/录制-31368705-20260919-203223-163-「Big Walk」vrpsp_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_19_19_11_31",
+    "title": "周六练练歌",
+    "date": "2026-09-19",
+    "time": "19:11:31",
+    "startTime": "19:11",
+    "endTime": "19:29",
+    "duration": 1088,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_09_19_19_11_31/录制-31368705-20260919-191131-789-周六练练歌.xml",
+    "cover": "/data/streams/nagisa/2026_09_19_19_11_31/录制-31368705-20260919-191131-789-周六练练歌.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
     "id": "2026_09_18_21_12_56",
-    "title": "周五的歌杂",
+    "title": "周六练练歌",
     "date": "2026-09-18",
     "time": "21:12:56",
     "startTime": "21:12",

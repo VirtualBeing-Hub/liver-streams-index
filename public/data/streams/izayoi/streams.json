@@ -1,7 +1,25 @@
 [
   {
+    "id": "2026_09_19_18_58_49",
+    "title": "飞！",
+    "date": "2026-09-19",
+    "time": "18:58:49",
+    "startTime": "18:58",
+    "endTime": "23:02",
+    "duration": 14690,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/izayoi/2026_09_19_18_58_49/录制-1741667419-20260919-185849-702-飞！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_19_18_58_49/录制-1741667419-20260919-185849-702-飞！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_19_18_58_49/录制-1741667419-20260919-185849-702-飞！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_19_18_58_49/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_19_18_58_49/录制-1741667419-20260919-185849-702-飞！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_19_18_58_49/录制-1741667419-20260919-185849-702-飞！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_18_21_59_37",
-    "title": "1616我们喜浣你",
+    "title": "终究还是要锻炼吗。",
     "date": "2026-09-18",
     "time": "21:59:37",
     "startTime": "21:59",
