@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_20_19_31_07",
+    "title": "整点练歌⭐",
+    "date": "2026-09-20",
+    "time": "19:31:07",
+    "startTime": "19:31",
+    "endTime": "00:38",
+    "duration": 18429,
+    "durationStr": "5.1 小时",
+    "srt": "/data/streams/mizuki/2026_09_20_19_31_07/录制-30655190-20260920-193107-026-先崩铁前瞻⭐.srt",
+    "xml": "/data/streams/mizuki/2026_09_20_19_31_07/录制-30655190-20260920-193107-026-先崩铁前瞻⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_20_19_31_07/录制-30655190-20260920-193107-026-先崩铁前瞻⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_20_19_31_07/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_20_19_31_07/录制-30655190-20260920-193107-026-先崩铁前瞻⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_20_19_31_07/录制-30655190-20260920-193107-026-先崩铁前瞻⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_20_15_03_28",
+    "title": "鬼武者 打击感很强⭐",
+    "date": "2026-09-20",
+    "time": "15:03:28",
+    "startTime": "15:03",
+    "endTime": "18:14",
+    "duration": 11514,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/mizuki/2026_09_20_15_03_28/录制-30655190-20260920-150328-303-鬼武者 打击感很强⭐.srt",
+    "xml": "/data/streams/mizuki/2026_09_20_15_03_28/录制-30655190-20260920-150328-303-鬼武者 打击感很强⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_20_15_03_28/录制-30655190-20260920-150328-303-鬼武者 打击感很强⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_20_15_03_28/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_20_15_03_28/录制-30655190-20260920-150328-303-鬼武者 打击感很强⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_20_15_03_28/录制-30655190-20260920-150328-303-鬼武者 打击感很强⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_19_21_03_20",
     "title": "暖心投稿最终回⭐",
     "date": "2026-09-19",

@@ -5,14 +5,17 @@
     "date": "2026-09-19",
     "time": "22:06:36",
     "startTime": "22:06",
-    "endTime": "03:59",
-    "duration": 21216,
-    "durationStr": "5.9 小时",
-    "srt": null,
+    "endTime": "04:26",
+    "duration": 22820,
+    "durationStr": "6.3 小时",
+    "srt": "/data/streams/mitsuri/2026_09_19_22_06_36/录制-1967216004-20260919-220636-215-补下前瞻！！.srt",
     "xml": "/data/streams/mitsuri/2026_09_19_22_06_36/录制-1967216004-20260919-220636-215-补下前瞻！！.xml",
     "cover": "/data/streams/mitsuri/2026_09_19_22_06_36/录制-1967216004-20260919-220636-215-补下前瞻！！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_09_19_22_06_36/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_09_19_22_06_36/录制-1967216004-20260919-220636-215-补下前瞻！！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_09_19_22_06_36/录制-1967216004-20260919-220636-215-补下前瞻！！_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_19_15_05_10",
@@ -28,7 +31,8 @@
     "cover": "/data/streams/mitsuri/2026_09_19_15_05_10/录制-1967216004-20260919-150510-015-聊会儿抓咪！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_09_19_15_05_10/highlights.md",
     "images": [
-      "/data/streams/mitsuri/2026_09_19_15_05_10/录制-1967216004-20260919-150510-015-聊会儿抓咪！！_merged_COMIC_FACTORY.png"
+      "/data/streams/mitsuri/2026_09_19_15_05_10/录制-1967216004-20260919-150510-015-聊会儿抓咪！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_09_19_15_05_10/录制-1967216004-20260919-150510-015-聊会儿抓咪！！_merged_SCREENSHOTS.jpg"
     ]
   },
   {

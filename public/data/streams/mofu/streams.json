@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_20_22_13_40",
+    "title": "ciallo",
+    "date": "2026-09-20",
+    "time": "22:13:40",
+    "startTime": "22:13",
+    "endTime": "02:27",
+    "duration": 15262,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/mofu/2026_09_20_22_13_40/录制-1791260716-20260920-221340-352-ciallo.srt",
+    "xml": "/data/streams/mofu/2026_09_20_22_13_40/录制-1791260716-20260920-221340-352-ciallo.xml",
+    "cover": "/data/streams/mofu/2026_09_20_22_13_40/录制-1791260716-20260920-221340-352-ciallo.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_09_20_22_13_40/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_09_20_22_13_40/录制-1791260716-20260920-221340-352-ciallo_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_09_20_22_13_40/录制-1791260716-20260920-221340-352-ciallo_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_20_01_26_13",
     "title": "ciallo",
     "date": "2026-09-19",

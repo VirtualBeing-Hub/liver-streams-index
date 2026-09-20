@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_20_20_18_34",
+    "title": "南征北战来咯",
+    "date": "2026-09-20",
+    "time": "20:18:34",
+    "startTime": "20:18",
+    "endTime": "00:37",
+    "duration": 15564,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/liko/2026_09_20_20_18_34/录制-1713548468-20260920-201834-635-南征北战来咯_merged.srt",
+    "xml": "/data/streams/liko/2026_09_20_20_18_34/录制-1713548468-20260920-201834-635-南征北战来咯_merged.xml",
+    "cover": "/data/streams/liko/2026_09_20_20_18_34/录制-1713548468-20260920-201834-635-南征北战来咯.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_20_20_18_34/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_20_20_18_34/录制-1713548468-20260920-201834-635-南征北战来咯_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_20_20_18_34/录制-1713548468-20260920-201834-635-南征北战来咯_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_20_11_12_15",
+    "title": "兔兔做饭",
+    "date": "2026-09-20",
+    "time": "11:12:15",
+    "startTime": "11:12",
+    "endTime": "14:31",
+    "duration": 11980,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/liko/2026_09_20_11_12_15/录制-1713548468-20260920-111215-028-兔兔做饭.srt",
+    "xml": "/data/streams/liko/2026_09_20_11_12_15/录制-1713548468-20260920-111215-028-兔兔做饭.xml",
+    "cover": "/data/streams/liko/2026_09_20_11_12_15/录制-1713548468-20260920-111215-028-兔兔做饭.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_20_11_12_15/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_20_11_12_15/录制-1713548468-20260920-111215-028-兔兔做饭_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_20_11_12_15/录制-1713548468-20260920-111215-028-兔兔做饭_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_19_20_11_08",
     "title": "兔兔贴贴",
     "date": "2026-09-19",
