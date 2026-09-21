@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_21_21_02_39",
+    "title": "虚度我是毛绒小弥⭐",
+    "date": "2026-09-21",
+    "time": "21:02:39",
+    "startTime": "21:02",
+    "endTime": "00:31",
+    "duration": 12547,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/mizuki/2026_09_21_21_02_39/录制-30655190-20260921-210239-981-虚度我是毛绒小弥⭐.srt",
+    "xml": "/data/streams/mizuki/2026_09_21_21_02_39/录制-30655190-20260921-210239-981-虚度我是毛绒小弥⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_21_21_02_39/录制-30655190-20260921-210239-981-虚度我是毛绒小弥⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_21_21_02_39/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_21_21_02_39/录制-30655190-20260921-210239-981-虚度我是毛绒小弥⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_21_21_02_39/录制-30655190-20260921-210239-981-虚度我是毛绒小弥⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_21_15_02_27",
+    "title": "鬼武者⭐",
+    "date": "2026-09-21",
+    "time": "15:02:27",
+    "startTime": "15:02",
+    "endTime": "18:21",
+    "duration": 11942,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mizuki/2026_09_21_15_02_27/录制-30655190-20260921-150227-161-鬼武者⭐.srt",
+    "xml": "/data/streams/mizuki/2026_09_21_15_02_27/录制-30655190-20260921-150227-161-鬼武者⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_21_15_02_27/录制-30655190-20260921-150227-161-鬼武者⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_21_15_02_27/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_21_15_02_27/录制-30655190-20260921-150227-161-鬼武者⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_21_15_02_27/录制-30655190-20260921-150227-161-鬼武者⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_20_19_31_07",
     "title": "整点练歌⭐",
     "date": "2026-09-20",

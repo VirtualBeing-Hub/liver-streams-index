@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_21_22_03_15",
+    "title": "二次元的偷",
+    "date": "2026-09-21",
+    "time": "22:03:15",
+    "startTime": "22:03",
+    "endTime": "02:41",
+    "duration": 16687,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/nana7mi/2026_09_21_22_03_15/录制-21452505-20260921-220315-688-先把整容电视剧看完！_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_09_21_22_03_15/录制-21452505-20260921-220315-688-先把整容电视剧看完！_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_09_21_22_03_15/录制-21452505-20260921-220315-688-先把整容电视剧看完！.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_09_21_22_03_15/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_09_21_22_03_15/录制-21452505-20260921-220315-688-先把整容电视剧看完！_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_09_21_22_03_15/录制-21452505-20260921-220315-688-先把整容电视剧看完！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_21_03_07_17",
     "title": "整容电视剧",
     "date": "2026-09-20",
@@ -16,18 +34,21 @@
   },
   {
     "id": "2026_09_20_22_14_29",
-    "title": "随便唱唱啊",
+    "title": "整容电视剧",
     "date": "2026-09-20",
     "time": "22:14:29",
     "startTime": "22:14",
-    "endTime": "03:06",
-    "duration": 17546,
-    "durationStr": "4.9 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_09_20_22_14_29/录制-21452505-20260920-221429-564-随便唱唱啊.xml",
+    "endTime": "07:00",
+    "duration": 31578,
+    "durationStr": "8.8 小时",
+    "srt": "/data/streams/nana7mi/2026_09_20_22_14_29/录制-21452505-20260920-221429-564-随便唱唱啊_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_09_20_22_14_29/录制-21452505-20260920-221429-564-随便唱唱啊_merged.xml",
     "cover": "/data/streams/nana7mi/2026_09_20_22_14_29/录制-21452505-20260920-221429-564-随便唱唱啊.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_09_20_22_14_29/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_09_20_22_14_29/录制-21452505-20260920-221429-564-随便唱唱啊_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_09_20_22_14_29/录制-21452505-20260920-221429-564-随便唱唱啊_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_19_22_06_40",

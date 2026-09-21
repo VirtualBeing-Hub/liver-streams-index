@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_21_22_24_23",
+    "title": "电话来喽",
+    "date": "2026-09-21",
+    "time": "22:24:23",
+    "startTime": "22:24",
+    "endTime": "23:21",
+    "duration": 3421,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/nightin/2026_09_21_22_24_23/录制-24872476-20260921-222423-501-电话来喽_merged.srt",
+    "xml": "/data/streams/nightin/2026_09_21_22_24_23/录制-24872476-20260921-222423-501-电话来喽_merged.xml",
+    "cover": "/data/streams/nightin/2026_09_21_22_24_23/录制-24872476-20260921-222423-501-电话来喽.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_21_22_24_23/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_21_22_24_23/录制-24872476-20260921-222423-501-电话来喽_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_21_22_24_23/录制-24872476-20260921-222423-501-电话来喽_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_21_14_04_18",
+    "title": "下午好！",
+    "date": "2026-09-21",
+    "time": "14:04:18",
+    "startTime": "14:04",
+    "endTime": "17:01",
+    "duration": 10648,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/nightin/2026_09_21_14_04_18/录制-24872476-20260921-140418-381-下午好！.srt",
+    "xml": "/data/streams/nightin/2026_09_21_14_04_18/录制-24872476-20260921-140418-381-下午好！.xml",
+    "cover": "/data/streams/nightin/2026_09_21_14_04_18/录制-24872476-20260921-140418-381-下午好！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_21_14_04_18/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_21_14_04_18/录制-24872476-20260921-140418-381-下午好！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_21_14_04_18/录制-24872476-20260921-140418-381-下午好！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_20_16_16_27",
     "title": "健身环有声版！",
     "date": "2026-09-20",

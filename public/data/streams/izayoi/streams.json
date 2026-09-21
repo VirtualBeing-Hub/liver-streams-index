@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_21_20_07_15",
+    "title": "在画了，在画了！",
+    "date": "2026-09-21",
+    "time": "20:07:15",
+    "startTime": "20:07",
+    "endTime": "00:08",
+    "duration": 14513,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/izayoi/2026_09_21_20_07_15/录制-1741667419-20260921-200715-778-在画了，在画了！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_21_20_07_15/录制-1741667419-20260921-200715-778-在画了，在画了！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_21_20_07_15/录制-1741667419-20260921-200715-778-在画了，在画了！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_21_20_07_15/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_21_20_07_15/录制-1741667419-20260921-200715-778-在画了，在画了！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_21_20_07_15/录制-1741667419-20260921-200715-778-在画了，在画了！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_21_08_59_21",
+    "title": "早茶第九十九天",
+    "date": "2026-09-21",
+    "time": "08:59:21",
+    "startTime": "08:59",
+    "endTime": "11:20",
+    "duration": 8505,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/izayoi/2026_09_21_08_59_21/录制-1741667419-20260921-085921-705-早茶第九十九天_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_21_08_59_21/录制-1741667419-20260921-085921-705-早茶第九十九天_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_21_08_59_21/录制-1741667419-20260921-085921-705-早茶第九十九天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_21_08_59_21/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_21_08_59_21/录制-1741667419-20260921-085921-705-早茶第九十九天_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_21_08_59_21/录制-1741667419-20260921-085921-705-早茶第九十九天_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_20_12_05_12",
     "title": "法浣开饭！",
     "date": "2026-09-20",
