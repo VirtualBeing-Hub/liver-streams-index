@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_22_22_03_22",
+    "title": "我真得控制共振你了",
+    "date": "2026-09-22",
+    "time": "22:03:22",
+    "startTime": "22:03",
+    "endTime": "02:32",
+    "duration": 16176,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/nana7mi/2026_09_22_22_03_22/录制-21452505-20260922-220322-389-我真得控制共振你了_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_09_22_22_03_22/录制-21452505-20260922-220322-389-我真得控制共振你了_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_09_22_22_03_22/录制-21452505-20260922-220322-389-我真得控制共振你了.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_09_22_22_03_22/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_09_22_22_03_22/录制-21452505-20260922-220322-389-我真得控制共振你了_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_09_22_22_03_22/录制-21452505-20260922-220322-389-我真得控制共振你了_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_21_22_03_15",
     "title": "二次元的偷",
     "date": "2026-09-21",

@@ -5,14 +5,17 @@
     "date": "2026-09-22",
     "time": "20:04:57",
     "startTime": "20:04",
-    "endTime": "20:22",
-    "duration": 1103,
-    "durationStr": "0.3 小时",
-    "srt": null,
-    "xml": "/data/streams/liko/2026_09_22_20_04_57/录制-1713548468-20260922-200457-159-视频鉴赏来咯~！.xml",
+    "endTime": "00:33",
+    "duration": 16147,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/liko/2026_09_22_20_04_57/录制-1713548468-20260922-200457-159-视频鉴赏来咯~！_merged.srt",
+    "xml": "/data/streams/liko/2026_09_22_20_04_57/录制-1713548468-20260922-200457-159-视频鉴赏来咯~！_merged.xml",
     "cover": "/data/streams/liko/2026_09_22_20_04_57/录制-1713548468-20260922-200457-159-视频鉴赏来咯~！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/liko/2026_09_22_20_04_57/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_22_20_04_57/录制-1713548468-20260922-200457-159-视频鉴赏来咯~！_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_22_20_04_57/录制-1713548468-20260922-200457-159-视频鉴赏来咯~！_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_22_13_45_20",
@@ -28,7 +31,8 @@
     "cover": "/data/streams/liko/2026_09_22_13_45_20/录制-1713548468-20260922-134520-860-睡过头了。。.cover.jpg",
     "highlights": "/data/streams/liko/2026_09_22_13_45_20/highlights.md",
     "images": [
-      "/data/streams/liko/2026_09_22_13_45_20/录制-1713548468-20260922-134520-860-睡过头了。。_merged_COMIC_FACTORY.png"
+      "/data/streams/liko/2026_09_22_13_45_20/录制-1713548468-20260922-134520-860-睡过头了。。_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_22_13_45_20/录制-1713548468-20260922-134520-860-睡过头了。。_merged_SCREENSHOTS.jpg"
     ]
   },
   {

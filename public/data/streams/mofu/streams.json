@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_22_21_00_31",
+    "title": "晚上汪汪",
+    "date": "2026-09-22",
+    "time": "21:00:31",
+    "startTime": "21:00",
+    "endTime": "03:23",
+    "duration": 22991,
+    "durationStr": "6.4 小时",
+    "srt": "/data/streams/mofu/2026_09_22_21_00_31/录制-1791260716-20260922-210031-877-晚上汪汪_merged.srt",
+    "xml": "/data/streams/mofu/2026_09_22_21_00_31/录制-1791260716-20260922-210031-877-晚上汪汪_merged.xml",
+    "cover": "/data/streams/mofu/2026_09_22_21_00_31/录制-1791260716-20260922-210031-877-晚上汪汪.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_09_22_21_00_31/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_09_22_21_00_31/录制-1791260716-20260922-210031-877-晚上汪汪_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_09_22_21_00_31/录制-1791260716-20260922-210031-877-晚上汪汪_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_22_15_55_30",
     "title": "ciallo",
     "date": "2026-09-22",

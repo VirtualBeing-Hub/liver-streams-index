@@ -5,14 +5,17 @@
     "date": "2026-09-22",
     "time": "20:07:25",
     "startTime": "20:07",
-    "endTime": "20:23",
-    "duration": 961,
-    "durationStr": "0.3 小时",
-    "srt": null,
-    "xml": "/data/streams/sui/2026_09_22_20_07_25/录制-25788785-20260922-200725-485-陪你这个猪过周二！.xml",
+    "endTime": "23:59",
+    "duration": 13966,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/sui/2026_09_22_20_07_25/录制-25788785-20260922-200725-485-陪你这个猪过周二！_merged.srt",
+    "xml": "/data/streams/sui/2026_09_22_20_07_25/录制-25788785-20260922-200725-485-陪你这个猪过周二！_merged.xml",
     "cover": "/data/streams/sui/2026_09_22_20_07_25/录制-25788785-20260922-200725-485-陪你这个猪过周二！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/sui/2026_09_22_20_07_25/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_09_22_20_07_25/录制-25788785-20260922-200725-485-陪你这个猪过周二！_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_09_22_20_07_25/录制-25788785-20260922-200725-485-陪你这个猪过周二！_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_20_20_23_09",

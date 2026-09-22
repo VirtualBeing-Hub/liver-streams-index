@@ -5,14 +5,17 @@
     "date": "2026-09-22",
     "time": "20:12:43",
     "startTime": "20:12",
-    "endTime": "20:22",
-    "duration": 636,
-    "durationStr": "0.2 小时",
-    "srt": null,
-    "xml": "/data/streams/harei/2026_09_22_20_12_43/录制-1820703922-20260922-201243-116-哦鼠的肚几^^.xml",
+    "endTime": "00:38",
+    "duration": 15973,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/harei/2026_09_22_20_12_43/录制-1820703922-20260922-201243-116-哦鼠的肚几^^_merged.srt",
+    "xml": "/data/streams/harei/2026_09_22_20_12_43/录制-1820703922-20260922-201243-116-哦鼠的肚几^^_merged.xml",
     "cover": "/data/streams/harei/2026_09_22_20_12_43/录制-1820703922-20260922-201243-116-哦鼠的肚几^^.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/harei/2026_09_22_20_12_43/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_09_22_20_12_43/录制-1820703922-20260922-201243-116-哦鼠的肚几^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_09_22_20_12_43/录制-1820703922-20260922-201243-116-哦鼠的肚几^^_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_20_20_03_02",

@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_09_23_00_51_11",
+    "title": "嘘",
+    "date": "2026-09-22",
+    "time": "00:51:11",
+    "startTime": "00:51",
+    "endTime": "02:42",
+    "duration": 6673,
+    "durationStr": "1.9 小时",
+    "srt": "/data/streams/viridis/2026_09_23_00_51_11/录制-1727071052-20260923-005111-560-嘘.srt",
+    "xml": "/data/streams/viridis/2026_09_23_00_51_11/录制-1727071052-20260923-005111-560-嘘.xml",
+    "cover": "/data/streams/viridis/2026_09_23_00_51_11/录制-1727071052-20260923-005111-560-嘘.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_09_23_00_51_11/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_09_23_00_51_11/录制-1727071052-20260923-005111-560-嘘_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_09_22_23_02_56",
+    "title": "今天晚上我们—",
+    "date": "2026-09-22",
+    "time": "23:02:56",
+    "startTime": "23:02",
+    "endTime": "23:31",
+    "duration": 1798,
+    "durationStr": "0.5 小时",
+    "srt": "/data/streams/viridis/2026_09_22_23_02_56/录制-1727071052-20260922-230256-440-今天晚上我们—_merged.srt",
+    "xml": "/data/streams/viridis/2026_09_22_23_02_56/录制-1727071052-20260922-230256-440-今天晚上我们—_merged.xml",
+    "cover": "/data/streams/viridis/2026_09_22_23_02_56/录制-1727071052-20260922-230256-440-今天晚上我们—.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_09_22_23_02_56/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_09_22_23_02_56/录制-1727071052-20260922-230256-440-今天晚上我们—_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_09_21_20_12_13",
     "title": "半小时电话",
     "date": "2026-09-21",

@@ -5,14 +5,17 @@
     "date": "2026-09-22",
     "time": "20:05:36",
     "startTime": "20:05",
-    "endTime": "20:22",
-    "duration": 1069,
-    "durationStr": "0.3 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_09_22_20_05_36/录制-1986461465-20260922-200536-986-晚安歌杂~.xml",
+    "endTime": "22:39",
+    "duration": 9245,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/kloa/2026_09_22_20_05_36/录制-1986461465-20260922-200536-986-晚安歌杂~_merged.srt",
+    "xml": "/data/streams/kloa/2026_09_22_20_05_36/录制-1986461465-20260922-200536-986-晚安歌杂~_merged.xml",
     "cover": "/data/streams/kloa/2026_09_22_20_05_36/录制-1986461465-20260922-200536-986-晚安歌杂~.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/kloa/2026_09_22_20_05_36/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_22_20_05_36/录制-1986461465-20260922-200536-986-晚安歌杂~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_22_20_05_36/录制-1986461465-20260922-200536-986-晚安歌杂~_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_22_09_05_43",
@@ -28,7 +31,8 @@
     "cover": "/data/streams/kloa/2026_09_22_09_05_43/录制-1986461465-20260922-090543-947-早安~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_09_22_09_05_43/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_09_22_09_05_43/录制-1986461465-20260922-090543-947-早安~_merged_COMIC_FACTORY.png"
+      "/data/streams/kloa/2026_09_22_09_05_43/录制-1986461465-20260922-090543-947-早安~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_22_09_05_43/录制-1986461465-20260922-090543-947-早安~_merged_SCREENSHOTS.jpg"
     ]
   },
   {
