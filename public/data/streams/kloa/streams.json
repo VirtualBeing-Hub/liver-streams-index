@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026_09_22_20_05_36",
+    "title": "晚安歌杂~",
+    "date": "2026-09-22",
+    "time": "20:05:36",
+    "startTime": "20:05",
+    "endTime": "20:22",
+    "duration": 1069,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/kloa/2026_09_22_20_05_36/录制-1986461465-20260922-200536-986-晚安歌杂~.xml",
+    "cover": "/data/streams/kloa/2026_09_22_20_05_36/录制-1986461465-20260922-200536-986-晚安歌杂~.cover.jpg",
+    "highlights": null,
+    "images": []
+  },
+  {
+    "id": "2026_09_22_09_05_43",
+    "title": "早安~",
+    "date": "2026-09-22",
+    "time": "09:05:43",
+    "startTime": "09:05",
+    "endTime": "11:22",
+    "duration": 8235,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/kloa/2026_09_22_09_05_43/录制-1986461465-20260922-090543-947-早安~_merged.srt",
+    "xml": "/data/streams/kloa/2026_09_22_09_05_43/录制-1986461465-20260922-090543-947-早安~_merged.xml",
+    "cover": "/data/streams/kloa/2026_09_22_09_05_43/录制-1986461465-20260922-090543-947-早安~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_22_09_05_43/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_22_09_05_43/录制-1986461465-20260922-090543-947-早安~_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_09_21_20_03_40",
     "title": "杂杂又谈谈~",
     "date": "2026-09-21",

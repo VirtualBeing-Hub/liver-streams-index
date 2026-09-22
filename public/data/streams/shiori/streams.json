@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_22_15_08_59",
+    "title": "和妹妹吉星派对！",
+    "date": "2026-09-22",
+    "time": "15:08:59",
+    "startTime": "15:08",
+    "endTime": "17:01",
+    "duration": 6835,
+    "durationStr": "1.9 小时",
+    "srt": "/data/streams/shiori/2026_09_22_15_08_59/录制-26966466-20260922-150859-344-和妹妹吉星派对！.srt",
+    "xml": "/data/streams/shiori/2026_09_22_15_08_59/录制-26966466-20260922-150859-344-和妹妹吉星派对！.xml",
+    "cover": "/data/streams/shiori/2026_09_22_15_08_59/录制-26966466-20260922-150859-344-和妹妹吉星派对！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_22_15_08_59/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_22_15_08_59/录制-26966466-20260922-150859-344-和妹妹吉星派对！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_22_15_08_59/录制-26966466-20260922-150859-344-和妹妹吉星派对！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_22_11_04_35",
+    "title": "小栞来！",
+    "date": "2026-09-22",
+    "time": "11:04:35",
+    "startTime": "11:04",
+    "endTime": "13:10",
+    "duration": 7576,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/shiori/2026_09_22_11_04_35/录制-26966466-20260922-110435-343-小栞来！.srt",
+    "xml": "/data/streams/shiori/2026_09_22_11_04_35/录制-26966466-20260922-110435-343-小栞来！.xml",
+    "cover": "/data/streams/shiori/2026_09_22_11_04_35/录制-26966466-20260922-110435-343-小栞来！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_22_11_04_35/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_22_11_04_35/录制-26966466-20260922-110435-343-小栞来！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_22_11_04_35/录制-26966466-20260922-110435-343-小栞来！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_20_22_08_42",
     "title": "小栞来！",
     "date": "2026-09-20",
