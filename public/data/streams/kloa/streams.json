@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_23_20_07_04",
+    "title": "呼呼呼呼",
+    "date": "2026-09-23",
+    "time": "20:07:04",
+    "startTime": "20:07",
+    "endTime": "23:27",
+    "duration": 12026,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/kloa/2026_09_23_20_07_04/录制-1986461465-20260923-200704-620-呼呼呼呼_merged.srt",
+    "xml": "/data/streams/kloa/2026_09_23_20_07_04/录制-1986461465-20260923-200704-620-呼呼呼呼_merged.xml",
+    "cover": "/data/streams/kloa/2026_09_23_20_07_04/录制-1986461465-20260923-200704-620-呼呼呼呼.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_23_20_07_04/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_23_20_07_04/录制-1986461465-20260923-200704-620-呼呼呼呼_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_23_20_07_04/录制-1986461465-20260923-200704-620-呼呼呼呼_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_23_12_34_48",
+    "title": "呼呼呼呼",
+    "date": "2026-09-23",
+    "time": "12:34:48",
+    "startTime": "12:34",
+    "endTime": "16:53",
+    "duration": 15586,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/kloa/2026_09_23_12_34_48/录制-1986461465-20260923-123448-979-吃个午饭_merged.srt",
+    "xml": "/data/streams/kloa/2026_09_23_12_34_48/录制-1986461465-20260923-123448-979-吃个午饭_merged.xml",
+    "cover": "/data/streams/kloa/2026_09_23_12_34_48/录制-1986461465-20260923-123448-979-吃个午饭.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_23_12_34_48/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_23_12_34_48/录制-1986461465-20260923-123448-979-吃个午饭_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_23_12_34_48/录制-1986461465-20260923-123448-979-吃个午饭_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_22_20_05_36",
     "title": "晚安歌杂~",
     "date": "2026-09-22",
