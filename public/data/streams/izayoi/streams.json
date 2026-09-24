@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_24_20_03_12",
+    "title": "浣之！",
+    "date": "2026-09-24",
+    "time": "20:03:12",
+    "startTime": "20:03",
+    "endTime": "23:24",
+    "duration": 12102,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/izayoi/2026_09_24_20_03_12/录制-1741667419-20260924-200312-056-浣之！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_24_20_03_12/录制-1741667419-20260924-200312-056-浣之！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_24_20_03_12/录制-1741667419-20260924-200312-056-浣之！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_24_20_03_12/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_24_20_03_12/录制-1741667419-20260924-200312-056-浣之！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_24_20_03_12/录制-1741667419-20260924-200312-056-浣之！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_24_09_02_19",
+    "title": "早茶第一百零一天",
+    "date": "2026-09-24",
+    "time": "09:02:19",
+    "startTime": "09:02",
+    "endTime": "11:47",
+    "duration": 9926,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/izayoi/2026_09_24_09_02_19/录制-1741667419-20260924-090219-877-早茶第一百零一天.srt",
+    "xml": "/data/streams/izayoi/2026_09_24_09_02_19/录制-1741667419-20260924-090219-877-早茶第一百零一天.xml",
+    "cover": "/data/streams/izayoi/2026_09_24_09_02_19/录制-1741667419-20260924-090219-877-早茶第一百零一天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_24_09_02_19/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_24_09_02_19/录制-1741667419-20260924-090219-877-早茶第一百零一天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_24_09_02_19/录制-1741667419-20260924-090219-877-早茶第一百零一天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_23_14_03_20",
     "title": "困晕了！",
     "date": "2026-09-23",

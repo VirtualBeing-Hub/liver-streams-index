@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_24_20_01_06",
+    "title": "鬼武者0.0",
+    "date": "2026-09-24",
+    "time": "20:01:06",
+    "startTime": "20:01",
+    "endTime": "01:54",
+    "duration": 21230,
+    "durationStr": "5.9 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_09_24_20_01_06/录制-25034104-20260924-200106-891-鬼武者0.0.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_09_24_20_01_06/录制-25034104-20260924-200106-891-鬼武者0.0.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_09_24_20_01_06/录制-25034104-20260924-200106-891-鬼武者0.0.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_09_24_20_01_06/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_09_24_20_01_06/录制-25034104-20260924-200106-891-鬼武者0.0_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_09_24_20_01_06/录制-25034104-20260924-200106-891-鬼武者0.0_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_22_20_08_19",
     "title": "史，隋史！0.0",
     "date": "2026-09-22",
