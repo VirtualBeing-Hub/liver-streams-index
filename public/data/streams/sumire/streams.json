@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_25_21_56_48",
+    "title": "中秋雾浓不见月",
+    "date": "2026-09-25",
+    "time": "21:56:48",
+    "startTime": "21:56",
+    "endTime": "00:06",
+    "duration": 7800,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/sumire/2026_09_25_21_56_48/录制-1727076670-20260925-215648-545-中秋雾浓不见月.srt",
+    "xml": "/data/streams/sumire/2026_09_25_21_56_48/录制-1727076670-20260925-215648-545-中秋雾浓不见月.xml",
+    "cover": "/data/streams/sumire/2026_09_25_21_56_48/录制-1727076670-20260925-215648-545-中秋雾浓不见月.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_25_21_56_48/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_25_21_56_48/录制-1727076670-20260925-215648-545-中秋雾浓不见月_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_25_21_56_48/录制-1727076670-20260925-215648-545-中秋雾浓不见月_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_25_12_00_15",
+    "title": "胡闹厨房",
+    "date": "2026-09-25",
+    "time": "12:00:15",
+    "startTime": "12:00",
+    "endTime": "12:58",
+    "duration": 3533,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/sumire/2026_09_25_12_00_15/录制-1727076670-20260925-120015-886-胡闹厨房.srt",
+    "xml": "/data/streams/sumire/2026_09_25_12_00_15/录制-1727076670-20260925-120015-886-胡闹厨房.xml",
+    "cover": "/data/streams/sumire/2026_09_25_12_00_15/录制-1727076670-20260925-120015-886-胡闹厨房.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_25_12_00_15/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_25_12_00_15/录制-1727076670-20260925-120015-886-胡闹厨房_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_25_12_00_15/录制-1727076670-20260925-120015-886-胡闹厨房_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_23_22_00_25",
     "title": "好空灵啊",
     "date": "2026-09-23",

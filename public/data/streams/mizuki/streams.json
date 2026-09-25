@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_25_21_01_38",
+    "title": "BangDreamOurNotes⭐",
+    "date": "2026-09-25",
+    "time": "21:01:38",
+    "startTime": "21:01",
+    "endTime": "00:36",
+    "duration": 12920,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/mizuki/2026_09_25_21_01_38/录制-30655190-20260925-210138-425-BangDreamOurNotes⭐.srt",
+    "xml": "/data/streams/mizuki/2026_09_25_21_01_38/录制-30655190-20260925-210138-425-BangDreamOurNotes⭐.xml",
+    "cover": "/data/streams/mizuki/2026_09_25_21_01_38/录制-30655190-20260925-210138-425-BangDreamOurNotes⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_25_21_01_38/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_25_21_01_38/录制-30655190-20260925-210138-425-BangDreamOurNotes⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_25_21_01_38/录制-30655190-20260925-210138-425-BangDreamOurNotes⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_25_15_21_06",
+    "title": "鬼武者叮咚⭐",
+    "date": "2026-09-25",
+    "time": "15:21:06",
+    "startTime": "15:21",
+    "endTime": "18:30",
+    "duration": 11398,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/mizuki/2026_09_25_15_21_06/录制-30655190-20260925-152106-813-鬼武者叮咚⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_09_25_15_21_06/录制-30655190-20260925-152106-813-鬼武者叮咚⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_09_25_15_21_06/录制-30655190-20260925-152106-813-鬼武者叮咚⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_09_25_15_21_06/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_09_25_15_21_06/录制-30655190-20260925-152106-813-鬼武者叮咚⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_09_25_15_21_06/录制-30655190-20260925-152106-813-鬼武者叮咚⭐_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_24_20_03_36",
     "title": "虚一点点度⭐",
     "date": "2026-09-24",

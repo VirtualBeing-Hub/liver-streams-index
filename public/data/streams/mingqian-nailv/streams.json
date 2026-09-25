@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_25_19_28_36",
+    "title": "中秋快乐~",
+    "date": "2026-09-25",
+    "time": "19:28:36",
+    "startTime": "19:28",
+    "endTime": "00:47",
+    "duration": 19169,
+    "durationStr": "5.3 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_09_25_19_28_36/录制-25034104-20260925-192836-332-中秋快乐~.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_09_25_19_28_36/录制-25034104-20260925-192836-332-中秋快乐~.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_09_25_19_28_36/录制-25034104-20260925-192836-332-中秋快乐~.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_09_25_19_28_36/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_09_25_19_28_36/录制-25034104-20260925-192836-332-中秋快乐~_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_09_25_19_28_36/录制-25034104-20260925-192836-332-中秋快乐~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_24_20_01_06",
     "title": "鬼武者0.0",
     "date": "2026-09-24",

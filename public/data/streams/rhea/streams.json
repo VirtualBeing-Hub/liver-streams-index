@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_25_20_06_00",
+    "title": "圆圆的，甜甜的",
+    "date": "2026-09-25",
+    "time": "20:06:00",
+    "startTime": "20:06",
+    "endTime": "01:45",
+    "duration": 20386,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/rhea/2026_09_25_20_06_00/录制-23260993-20260925-200600-417-圆圆的，甜甜的_merged.srt",
+    "xml": "/data/streams/rhea/2026_09_25_20_06_00/录制-23260993-20260925-200600-417-圆圆的，甜甜的_merged.xml",
+    "cover": "/data/streams/rhea/2026_09_25_20_06_00/录制-23260993-20260925-200600-417-圆圆的，甜甜的.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_09_25_20_06_00/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_09_25_20_06_00/录制-23260993-20260925-200600-417-圆圆的，甜甜的_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_09_25_20_06_00/录制-23260993-20260925-200600-417-圆圆的，甜甜的_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_24_21_10_45",
     "title": "我怎么会放过你呢",
     "date": "2026-09-24",

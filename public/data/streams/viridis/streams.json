@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_25_21_29_06",
+    "title": "中秋快乐哦大家",
+    "date": "2026-09-25",
+    "time": "21:29:06",
+    "startTime": "21:29",
+    "endTime": "22:34",
+    "duration": 3918,
+    "durationStr": "1.1 小时",
+    "srt": "/data/streams/viridis/2026_09_25_21_29_06/录制-1727071052-20260925-212906-183-中秋快乐哦大家.srt",
+    "xml": "/data/streams/viridis/2026_09_25_21_29_06/录制-1727071052-20260925-212906-183-中秋快乐哦大家.xml",
+    "cover": "/data/streams/viridis/2026_09_25_21_29_06/录制-1727071052-20260925-212906-183-中秋快乐哦大家.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_09_25_21_29_06/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_09_25_21_29_06/录制-1727071052-20260925-212906-183-中秋快乐哦大家_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_09_25_21_29_06/录制-1727071052-20260925-212906-183-中秋快乐哦大家_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_24_18_57_33",
     "title": "偷偷摸摸打游戏来的ournotes",
     "date": "2026-09-24",
@@ -49,7 +67,8 @@
     "cover": "/data/streams/viridis/2026_09_23_00_51_11/录制-1727071052-20260923-005111-560-嘘.cover.jpg",
     "highlights": "/data/streams/viridis/2026_09_23_00_51_11/highlights.md",
     "images": [
-      "/data/streams/viridis/2026_09_23_00_51_11/录制-1727071052-20260923-005111-560-嘘_COMIC_FACTORY.png"
+      "/data/streams/viridis/2026_09_23_00_51_11/录制-1727071052-20260923-005111-560-嘘_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_09_23_00_51_11/录制-1727071052-20260923-005111-560-嘘_SCREENSHOTS.jpg"
     ]
   },
   {

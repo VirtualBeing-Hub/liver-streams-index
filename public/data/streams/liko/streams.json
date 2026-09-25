@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_25_20_02_37",
+    "title": "中秋一起品鉴月饼~",
+    "date": "2026-09-25",
+    "time": "20:02:37",
+    "startTime": "20:02",
+    "endTime": "03:11",
+    "duration": 25742,
+    "durationStr": "7.2 小时",
+    "srt": "/data/streams/liko/2026_09_25_20_02_37/录制-1713548468-20260925-200237-268-中秋一起品鉴月饼~_merged.srt",
+    "xml": "/data/streams/liko/2026_09_25_20_02_37/录制-1713548468-20260925-200237-268-中秋一起品鉴月饼~_merged.xml",
+    "cover": "/data/streams/liko/2026_09_25_20_02_37/录制-1713548468-20260925-200237-268-中秋一起品鉴月饼~.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_25_20_02_37/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_25_20_02_37/录制-1713548468-20260925-200237-268-中秋一起品鉴月饼~_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_25_20_02_37/录制-1713548468-20260925-200237-268-中秋一起品鉴月饼~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_25_11_06_36",
+    "title": "中秋快乐！！",
+    "date": "2026-09-25",
+    "time": "11:06:36",
+    "startTime": "11:06",
+    "endTime": "15:18",
+    "duration": 15142,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/liko/2026_09_25_11_06_36/录制-1713548468-20260925-110636-421-中秋快乐！！_merged.srt",
+    "xml": "/data/streams/liko/2026_09_25_11_06_36/录制-1713548468-20260925-110636-421-中秋快乐！！_merged.xml",
+    "cover": "/data/streams/liko/2026_09_25_11_06_36/录制-1713548468-20260925-110636-421-中秋快乐！！.cover.jpg",
+    "highlights": "/data/streams/liko/2026_09_25_11_06_36/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_09_25_11_06_36/录制-1713548468-20260925-110636-421-中秋快乐！！_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_09_25_11_06_36/录制-1713548468-20260925-110636-421-中秋快乐！！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_24_21_14_57",
     "title": "音乐集市来咯！",
     "date": "2026-09-24",

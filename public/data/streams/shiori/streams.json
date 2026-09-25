@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_25_22_06_35",
+    "title": "中秋节快乐呀！！",
+    "date": "2026-09-25",
+    "time": "22:06:35",
+    "startTime": "22:06",
+    "endTime": "00:21",
+    "duration": 8124,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/shiori/2026_09_25_22_06_35/录制-26966466-20260925-220635-696-中秋节快乐呀！！.srt",
+    "xml": "/data/streams/shiori/2026_09_25_22_06_35/录制-26966466-20260925-220635-696-中秋节快乐呀！！.xml",
+    "cover": "/data/streams/shiori/2026_09_25_22_06_35/录制-26966466-20260925-220635-696-中秋节快乐呀！！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_25_22_06_35/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_25_22_06_35/录制-26966466-20260925-220635-696-中秋节快乐呀！！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_25_22_06_35/录制-26966466-20260925-220635-696-中秋节快乐呀！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_25_10_04_48",
+    "title": "中秋节快乐呀！",
+    "date": "2026-09-25",
+    "time": "10:04:48",
+    "startTime": "10:04",
+    "endTime": "12:11",
+    "duration": 7630,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/shiori/2026_09_25_10_04_48/录制-26966466-20260925-100448-705-中秋节快乐呀！.srt",
+    "xml": "/data/streams/shiori/2026_09_25_10_04_48/录制-26966466-20260925-100448-705-中秋节快乐呀！.xml",
+    "cover": "/data/streams/shiori/2026_09_25_10_04_48/录制-26966466-20260925-100448-705-中秋节快乐呀！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_25_10_04_48/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_25_10_04_48/录制-26966466-20260925-100448-705-中秋节快乐呀！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_25_10_04_48/录制-26966466-20260925-100448-705-中秋节快乐呀！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_24_21_51_02",
     "title": "小栞来！活动冲舰中！",
     "date": "2026-09-24",

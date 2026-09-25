@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_25_18_32_46",
+    "title": "边整理边杂谈！",
+    "date": "2026-09-25",
+    "time": "18:32:46",
+    "startTime": "18:32",
+    "endTime": "21:01",
+    "duration": 8951,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/nightin/2026_09_25_18_32_46/录制-24872476-20260925-183246-455-边整理边杂谈！.srt",
+    "xml": "/data/streams/nightin/2026_09_25_18_32_46/录制-24872476-20260925-183246-455-边整理边杂谈！.xml",
+    "cover": "/data/streams/nightin/2026_09_25_18_32_46/录制-24872476-20260925-183246-455-边整理边杂谈！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_25_18_32_46/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_25_18_32_46/录制-24872476-20260925-183246-455-边整理边杂谈！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_25_18_32_46/录制-24872476-20260925-183246-455-边整理边杂谈！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_25_09_07_01",
+    "title": "【歌杂】中秋节快乐！",
+    "date": "2026-09-25",
+    "time": "09:07:01",
+    "startTime": "09:07",
+    "endTime": "12:01",
+    "duration": 10449,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/nightin/2026_09_25_09_07_01/录制-24872476-20260925-090701-650-【歌杂】中秋节快乐！.srt",
+    "xml": "/data/streams/nightin/2026_09_25_09_07_01/录制-24872476-20260925-090701-650-【歌杂】中秋节快乐！.xml",
+    "cover": "/data/streams/nightin/2026_09_25_09_07_01/录制-24872476-20260925-090701-650-【歌杂】中秋节快乐！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_09_25_09_07_01/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_09_25_09_07_01/录制-24872476-20260925-090701-650-【歌杂】中秋节快乐！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_09_25_09_07_01/录制-24872476-20260925-090701-650-【歌杂】中秋节快乐！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_24_20_04_25",
     "title": "【联动】来当浣熊了！",
     "date": "2026-09-24",
