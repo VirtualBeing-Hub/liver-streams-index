@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_26_19_00_07",
+    "title": "中秋快乐~开糖！",
+    "date": "2026-09-26",
+    "time": "19:00:07",
+    "startTime": "19:00",
+    "endTime": "23:30",
+    "duration": 16254,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_09_26_19_00_07/录制-25034104-20260926-190007-756-中秋快乐~开糖！.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_09_26_19_00_07/录制-25034104-20260926-190007-756-中秋快乐~开糖！.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_09_26_19_00_07/录制-25034104-20260926-190007-756-中秋快乐~开糖！.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_09_26_19_00_07/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_09_26_19_00_07/录制-25034104-20260926-190007-756-中秋快乐~开糖！_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_09_26_19_00_07/录制-25034104-20260926-190007-756-中秋快乐~开糖！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_25_19_28_36",
     "title": "中秋快乐~",
     "date": "2026-09-25",

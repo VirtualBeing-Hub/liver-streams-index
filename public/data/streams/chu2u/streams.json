@@ -1,18 +1,40 @@
 [
   {
+    "id": "2026_09_26_21_58_30",
+    "title": "⭐电波观测⭐",
+    "date": "2026-09-26",
+    "time": "21:58:30",
+    "startTime": "21:58",
+    "endTime": "03:42",
+    "duration": 20686,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/chu2u/2026_09_26_21_58_30/录制-1727074031-20260926-215830-286-⭐电波观测⭐_merged.srt",
+    "xml": "/data/streams/chu2u/2026_09_26_21_58_30/录制-1727074031-20260926-215830-286-⭐电波观测⭐_merged.xml",
+    "cover": "/data/streams/chu2u/2026_09_26_21_58_30/录制-1727074031-20260926-215830-286-⭐电波观测⭐.cover.jpg",
+    "highlights": "/data/streams/chu2u/2026_09_26_21_58_30/highlights.md",
+    "images": [
+      "/data/streams/chu2u/2026_09_26_21_58_30/录制-1727074031-20260926-215830-286-⭐电波观测⭐_COMIC_FACTORY.png",
+      "/data/streams/chu2u/2026_09_26_21_58_30/录制-1727074031-20260926-215830-286-⭐电波观测⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/chu2u/2026_09_26_21_58_30/录制-1727074031-20260926-215830-286-⭐电波观测⭐_merged_SCREENSHOTS.jpg",
+      "/data/streams/chu2u/2026_09_26_21_58_30/录制-1727074031-20260926-215830-286-⭐电波观测⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_25_22_06_44",
     "title": "为了kpi今天也是东方永夜抄...⭐",
     "date": "2026-09-25",
     "time": "22:06:44",
     "startTime": "22:06",
-    "endTime": "04:00",
-    "duration": 21243,
-    "durationStr": "5.9 小时",
-    "srt": null,
+    "endTime": "07:09",
+    "duration": 32583,
+    "durationStr": "9.1 小时",
+    "srt": "/data/streams/chu2u/2026_09_25_22_06_44/录制-1727074031-20260925-220644-489-为了kpi今天也是东方永夜抄...⭐.srt",
     "xml": "/data/streams/chu2u/2026_09_25_22_06_44/录制-1727074031-20260925-220644-489-为了kpi今天也是东方永夜抄...⭐.xml",
     "cover": "/data/streams/chu2u/2026_09_25_22_06_44/录制-1727074031-20260925-220644-489-为了kpi今天也是东方永夜抄...⭐.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/chu2u/2026_09_25_22_06_44/highlights.md",
+    "images": [
+      "/data/streams/chu2u/2026_09_25_22_06_44/录制-1727074031-20260925-220644-489-为了kpi今天也是东方永夜抄...⭐_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_09_25_14_13_21",

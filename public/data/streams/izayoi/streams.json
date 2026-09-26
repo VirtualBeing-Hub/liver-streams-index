@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_09_26_20_01_01",
+    "title": "来唱丶经典小曲",
+    "date": "2026-09-26",
+    "time": "20:01:01",
+    "startTime": "20:01",
+    "endTime": "02:06",
+    "duration": 21949,
+    "durationStr": "6.1 小时",
+    "srt": "/data/streams/izayoi/2026_09_26_20_01_01/录制-1741667419-20260926-200101-173-来唱丶经典小曲_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_26_20_01_01/录制-1741667419-20260926-200101-173-来唱丶经典小曲_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_26_20_01_01/录制-1741667419-20260926-200101-173-来唱丶经典小曲.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_26_20_01_01/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_26_20_01_01/录制-1741667419-20260926-200101-173-来唱丶经典小曲_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_09_25_19_59_19",
     "title": "中秋美味一下吧！",
     "date": "2026-09-25",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_26_22_01_31",
+    "title": "星露谷来袭！",
+    "date": "2026-09-26",
+    "time": "22:01:31",
+    "startTime": "22:01",
+    "endTime": "00:45",
+    "duration": 9851,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/viridis/2026_09_26_22_01_31/录制-1727071052-20260926-220131-748-一起来看纪录片！_merged.srt",
+    "xml": "/data/streams/viridis/2026_09_26_22_01_31/录制-1727071052-20260926-220131-748-一起来看纪录片！_merged.xml",
+    "cover": "/data/streams/viridis/2026_09_26_22_01_31/录制-1727071052-20260926-220131-748-一起来看纪录片！.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_09_26_22_01_31/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_09_26_22_01_31/录制-1727071052-20260926-220131-748-一起来看纪录片！_merged_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_09_26_22_01_31/录制-1727071052-20260926-220131-748-一起来看纪录片！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_26_17_00_36",
+    "title": "学歌来袭！",
+    "date": "2026-09-26",
+    "time": "17:00:36",
+    "startTime": "17:00",
+    "endTime": "19:18",
+    "duration": 8328,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/viridis/2026_09_26_17_00_36/录制-1727071052-20260926-170036-725-学歌来袭！.srt",
+    "xml": "/data/streams/viridis/2026_09_26_17_00_36/录制-1727071052-20260926-170036-725-学歌来袭！.xml",
+    "cover": "/data/streams/viridis/2026_09_26_17_00_36/录制-1727071052-20260926-170036-725-学歌来袭！.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_09_26_17_00_36/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_09_26_17_00_36/录制-1727071052-20260926-170036-725-学歌来袭！_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_09_26_17_00_36/录制-1727071052-20260926-170036-725-学歌来袭！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_25_21_29_06",
     "title": "中秋快乐哦大家",
     "date": "2026-09-25",

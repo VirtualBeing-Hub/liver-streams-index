@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_26_20_41_21",
+    "title": "自律主播",
+    "date": "2026-09-26",
+    "time": "20:41:21",
+    "startTime": "20:41",
+    "endTime": "01:11",
+    "duration": 16225,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/rhea/2026_09_26_20_41_21/录制-23260993-20260926-204121-607-自律主播_merged.srt",
+    "xml": "/data/streams/rhea/2026_09_26_20_41_21/录制-23260993-20260926-204121-607-自律主播_merged.xml",
+    "cover": "/data/streams/rhea/2026_09_26_20_41_21/录制-23260993-20260926-204121-607-自律主播.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_09_26_20_41_21/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_09_26_20_41_21/录制-23260993-20260926-204121-607-自律主播_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_09_26_20_41_21/录制-23260993-20260926-204121-607-自律主播_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_25_20_06_00",
     "title": "圆圆的，甜甜的",
     "date": "2026-09-25",
