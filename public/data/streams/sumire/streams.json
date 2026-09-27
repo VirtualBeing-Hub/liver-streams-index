@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_09_27_21_01_11",
+    "title": "小唱一下捏",
+    "date": "2026-09-27",
+    "time": "21:01:11",
+    "startTime": "21:01",
+    "endTime": "00:25",
+    "duration": 12271,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/sumire/2026_09_27_21_01_11/录制-1727076670-20260927-210111-369-小唱一下捏.srt",
+    "xml": "/data/streams/sumire/2026_09_27_21_01_11/录制-1727076670-20260927-210111-369-小唱一下捏.xml",
+    "cover": "/data/streams/sumire/2026_09_27_21_01_11/录制-1727076670-20260927-210111-369-小唱一下捏.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_27_21_01_11/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_27_21_01_11/录制-1727076670-20260927-210111-369-小唱一下捏_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_27_21_01_11/录制-1727076670-20260927-210111-369-小唱一下捏_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_27_03_38_58",
     "title": "虚度",
     "date": "2026-09-26",
@@ -80,14 +98,16 @@
     "date": "2026-09-26",
     "time": "00:06:49",
     "startTime": "00:06",
-    "endTime": "00:30",
-    "duration": 1456,
-    "durationStr": "0.4 小时",
-    "srt": null,
-    "xml": "/data/streams/sumire/2026_09_27_00_06_49/录制-1727076670-20260927-000649-683-虚度.xml",
+    "endTime": "05:06",
+    "duration": 18016,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/sumire/2026_09_27_00_06_49/录制-1727076670-20260927-000649-683-虚度_merged.srt",
+    "xml": "/data/streams/sumire/2026_09_27_00_06_49/录制-1727076670-20260927-000649-683-虚度_merged.xml",
     "cover": "/data/streams/sumire/2026_09_27_00_06_49/录制-1727076670-20260927-000649-683-虚度.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/sumire/2026_09_27_00_06_49/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_27_00_06_49/录制-1727076670-20260927-000649-683-虚度_merged_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_09_26_14_05_18",

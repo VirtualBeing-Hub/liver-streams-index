@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_27_20_03_26",
+    "title": "法浣开饭！",
+    "date": "2026-09-27",
+    "time": "20:03:26",
+    "startTime": "20:03",
+    "endTime": "01:18",
+    "duration": 18945,
+    "durationStr": "5.3 小时",
+    "srt": "/data/streams/izayoi/2026_09_27_20_03_26/录制-1741667419-20260927-200326-869-法浣开饭！.srt",
+    "xml": "/data/streams/izayoi/2026_09_27_20_03_26/录制-1741667419-20260927-200326-869-法浣开饭！.xml",
+    "cover": "/data/streams/izayoi/2026_09_27_20_03_26/录制-1741667419-20260927-200326-869-法浣开饭！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_27_20_03_26/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_27_20_03_26/录制-1741667419-20260927-200326-869-法浣开饭！_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_27_20_03_26/录制-1741667419-20260927-200326-869-法浣开饭！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_27_14_04_35",
+    "title": "1616我们喜浣你",
+    "date": "2026-09-27",
+    "time": "14:04:35",
+    "startTime": "14:04",
+    "endTime": "16:23",
+    "duration": 8392,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/izayoi/2026_09_27_14_04_35/录制-1741667419-20260927-140435-663-1616我们喜浣你.srt",
+    "xml": "/data/streams/izayoi/2026_09_27_14_04_35/录制-1741667419-20260927-140435-663-1616我们喜浣你.xml",
+    "cover": "/data/streams/izayoi/2026_09_27_14_04_35/录制-1741667419-20260927-140435-663-1616我们喜浣你.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_27_14_04_35/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_27_14_04_35/录制-1741667419-20260927-140435-663-1616我们喜浣你_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_27_14_04_35/录制-1741667419-20260927-140435-663-1616我们喜浣你_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_26_20_01_01",
     "title": "来唱丶经典小曲",
     "date": "2026-09-26",

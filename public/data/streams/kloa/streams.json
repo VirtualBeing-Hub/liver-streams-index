@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_27_20_15_37",
+    "title": "教下妹妹开车",
+    "date": "2026-09-27",
+    "time": "20:15:37",
+    "startTime": "20:15",
+    "endTime": "23:20",
+    "duration": 11127,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/kloa/2026_09_27_20_15_37/录制-1986461465-20260927-201537-305-教下妹妹开车_merged.srt",
+    "xml": "/data/streams/kloa/2026_09_27_20_15_37/录制-1986461465-20260927-201537-305-教下妹妹开车_merged.xml",
+    "cover": "/data/streams/kloa/2026_09_27_20_15_37/录制-1986461465-20260927-201537-305-教下妹妹开车.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_27_20_15_37/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_27_20_15_37/录制-1986461465-20260927-201537-305-教下妹妹开车_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_27_20_15_37/录制-1986461465-20260927-201537-305-教下妹妹开车_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_27_14_12_31",
+    "title": "唱歌歌~",
+    "date": "2026-09-27",
+    "time": "14:12:31",
+    "startTime": "14:12",
+    "endTime": "17:25",
+    "duration": 11596,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/kloa/2026_09_27_14_12_31/录制-1986461465-20260927-141231-316-唱歌歌~.srt",
+    "xml": "/data/streams/kloa/2026_09_27_14_12_31/录制-1986461465-20260927-141231-316-唱歌歌~.xml",
+    "cover": "/data/streams/kloa/2026_09_27_14_12_31/录制-1986461465-20260927-141231-316-唱歌歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_27_14_12_31/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_27_14_12_31/录制-1986461465-20260927-141231-316-唱歌歌~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_27_14_12_31/录制-1986461465-20260927-141231-316-唱歌歌~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_26_20_11_32",
     "title": "台词回！",
     "date": "2026-09-26",
