@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_28_22_00_32",
+    "title": "泡面电台",
+    "date": "2026-09-28",
+    "time": "22:00:32",
+    "startTime": "22:00",
+    "endTime": "23:33",
+    "duration": 5624,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/sumire/2026_09_28_22_00_32/录制-1727076670-20260928-220032-798-泡面电台_merged.srt",
+    "xml": "/data/streams/sumire/2026_09_28_22_00_32/录制-1727076670-20260928-220032-798-泡面电台_merged.xml",
+    "cover": "/data/streams/sumire/2026_09_28_22_00_32/录制-1727076670-20260928-220032-798-泡面电台.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_28_22_00_32/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_28_22_00_32/录制-1727076670-20260928-220032-798-泡面电台_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_28_22_00_32/录制-1727076670-20260928-220032-798-泡面电台_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_28_15_58_56",
+    "title": "睡好觉吃饱饭",
+    "date": "2026-09-28",
+    "time": "15:58:56",
+    "startTime": "15:58",
+    "endTime": "18:22",
+    "duration": 8687,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/sumire/2026_09_28_15_58_56/录制-1727076670-20260928-155856-826-睡好觉吃饱饭.srt",
+    "xml": "/data/streams/sumire/2026_09_28_15_58_56/录制-1727076670-20260928-155856-826-睡好觉吃饱饭.xml",
+    "cover": "/data/streams/sumire/2026_09_28_15_58_56/录制-1727076670-20260928-155856-826-睡好觉吃饱饭.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_09_28_15_58_56/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_09_28_15_58_56/录制-1727076670-20260928-155856-826-睡好觉吃饱饭_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_09_28_15_58_56/录制-1727076670-20260928-155856-826-睡好觉吃饱饭_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_27_21_01_11",
     "title": "小唱一下捏",
     "date": "2026-09-27",
