@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_09_29_18_18_31",
+    "title": "KTV～",
+    "date": "2026-09-29",
+    "time": "18:18:31",
+    "startTime": "18:18",
+    "endTime": "21:14",
+    "duration": 10566,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/kloa/2026_09_29_18_18_31/录制-1986461465-20260929-181831-510-KTV～_merged.srt",
+    "xml": "/data/streams/kloa/2026_09_29_18_18_31/录制-1986461465-20260929-181831-510-KTV～_merged.xml",
+    "cover": "/data/streams/kloa/2026_09_29_18_18_31/录制-1986461465-20260929-181831-510-KTV～.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_29_18_18_31/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_29_18_18_31/录制-1986461465-20260929-181831-510-KTV～_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_29_09_06_09",
+    "title": "早安~",
+    "date": "2026-09-29",
+    "time": "09:06:09",
+    "startTime": "09:06",
+    "endTime": "11:30",
+    "duration": 8666,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/kloa/2026_09_29_09_06_09/录制-1986461465-20260929-090609-947-早安~_merged.srt",
+    "xml": "/data/streams/kloa/2026_09_29_09_06_09/录制-1986461465-20260929-090609-947-早安~_merged.xml",
+    "cover": "/data/streams/kloa/2026_09_29_09_06_09/录制-1986461465-20260929-090609-947-早安~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_09_29_09_06_09/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_09_29_09_06_09/录制-1986461465-20260929-090609-947-早安~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_09_29_09_06_09/录制-1986461465-20260929-090609-947-早安~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_27_20_15_37",
     "title": "教下妹妹开车",
     "date": "2026-09-27",

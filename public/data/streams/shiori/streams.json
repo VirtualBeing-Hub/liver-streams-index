@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_09_29_23_05_19",
+    "title": "杂谈！！",
+    "date": "2026-09-29",
+    "time": "23:05:19",
+    "startTime": "23:05",
+    "endTime": "00:42",
+    "duration": 5864,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/shiori/2026_09_29_23_05_19/录制-26966466-20260929-230519-110-寂静岭！！.srt",
+    "xml": "/data/streams/shiori/2026_09_29_23_05_19/录制-26966466-20260929-230519-110-寂静岭！！.xml",
+    "cover": "/data/streams/shiori/2026_09_29_23_05_19/录制-26966466-20260929-230519-110-寂静岭！！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_29_23_05_19/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_29_23_05_19/录制-26966466-20260929-230519-110-寂静岭！！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_29_23_05_19/录制-26966466-20260929-230519-110-寂静岭！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_29_10_04_15",
+    "title": "早安獭獭栞！",
+    "date": "2026-09-29",
+    "time": "10:04:15",
+    "startTime": "10:04",
+    "endTime": "12:12",
+    "duration": 7712,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/shiori/2026_09_29_10_04_15/录制-26966466-20260929-100415-393-早安獭獭栞！.srt",
+    "xml": "/data/streams/shiori/2026_09_29_10_04_15/录制-26966466-20260929-100415-393-早安獭獭栞！.xml",
+    "cover": "/data/streams/shiori/2026_09_29_10_04_15/录制-26966466-20260929-100415-393-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_09_29_10_04_15/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_09_29_10_04_15/录制-26966466-20260929-100415-393-早安獭獭栞！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_09_29_10_04_15/录制-26966466-20260929-100415-393-早安獭獭栞！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_27_22_08_35",
     "title": "小栞来啦！！",
     "date": "2026-09-27",
