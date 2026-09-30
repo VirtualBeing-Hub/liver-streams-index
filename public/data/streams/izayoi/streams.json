@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_09_30_20_03_34",
+    "title": "1616我们喜浣你",
+    "date": "2026-09-30",
+    "time": "20:03:34",
+    "startTime": "20:03",
+    "endTime": "23:39",
+    "duration": 13014,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/izayoi/2026_09_30_20_03_34/录制-1741667419-20260930-200334-369-1616我们喜浣你_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_30_20_03_34/录制-1741667419-20260930-200334-369-1616我们喜浣你_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_30_20_03_34/录制-1741667419-20260930-200334-369-1616我们喜浣你.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_30_20_03_34/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_30_20_03_34/录制-1741667419-20260930-200334-369-1616我们喜浣你_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_09_30_20_03_34/录制-1741667419-20260930-200334-369-1616我们喜浣你_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_09_30_09_02_45",
+    "title": "早茶第一百零四天",
+    "date": "2026-09-30",
+    "time": "09:02:45",
+    "startTime": "09:02",
+    "endTime": "11:33",
+    "duration": 9068,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/izayoi/2026_09_30_09_02_45/录制-1741667419-20260930-090245-284-早茶第一百零四天_merged.srt",
+    "xml": "/data/streams/izayoi/2026_09_30_09_02_45/录制-1741667419-20260930-090245-284-早茶第一百零四天_merged.xml",
+    "cover": "/data/streams/izayoi/2026_09_30_09_02_45/录制-1741667419-20260930-090245-284-早茶第一百零四天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_09_30_09_02_45/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_09_30_09_02_45/录制-1741667419-20260930-090245-284-早茶第一百零四天_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_28_09_02_30",
     "title": "早茶第一百零三天",
     "date": "2026-09-28",

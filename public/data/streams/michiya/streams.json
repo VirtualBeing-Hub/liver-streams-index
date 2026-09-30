@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_09_30_17_15_05",
+    "title": "每周三的夜夜补番时刻",
+    "date": "2026-09-30",
+    "time": "17:15:05",
+    "startTime": "17:15",
+    "endTime": "18:00",
+    "duration": 2703,
+    "durationStr": "0.8 小时",
+    "srt": "/data/streams/michiya/2026_09_30_17_15_05/录制-27628030-20260930-171505-117-每周三的夜夜补番时刻_merged.srt",
+    "xml": "/data/streams/michiya/2026_09_30_17_15_05/录制-27628030-20260930-171505-117-每周三的夜夜补番时刻_merged.xml",
+    "cover": "/data/streams/michiya/2026_09_30_17_15_05/录制-27628030-20260930-171505-117-每周三的夜夜补番时刻.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_09_30_17_15_05/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_09_30_17_15_05/录制-27628030-20260930-171505-117-每周三的夜夜补番时刻_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_29_19_08_32",
     "title": "第十五章：夫人，小姐又去打电动了",
     "date": "2026-09-29",
