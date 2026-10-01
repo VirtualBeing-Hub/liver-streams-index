@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_10_01_21_04_20",
+    "title": "晚上好好-3-",
+    "date": "2026-10-01",
+    "time": "21:04:20",
+    "startTime": "21:04",
+    "endTime": "23:58",
+    "duration": 10444,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/mofu/2026_10_01_21_04_20/录制-1791260716-20261001-210420-500-晚上好好-3-.srt",
+    "xml": "/data/streams/mofu/2026_10_01_21_04_20/录制-1791260716-20261001-210420-500-晚上好好-3-.xml",
+    "cover": "/data/streams/mofu/2026_10_01_21_04_20/录制-1791260716-20261001-210420-500-晚上好好-3-.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_01_21_04_20/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_01_21_04_20/录制-1791260716-20261001-210420-500-晚上好好-3-_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_01_21_04_20/录制-1791260716-20261001-210420-500-晚上好好-3-_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_01_12_02_20",
+    "title": "午台desuwa",
+    "date": "2026-10-01",
+    "time": "12:02:20",
+    "startTime": "12:02",
+    "endTime": "15:09",
+    "duration": 11253,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/mofu/2026_10_01_12_02_20/录制-1791260716-20261001-120220-772-午台desuwa.srt",
+    "xml": "/data/streams/mofu/2026_10_01_12_02_20/录制-1791260716-20261001-120220-772-午台desuwa.xml",
+    "cover": "/data/streams/mofu/2026_10_01_12_02_20/录制-1791260716-20261001-120220-772-午台desuwa.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_01_12_02_20/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_01_12_02_20/录制-1791260716-20261001-120220-772-午台desuwa_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_30_18_51_21",
     "title": "汪上好",
     "date": "2026-09-30",

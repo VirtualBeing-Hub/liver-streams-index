@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_10_01_21_07_51",
+    "title": "视频切片往里进！",
+    "date": "2026-10-01",
+    "time": "21:07:51",
+    "startTime": "21:07",
+    "endTime": "23:37",
+    "duration": 9034,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/nightin/2026_10_01_21_07_51/录制-24872476-20261001-210751-379-视频切片往里进！.srt",
+    "xml": "/data/streams/nightin/2026_10_01_21_07_51/录制-24872476-20261001-210751-379-视频切片往里进！.xml",
+    "cover": "/data/streams/nightin/2026_10_01_21_07_51/录制-24872476-20261001-210751-379-视频切片往里进！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_01_21_07_51/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_01_21_07_51/录制-24872476-20261001-210751-379-视频切片往里进！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_01_21_07_51/录制-24872476-20261001-210751-379-视频切片往里进！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_01_14_08_57",
+    "title": "【歌杂】你也在网上冲浪吗",
+    "date": "2026-10-01",
+    "time": "14:08:57",
+    "startTime": "14:08",
+    "endTime": "17:31",
+    "duration": 12219,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/nightin/2026_10_01_14_08_57/录制-24872476-20261001-140857-005-【歌杂】你也在网上冲浪吗.srt",
+    "xml": "/data/streams/nightin/2026_10_01_14_08_57/录制-24872476-20261001-140857-005-【歌杂】你也在网上冲浪吗.xml",
+    "cover": "/data/streams/nightin/2026_10_01_14_08_57/录制-24872476-20261001-140857-005-【歌杂】你也在网上冲浪吗.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_01_14_08_57/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_01_14_08_57/录制-24872476-20261001-140857-005-【歌杂】你也在网上冲浪吗_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_30_21_09_27",
     "title": "整理一下！",
     "date": "2026-09-30",

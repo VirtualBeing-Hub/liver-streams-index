@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_10_01_21_57_13",
+    "title": "国庆快乐嘿嘿！！",
+    "date": "2026-10-01",
+    "time": "21:57:13",
+    "startTime": "21:57",
+    "endTime": "00:11",
+    "duration": 8056,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/shiori/2026_10_01_21_57_13/录制-26966466-20261001-215713-963-国庆快乐嘿嘿！！.srt",
+    "xml": "/data/streams/shiori/2026_10_01_21_57_13/录制-26966466-20261001-215713-963-国庆快乐嘿嘿！！.xml",
+    "cover": "/data/streams/shiori/2026_10_01_21_57_13/录制-26966466-20261001-215713-963-国庆快乐嘿嘿！！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_10_01_21_57_13/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_10_01_21_57_13/录制-26966466-20261001-215713-963-国庆快乐嘿嘿！！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_10_01_21_57_13/录制-26966466-20261001-215713-963-国庆快乐嘿嘿！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_01_10_04_28",
+    "title": "国庆快乐嘿嘿！！",
+    "date": "2026-10-01",
+    "time": "10:04:28",
+    "startTime": "10:04",
+    "endTime": "12:20",
+    "duration": 8190,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/shiori/2026_10_01_10_04_28/录制-26966466-20261001-100428-416-国庆快乐嘿嘿！！_merged.srt",
+    "xml": "/data/streams/shiori/2026_10_01_10_04_28/录制-26966466-20261001-100428-416-国庆快乐嘿嘿！！_merged.xml",
+    "cover": "/data/streams/shiori/2026_10_01_10_04_28/录制-26966466-20261001-100428-416-国庆快乐嘿嘿！！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_10_01_10_04_28/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_10_01_10_04_28/录制-26966466-20261001-100428-416-国庆快乐嘿嘿！！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_30_22_08_51",
     "title": "新衣活动最后一天！耶国庆来啦！",
     "date": "2026-09-30",
