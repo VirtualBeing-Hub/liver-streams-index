@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_02_20_05_11",
+    "title": "psp故事王！",
+    "date": "2026-10-02",
+    "time": "20:05:11",
+    "startTime": "20:05",
+    "endTime": "23:12",
+    "duration": 11244,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/nightin/2026_10_02_20_05_11/录制-24872476-20261002-200511-720-psp故事王！.srt",
+    "xml": "/data/streams/nightin/2026_10_02_20_05_11/录制-24872476-20261002-200511-720-psp故事王！.xml",
+    "cover": "/data/streams/nightin/2026_10_02_20_05_11/录制-24872476-20261002-200511-720-psp故事王！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_02_20_05_11/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_02_20_05_11/录制-24872476-20261002-200511-720-psp故事王！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_02_20_05_11/录制-24872476-20261002-200511-720-psp故事王！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_02_14_04_43",
+    "title": "饱饱下午好!",
+    "date": "2026-10-02",
+    "time": "14:04:43",
+    "startTime": "14:04",
+    "endTime": "17:07",
+    "duration": 10991,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/nightin/2026_10_02_14_04_43/录制-24872476-20261002-140443-161-饱饱下午好!_merged.srt",
+    "xml": "/data/streams/nightin/2026_10_02_14_04_43/录制-24872476-20261002-140443-161-饱饱下午好!_merged.xml",
+    "cover": "/data/streams/nightin/2026_10_02_14_04_43/录制-24872476-20261002-140443-161-饱饱下午好!.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_02_14_04_43/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_02_14_04_43/录制-24872476-20261002-140443-161-饱饱下午好!_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_02_14_04_43/录制-24872476-20261002-140443-161-饱饱下午好!_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_01_21_07_51",
     "title": "视频切片往里进！",
     "date": "2026-10-01",

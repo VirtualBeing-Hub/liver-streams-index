@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_02_21_58_56",
+    "title": "久违的唱唱歌",
+    "date": "2026-10-02",
+    "time": "21:58:56",
+    "startTime": "21:58",
+    "endTime": "01:36",
+    "duration": 13087,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/viridis/2026_10_02_21_58_56/录制-1727071052-20261002-215856-557-久违的唱唱歌.srt",
+    "xml": "/data/streams/viridis/2026_10_02_21_58_56/录制-1727071052-20261002-215856-557-久违的唱唱歌.xml",
+    "cover": "/data/streams/viridis/2026_10_02_21_58_56/录制-1727071052-20261002-215856-557-久违的唱唱歌.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_10_02_21_58_56/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_10_02_21_58_56/录制-1727071052-20261002-215856-557-久违的唱唱歌_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_10_02_21_58_56/录制-1727071052-20261002-215856-557-久违的唱唱歌_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_02_13_46_45",
+    "title": "这是一个测试2.0",
+    "date": "2026-10-02",
+    "time": "13:46:45",
+    "startTime": "13:46",
+    "endTime": "14:38",
+    "duration": 3156,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/viridis/2026_10_02_13_46_45/录制-1727071052-20261002-134645-433-这是一个测试2.0_merged.srt",
+    "xml": "/data/streams/viridis/2026_10_02_13_46_45/录制-1727071052-20261002-134645-433-这是一个测试2.0_merged.xml",
+    "cover": "/data/streams/viridis/2026_10_02_13_46_45/录制-1727071052-20261002-134645-433-这是一个测试2.0.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_10_02_13_46_45/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_10_02_13_46_45/录制-1727071052-20261002-134645-433-这是一个测试2.0_merged_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_10_02_13_46_45/录制-1727071052-20261002-134645-433-这是一个测试2.0_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_09_30_21_44_42",
     "title": "聊聊",
     "date": "2026-09-30",

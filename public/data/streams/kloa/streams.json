@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_02_20_36_52",
+    "title": "模仿派对！",
+    "date": "2026-10-02",
+    "time": "20:36:52",
+    "startTime": "20:36",
+    "endTime": "23:53",
+    "duration": 11877,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/kloa/2026_10_02_20_36_52/录制-1986461465-20261002-203652-334-模仿派对！.srt",
+    "xml": "/data/streams/kloa/2026_10_02_20_36_52/录制-1986461465-20261002-203652-334-模仿派对！.xml",
+    "cover": "/data/streams/kloa/2026_10_02_20_36_52/录制-1986461465-20261002-203652-334-模仿派对！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_02_20_36_52/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_02_20_36_52/录制-1986461465-20261002-203652-334-模仿派对！_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_02_20_36_52/录制-1986461465-20261002-203652-334-模仿派对！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_02_13_07_33",
+    "title": "下午茶~隔~",
+    "date": "2026-10-02",
+    "time": "13:07:33",
+    "startTime": "13:07",
+    "endTime": "15:24",
+    "duration": 8243,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/kloa/2026_10_02_13_07_33/录制-1986461465-20261002-130733-585-下午茶~隔~_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_02_13_07_33/录制-1986461465-20261002-130733-585-下午茶~隔~_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_02_13_07_33/录制-1986461465-20261002-130733-585-下午茶~隔~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_02_13_07_33/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_02_13_07_33/录制-1986461465-20261002-130733-585-下午茶~隔~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_02_13_07_33/录制-1986461465-20261002-130733-585-下午茶~隔~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_01_20_14_43",
     "title": "唱歌歌~",
     "date": "2026-10-01",

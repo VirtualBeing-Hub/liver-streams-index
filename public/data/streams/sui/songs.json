@@ -1,0 +1,57 @@
+{
+  "version": 1,
+  "generatedAt": "2026-10-02T20:00:58.282Z",
+  "sessions": [
+    {
+      "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
+      "recordedAt": "2026-10-02 20:24:20",
+      "title": "陪你这个猪过周四五！唱唱聊聊",
+      "complete": true
+    },
+    {
+      "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22",
+      "recordedAt": "2026-10-01 20:13:38",
+      "title": "陪你这个猪过周四",
+      "complete": true
+    }
+  ],
+  "performances": [
+    {
+      "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",
+      "sessionId": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22",
+      "name": null,
+      "start": 4302,
+      "end": 4565,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1pvaU6xE6i",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1pvaU6xE6i/?p=1"
+      }
+    },
+    {
+      "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743:activity-1",
+      "sessionId": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
+      "name": null,
+      "start": 5919,
+      "end": 6182,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743:activity-2",
+      "sessionId": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
+      "name": null,
+      "start": 6355,
+      "end": 6705,
+      "performance": "full",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    }
+  ]
+}
