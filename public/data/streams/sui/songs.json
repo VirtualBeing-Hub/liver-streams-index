@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-02T20:00:58.282Z",
+  "generatedAt": "2026-10-03T18:35:46.676Z",
   "sessions": [
     {
       "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
@@ -19,7 +19,7 @@
     {
       "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",
       "sessionId": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22",
-      "name": null,
+      "name": "泡泡",
       "start": 4302,
       "end": 4565,
       "performance": "fragment",
@@ -34,24 +34,32 @@
     {
       "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743:activity-1",
       "sessionId": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
-      "name": null,
-      "start": 5919,
-      "end": 6182,
-      "performance": "fragment",
-      "confirmed": false,
-      "boundariesConfirmed": false,
-      "clip": null
+      "name": "Don't Look Back in Anger",
+      "start": 5906,
+      "end": 6207,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1HnHh61ES8",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1HnHh61ES8/?p=1"
+      }
     },
     {
       "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743:activity-2",
       "sessionId": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
-      "name": null,
-      "start": 6355,
-      "end": 6705,
+      "name": "Moon River",
+      "start": 6518,
+      "end": 6726,
       "performance": "full",
-      "confirmed": false,
-      "boundariesConfirmed": false,
-      "clip": null
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1HnHh61ES8",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1HnHh61ES8/?p=2"
+      }
     }
   ]
 }
