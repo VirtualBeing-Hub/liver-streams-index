@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_03_21_14_47",
+    "title": "来蹦迪！！",
+    "date": "2026-10-03",
+    "time": "21:14:47",
+    "startTime": "21:14",
+    "endTime": "01:53",
+    "duration": 16760,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/mitsuri/2026_10_03_21_14_47/录制-1967216004-20261003-211447-482-来蹦迪！！.srt",
+    "xml": "/data/streams/mitsuri/2026_10_03_21_14_47/录制-1967216004-20261003-211447-482-来蹦迪！！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_03_21_14_47/录制-1967216004-20261003-211447-482-来蹦迪！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_03_21_14_47/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_03_21_14_47/录制-1967216004-20261003-211447-482-来蹦迪！！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_03_21_14_47/录制-1967216004-20261003-211447-482-来蹦迪！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_02_21_04_33",
     "title": "鬼武者初见！！",
     "date": "2026-10-02",
@@ -8,11 +26,14 @@
     "endTime": "03:57",
     "duration": 24834,
     "durationStr": "6.9 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_10_02_21_04_33/录制-1967216004-20261002-210433-301-鬼武者初见！！.srt",
     "xml": "/data/streams/mitsuri/2026_10_02_21_04_33/录制-1967216004-20261002-210433-301-鬼武者初见！！.xml",
     "cover": "/data/streams/mitsuri/2026_10_02_21_04_33/录制-1967216004-20261002-210433-301-鬼武者初见！！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_10_02_21_04_33/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_02_21_04_33/录制-1967216004-20261002-210433-301-鬼武者初见！！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_02_21_04_33/录制-1967216004-20261002-210433-301-鬼武者初见！！_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_01_21_40_43",

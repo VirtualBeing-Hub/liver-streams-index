@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_03_20_10_31",
+    "title": "兔子唱歌",
+    "date": "2026-10-03",
+    "time": "20:10:31",
+    "startTime": "20:10",
+    "endTime": "01:44",
+    "duration": 20063,
+    "durationStr": "5.6 小时",
+    "srt": "/data/streams/liko/2026_10_03_20_10_31/录制-1713548468-20261003-201031-730-兔子唱歌.srt",
+    "xml": "/data/streams/liko/2026_10_03_20_10_31/录制-1713548468-20261003-201031-730-兔子唱歌.xml",
+    "cover": "/data/streams/liko/2026_10_03_20_10_31/录制-1713548468-20261003-201031-730-兔子唱歌.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_03_20_10_31/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_03_20_10_31/录制-1713548468-20261003-201031-730-兔子唱歌_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_03_20_10_31/录制-1713548468-20261003-201031-730-兔子唱歌_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_03_11_08_26",
+    "title": "教妹妹开车",
+    "date": "2026-10-03",
+    "time": "11:08:26",
+    "startTime": "11:08",
+    "endTime": "15:02",
+    "duration": 14081,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/liko/2026_10_03_11_08_26/录制-1713548468-20261003-110826-545-教妹妹开车_merged.srt",
+    "xml": "/data/streams/liko/2026_10_03_11_08_26/录制-1713548468-20261003-110826-545-教妹妹开车_merged.xml",
+    "cover": "/data/streams/liko/2026_10_03_11_08_26/录制-1713548468-20261003-110826-545-教妹妹开车.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_03_11_08_26/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_03_11_08_26/录制-1713548468-20261003-110826-545-教妹妹开车_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_03_11_08_26/录制-1713548468-20261003-110826-545-教妹妹开车_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_02_20_01_10",
     "title": "雀魂争霸",
     "date": "2026-10-02",

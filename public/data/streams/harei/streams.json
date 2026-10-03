@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_03_21_02_55",
+    "title": "小鼠3D除灵中^^",
+    "date": "2026-10-03",
+    "time": "21:02:55",
+    "startTime": "21:02",
+    "endTime": "01:25",
+    "duration": 15796,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/harei/2026_10_03_21_02_55/录制-1820703922-20261003-210255-205-小鼠3D除灵中^^_merged.srt",
+    "xml": "/data/streams/harei/2026_10_03_21_02_55/录制-1820703922-20261003-210255-205-小鼠3D除灵中^^_merged.xml",
+    "cover": "/data/streams/harei/2026_10_03_21_02_55/录制-1820703922-20261003-210255-205-小鼠3D除灵中^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_10_03_21_02_55/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_03_21_02_55/录制-1820703922-20261003-210255-205-小鼠3D除灵中^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_03_21_02_55/录制-1820703922-20261003-210255-205-小鼠3D除灵中^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_03_10_06_41",
+    "title": "睡觉很舒服^^",
+    "date": "2026-10-03",
+    "time": "10:06:41",
+    "startTime": "10:06",
+    "endTime": "12:10",
+    "duration": 7497,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/harei/2026_10_03_10_06_41/录制-1820703922-20261003-100641-030-睡觉很舒服^^_merged.srt",
+    "xml": "/data/streams/harei/2026_10_03_10_06_41/录制-1820703922-20261003-100641-030-睡觉很舒服^^_merged.xml",
+    "cover": "/data/streams/harei/2026_10_03_10_06_41/录制-1820703922-20261003-100641-030-睡觉很舒服^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_10_03_10_06_41/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_03_10_06_41/录制-1820703922-20261003-100641-030-睡觉很舒服^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_03_10_06_41/录制-1820703922-20261003-100641-030-睡觉很舒服^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_02_20_04_48",
     "title": "教好妹妹开车^^",
     "date": "2026-10-02",

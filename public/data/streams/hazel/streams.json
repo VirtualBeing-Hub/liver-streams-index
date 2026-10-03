@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_03_22_38_42",
+    "title": "随便看看",
+    "date": "2026-10-03",
+    "time": "22:38:42",
+    "startTime": "22:38",
+    "endTime": "00:48",
+    "duration": 7841,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/hazel/2026_10_03_22_38_42/录制-1713546334-20261003-223842-547-随便看看.srt",
+    "xml": "/data/streams/hazel/2026_10_03_22_38_42/录制-1713546334-20261003-223842-547-随便看看.xml",
+    "cover": "/data/streams/hazel/2026_10_03_22_38_42/录制-1713546334-20261003-223842-547-随便看看.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_10_03_22_38_42/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_10_03_22_38_42/录制-1713546334-20261003-223842-547-随便看看_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_10_03_22_38_42/录制-1713546334-20261003-223842-547-随便看看_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_03_17_02_55",
+    "title": "虚度",
+    "date": "2026-10-03",
+    "time": "17:02:55",
+    "startTime": "17:02",
+    "endTime": "22:29",
+    "duration": 19653,
+    "durationStr": "5.5 小时",
+    "srt": "/data/streams/hazel/2026_10_03_17_02_55/录制-1713546334-20261003-170255-884-虚度_merged.srt",
+    "xml": "/data/streams/hazel/2026_10_03_17_02_55/录制-1713546334-20261003-170255-884-虚度_merged.xml",
+    "cover": "/data/streams/hazel/2026_10_03_17_02_55/录制-1713546334-20261003-170255-884-虚度.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_10_03_17_02_55/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_10_03_17_02_55/录制-1713546334-20261003-170255-884-虚度_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_10_03_17_02_55/录制-1713546334-20261003-170255-884-虚度_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_02_20_39_42",
     "title": "联动玩玩 模仿声音派对~",
     "date": "2026-10-02",
