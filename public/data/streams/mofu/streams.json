@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_04_18_02_27",
+    "title": "-u-",
+    "date": "2026-10-04",
+    "time": "18:02:27",
+    "startTime": "18:02",
+    "endTime": "23:47",
+    "duration": 20742,
+    "durationStr": "5.8 小时",
+    "srt": "/data/streams/mofu/2026_10_04_18_02_27/录制-1791260716-20261004-180227-663--u-_merged.srt",
+    "xml": "/data/streams/mofu/2026_10_04_18_02_27/录制-1791260716-20261004-180227-663--u-_merged.xml",
+    "cover": "/data/streams/mofu/2026_10_04_18_02_27/录制-1791260716-20261004-180227-663--u-.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_04_18_02_27/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_04_18_02_27/录制-1791260716-20261004-180227-663--u-_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_04_18_02_27/录制-1791260716-20261004-180227-663--u-_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_04_12_03_03",
+    "title": "中午好中午好-u-",
+    "date": "2026-10-04",
+    "time": "12:03:03",
+    "startTime": "12:03",
+    "endTime": "14:52",
+    "duration": 10163,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/mofu/2026_10_04_12_03_03/录制-1791260716-20261004-120303-013-中午好中午好-u-.srt",
+    "xml": "/data/streams/mofu/2026_10_04_12_03_03/录制-1791260716-20261004-120303-013-中午好中午好-u-.xml",
+    "cover": "/data/streams/mofu/2026_10_04_12_03_03/录制-1791260716-20261004-120303-013-中午好中午好-u-.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_04_12_03_03/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_04_12_03_03/录制-1791260716-20261004-120303-013-中午好中午好-u-_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_04_12_03_03/录制-1791260716-20261004-120303-013-中午好中午好-u-_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_03_21_01_46",
     "title": "晚上好，今晚的虚度",
     "date": "2026-10-03",

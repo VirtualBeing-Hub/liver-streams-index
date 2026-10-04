@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_04_20_04_50",
+    "title": "魔法期虚度一下",
+    "date": "2026-10-04",
+    "time": "20:04:50",
+    "startTime": "20:04",
+    "endTime": "21:49",
+    "duration": 6336,
+    "durationStr": "1.8 小时",
+    "srt": "/data/streams/liko/2026_10_04_20_04_50/录制-1713548468-20261004-200450-201-魔法期虚度一下_merged.srt",
+    "xml": "/data/streams/liko/2026_10_04_20_04_50/录制-1713548468-20261004-200450-201-魔法期虚度一下_merged.xml",
+    "cover": "/data/streams/liko/2026_10_04_20_04_50/录制-1713548468-20261004-200450-201-魔法期虚度一下.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_04_20_04_50/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_04_20_04_50/录制-1713548468-20261004-200450-201-魔法期虚度一下_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_04_20_04_50/录制-1713548468-20261004-200450-201-魔法期虚度一下_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_04_11_17_00",
+    "title": "本来打算做饭嘟",
+    "date": "2026-10-04",
+    "time": "11:17:00",
+    "startTime": "11:17",
+    "endTime": "13:02",
+    "duration": 6347,
+    "durationStr": "1.8 小时",
+    "srt": "/data/streams/liko/2026_10_04_11_17_00/录制-1713548468-20261004-111700-281-本来打算做饭嘟_merged.srt",
+    "xml": "/data/streams/liko/2026_10_04_11_17_00/录制-1713548468-20261004-111700-281-本来打算做饭嘟_merged.xml",
+    "cover": "/data/streams/liko/2026_10_04_11_17_00/录制-1713548468-20261004-111700-281-本来打算做饭嘟.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_04_11_17_00/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_04_11_17_00/录制-1713548468-20261004-111700-281-本来打算做饭嘟_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_04_11_17_00/录制-1713548468-20261004-111700-281-本来打算做饭嘟_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_03_20_10_31",
     "title": "兔子唱歌",
     "date": "2026-10-03",

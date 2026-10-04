@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_04_21_42_46",
+    "title": "国庆超级加倍健身环",
+    "date": "2026-10-04",
+    "time": "21:42:46",
+    "startTime": "21:42",
+    "endTime": "00:58",
+    "duration": 11786,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/rhea/2026_10_04_21_42_46/录制-23260993-20261004-214246-071-国庆超级加倍健身环_merged.srt",
+    "xml": "/data/streams/rhea/2026_10_04_21_42_46/录制-23260993-20261004-214246-071-国庆超级加倍健身环_merged.xml",
+    "cover": "/data/streams/rhea/2026_10_04_21_42_46/录制-23260993-20261004-214246-071-国庆超级加倍健身环.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_10_04_21_42_46/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_10_04_21_42_46/录制-23260993-20261004-214246-071-国庆超级加倍健身环_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_10_04_21_42_46/录制-23260993-20261004-214246-071-国庆超级加倍健身环_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_04_15_17_15",
+    "title": "【遥控器时间】高气压三国杀",
+    "date": "2026-10-04",
+    "time": "15:17:15",
+    "startTime": "15:17",
+    "endTime": "18:02",
+    "duration": 9953,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/rhea/2026_10_04_15_17_15/录制-23260993-20261004-151715-618-【遥控器时间】高气压三国杀_merged.srt",
+    "xml": "/data/streams/rhea/2026_10_04_15_17_15/录制-23260993-20261004-151715-618-【遥控器时间】高气压三国杀_merged.xml",
+    "cover": "/data/streams/rhea/2026_10_04_15_17_15/录制-23260993-20261004-151715-618-【遥控器时间】高气压三国杀.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_10_04_15_17_15/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_10_04_15_17_15/录制-23260993-20261004-151715-618-【遥控器时间】高气压三国杀_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_10_04_15_17_15/录制-23260993-20261004-151715-618-【遥控器时间】高气压三国杀_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_04_00_31_12",
     "title": "哇女警",
     "date": "2026-10-03",

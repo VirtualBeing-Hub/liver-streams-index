@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_04_20_58_49",
+    "title": "测谎大挑战！",
+    "date": "2026-10-04",
+    "time": "20:58:49",
+    "startTime": "20:58",
+    "endTime": "00:27",
+    "duration": 12590,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/izayoi/2026_10_04_20_58_49/录制-1741667419-20261004-205849-696-测谎大挑战！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_10_04_20_58_49/录制-1741667419-20261004-205849-696-测谎大挑战！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_10_04_20_58_49/录制-1741667419-20261004-205849-696-测谎大挑战！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_04_20_58_49/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_04_20_58_49/录制-1741667419-20261004-205849-696-测谎大挑战！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_04_20_58_49/录制-1741667419-20261004-205849-696-测谎大挑战！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_04_13_59_01",
+    "title": "小唱一下！",
+    "date": "2026-10-04",
+    "time": "13:59:01",
+    "startTime": "13:59",
+    "endTime": "16:52",
+    "duration": 10432,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/izayoi/2026_10_04_13_59_01/录制-1741667419-20261004-135901-478-小唱一下！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_10_04_13_59_01/录制-1741667419-20261004-135901-478-小唱一下！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_10_04_13_59_01/录制-1741667419-20261004-135901-478-小唱一下！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_04_13_59_01/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_04_13_59_01/录制-1741667419-20261004-135901-478-小唱一下！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_04_13_59_01/录制-1741667419-20261004-135901-478-小唱一下！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_03_14_02_56",
     "title": "运动一下！",
     "date": "2026-10-03",
