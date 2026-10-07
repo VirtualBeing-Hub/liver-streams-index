@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-07T06:50:21.017Z",
+  "generatedAt": "2026-10-07T20:00:47.081Z",
   "sessions": [
+    {
+      "id": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9",
+      "recordedAt": "2026-10-07 20:02:22",
+      "title": "陪你这个猪过周三！唱唱聊聊",
+      "complete": true
+    },
     {
       "id": "e00732ddba619f8713beba61b7dc08575b1519e88ba6b0d9b12c6ae824ee84c9",
       "recordedAt": "2026-10-06 20:02:04",
@@ -118,6 +124,36 @@
         "bvid": "BV1y6pK6UE3t",
         "part": 2,
         "url": "https://www.bilibili.com/video/BV1y6pK6UE3t/?p=2"
+      }
+    },
+    {
+      "id": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9:activity-1",
+      "sessionId": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9",
+      "name": "爱情讯息",
+      "start": 3198.44,
+      "end": 3488,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1c8H26REoi",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1c8H26REoi/?p=1"
+      }
+    },
+    {
+      "id": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9:activity-2",
+      "sessionId": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9",
+      "name": "反方向的钟",
+      "start": 3755,
+      "end": 4024,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1c8H26REoi",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1c8H26REoi/?p=2"
       }
     }
   ]

@@ -1,5 +1,50 @@
 [
   {
+    "id": "2026_10_07_21_03_51",
+    "title": "【看】Day7⭐",
+    "date": "2026-10-07",
+    "time": "21:03:51",
+    "startTime": "21:03",
+    "endTime": "00:48",
+    "duration": 13539,
+    "durationStr": "3.8 小时",
+    "srt": "/data/streams/mizuki/2026_10_07_21_03_51/录制-30655190-20261007-210351-562-【看】Day7⭐.srt",
+    "xml": "/data/streams/mizuki/2026_10_07_21_03_51/录制-30655190-20261007-210351-562-【看】Day7⭐.xml",
+    "cover": "/data/streams/mizuki/2026_10_07_21_03_51/录制-30655190-20261007-210351-562-【看】Day7⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_07_21_03_51/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_07_21_03_51/录制-30655190-20261007-210351-562-【看】Day7⭐_COMIC_FACTORY.png"
+    ],
+    "recap": {
+      "overview": "聊天、讨论选片并观看两部《生化危机》电影，交流剧情与观后感。",
+      "songs": [],
+      "games": [],
+      "watch": [
+        {
+          "name": "生化危机"
+        }
+      ],
+      "other": [
+        {
+          "name": "恐怖片选片与推荐"
+        },
+        {
+          "name": "生化危机电影剧情"
+        },
+        {
+          "name": "游戏改编与电影差异"
+        },
+        {
+          "name": "影片结局与观后感"
+        },
+        {
+          "name": "电影角色与演员"
+        }
+      ],
+      "generatedAt": "2026-10-07T16:59:22.503Z"
+    }
+  },
+  {
     "id": "2026_10_07_15_04_32",
     "title": "【豆】Day7⭐",
     "date": "2026-10-07",
@@ -11,7 +56,7 @@
     "srt": null,
     "xml": "/data/streams/mizuki/2026_10_07_15_04_32/录制-30655190-20261007-150432-932-【环】Day7⭐.xml",
     "cover": "/data/streams/mizuki/2026_10_07_15_04_32/录制-30655190-20261007-150432-932-【环】Day7⭐.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {
