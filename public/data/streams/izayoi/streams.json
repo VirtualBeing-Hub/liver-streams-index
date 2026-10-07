@@ -5,14 +5,17 @@
     "date": "2026-10-07",
     "time": "14:01:01",
     "startTime": "14:01",
-    "endTime": "14:49",
-    "duration": 2884,
-    "durationStr": "0.8 小时",
-    "srt": null,
+    "endTime": "16:07",
+    "duration": 7605,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/izayoi/2026_10_07_14_01_01/录制-1741667419-20261007-140101-624-来看比赛，KSG VS TES.A.srt",
     "xml": "/data/streams/izayoi/2026_10_07_14_01_01/录制-1741667419-20261007-140101-624-来看比赛，KSG VS TES.A.xml",
     "cover": "/data/streams/izayoi/2026_10_07_14_01_01/录制-1741667419-20261007-140101-624-来看比赛，KSG VS TES.A.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/izayoi/2026_10_07_14_01_01/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_07_14_01_01/录制-1741667419-20261007-140101-624-来看比赛，KSG VS TES.A_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_07_14_01_01/录制-1741667419-20261007-140101-624-来看比赛，KSG VS TES.A_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_07_09_01_04",
@@ -28,7 +31,8 @@
     "cover": "/data/streams/izayoi/2026_10_07_09_01_04/录制-1741667419-20261007-090104-046-早茶第103天.cover.jpg",
     "highlights": "/data/streams/izayoi/2026_10_07_09_01_04/highlights.md",
     "images": [
-      "/data/streams/izayoi/2026_10_07_09_01_04/录制-1741667419-20261007-090104-046-早茶第103天_COMIC_FACTORY.png"
+      "/data/streams/izayoi/2026_10_07_09_01_04/录制-1741667419-20261007-090104-046-早茶第103天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_07_09_01_04/录制-1741667419-20261007-090104-046-早茶第103天_SCREENSHOTS.jpg"
     ]
   },
   {

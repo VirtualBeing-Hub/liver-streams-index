@@ -5,14 +5,66 @@
     "date": "2026-10-07",
     "time": "13:18:42",
     "startTime": "13:18",
-    "endTime": "14:49",
-    "duration": 5494,
-    "durationStr": "1.5 小时",
-    "srt": null,
+    "endTime": "17:37",
+    "duration": 15572,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/nagisa/2026_10_07_13_18_42/录制-31368705-20261007-131842-536-周三的歌杂.srt",
     "xml": "/data/streams/nagisa/2026_10_07_13_18_42/录制-31368705-20261007-131842-536-周三的歌杂.xml",
     "cover": "/data/streams/nagisa/2026_10_07_13_18_42/录制-31368705-20261007-131842-536-周三的歌杂.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nagisa/2026_10_07_13_18_42/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_10_07_13_18_42/录制-31368705-20261007-131842-536-周三的歌杂_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_10_07_13_18_42/录制-31368705-20261007-131842-536-周三的歌杂_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "直播先聊设备故障、假期与测评话题，随后持续点歌演唱，并聊到嗓子状态和调色审美。",
+      "songs": [
+        {
+          "name": "Hide and Seek"
+        },
+        {
+          "name": "七月上"
+        },
+        {
+          "name": "半糖主义"
+        },
+        {
+          "name": "暖暖"
+        },
+        {
+          "name": "东京不太热"
+        },
+        {
+          "name": "美人鱼"
+        },
+        {
+          "name": "化身孤岛的鲸"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "OBS卡死排查"
+        },
+        {
+          "name": "假期结束与作息"
+        },
+        {
+          "name": "商品测评真假"
+        },
+        {
+          "name": "摄影棚闷热与通风"
+        },
+        {
+          "name": "嗓子疲劳和吃饭"
+        },
+        {
+          "name": "调色与色感"
+        }
+      ],
+      "generatedAt": "2026-10-07T09:48:49.477Z"
+    }
   },
   {
     "id": "2026_10_06_19_08_15",

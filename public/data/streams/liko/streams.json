@@ -5,14 +5,17 @@
     "date": "2026-10-07",
     "time": "11:10:46",
     "startTime": "11:10",
-    "endTime": "14:49",
-    "duration": 13172,
-    "durationStr": "3.7 小时",
-    "srt": null,
+    "endTime": "15:05",
+    "duration": 14115,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/liko/2026_10_07_11_10_46/录制-1713548468-20261007-111046-366-太困了呜呜.srt",
     "xml": "/data/streams/liko/2026_10_07_11_10_46/录制-1713548468-20261007-111046-366-太困了呜呜.xml",
     "cover": "/data/streams/liko/2026_10_07_11_10_46/录制-1713548468-20261007-111046-366-太困了呜呜.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/liko/2026_10_07_11_10_46/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_07_11_10_46/录制-1713548468-20261007-111046-366-太困了呜呜_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_07_11_10_46/录制-1713548468-20261007-111046-366-太困了呜呜_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_06_20_07_17",
