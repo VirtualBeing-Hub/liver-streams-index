@@ -1,5 +1,95 @@
 [
   {
+    "id": "2026_10_06_20_02_23",
+    "title": "歌杂~",
+    "date": "2026-10-06",
+    "time": "20:02:23",
+    "startTime": "20:02",
+    "endTime": "23:14",
+    "duration": 11547,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/kloa/2026_10_06_20_02_23/录制-1986461465-20261006-200223-790-歌杂~_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_06_20_02_23/录制-1986461465-20261006-200223-790-歌杂~_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_06_20_02_23/录制-1986461465-20261006-200223-790-歌杂~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_06_20_02_23/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_06_20_02_23/录制-1986461465-20261006-200223-790-歌杂~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_06_20_02_23/录制-1986461465-20261006-200223-790-歌杂~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_06_12_04_16",
+    "title": "做饭电台！",
+    "date": "2026-10-06",
+    "time": "12:04:16",
+    "startTime": "12:04",
+    "endTime": "15:14",
+    "duration": 11451,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/kloa/2026_10_06_12_04_16/录制-1986461465-20261006-120416-765-做饭电台！_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_06_12_04_16/录制-1986461465-20261006-120416-765-做饭电台！_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_06_12_04_16/录制-1986461465-20261006-120416-765-做饭电台！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_06_12_04_16/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_06_12_04_16/录制-1986461465-20261006-120416-765-做饭电台！_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_06_12_04_16/录制-1986461465-20261006-120416-765-做饭电台！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_05_20_24_35",
+    "title": "虚度晚台",
+    "date": "2026-10-05",
+    "time": "20:24:35",
+    "startTime": "20:24",
+    "endTime": "23:49",
+    "duration": 12327,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/kloa/2026_10_05_20_24_35/录制-1986461465-20261005-202435-072-虚度晚台_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_05_20_24_35/录制-1986461465-20261005-202435-072-虚度晚台_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_05_20_24_35/录制-1986461465-20261005-202435-072-虚度晚台.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_05_20_24_35/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_05_20_24_35/录制-1986461465-20261005-202435-072-虚度晚台_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_05_20_24_35/录制-1986461465-20261005-202435-072-虚度晚台_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_05_13_38_26",
+    "title": "我回来了...",
+    "date": "2026-10-05",
+    "time": "13:38:26",
+    "startTime": "13:38",
+    "endTime": "14:48",
+    "duration": 4225,
+    "durationStr": "1.2 小时",
+    "srt": "/data/streams/kloa/2026_10_05_13_38_26/录制-1986461465-20261005-133826-761-我回来了....srt",
+    "xml": "/data/streams/kloa/2026_10_05_13_38_26/录制-1986461465-20261005-133826-761-我回来了....xml",
+    "cover": "/data/streams/kloa/2026_10_05_13_38_26/录制-1986461465-20261005-133826-761-我回来了....cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_05_13_38_26/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_05_13_38_26/录制-1986461465-20261005-133826-761-我回来了..._COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_05_13_38_26/录制-1986461465-20261005-133826-761-我回来了..._SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_05_11_26_59",
+    "title": "学歌~",
+    "date": "2026-10-05",
+    "time": "11:26:59",
+    "startTime": "11:26",
+    "endTime": "13:26",
+    "duration": 7204,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/kloa/2026_10_05_11_26_59/录制-1986461465-20261005-112659-757-学歌~.srt",
+    "xml": "/data/streams/kloa/2026_10_05_11_26_59/录制-1986461465-20261005-112659-757-学歌~.xml",
+    "cover": "/data/streams/kloa/2026_10_05_11_26_59/录制-1986461465-20261005-112659-757-学歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_05_11_26_59/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_05_11_26_59/录制-1986461465-20261005-112659-757-学歌~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_05_11_26_59/录制-1986461465-20261005-112659-757-学歌~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_04_20_08_40",
     "title": "杂谈~写写周表",
     "date": "2026-10-04",

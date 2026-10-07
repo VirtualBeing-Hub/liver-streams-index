@@ -1,5 +1,74 @@
 [
   {
+    "id": "2026_10_07_11_10_46",
+    "title": "太困了呜呜",
+    "date": "2026-10-07",
+    "time": "11:10:46",
+    "startTime": "11:10",
+    "endTime": "14:49",
+    "duration": 13172,
+    "durationStr": "3.7 小时",
+    "srt": null,
+    "xml": "/data/streams/liko/2026_10_07_11_10_46/录制-1713548468-20261007-111046-366-太困了呜呜.xml",
+    "cover": "/data/streams/liko/2026_10_07_11_10_46/录制-1713548468-20261007-111046-366-太困了呜呜.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_06_20_07_17",
+    "title": "康康视频~",
+    "date": "2026-10-06",
+    "time": "20:07:17",
+    "startTime": "20:07",
+    "endTime": "03:02",
+    "duration": 24953,
+    "durationStr": "6.9 小时",
+    "srt": "/data/streams/liko/2026_10_06_20_07_17/录制-1713548468-20261006-200717-956-康康视频~.srt",
+    "xml": "/data/streams/liko/2026_10_06_20_07_17/录制-1713548468-20261006-200717-956-康康视频~.xml",
+    "cover": "/data/streams/liko/2026_10_06_20_07_17/录制-1713548468-20261006-200717-956-康康视频~.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_06_20_07_17/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_06_20_07_17/录制-1713548468-20261006-200717-956-康康视频~_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_06_20_07_17/录制-1713548468-20261006-200717-956-康康视频~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_06_11_10_55",
+    "title": "中午贴贴",
+    "date": "2026-10-06",
+    "time": "11:10:55",
+    "startTime": "11:10",
+    "endTime": "15:14",
+    "duration": 14644,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/liko/2026_10_06_11_10_55/录制-1713548468-20261006-111055-831-中午贴贴_merged.srt",
+    "xml": "/data/streams/liko/2026_10_06_11_10_55/录制-1713548468-20261006-111055-831-中午贴贴_merged.xml",
+    "cover": "/data/streams/liko/2026_10_06_11_10_55/录制-1713548468-20261006-111055-831-中午贴贴.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_06_11_10_55/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_06_11_10_55/录制-1713548468-20261006-111055-831-中午贴贴_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_06_11_10_55/录制-1713548468-20261006-111055-831-中午贴贴_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_05_20_08_38",
+    "title": "魔法期虚度一下",
+    "date": "2026-10-05",
+    "time": "20:08:38",
+    "startTime": "20:08",
+    "endTime": "01:19",
+    "duration": 18699,
+    "durationStr": "5.2 小时",
+    "srt": "/data/streams/liko/2026_10_05_20_08_38/录制-1713548468-20261005-200838-669-魔法期虚度一下.srt",
+    "xml": "/data/streams/liko/2026_10_05_20_08_38/录制-1713548468-20261005-200838-669-魔法期虚度一下.xml",
+    "cover": "/data/streams/liko/2026_10_05_20_08_38/录制-1713548468-20261005-200838-669-魔法期虚度一下.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_05_20_08_38/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_05_20_08_38/录制-1713548468-20261005-200838-669-魔法期虚度一下_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_05_20_08_38/录制-1713548468-20261005-200838-669-魔法期虚度一下_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_04_20_04_50",
     "title": "魔法期虚度一下",
     "date": "2026-10-04",

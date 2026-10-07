@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_06_22_56_49",
+    "title": "唱！",
+    "date": "2026-10-06",
+    "time": "22:56:49",
+    "startTime": "22:56",
+    "endTime": "03:09",
+    "duration": 15196,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/mitsuri/2026_10_06_22_56_49/录制-1967216004-20261006-225649-243-唱！.srt",
+    "xml": "/data/streams/mitsuri/2026_10_06_22_56_49/录制-1967216004-20261006-225649-243-唱！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_06_22_56_49/录制-1967216004-20261006-225649-243-唱！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_06_22_56_49/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_06_22_56_49/录制-1967216004-20261006-225649-243-唱！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_06_22_56_49/录制-1967216004-20261006-225649-243-唱！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_05_23_00_18",
+    "title": "嘟嘟！鬼武者！",
+    "date": "2026-10-05",
+    "time": "23:00:18",
+    "startTime": "23:00",
+    "endTime": "01:45",
+    "duration": 9947,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/mitsuri/2026_10_05_23_00_18/录制-1967216004-20261005-230018-634-嘟嘟！鬼武者！.srt",
+    "xml": "/data/streams/mitsuri/2026_10_05_23_00_18/录制-1967216004-20261005-230018-634-嘟嘟！鬼武者！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_05_23_00_18/录制-1967216004-20261005-230018-634-嘟嘟！鬼武者！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_05_23_00_18/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_05_23_00_18/录制-1967216004-20261005-230018-634-嘟嘟！鬼武者！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_05_23_00_18/录制-1967216004-20261005-230018-634-嘟嘟！鬼武者！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_03_21_14_47",
     "title": "来蹦迪！！",
     "date": "2026-10-03",

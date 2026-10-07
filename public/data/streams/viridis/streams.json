@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_06_21_00_46",
+    "title": "出门干了什么？来着",
+    "date": "2026-10-06",
+    "time": "21:00:46",
+    "startTime": "21:00",
+    "endTime": "23:23",
+    "duration": 8625,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/viridis/2026_10_06_21_00_46/录制-1727071052-20261006-210046-735-出门干了什么？来着.srt",
+    "xml": "/data/streams/viridis/2026_10_06_21_00_46/录制-1727071052-20261006-210046-735-出门干了什么？来着.xml",
+    "cover": "/data/streams/viridis/2026_10_06_21_00_46/录制-1727071052-20261006-210046-735-出门干了什么？来着.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_10_06_21_00_46/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_10_06_21_00_46/录制-1727071052-20261006-210046-735-出门干了什么？来着_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_10_06_21_00_46/录制-1727071052-20261006-210046-735-出门干了什么？来着_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_06_16_42_49",
+    "title": "随便小唱之",
+    "date": "2026-10-06",
+    "time": "16:42:49",
+    "startTime": "16:42",
+    "endTime": "18:50",
+    "duration": 7726,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/viridis/2026_10_06_16_42_49/录制-1727071052-20261006-164249-662-随便小唱之.srt",
+    "xml": "/data/streams/viridis/2026_10_06_16_42_49/录制-1727071052-20261006-164249-662-随便小唱之.xml",
+    "cover": "/data/streams/viridis/2026_10_06_16_42_49/录制-1727071052-20261006-164249-662-随便小唱之.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_10_06_16_42_49/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_10_06_16_42_49/录制-1727071052-20261006-164249-662-随便小唱之_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_10_06_16_42_49/录制-1727071052-20261006-164249-662-随便小唱之_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_03_21_50_01",
     "title": "打那个鬼武者是吗",
     "date": "2026-10-03",

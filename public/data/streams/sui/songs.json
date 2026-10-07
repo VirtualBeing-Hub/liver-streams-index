@@ -1,12 +1,24 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-04T20:00:51.253Z",
+  "generatedAt": "2026-10-07T06:50:21.017Z",
   "sessions": [
+    {
+      "id": "e00732ddba619f8713beba61b7dc08575b1519e88ba6b0d9b12c6ae824ee84c9",
+      "recordedAt": "2026-10-06 20:02:04",
+      "title": "陪你这个猪过周二！唱唱聊聊然后复联3_merged",
+      "complete": true
+    },
+    {
+      "id": "a0ced0ae9d8e640e83a9948650acd9e77733bc2609319cc13b3fc2ba3ef4b63e",
+      "recordedAt": "2026-10-05 20:17:07",
+      "title": "陪你这个猪",
+      "complete": true
+    },
     {
       "id": "c9350d58b827c043dacd1abc5a0077640c6d9bc67326e4acb969ca5ca71b9a0b",
       "recordedAt": "2026-10-04 20:38:02",
       "title": "陪你这个猪过周日！唱唱聊聊_merged",
-      "complete": false
+      "complete": true
     },
     {
       "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
@@ -65,6 +77,47 @@
         "bvid": "BV1HnHh61ES8",
         "part": 2,
         "url": "https://www.bilibili.com/video/BV1HnHh61ES8/?p=2"
+      }
+    },
+    {
+      "id": "a0ced0ae9d8e640e83a9948650acd9e77733bc2609319cc13b3fc2ba3ef4b63e:activity-1",
+      "sessionId": "a0ced0ae9d8e640e83a9948650acd9e77733bc2609319cc13b3fc2ba3ef4b63e",
+      "name": null,
+      "start": 5320,
+      "end": 5355,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "e00732ddba619f8713beba61b7dc08575b1519e88ba6b0d9b12c6ae824ee84c9:activity-1",
+      "sessionId": "e00732ddba619f8713beba61b7dc08575b1519e88ba6b0d9b12c6ae824ee84c9",
+      "name": "小夜子",
+      "start": 4703,
+      "end": 5029,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1y6pK6UE3t",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1y6pK6UE3t/?p=1"
+      }
+    },
+    {
+      "id": "e00732ddba619f8713beba61b7dc08575b1519e88ba6b0d9b12c6ae824ee84c9:activity-2",
+      "sessionId": "e00732ddba619f8713beba61b7dc08575b1519e88ba6b0d9b12c6ae824ee84c9",
+      "name": "连名带姓",
+      "start": 5104,
+      "end": 5458,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1y6pK6UE3t",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1y6pK6UE3t/?p=2"
       }
     }
   ]

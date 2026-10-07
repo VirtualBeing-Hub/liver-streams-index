@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_06_19_02_46",
+    "title": "国庆快乐~",
+    "date": "2026-10-06",
+    "time": "19:02:46",
+    "startTime": "19:02",
+    "endTime": "23:12",
+    "duration": 15046,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_10_06_19_02_46/录制-25034104-20261006-190246-477-国庆快乐~_merged.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_10_06_19_02_46/录制-25034104-20261006-190246-477-国庆快乐~_merged.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_10_06_19_02_46/录制-25034104-20261006-190246-477-国庆快乐~.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_10_06_19_02_46/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_10_06_19_02_46/录制-25034104-20261006-190246-477-国庆快乐~_merged_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_10_06_19_02_46/录制-25034104-20261006-190246-477-国庆快乐~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_05_18_54_30",
+    "title": "国庆快乐~看会楚！！",
+    "date": "2026-10-05",
+    "time": "18:54:30",
+    "startTime": "18:54",
+    "endTime": "23:55",
+    "duration": 18074,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_10_05_18_54_30/录制-25034104-20261005-185430-356-国庆快乐~看会楚！！.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_10_05_18_54_30/录制-25034104-20261005-185430-356-国庆快乐~看会楚！！.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_10_05_18_54_30/录制-25034104-20261005-185430-356-国庆快乐~看会楚！！.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_10_05_18_54_30/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_10_05_18_54_30/录制-25034104-20261005-185430-356-国庆快乐~看会楚！！_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_10_05_18_54_30/录制-25034104-20261005-185430-356-国庆快乐~看会楚！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_04_18_56_45",
     "title": "国庆快乐~鬼武呜呜呜",
     "date": "2026-10-04",

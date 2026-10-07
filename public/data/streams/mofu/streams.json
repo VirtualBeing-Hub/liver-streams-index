@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026_10_06_19_04_14",
+    "title": "无限的魔兽！",
+    "date": "2026-10-06",
+    "time": "19:04:14",
+    "startTime": "19:04",
+    "endTime": "23:36",
+    "duration": 16371,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/mofu/2026_10_06_19_04_14/录制-1791260716-20261006-190414-481-无限的魔兽！.srt",
+    "xml": "/data/streams/mofu/2026_10_06_19_04_14/录制-1791260716-20261006-190414-481-无限的魔兽！.xml",
+    "cover": "/data/streams/mofu/2026_10_06_19_04_14/录制-1791260716-20261006-190414-481-无限的魔兽！.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_06_19_04_14/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_06_19_04_14/录制-1791260716-20261006-190414-481-无限的魔兽！_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_06_19_04_14/录制-1791260716-20261006-190414-481-无限的魔兽！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_06_09_34_40",
+    "title": "-u-",
+    "date": "2026-10-06",
+    "time": "09:34:40",
+    "startTime": "09:34",
+    "endTime": "12:05",
+    "duration": 9063,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/mofu/2026_10_06_09_34_40/录制-1791260716-20261006-093440-751--u-_merged.srt",
+    "xml": "/data/streams/mofu/2026_10_06_09_34_40/录制-1791260716-20261006-093440-751--u-_merged.xml",
+    "cover": "/data/streams/mofu/2026_10_06_09_34_40/录制-1791260716-20261006-093440-751--u-.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_06_09_34_40/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_06_09_34_40/录制-1791260716-20261006-093440-751--u-_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_06_09_34_40/录制-1791260716-20261006-093440-751--u-_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_05_20_02_38",
+    "title": "-u-",
+    "date": "2026-10-05",
+    "time": "20:02:38",
+    "startTime": "20:02",
+    "endTime": "00:02",
+    "duration": 14421,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/mofu/2026_10_05_20_02_38/录制-1791260716-20261005-200238-978--u-.srt",
+    "xml": "/data/streams/mofu/2026_10_05_20_02_38/录制-1791260716-20261005-200238-978--u-.xml",
+    "cover": "/data/streams/mofu/2026_10_05_20_02_38/录制-1791260716-20261005-200238-978--u-.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_05_20_02_38/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_05_20_02_38/录制-1791260716-20261005-200238-978--u-_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_05_20_02_38/录制-1791260716-20261005-200238-978--u-_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_04_18_02_27",
     "title": "-u-",
     "date": "2026-10-04",

@@ -1,5 +1,197 @@
 [
   {
+    "id": "2026_10_06_20_02_04",
+    "title": "陪你这个猪过周二！唱唱聊聊然后复联3",
+    "date": "2026-10-06",
+    "time": "20:02:04",
+    "startTime": "20:02",
+    "endTime": "00:47",
+    "duration": 17132,
+    "durationStr": "4.8 小时",
+    "srt": "/data/streams/sui/2026_10_06_20_02_04/录制-25788785-20261006-200204-006-陪你这个猪过周二！唱唱聊聊然后复联3_merged.srt",
+    "xml": "/data/streams/sui/2026_10_06_20_02_04/录制-25788785-20261006-200204-006-陪你这个猪过周二！唱唱聊聊然后复联3_merged.xml",
+    "cover": "/data/streams/sui/2026_10_06_20_02_04/录制-25788785-20261006-200204-006-陪你这个猪过周二！唱唱聊聊然后复联3.cover.jpg",
+    "highlights": "/data/streams/sui/2026_10_06_20_02_04/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_10_06_20_02_04/录制-25788785-20261006-200204-006-陪你这个猪过周二！唱唱聊聊然后复联3_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_10_06_20_02_04/录制-25788785-20261006-200204-006-陪你这个猪过周二！唱唱聊聊然后复联3_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌，并同步观看《复仇者联盟3》及《蚁人2》片尾彩蛋。",
+      "songs": [
+        {
+          "name": "小夜子",
+          "start": 4703,
+          "end": 5029,
+          "clips": [
+            {
+              "bvid": "BV1y6pK6UE3t",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1y6pK6UE3t/?p=1"
+            }
+          ]
+        },
+        {
+          "name": "连名带姓",
+          "start": 5104,
+          "end": 5458,
+          "clips": [
+            {
+              "bvid": "BV1y6pK6UE3t",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1y6pK6UE3t/?p=2"
+            }
+          ]
+        }
+      ],
+      "games": [],
+      "watch": [
+        {
+          "name": "复仇者联盟3",
+          "start": 6009,
+          "end": 14302,
+          "clips": [
+            {
+              "bvid": "BV1QTpT6cEjX",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1QTpT6cEjX/?p=1"
+            }
+          ]
+        },
+        {
+          "name": "蚁人2",
+          "start": 14353,
+          "end": 14731,
+          "clips": [
+            {
+              "bvid": "BV1QTpT6cEjX",
+              "part": 7,
+              "url": "https://www.bilibili.com/video/BV1QTpT6cEjX/?p=7"
+            }
+          ]
+        }
+      ],
+      "other": [
+        {
+          "name": "眼睛不适与呼吸困扰"
+        },
+        {
+          "name": "游泳健身与心肺锻炼"
+        },
+        {
+          "name": "饮食和减肥"
+        },
+        {
+          "name": "体重与生长纹"
+        },
+        {
+          "name": "豆瓣评分和影视偏好"
+        },
+        {
+          "name": "漫威角色与战力讨论"
+        },
+        {
+          "name": "后续观影安排"
+        }
+      ],
+      "generatedAt": "2026-10-06T17:45:49.544Z"
+    }
+  },
+  {
+    "id": "2026_10_05_20_17_07",
+    "title": "陪你这个猪拉银河护卫队1-2",
+    "date": "2026-10-05",
+    "time": "20:17:07",
+    "startTime": "20:17",
+    "endTime": "00:57",
+    "duration": 16816,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/sui/2026_10_05_20_17_07/录制-25788785-20261005-201707-489-陪你这个猪.srt",
+    "xml": "/data/streams/sui/2026_10_05_20_17_07/录制-25788785-20261005-201707-489-陪你这个猪.xml",
+    "cover": "/data/streams/sui/2026_10_05_20_17_07/录制-25788785-20261005-201707-489-陪你这个猪.cover.jpg",
+    "highlights": "/data/streams/sui/2026_10_05_20_17_07/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_10_05_20_17_07/录制-25788785-20261005-201707-489-陪你这个猪_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_10_05_20_17_07/录制-25788785-20261005-201707-489-陪你这个猪_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌、看电影解说视频、玩《艾尔登法环》。",
+      "songs": [
+        {
+          "name": "未识别歌名",
+          "start": 5320,
+          "end": 5355
+        }
+      ],
+      "games": [
+        {
+          "name": "艾尔登法环",
+          "clips": [
+            {
+              "bvid": "BV1uBH46mEdE",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1uBH46mEdE/?p=1",
+              "title": "艾尔登法环 第15集｜混种与熔炉骑士、沿路移动与攀梯 2026-10-05"
+            }
+          ]
+        }
+      ],
+      "watch": [
+        {
+          "name": "银河护卫队1速通解说",
+          "start": 6813,
+          "end": 8093,
+          "clips": [
+            {
+              "bvid": "BV1MrH461ECq",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1MrH461ECq/?p=1"
+            }
+          ]
+        },
+        {
+          "name": "银河护卫队2速通解说",
+          "start": 8121,
+          "end": 9961,
+          "clips": [
+            {
+              "bvid": "BV1MrH461ECq",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1MrH461ECq/?p=2"
+            }
+          ]
+        }
+      ],
+      "other": [
+        {
+          "name": "迟到与开播准备"
+        },
+        {
+          "name": "图片使用与商用界限"
+        },
+        {
+          "name": "AI模型和蛇类知识"
+        },
+        {
+          "name": "朋友间送生日礼物"
+        },
+        {
+          "name": "虚拟主播新衣设计"
+        },
+        {
+          "name": "恋爱与双方家庭相处"
+        },
+        {
+          "name": "《银河护卫队》解说视频"
+        },
+        {
+          "name": "法环探索与挑战碎星"
+        }
+      ],
+      "generatedAt": "2026-10-05T17:08:58.092Z"
+    }
+  },
+  {
     "id": "2026_10_04_20_38_02",
     "title": "陪你这个猪看雷神3",
     "date": "2026-10-04",
@@ -17,52 +209,59 @@
       "/data/streams/sui/2026_10_04_20_38_02/录制-25788785-20261004-203802-412-陪你这个猪过周日！唱唱聊聊_merged_SCREENSHOTS.jpg"
     ],
     "recap": {
-      "overview": "闲聊、观看《雷神3：诸神黄昏》",
+      "overview": "杂谈并观看《雷神3》",
       "songs": [],
       "games": [],
       "watch": [
         {
           "name": "同步视听片段",
-          "start": 5866,
-          "end": 12730
+          "start": 6624,
+          "end": 14195,
+          "clips": [
+            {
+              "bvid": "BV1pSHs6aEnL",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1pSHs6aEnL/?p=1"
+            }
+          ]
         },
         {
-          "name": "雷神3：诸神黄昏"
+          "name": "雷神3"
         }
       ],
       "other": [
         {
-          "name": "睡过头与作息"
+          "name": "睡过头错过晚饭"
         },
         {
-          "name": "看医生临时换医生"
+          "name": "医美预约更换医生"
         },
         {
           "name": "防晒与美白"
         },
         {
-          "name": "酒店热水壶和花洒卫生"
+          "name": "酒店热水壶卫生"
         },
         {
           "name": "飞机安全事件"
         },
         {
-          "name": "青蛙叫声与亲戚称谓"
+          "name": "青蛙叫声与求偶"
         },
         {
-          "name": "洗手与猪肉绦虫"
+          "name": "猪肉绦虫与厨房卫生"
         },
         {
-          "name": "奶茶遗失与晕车"
+          "name": "地铁找座位"
         },
         {
-          "name": "地铁找座位策略"
+          "name": "奶茶不见了"
         },
         {
-          "name": "旅居与外卖"
+          "name": "晕车与看手机"
         }
       ],
-      "generatedAt": "2026-10-04T17:56:37.712Z"
+      "generatedAt": "2026-10-05T04:19:39.467Z"
     }
   },
   {

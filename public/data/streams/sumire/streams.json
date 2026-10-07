@@ -1,5 +1,57 @@
 [
   {
+    "id": "2026_10_07_01_37_44",
+    "title": "紫发女路人恐游",
+    "date": "2026-10-06",
+    "time": "01:37:44",
+    "startTime": "01:37",
+    "endTime": "02:03",
+    "duration": 1590,
+    "durationStr": "0.4 小时",
+    "srt": "/data/streams/sumire/2026_10_07_01_37_44/录制-1727076670-20261007-013744-796-紫发女路人恐游_merged.srt",
+    "xml": "/data/streams/sumire/2026_10_07_01_37_44/录制-1727076670-20261007-013744-796-紫发女路人恐游_merged.xml",
+    "cover": "/data/streams/sumire/2026_10_07_01_37_44/录制-1727076670-20261007-013744-796-紫发女路人恐游.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_10_07_01_37_44/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_07_01_37_44/录制-1727076670-20261007-013744-796-紫发女路人恐游_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_10_06_21_02_28",
+    "title": "紫发女路人恐游",
+    "date": "2026-10-06",
+    "time": "21:02:28",
+    "startTime": "21:02",
+    "endTime": "00:26",
+    "duration": 12281,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/sumire/2026_10_06_21_02_28/录制-1727076670-20261006-210228-759-紫发女路人恐游_merged.srt",
+    "xml": "/data/streams/sumire/2026_10_06_21_02_28/录制-1727076670-20261006-210228-759-紫发女路人恐游_merged.xml",
+    "cover": "/data/streams/sumire/2026_10_06_21_02_28/录制-1727076670-20261006-210228-759-紫发女路人恐游.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_10_06_21_02_28/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_06_21_02_28/录制-1727076670-20261006-210228-759-紫发女路人恐游_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_10_05_22_01_18",
+    "title": "和紫发女路人偶遇中",
+    "date": "2026-10-05",
+    "time": "22:01:18",
+    "startTime": "22:01",
+    "endTime": "00:08",
+    "duration": 7624,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/sumire/2026_10_05_22_01_18/录制-1727076670-20261005-220118-833-和紫发女路人偶遇中.srt",
+    "xml": "/data/streams/sumire/2026_10_05_22_01_18/录制-1727076670-20261005-220118-833-和紫发女路人偶遇中.xml",
+    "cover": "/data/streams/sumire/2026_10_05_22_01_18/录制-1727076670-20261005-220118-833-和紫发女路人偶遇中.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_10_05_22_01_18/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_05_22_01_18/录制-1727076670-20261005-220118-833-和紫发女路人偶遇中_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_10_05_22_01_18/录制-1727076670-20261005-220118-833-和紫发女路人偶遇中_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_03_22_00_53",
     "title": "猫一直在挠是为什么",
     "date": "2026-10-03",

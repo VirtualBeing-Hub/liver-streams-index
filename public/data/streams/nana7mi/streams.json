@@ -1,5 +1,77 @@
 [
   {
+    "id": "2026_10_07_01_12_36",
+    "title": "魔兽世界无限服捏",
+    "date": "2026-10-06",
+    "time": "01:12:36",
+    "startTime": "01:12",
+    "endTime": "04:34",
+    "duration": 12120,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/nana7mi/2026_10_07_01_12_36/录制-21452505-20261007-011236-197-魔兽世界无限服捏.srt",
+    "xml": "/data/streams/nana7mi/2026_10_07_01_12_36/录制-21452505-20261007-011236-197-魔兽世界无限服捏.xml",
+    "cover": "/data/streams/nana7mi/2026_10_07_01_12_36/录制-21452505-20261007-011236-197-魔兽世界无限服捏.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_07_01_12_36/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_07_01_12_36/录制-21452505-20261007-011236-197-魔兽世界无限服捏_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_07_01_12_36/录制-21452505-20261007-011236-197-魔兽世界无限服捏_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_07_00_37_05",
+    "title": "偷偷的塔",
+    "date": "2026-10-06",
+    "time": "00:37:05",
+    "startTime": "00:37",
+    "endTime": "00:56",
+    "duration": 1162,
+    "durationStr": "0.3 小时",
+    "srt": "/data/streams/nana7mi/2026_10_07_00_37_05/录制-21452505-20261007-003705-312-偷偷的塔.srt",
+    "xml": "/data/streams/nana7mi/2026_10_07_00_37_05/录制-21452505-20261007-003705-312-偷偷的塔.xml",
+    "cover": "/data/streams/nana7mi/2026_10_07_00_37_05/录制-21452505-20261007-003705-312-偷偷的塔.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_07_00_37_05/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_07_00_37_05/录制-21452505-20261007-003705-312-偷偷的塔_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_07_00_37_05/录制-21452505-20261007-003705-312-偷偷的塔_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_06_19_03_19",
+    "title": "偷偷的塔",
+    "date": "2026-10-06",
+    "time": "19:03:19",
+    "startTime": "19:03",
+    "endTime": "00:23",
+    "duration": 19251,
+    "durationStr": "5.3 小时",
+    "srt": "/data/streams/nana7mi/2026_10_06_19_03_19/录制-21452505-20261006-190319-916-魔兽世界无限服捏_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_10_06_19_03_19/录制-21452505-20261006-190319-916-魔兽世界无限服捏_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_10_06_19_03_19/录制-21452505-20261006-190319-916-魔兽世界无限服捏.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_06_19_03_19/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_06_19_03_19/录制-21452505-20261006-190319-916-魔兽世界无限服捏_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_06_19_03_19/录制-21452505-20261006-190319-916-魔兽世界无限服捏_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_06_00_19_24",
+    "title": "偷塔失败了",
+    "date": "2026-10-05",
+    "time": "00:19:24",
+    "startTime": "00:19",
+    "endTime": "04:45",
+    "duration": 16017,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/nana7mi/2026_10_06_00_19_24/录制-21452505-20261006-001924-129-偷塔_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_10_06_00_19_24/录制-21452505-20261006-001924-129-偷塔_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_10_06_00_19_24/录制-21452505-20261006-001924-129-偷塔.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_06_00_19_24/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_06_00_19_24/录制-21452505-20261006-001924-129-偷塔_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_06_00_19_24/录制-21452505-20261006-001924-129-偷塔_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_05_03_46_58",
     "title": "偷塔",
     "date": "2026-10-04",
@@ -76,18 +148,21 @@
   },
   {
     "id": "2026_10_04_22_02_23",
-    "title": "久违的MC",
+    "title": "偷塔",
     "date": "2026-10-04",
     "time": "22:02:23",
     "startTime": "22:02",
-    "endTime": "23:43",
-    "duration": 6076,
-    "durationStr": "1.7 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_10_04_22_02_23/录制-21452505-20261004-220223-268-久违的MC.xml",
+    "endTime": "04:40",
+    "duration": 23885,
+    "durationStr": "6.6 小时",
+    "srt": "/data/streams/nana7mi/2026_10_04_22_02_23/录制-21452505-20261004-220223-268-久违的MC_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_10_04_22_02_23/录制-21452505-20261004-220223-268-久违的MC_merged.xml",
     "cover": "/data/streams/nana7mi/2026_10_04_22_02_23/录制-21452505-20261004-220223-268-久违的MC.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_10_04_22_02_23/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_04_22_02_23/录制-21452505-20261004-220223-268-久违的MC_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_04_22_02_23/录制-21452505-20261004-220223-268-久违的MC_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_03_23_48_47",
