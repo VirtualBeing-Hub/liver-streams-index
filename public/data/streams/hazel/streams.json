@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026_10_08_19_10_42",
+    "title": "P5R初体验 第一回",
+    "date": "2026-10-08",
+    "time": "19:10:42",
+    "startTime": "19:10",
+    "endTime": "00:35",
+    "duration": 19504,
+    "durationStr": "5.4 小时",
+    "srt": "/data/streams/hazel/2026_10_08_19_10_42/录制-1713546334-20261008-191042-150-P5R初体验 第一回.srt",
+    "xml": "/data/streams/hazel/2026_10_08_19_10_42/录制-1713546334-20261008-191042-150-P5R初体验 第一回.xml",
+    "cover": "/data/streams/hazel/2026_10_08_19_10_42/录制-1713546334-20261008-191042-150-P5R初体验 第一回.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_10_08_19_10_42/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_10_08_19_10_42/录制-1713546334-20261008-191042-150-P5R初体验 第一回_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_10_08_19_06_49",
+    "title": "P5R初体验 第一回",
+    "date": "2026-10-08",
+    "time": "19:06:49",
+    "startTime": "19:06",
+    "endTime": "19:09",
+    "duration": 231,
+    "durationStr": "3 分钟",
+    "srt": null,
+    "xml": "/data/streams/hazel/2026_10_08_19_06_49/录制-1713546334-20261008-190649-744-P5R初体验 第一回.xml",
+    "cover": "/data/streams/hazel/2026_10_08_19_06_49/录制-1713546334-20261008-190649-744-P5R初体验 第一回.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_06_19_10_45",
     "title": "悠闲夜晚 随便看看",
     "date": "2026-10-06",

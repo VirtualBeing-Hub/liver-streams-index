@@ -1,5 +1,82 @@
 [
   {
+    "id": "2026_10_08_20_05_58",
+    "title": "陪你这个猪过周三！",
+    "date": "2026-10-08",
+    "time": "20:05:58",
+    "startTime": "20:05",
+    "endTime": "00:49",
+    "duration": 17051,
+    "durationStr": "4.7 小时",
+    "srt": "/data/streams/sui/2026_10_08_20_05_58/录制-25788785-20261008-200558-770-陪你这个猪过周三！.srt",
+    "xml": "/data/streams/sui/2026_10_08_20_05_58/录制-25788785-20261008-200558-770-陪你这个猪过周三！.xml",
+    "cover": "/data/streams/sui/2026_10_08_20_05_58/录制-25788785-20261008-200558-770-陪你这个猪过周三！.cover.jpg",
+    "highlights": "/data/streams/sui/2026_10_08_20_05_58/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_10_08_20_05_58/录制-25788785-20261008-200558-770-陪你这个猪过周三！_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_10_08_20_05_58/录制-25788785-20261008-200558-770-陪你这个猪过周三！_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、看B站AI二创视频、唱歌、玩《艾尔登法环》。",
+      "songs": [
+        {
+          "name": "未识别歌名",
+          "start": 6884,
+          "end": 7274
+        },
+        {
+          "name": "昨日晴空",
+          "start": 7478.229,
+          "end": 7920
+        }
+      ],
+      "games": [
+        {
+          "name": "艾尔登法环"
+        }
+      ],
+      "watch": [
+        {
+          "name": "同步视听片段",
+          "start": 1461,
+          "end": 1751
+        },
+        {
+          "name": "同步视听片段",
+          "start": 1758,
+          "end": 1924
+        }
+      ],
+      "other": [
+        {
+          "name": "插座与手柄充电"
+        },
+        {
+          "name": "头发护理与身体乳"
+        },
+        {
+          "name": "AI二创视频"
+        },
+        {
+          "name": "过膝袜与连裤袜投票"
+        },
+        {
+          "name": "动画角色与性格"
+        },
+        {
+          "name": "银屑病就医和医保"
+        },
+        {
+          "name": "反向抹零引发争论"
+        },
+        {
+          "name": "美甲与手偶周边"
+        }
+      ],
+      "generatedAt": "2026-10-08T17:28:56.198Z"
+    }
+  },
+  {
     "id": "2026_10_07_20_02_22",
     "title": "陪你这个猪过周三！唱唱聊聊",
     "date": "2026-10-07",
@@ -47,27 +124,52 @@
       "games": [],
       "watch": [
         {
-          "name": "同步视听片段",
+          "name": "复仇者联盟4",
           "start": 4227,
-          "end": 7884
+          "end": 7884,
+          "clips": [
+            {
+              "bvid": "BV1mwHS66EQg",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1mwHS66EQg/?p=1"
+            }
+          ]
         },
         {
-          "name": "同步视听片段",
+          "name": "一口气看完〈复仇者联盟4〉",
           "start": 8045,
-          "end": 14485
+          "end": 15096.309,
+          "clips": [
+            {
+              "bvid": "BV1mwHS66EQg",
+              "part": 4,
+              "url": "https://www.bilibili.com/video/BV1mwHS66EQg/?p=4"
+            }
+          ]
         },
         {
-          "name": "同步视听片段",
-          "start": 15188,
-          "end": 15590
+          "name": "复联4新增片段",
+          "start": 15180,
+          "end": 15562.62,
+          "clips": [
+            {
+              "bvid": "BV1mwHS66EQg",
+              "part": 9,
+              "url": "https://www.bilibili.com/video/BV1mwHS66EQg/?p=9"
+            }
+          ]
         },
         {
-          "name": "同步视听片段",
+          "name": "复联5相关预告",
           "start": 15604,
-          "end": 15825
-        },
-        {
-          "name": "复仇者联盟4"
+          "end": 15825,
+          "clips": [
+            {
+              "bvid": "BV1mwHS66EQg",
+              "part": 10,
+              "url": "https://www.bilibili.com/video/BV1mwHS66EQg/?p=10"
+            }
+          ]
         }
       ],
       "other": [

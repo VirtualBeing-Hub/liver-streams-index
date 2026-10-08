@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-07T20:00:47.081Z",
+  "generatedAt": "2026-10-08T20:00:47.441Z",
   "sessions": [
+    {
+      "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a",
+      "recordedAt": "2026-10-08 20:05:58",
+      "title": "陪你这个猪过周三！",
+      "complete": true
+    },
     {
       "id": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9",
       "recordedAt": "2026-10-07 20:02:22",
@@ -155,6 +161,28 @@
         "part": 2,
         "url": "https://www.bilibili.com/video/BV1c8H26REoi/?p=2"
       }
+    },
+    {
+      "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a:activity-3",
+      "sessionId": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a",
+      "name": null,
+      "start": 6884,
+      "end": 7274,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a:activity-4",
+      "sessionId": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a",
+      "name": "昨日晴空",
+      "start": 7478.229,
+      "end": 7920,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
     }
   ]
 }

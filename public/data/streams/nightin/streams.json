@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_08_09_59_11",
+    "title": "上工啦！",
+    "date": "2026-10-08",
+    "time": "09:59:11",
+    "startTime": "09:59",
+    "endTime": "11:04",
+    "duration": 3947,
+    "durationStr": "1.1 小时",
+    "srt": "/data/streams/nightin/2026_10_08_09_59_11/录制-24872476-20261008-095911-074-上工啦！.srt",
+    "xml": "/data/streams/nightin/2026_10_08_09_59_11/录制-24872476-20261008-095911-074-上工啦！.xml",
+    "cover": "/data/streams/nightin/2026_10_08_09_59_11/录制-24872476-20261008-095911-074-上工啦！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_08_09_59_11/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_08_09_59_11/录制-24872476-20261008-095911-074-上工啦！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_08_09_59_11/录制-24872476-20261008-095911-074-上工啦！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_06_22_05_27",
     "title": "只波半小时！",
     "date": "2026-10-06",
