@@ -1,5 +1,58 @@
 [
   {
+    "id": "2026_10_09_20_02_58",
+    "title": "谁盐津虾！？",
+    "date": "2026-10-09",
+    "time": "20:02:58",
+    "startTime": "20:02",
+    "endTime": "00:36",
+    "duration": 16459,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/izayoi/2026_10_09_20_02_58/录制-1741667419-20261009-200258-027-谁盐津虾！？_merged.srt",
+    "xml": "/data/streams/izayoi/2026_10_09_20_02_58/录制-1741667419-20261009-200258-027-谁盐津虾！？_merged.xml",
+    "cover": "/data/streams/izayoi/2026_10_09_20_02_58/录制-1741667419-20261009-200258-027-谁盐津虾！？.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_09_20_02_58/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_09_20_02_58/录制-1741667419-20261009-200258-027-谁盐津虾！？_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_09_20_02_58/录制-1741667419-20261009-200258-027-谁盐津虾！？_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_09_14_10_46",
+    "title": "初见银松镇",
+    "date": "2026-10-09",
+    "time": "14:10:46",
+    "startTime": "14:10",
+    "endTime": "16:57",
+    "duration": 10030,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/izayoi/2026_10_09_14_10_46/录制-1741667419-20261009-141046-242-初见银松镇.srt",
+    "xml": "/data/streams/izayoi/2026_10_09_14_10_46/录制-1741667419-20261009-141046-242-初见银松镇.xml",
+    "cover": "/data/streams/izayoi/2026_10_09_14_10_46/录制-1741667419-20261009-141046-242-初见银松镇.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_09_14_10_46/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_09_14_10_46/录制-1741667419-20261009-141046-242-初见银松镇_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_09_14_10_46/录制-1741667419-20261009-141046-242-初见银松镇_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_09_09_02_41",
+    "title": "早茶第104天",
+    "date": "2026-10-09",
+    "time": "09:02:41",
+    "startTime": "09:02",
+    "endTime": "12:08",
+    "duration": 11209,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/izayoi/2026_10_09_09_02_41/录制-1741667419-20261009-090241-617-早茶第104天_merged.srt",
+    "xml": "/data/streams/izayoi/2026_10_09_09_02_41/录制-1741667419-20261009-090241-617-早茶第104天_merged.xml",
+    "cover": "/data/streams/izayoi/2026_10_09_09_02_41/录制-1741667419-20261009-090241-617-早茶第104天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_09_09_02_41/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_09_09_02_41/录制-1741667419-20261009-090241-617-早茶第104天_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_10_07_20_01_19",
     "title": "看看表情包！",
     "date": "2026-10-07",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_09_22_02_34",
+    "title": "鬼武者高手降临！",
+    "date": "2026-10-09",
+    "time": "22:02:34",
+    "startTime": "22:02",
+    "endTime": "02:37",
+    "duration": 16559,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/mitsuri/2026_10_09_22_02_34/录制-1967216004-20261009-220234-542-鬼武者高手降临！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_10_09_22_02_34/录制-1967216004-20261009-220234-542-鬼武者高手降临！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_10_09_22_02_34/录制-1967216004-20261009-220234-542-鬼武者高手降临！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_09_22_02_34/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_09_22_02_34/录制-1967216004-20261009-220234-542-鬼武者高手降临！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_09_22_02_34/录制-1967216004-20261009-220234-542-鬼武者高手降临！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_09_18_38_57",
+    "title": "通勤歌台？",
+    "date": "2026-10-09",
+    "time": "18:38:57",
+    "startTime": "18:38",
+    "endTime": "20:50",
+    "duration": 7922,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/mitsuri/2026_10_09_18_38_57/录制-1967216004-20261009-183857-567-通勤歌台？_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_10_09_18_38_57/录制-1967216004-20261009-183857-567-通勤歌台？_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_10_09_18_38_57/录制-1967216004-20261009-183857-567-通勤歌台？.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_09_18_38_57/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_09_18_38_57/录制-1967216004-20261009-183857-567-通勤歌台？_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_09_18_38_57/录制-1967216004-20261009-183857-567-通勤歌台？_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_07_23_24_55",
     "title": "嘟嘟登场！",
     "date": "2026-10-07",

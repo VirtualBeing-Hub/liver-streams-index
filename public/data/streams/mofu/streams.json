@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_09_22_00_55",
+    "title": "本小狗回来了！",
+    "date": "2026-10-09",
+    "time": "22:00:55",
+    "startTime": "22:00",
+    "endTime": "01:02",
+    "duration": 10920,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/mofu/2026_10_09_22_00_55/录制-1791260716-20261009-220055-115-本小狗回来了！_merged.srt",
+    "xml": "/data/streams/mofu/2026_10_09_22_00_55/录制-1791260716-20261009-220055-115-本小狗回来了！_merged.xml",
+    "cover": "/data/streams/mofu/2026_10_09_22_00_55/录制-1791260716-20261009-220055-115-本小狗回来了！.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_09_22_00_55/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_09_22_00_55/录制-1791260716-20261009-220055-115-本小狗回来了！_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_09_22_00_55/录制-1791260716-20261009-220055-115-本小狗回来了！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_09_15_32_43",
+    "title": "本小狗回来了！",
+    "date": "2026-10-09",
+    "time": "15:32:43",
+    "startTime": "15:32",
+    "endTime": "18:51",
+    "duration": 11980,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mofu/2026_10_09_15_32_43/录制-1791260716-20261009-153243-787-本小狗回来了！.srt",
+    "xml": "/data/streams/mofu/2026_10_09_15_32_43/录制-1791260716-20261009-153243-787-本小狗回来了！.xml",
+    "cover": "/data/streams/mofu/2026_10_09_15_32_43/录制-1791260716-20261009-153243-787-本小狗回来了！.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_09_15_32_43/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_09_15_32_43/录制-1791260716-20261009-153243-787-本小狗回来了！_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_09_15_32_43/录制-1791260716-20261009-153243-787-本小狗回来了！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_08_22_37_30",
     "title": "开心u",
     "date": "2026-10-08",

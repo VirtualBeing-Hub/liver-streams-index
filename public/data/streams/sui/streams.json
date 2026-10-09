@@ -32,7 +32,15 @@
       ],
       "games": [
         {
-          "name": "艾尔登法环"
+          "name": "艾尔登法环",
+          "clips": [
+            {
+              "bvid": "BV1vepx6sEzt",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1vepx6sEzt/?p=1",
+              "title": "艾尔登法环 第16集｜熔炉骑士战斗、熔炉骑士（大矛）战斗 2026-10-08"
+            }
+          ]
         }
       ],
       "watch": [

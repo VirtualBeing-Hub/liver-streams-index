@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_09_20_04_48",
+    "title": "拆炸弹！",
+    "date": "2026-10-09",
+    "time": "20:04:48",
+    "startTime": "20:04",
+    "endTime": "00:42",
+    "duration": 16731,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/kloa/2026_10_09_20_04_48/录制-1986461465-20261009-200448-903-拆炸弹！_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_09_20_04_48/录制-1986461465-20261009-200448-903-拆炸弹！_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_09_20_04_48/录制-1986461465-20261009-200448-903-拆炸弹！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_09_20_04_48/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_09_20_04_48/录制-1986461465-20261009-200448-903-拆炸弹！_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_09_20_04_48/录制-1986461465-20261009-200448-903-拆炸弹！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_09_14_34_54",
+    "title": "边吃午饭边workwork",
+    "date": "2026-10-09",
+    "time": "14:34:54",
+    "startTime": "14:34",
+    "endTime": "17:22",
+    "duration": 10105,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/kloa/2026_10_09_14_34_54/录制-1986461465-20261009-143454-094-边吃午饭边workwork.srt",
+    "xml": "/data/streams/kloa/2026_10_09_14_34_54/录制-1986461465-20261009-143454-094-边吃午饭边workwork.xml",
+    "cover": "/data/streams/kloa/2026_10_09_14_34_54/录制-1986461465-20261009-143454-094-边吃午饭边workwork.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_09_14_34_54/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_09_14_34_54/录制-1986461465-20261009-143454-094-边吃午饭边workwork_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_09_14_34_54/录制-1986461465-20261009-143454-094-边吃午饭边workwork_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_08_21_12_20",
     "title": "雅雅雅雅",
     "date": "2026-10-08",
