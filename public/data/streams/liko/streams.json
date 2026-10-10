@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_10_20_06_22",
+    "title": "玩一下你画我猜",
+    "date": "2026-10-10",
+    "time": "20:06:22",
+    "startTime": "20:06",
+    "endTime": "01:03",
+    "duration": 17834,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/liko/2026_10_10_20_06_22/录制-1713548468-20261010-200622-000-玩一下你画我猜_merged.srt",
+    "xml": "/data/streams/liko/2026_10_10_20_06_22/录制-1713548468-20261010-200622-000-玩一下你画我猜_merged.xml",
+    "cover": "/data/streams/liko/2026_10_10_20_06_22/录制-1713548468-20261010-200622-000-玩一下你画我猜.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_10_20_06_22/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_10_20_06_22/录制-1713548468-20261010-200622-000-玩一下你画我猜_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_10_20_06_22/录制-1713548468-20261010-200622-000-玩一下你画我猜_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_10_11_02_17",
+    "title": "逆转裁判第二弹",
+    "date": "2026-10-10",
+    "time": "11:02:17",
+    "startTime": "11:02",
+    "endTime": "13:27",
+    "duration": 8736,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/liko/2026_10_10_11_02_17/录制-1713548468-20261010-110217-400-逆转裁判第二弹_merged.srt",
+    "xml": "/data/streams/liko/2026_10_10_11_02_17/录制-1713548468-20261010-110217-400-逆转裁判第二弹_merged.xml",
+    "cover": "/data/streams/liko/2026_10_10_11_02_17/录制-1713548468-20261010-110217-400-逆转裁判第二弹.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_10_11_02_17/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_10_11_02_17/录制-1713548468-20261010-110217-400-逆转裁判第二弹_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_10_11_02_17/录制-1713548468-20261010-110217-400-逆转裁判第二弹_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_09_20_10_24",
     "title": "玩一下逆转裁判",
     "date": "2026-10-09",

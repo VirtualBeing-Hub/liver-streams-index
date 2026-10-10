@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-08T20:00:47.441Z",
+  "generatedAt": "2026-10-10T20:00:23.503Z",
   "sessions": [
+    {
+      "id": "1ed74e6bdd4d5f834d5e5df19cf6fbba3adf5dcacfe94d4cae37e6a55eedf5ea",
+      "recordedAt": "2026-10-10 21:03:17",
+      "title": "陪你这个猪过周六！银河护卫队3",
+      "complete": false
+    },
     {
       "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a",
       "recordedAt": "2026-10-08 20:05:58",
@@ -165,13 +171,17 @@
     {
       "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a:activity-3",
       "sessionId": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a",
-      "name": null,
+      "name": "晚婚",
       "start": 6884,
       "end": 7274,
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
-      "clip": null
+      "clip": {
+        "bvid": "BV1Cgpg6dEwf",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1Cgpg6dEwf/?p=1"
+      }
     },
     {
       "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a:activity-4",
@@ -182,7 +192,11 @@
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
-      "clip": null
+      "clip": {
+        "bvid": "BV1Cgpg6dEwf",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1Cgpg6dEwf/?p=2"
+      }
     }
   ]
 }

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_10_11_02_48_54",
+    "title": "纳尼",
+    "date": "2026-10-10",
+    "time": "02:48:54",
+    "startTime": "02:48",
+    "endTime": "03:59",
+    "duration": 4297,
+    "durationStr": "1.2 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_10_11_02_48_54/录制-21452505-20261011-024854-193-纳尼.xml",
+    "cover": "/data/streams/nana7mi/2026_10_11_02_48_54/录制-21452505-20261011-024854-193-纳尼.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_10_22_04_24",
+    "title": "先练级！！！！！！！！！",
+    "date": "2026-10-10",
+    "time": "22:04:24",
+    "startTime": "22:04",
+    "endTime": "02:46",
+    "duration": 16964,
+    "durationStr": "4.7 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_10_10_22_04_24/录制-21452505-20261010-220424-431-先练级！！！！！！！！！.xml",
+    "cover": "/data/streams/nana7mi/2026_10_10_22_04_24/录制-21452505-20261010-220424-431-先练级！！！！！！！！！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_10_03_39_37",
     "title": "MC乌有乡",
     "date": "2026-10-09",
@@ -20,14 +50,17 @@
     "date": "2026-10-09",
     "time": "00:03:14",
     "startTime": "00:03",
-    "endTime": "03:39",
-    "duration": 12968,
-    "durationStr": "3.6 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_10_10_00_03_14/录制-21452505-20261010-000314-443-MC乌有乡.xml",
+    "endTime": "05:08",
+    "duration": 18350,
+    "durationStr": "5.1 小时",
+    "srt": "/data/streams/nana7mi/2026_10_10_00_03_14/录制-21452505-20261010-000314-443-MC乌有乡_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_10_10_00_03_14/录制-21452505-20261010-000314-443-MC乌有乡_merged.xml",
     "cover": "/data/streams/nana7mi/2026_10_10_00_03_14/录制-21452505-20261010-000314-443-MC乌有乡.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_10_10_00_03_14/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_10_00_03_14/录制-21452505-20261010-000314-443-MC乌有乡_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_10_00_03_14/录制-21452505-20261010-000314-443-MC乌有乡_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_07_21_12_51",

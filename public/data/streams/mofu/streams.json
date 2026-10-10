@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_10_21_03_45",
+    "title": "晚上好 今天game锻刀刀",
+    "date": "2026-10-10",
+    "time": "21:03:45",
+    "startTime": "21:03",
+    "endTime": "01:34",
+    "duration": 16299,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/mofu/2026_10_10_21_03_45/录制-1791260716-20261010-210345-476-晚上好 今天game锻刀刀_merged.srt",
+    "xml": "/data/streams/mofu/2026_10_10_21_03_45/录制-1791260716-20261010-210345-476-晚上好 今天game锻刀刀_merged.xml",
+    "cover": "/data/streams/mofu/2026_10_10_21_03_45/录制-1791260716-20261010-210345-476-晚上好 今天game锻刀刀.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_10_21_03_45/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_10_21_03_45/录制-1791260716-20261010-210345-476-晚上好 今天game锻刀刀_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_10_21_03_45/录制-1791260716-20261010-210345-476-晚上好 今天game锻刀刀_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_10_12_03_11",
+    "title": "午台desu",
+    "date": "2026-10-10",
+    "time": "12:03:11",
+    "startTime": "12:03",
+    "endTime": "17:00",
+    "duration": 17852,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/mofu/2026_10_10_12_03_11/录制-1791260716-20261010-120311-583-午台desu.srt",
+    "xml": "/data/streams/mofu/2026_10_10_12_03_11/录制-1791260716-20261010-120311-583-午台desu.xml",
+    "cover": "/data/streams/mofu/2026_10_10_12_03_11/录制-1791260716-20261010-120311-583-午台desu.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_10_12_03_11/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_10_12_03_11/录制-1791260716-20261010-120311-583-午台desu_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_10_12_03_11/录制-1791260716-20261010-120311-583-午台desu_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_09_22_00_55",
     "title": "本小狗回来了！",
     "date": "2026-10-09",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_10_17_02_27",
+    "title": "唱会歌",
+    "date": "2026-10-10",
+    "time": "17:02:27",
+    "startTime": "17:02",
+    "endTime": "01:07",
+    "duration": 29145,
+    "durationStr": "8.1 小时",
+    "srt": "/data/streams/izayoi/2026_10_10_17_02_27/录制-1741667419-20261010-170227-480-继续来看比赛TTG VS LGD_merged.srt",
+    "xml": "/data/streams/izayoi/2026_10_10_17_02_27/录制-1741667419-20261010-170227-480-继续来看比赛TTG VS LGD_merged.xml",
+    "cover": "/data/streams/izayoi/2026_10_10_17_02_27/录制-1741667419-20261010-170227-480-继续来看比赛TTG VS LGD.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_10_17_02_27/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_10_17_02_27/录制-1741667419-20261010-170227-480-继续来看比赛TTG VS LGD_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_10_17_02_27/录制-1741667419-20261010-170227-480-继续来看比赛TTG VS LGD_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_10_09_03_35",
+    "title": "继续探索银松镇",
+    "date": "2026-10-10",
+    "time": "09:03:35",
+    "startTime": "09:03",
+    "endTime": "12:16",
+    "duration": 11633,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/izayoi/2026_10_10_09_03_35/录制-1741667419-20261010-090335-051-继续探索银松镇.srt",
+    "xml": "/data/streams/izayoi/2026_10_10_09_03_35/录制-1741667419-20261010-090335-051-继续探索银松镇.xml",
+    "cover": "/data/streams/izayoi/2026_10_10_09_03_35/录制-1741667419-20261010-090335-051-继续探索银松镇.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_10_09_03_35/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_10_09_03_35/录制-1741667419-20261010-090335-051-继续探索银松镇_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_10_09_03_35/录制-1741667419-20261010-090335-051-继续探索银松镇_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_09_20_02_58",
     "title": "谁盐津虾！？",
     "date": "2026-10-09",

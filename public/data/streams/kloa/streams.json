@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_10_20_03_35",
+    "title": "杂谈~写写周表",
+    "date": "2026-10-10",
+    "time": "20:03:35",
+    "startTime": "20:03",
+    "endTime": "00:08",
+    "duration": 14729,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/kloa/2026_10_10_20_03_35/录制-1986461465-20261010-200335-452-台词回~_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_10_20_03_35/录制-1986461465-20261010-200335-452-台词回~_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_10_20_03_35/录制-1986461465-20261010-200335-452-台词回~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_10_20_03_35/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_10_20_03_35/录制-1986461465-20261010-200335-452-台词回~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_10_20_03_35/录制-1986461465-20261010-200335-452-台词回~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_10_14_02_12",
+    "title": "唱歌歌",
+    "date": "2026-10-10",
+    "time": "14:02:12",
+    "startTime": "14:02",
+    "endTime": "16:55",
+    "duration": 10395,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/kloa/2026_10_10_14_02_12/录制-1986461465-20261010-140212-892-唱歌歌.srt",
+    "xml": "/data/streams/kloa/2026_10_10_14_02_12/录制-1986461465-20261010-140212-892-唱歌歌.xml",
+    "cover": "/data/streams/kloa/2026_10_10_14_02_12/录制-1986461465-20261010-140212-892-唱歌歌.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_10_14_02_12/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_10_14_02_12/录制-1986461465-20261010-140212-892-唱歌歌_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_10_14_02_12/录制-1986461465-20261010-140212-892-唱歌歌_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_09_20_04_48",
     "title": "拆炸弹！",
     "date": "2026-10-09",
