@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_11_20_47_46",
+    "title": "kpl ag加油！！！",
+    "date": "2026-10-11",
+    "time": "20:47:46",
+    "startTime": "20:47",
+    "endTime": "23:23",
+    "duration": 9396,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/nightin/2026_10_11_20_47_46/录制-24872476-20261011-204746-634-kpl ag加油！！！.srt",
+    "xml": "/data/streams/nightin/2026_10_11_20_47_46/录制-24872476-20261011-204746-634-kpl ag加油！！！.xml",
+    "cover": "/data/streams/nightin/2026_10_11_20_47_46/录制-24872476-20261011-204746-634-kpl ag加油！！！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_11_20_47_46/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_11_20_47_46/录制-24872476-20261011-204746-634-kpl ag加油！！！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_11_20_47_46/录制-24872476-20261011-204746-634-kpl ag加油！！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_11_14_08_43",
+    "title": "掌管破烂的神",
+    "date": "2026-10-11",
+    "time": "14:08:43",
+    "startTime": "14:08",
+    "endTime": "16:59",
+    "duration": 10269,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/nightin/2026_10_11_14_08_43/录制-24872476-20261011-140843-541-掌管破烂的神_merged.srt",
+    "xml": "/data/streams/nightin/2026_10_11_14_08_43/录制-24872476-20261011-140843-541-掌管破烂的神_merged.xml",
+    "cover": "/data/streams/nightin/2026_10_11_14_08_43/录制-24872476-20261011-140843-541-掌管破烂的神.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_11_14_08_43/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_11_14_08_43/录制-24872476-20261011-140843-541-掌管破烂的神_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_11_14_08_43/录制-24872476-20261011-140843-541-掌管破烂的神_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_10_20_59_33",
     "title": "看看kpl年度总决赛！",
     "date": "2026-10-10",

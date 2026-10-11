@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026_10_11_20_52_05",
+    "title": "陪你这个猪过周日！",
+    "date": "2026-10-11",
+    "time": "20:52:05",
+    "startTime": "20:52",
+    "endTime": "00:24",
+    "duration": 12741,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/sui/2026_10_11_20_52_05/录制-25788785-20261011-205205-628-陪你这个猪过周日！_merged.srt",
+    "xml": "/data/streams/sui/2026_10_11_20_52_05/录制-25788785-20261011-205205-628-陪你这个猪过周日！_merged.xml",
+    "cover": "/data/streams/sui/2026_10_11_20_52_05/录制-25788785-20261011-205205-628-陪你这个猪过周日！.cover.jpg",
+    "highlights": "/data/streams/sui/2026_10_11_20_52_05/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_10_11_20_52_05/录制-25788785-20261011-205205-628-陪你这个猪过周日！_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_10_11_20_52_05/录制-25788785-20261011-205205-628-陪你这个猪过周日！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、看B站投稿视频、唱歌",
+      "songs": [
+        {
+          "name": "未识别歌名",
+          "start": 12247,
+          "end": 12640
+        }
+      ],
+      "games": [],
+      "watch": [
+        {
+          "name": "同步视听片段",
+          "start": 4145,
+          "end": 11845.88
+        }
+      ],
+      "other": [
+        {
+          "name": "迟到与潮汕牛肉火锅"
+        },
+        {
+          "name": "封面设计与AI工具"
+        },
+        {
+          "name": "辣椒与味觉习惯"
+        },
+        {
+          "name": "寻找失联旧友"
+        },
+        {
+          "name": "普通人的记忆与死亡"
+        },
+        {
+          "name": "投稿视频与主播身高"
+        },
+        {
+          "name": "杜兰特采访与梦小说"
+        },
+        {
+          "name": "直播1500天"
+        }
+      ],
+      "generatedAt": "2026-10-11T16:37:34.009Z"
+    }
+  },
+  {
     "id": "2026_10_10_21_03_17",
     "title": "陪你这个猪过周六！银河护卫队3",
     "date": "2026-10-10",
@@ -22,17 +85,28 @@
       "games": [],
       "watch": [
         {
-          "name": "同步视听片段",
+          "name": "银河护卫队3",
           "start": 3030,
-          "end": 11905
+          "end": 11905,
+          "clips": [
+            {
+              "bvid": "BV1LSpV6dE9k",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1LSpV6dE9k/?p=1"
+            }
+          ]
         },
         {
-          "name": "同步视听片段",
+          "name": "银河护卫队圣诞特辑（片段）",
           "start": 11910,
-          "end": 12448
-        },
-        {
-          "name": "银河护卫队3"
+          "end": 12448,
+          "clips": [
+            {
+              "bvid": "BV1LSpV6dE9k",
+              "part": 7,
+              "url": "https://www.bilibili.com/video/BV1LSpV6dE9k/?p=7"
+            }
+          ]
         }
       ],
       "other": [

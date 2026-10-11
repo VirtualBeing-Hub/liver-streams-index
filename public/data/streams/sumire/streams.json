@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_11_20_59_20",
+    "title": "紫发女路人轻声",
+    "date": "2026-10-11",
+    "time": "20:59:20",
+    "startTime": "20:59",
+    "endTime": "23:29",
+    "duration": 9001,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/sumire/2026_10_11_20_59_20/录制-1727076670-20261011-205920-941-紫发女路人轻声.srt",
+    "xml": "/data/streams/sumire/2026_10_11_20_59_20/录制-1727076670-20261011-205920-941-紫发女路人轻声.xml",
+    "cover": "/data/streams/sumire/2026_10_11_20_59_20/录制-1727076670-20261011-205920-941-紫发女路人轻声.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_10_11_20_59_20/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_11_20_59_20/录制-1727076670-20261011-205920-941-紫发女路人轻声_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_10_11_20_59_20/录制-1727076670-20261011-205920-941-紫发女路人轻声_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_11_13_58_52",
+    "title": "睡午觉",
+    "date": "2026-10-11",
+    "time": "13:58:52",
+    "startTime": "13:58",
+    "endTime": "14:48",
+    "duration": 3007,
+    "durationStr": "0.8 小时",
+    "srt": "/data/streams/sumire/2026_10_11_13_58_52/录制-1727076670-20261011-135852-900-睡午觉_merged.srt",
+    "xml": "/data/streams/sumire/2026_10_11_13_58_52/录制-1727076670-20261011-135852-900-睡午觉_merged.xml",
+    "cover": "/data/streams/sumire/2026_10_11_13_58_52/录制-1727076670-20261011-135852-900-睡午觉.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_10_11_13_58_52/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_11_13_58_52/录制-1727076670-20261011-135852-900-睡午觉_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_10_11_13_58_52/录制-1727076670-20261011-135852-900-睡午觉_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_10_10_02_41",
     "title": "忧郁读书女人",
     "date": "2026-10-10",

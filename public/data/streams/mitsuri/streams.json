@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_11_19_33_30",
+    "title": "鸣潮3.7！",
+    "date": "2026-10-11",
+    "time": "19:33:30",
+    "startTime": "19:33",
+    "endTime": "03:04",
+    "duration": 27119,
+    "durationStr": "7.5 小时",
+    "srt": "/data/streams/mitsuri/2026_10_11_19_33_30/录制-1967216004-20261011-193330-469-鸣潮3.7！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_10_11_19_33_30/录制-1967216004-20261011-193330-469-鸣潮3.7！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_10_11_19_33_30/录制-1967216004-20261011-193330-469-鸣潮3.7！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_11_19_33_30/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_11_19_33_30/录制-1967216004-20261011-193330-469-鸣潮3.7！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_11_19_33_30/录制-1967216004-20261011-193330-469-鸣潮3.7！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_10_19_43_11",
     "title": "嘟嘟地唱！",
     "date": "2026-10-10",
