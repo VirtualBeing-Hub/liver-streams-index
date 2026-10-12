@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_12_21_04_01",
+    "title": "欧耶我要歌杂",
+    "date": "2026-10-12",
+    "time": "21:04:01",
+    "startTime": "21:04",
+    "endTime": "23:51",
+    "duration": 10057,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/mofu/2026_10_12_21_04_01/录制-1791260716-20261012-210401-470-欧耶我要歌杂.srt",
+    "xml": "/data/streams/mofu/2026_10_12_21_04_01/录制-1791260716-20261012-210401-470-欧耶我要歌杂.xml",
+    "cover": "/data/streams/mofu/2026_10_12_21_04_01/录制-1791260716-20261012-210401-470-欧耶我要歌杂.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_12_21_04_01/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_12_21_04_01/录制-1791260716-20261012-210401-470-欧耶我要歌杂_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_12_21_04_01/录制-1791260716-20261012-210401-470-欧耶我要歌杂_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_12_12_02_23",
+    "title": "小狗煮面了zdjd",
+    "date": "2026-10-12",
+    "time": "12:02:23",
+    "startTime": "12:02",
+    "endTime": "14:04",
+    "duration": 7320,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/mofu/2026_10_12_12_02_23/录制-1791260716-20261012-120223-169-小狗煮面了zdjd_merged.srt",
+    "xml": "/data/streams/mofu/2026_10_12_12_02_23/录制-1791260716-20261012-120223-169-小狗煮面了zdjd_merged.xml",
+    "cover": "/data/streams/mofu/2026_10_12_12_02_23/录制-1791260716-20261012-120223-169-小狗煮面了zdjd.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_12_12_02_23/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_12_12_02_23/录制-1791260716-20261012-120223-169-小狗煮面了zdjd_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_12_12_02_23/录制-1791260716-20261012-120223-169-小狗煮面了zdjd_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_11_21_07_23",
     "title": "看看绒绒民的网购实力！！",
     "date": "2026-10-11",

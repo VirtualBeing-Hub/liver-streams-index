@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026_10_12_20_05_05",
+    "title": "画画头像",
+    "date": "2026-10-12",
+    "time": "20:05:05",
+    "startTime": "20:05",
+    "endTime": "23:57",
+    "duration": 13944,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/izayoi/2026_10_12_20_05_05/录制-1741667419-20261012-200505-219-画画头像.srt",
+    "xml": "/data/streams/izayoi/2026_10_12_20_05_05/录制-1741667419-20261012-200505-219-画画头像.xml",
+    "cover": "/data/streams/izayoi/2026_10_12_20_05_05/录制-1741667419-20261012-200505-219-画画头像.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_12_20_05_05/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_12_20_05_05/录制-1741667419-20261012-200505-219-画画头像_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_12_20_05_05/录制-1741667419-20261012-200505-219-画画头像_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_12_15_01_22",
+    "title": "银松镇启动！",
+    "date": "2026-10-12",
+    "time": "15:01:22",
+    "startTime": "15:01",
+    "endTime": "17:44",
+    "duration": 9800,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/izayoi/2026_10_12_15_01_22/录制-1741667419-20261012-150122-612-银松镇启动！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_10_12_15_01_22/录制-1741667419-20261012-150122-612-银松镇启动！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_10_12_15_01_22/录制-1741667419-20261012-150122-612-银松镇启动！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_12_15_01_22/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_12_15_01_22/录制-1741667419-20261012-150122-612-银松镇启动！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_12_15_01_22/录制-1741667419-20261012-150122-612-银松镇启动！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_12_09_04_22",
+    "title": "早茶第106天",
+    "date": "2026-10-12",
+    "time": "09:04:22",
+    "startTime": "09:04",
+    "endTime": "12:22",
+    "duration": 11893,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/izayoi/2026_10_12_09_04_22/录制-1741667419-20261012-090422-535-早茶第106天.srt",
+    "xml": "/data/streams/izayoi/2026_10_12_09_04_22/录制-1741667419-20261012-090422-535-早茶第106天.xml",
+    "cover": "/data/streams/izayoi/2026_10_12_09_04_22/录制-1741667419-20261012-090422-535-早茶第106天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_12_09_04_22/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_12_09_04_22/录制-1741667419-20261012-090422-535-早茶第106天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_12_09_04_22/录制-1741667419-20261012-090422-535-早茶第106天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_11_17_02_38",
     "title": "继续看看比赛",
     "date": "2026-10-11",

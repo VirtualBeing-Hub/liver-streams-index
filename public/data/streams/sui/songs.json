@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-11T20:00:19.118Z",
+  "generatedAt": "2026-10-12T20:00:21.921Z",
   "sessions": [
+    {
+      "id": "327a60508778cc01a09def5a54e8b825e7e68347b3ed673712adcd6d5038988a",
+      "recordedAt": "2026-10-12 20:03:05",
+      "title": "陪你这个猪过周一！唱唱聊聊_merged",
+      "complete": true
+    },
     {
       "id": "1981c882decace8bf8d5f717dfa40f1ede10131e68ebf9b988d32dc581400f3d",
       "recordedAt": "2026-10-11 20:52:05",
@@ -210,6 +216,28 @@
       "name": null,
       "start": 12247,
       "end": 12640,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "327a60508778cc01a09def5a54e8b825e7e68347b3ed673712adcd6d5038988a:activity-1",
+      "sessionId": "327a60508778cc01a09def5a54e8b825e7e68347b3ed673712adcd6d5038988a",
+      "name": null,
+      "start": 6095,
+      "end": 6353,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "327a60508778cc01a09def5a54e8b825e7e68347b3ed673712adcd6d5038988a:activity-2",
+      "sessionId": "327a60508778cc01a09def5a54e8b825e7e68347b3ed673712adcd6d5038988a",
+      "name": null,
+      "start": 6476,
+      "end": 6893,
       "performance": "fragment",
       "confirmed": false,
       "boundariesConfirmed": false,

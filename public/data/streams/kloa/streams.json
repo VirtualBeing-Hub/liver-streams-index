@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_12_20_02_26",
+    "title": "ForgeTax-我要敲敲敲敲",
+    "date": "2026-10-12",
+    "time": "20:02:26",
+    "startTime": "20:02",
+    "endTime": "23:40",
+    "duration": 13127,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/kloa/2026_10_12_20_02_26/录制-1986461465-20261012-200226-352-ForgeTax-我要敲敲敲敲.srt",
+    "xml": "/data/streams/kloa/2026_10_12_20_02_26/录制-1986461465-20261012-200226-352-ForgeTax-我要敲敲敲敲.xml",
+    "cover": "/data/streams/kloa/2026_10_12_20_02_26/录制-1986461465-20261012-200226-352-ForgeTax-我要敲敲敲敲.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_12_20_02_26/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_12_20_02_26/录制-1986461465-20261012-200226-352-ForgeTax-我要敲敲敲敲_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_12_20_02_26/录制-1986461465-20261012-200226-352-ForgeTax-我要敲敲敲敲_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_12_09_03_01",
+    "title": "学歌~",
+    "date": "2026-10-12",
+    "time": "09:03:01",
+    "startTime": "09:03",
+    "endTime": "12:37",
+    "duration": 12879,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/kloa/2026_10_12_09_03_01/录制-1986461465-20261012-090301-510-学歌~.srt",
+    "xml": "/data/streams/kloa/2026_10_12_09_03_01/录制-1986461465-20261012-090301-510-学歌~.xml",
+    "cover": "/data/streams/kloa/2026_10_12_09_03_01/录制-1986461465-20261012-090301-510-学歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_12_09_03_01/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_12_09_03_01/录制-1986461465-20261012-090301-510-学歌~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_12_09_03_01/录制-1986461465-20261012-090301-510-学歌~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_11_20_02_30",
     "title": "旅行团子~",
     "date": "2026-10-11",
