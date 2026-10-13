@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_13_20_02_34",
+    "title": "终极雀圣登基",
+    "date": "2026-10-13",
+    "time": "20:02:34",
+    "startTime": "20:02",
+    "endTime": "22:40",
+    "duration": 9538,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/nightin/2026_10_13_20_02_34/录制-24872476-20261013-200234-774-终极雀圣登基.srt",
+    "xml": "/data/streams/nightin/2026_10_13_20_02_34/录制-24872476-20261013-200234-774-终极雀圣登基.xml",
+    "cover": "/data/streams/nightin/2026_10_13_20_02_34/录制-24872476-20261013-200234-774-终极雀圣登基.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_13_20_02_34/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_13_20_02_34/录制-24872476-20261013-200234-774-终极雀圣登基_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_13_20_02_34/录制-24872476-20261013-200234-774-终极雀圣登基_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_13_14_08_28",
+    "title": "小众宝藏直播间",
+    "date": "2026-10-13",
+    "time": "14:08:28",
+    "startTime": "14:08",
+    "endTime": "17:45",
+    "duration": 13036,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/nightin/2026_10_13_14_08_28/录制-24872476-20261013-140828-104-小众宝藏直播间_merged.srt",
+    "xml": "/data/streams/nightin/2026_10_13_14_08_28/录制-24872476-20261013-140828-104-小众宝藏直播间_merged.xml",
+    "cover": "/data/streams/nightin/2026_10_13_14_08_28/录制-24872476-20261013-140828-104-小众宝藏直播间.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_13_14_08_28/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_13_14_08_28/录制-24872476-20261013-140828-104-小众宝藏直播间_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_13_14_08_28/录制-24872476-20261013-140828-104-小众宝藏直播间_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_12_19_02_23",
     "title": "yoyoyo晚上好",
     "date": "2026-10-12",

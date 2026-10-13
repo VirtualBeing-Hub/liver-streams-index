@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-12T20:00:21.921Z",
+  "generatedAt": "2026-10-13T20:00:23.223Z",
   "sessions": [
+    {
+      "id": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8",
+      "recordedAt": "2026-10-13 20:33:18",
+      "title": "陪你这个猪过周二！唱唱聊聊",
+      "complete": true
+    },
     {
       "id": "327a60508778cc01a09def5a54e8b825e7e68347b3ed673712adcd6d5038988a",
       "recordedAt": "2026-10-12 20:03:05",
@@ -224,24 +230,62 @@
     {
       "id": "327a60508778cc01a09def5a54e8b825e7e68347b3ed673712adcd6d5038988a:activity-1",
       "sessionId": "327a60508778cc01a09def5a54e8b825e7e68347b3ed673712adcd6d5038988a",
-      "name": null,
-      "start": 6095,
-      "end": 6353,
-      "performance": "fragment",
-      "confirmed": false,
-      "boundariesConfirmed": false,
-      "clip": null
+      "name": "屑屑",
+      "start": 6087,
+      "end": 6447,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1VEWc6pERT",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1VEWc6pERT/?p=1"
+      }
     },
     {
       "id": "327a60508778cc01a09def5a54e8b825e7e68347b3ed673712adcd6d5038988a:activity-2",
       "sessionId": "327a60508778cc01a09def5a54e8b825e7e68347b3ed673712adcd6d5038988a",
-      "name": null,
-      "start": 6476,
-      "end": 6893,
-      "performance": "fragment",
-      "confirmed": false,
-      "boundariesConfirmed": false,
-      "clip": null
+      "name": "恋爱困难少女",
+      "start": 6572,
+      "end": 6940,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1VEWc6pERT",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1VEWc6pERT/?p=2"
+      }
+    },
+    {
+      "id": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8:activity-1",
+      "sessionId": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8",
+      "name": "One more time, One more chance",
+      "start": 4659,
+      "end": 5035,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1WWpr67End",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1WWpr67End/?p=1"
+      }
+    },
+    {
+      "id": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8:activity-2",
+      "sessionId": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8",
+      "name": "刻在我心底的名字",
+      "start": 5246.7,
+      "end": 5601,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1WWpr67End",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1WWpr67End/?p=2"
+      }
     }
   ]
 }

@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026_10_13_20_33_18",
+    "title": "陪你这个猪过周二！唱唱聊聊",
+    "date": "2026-10-13",
+    "time": "20:33:18",
+    "startTime": "20:33",
+    "endTime": "23:23",
+    "duration": 10202,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/sui/2026_10_13_20_33_18/录制-25788785-20261013-203318-609-陪你这个猪过周二！唱唱聊聊.srt",
+    "xml": "/data/streams/sui/2026_10_13_20_33_18/录制-25788785-20261013-203318-609-陪你这个猪过周二！唱唱聊聊.xml",
+    "cover": "/data/streams/sui/2026_10_13_20_33_18/录制-25788785-20261013-203318-609-陪你这个猪过周二！唱唱聊聊.cover.jpg",
+    "highlights": "/data/streams/sui/2026_10_13_20_33_18/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_10_13_20_33_18/录制-25788785-20261013-203318-609-陪你这个猪过周二！唱唱聊聊_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_10_13_20_33_18/录制-25788785-20261013-203318-609-陪你这个猪过周二！唱唱聊聊_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、回应争议、演唱歌曲，并观看《咒术回战》片段",
+      "songs": [
+        {
+          "name": "One more time, One more chance",
+          "start": 4659,
+          "end": 5035,
+          "clips": [
+            {
+              "bvid": "BV1WWpr67End",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1WWpr67End/?p=1"
+            }
+          ]
+        },
+        {
+          "name": "刻在我心底的名字",
+          "start": 5246.7,
+          "end": 5601,
+          "clips": [
+            {
+              "bvid": "BV1WWpr67End",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1WWpr67End/?p=2"
+            }
+          ]
+        }
+      ],
+      "games": [],
+      "watch": [
+        {
+          "name": "咒术回战",
+          "start": 6049,
+          "end": 6253
+        }
+      ],
+      "other": [
+        {
+          "name": "恋爱传闻与信任"
+        },
+        {
+          "name": "明日线下见面的紧张"
+        },
+        {
+          "name": "洗发露兑水趣事"
+        },
+        {
+          "name": "出师表与成语读音"
+        },
+        {
+          "name": "动画作品评价"
+        },
+        {
+          "name": "童年动画与偶像剧"
+        },
+        {
+          "name": "电梯内遇到吸烟者"
+        },
+        {
+          "name": "乘机与收拾行李"
+        },
+        {
+          "name": "深夜外卖选择"
+        }
+      ],
+      "generatedAt": "2026-10-13T15:33:24.295Z"
+    }
+  },
+  {
     "id": "2026_10_12_20_03_05",
     "title": "陪你这个猪过周一！唱唱聊聊",
     "date": "2026-10-12",
@@ -20,14 +105,28 @@
       "overview": "杂谈、唱歌并观看B站视频，聊美甲、投资、游戏和生活话题。",
       "songs": [
         {
-          "name": "未识别歌名",
-          "start": 6095,
-          "end": 6353
+          "name": "屑屑",
+          "start": 6087,
+          "end": 6447,
+          "clips": [
+            {
+              "bvid": "BV1VEWc6pERT",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1VEWc6pERT/?p=1"
+            }
+          ]
         },
         {
-          "name": "未识别歌名",
-          "start": 6476,
-          "end": 6893
+          "name": "恋爱困难少女",
+          "start": 6572,
+          "end": 6940,
+          "clips": [
+            {
+              "bvid": "BV1VEWc6pERT",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1VEWc6pERT/?p=2"
+            }
+          ]
         }
       ],
       "games": [],

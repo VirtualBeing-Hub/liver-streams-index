@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_13_21_02_39",
+    "title": "嘟嘟逼人",
+    "date": "2026-10-13",
+    "time": "21:02:39",
+    "startTime": "21:02",
+    "endTime": "23:10",
+    "duration": 7722,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/sumire/2026_10_13_21_02_39/录制-1727076670-20261013-210239-925-嘟嘟逼人.srt",
+    "xml": "/data/streams/sumire/2026_10_13_21_02_39/录制-1727076670-20261013-210239-925-嘟嘟逼人.xml",
+    "cover": "/data/streams/sumire/2026_10_13_21_02_39/录制-1727076670-20261013-210239-925-嘟嘟逼人.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_10_13_21_02_39/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_13_21_02_39/录制-1727076670-20261013-210239-925-嘟嘟逼人_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_10_13_21_02_39/录制-1727076670-20261013-210239-925-嘟嘟逼人_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_13_08_04_32",
+    "title": "山间鸟鸣",
+    "date": "2026-10-13",
+    "time": "08:04:32",
+    "startTime": "08:04",
+    "endTime": "08:18",
+    "duration": 842,
+    "durationStr": "0.2 小时",
+    "srt": "/data/streams/sumire/2026_10_13_08_04_32/录制-1727076670-20261013-080432-551-山间鸟鸣.srt",
+    "xml": "/data/streams/sumire/2026_10_13_08_04_32/录制-1727076670-20261013-080432-551-山间鸟鸣.xml",
+    "cover": "/data/streams/sumire/2026_10_13_08_04_32/录制-1727076670-20261013-080432-551-山间鸟鸣.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_10_13_08_04_32/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_13_08_04_32/录制-1727076670-20261013-080432-551-山间鸟鸣_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_10_13_08_04_32/录制-1727076670-20261013-080432-551-山间鸟鸣_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_11_20_59_20",
     "title": "紫发女路人轻声",
     "date": "2026-10-11",

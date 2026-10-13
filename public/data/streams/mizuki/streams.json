@@ -1,5 +1,106 @@
 [
   {
+    "id": "2026_10_13_23_04_56",
+    "title": "出门day0⭐",
+    "date": "2026-10-13",
+    "time": "23:04:56",
+    "startTime": "23:04",
+    "endTime": "00:17",
+    "duration": 4380,
+    "durationStr": "1.2 小时",
+    "srt": "/data/streams/mizuki/2026_10_13_23_04_56/录制-30655190-20261013-230456-239-出门day0⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_10_13_23_04_56/录制-30655190-20261013-230456-239-出门day0⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_10_13_23_04_56/录制-30655190-20261013-230456-239-出门day0⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_13_23_04_56/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_13_23_04_56/录制-30655190-20261013-230456-239-出门day0⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_13_23_04_56/录制-30655190-20261013-230456-239-出门day0⭐_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "直播间闲聊猫咪、出行和舰长礼物，唱歌并游玩《原神》。",
+      "songs": [],
+      "games": [
+        {
+          "name": "原神"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "猫神和娜娜"
+        },
+        {
+          "name": "螺蛳粉与忆苦思甜"
+        },
+        {
+          "name": "上海见朋友"
+        },
+        {
+          "name": "舰长礼物"
+        },
+        {
+          "name": "折叠屏与原神"
+        }
+      ],
+      "generatedAt": "2026-10-13T16:27:31.249Z"
+    }
+  },
+  {
+    "id": "2026_10_13_15_02_19",
+    "title": "出门day0⭐",
+    "date": "2026-10-13",
+    "time": "15:02:19",
+    "startTime": "15:02",
+    "endTime": "18:13",
+    "duration": 11476,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/mizuki/2026_10_13_15_02_19/录制-30655190-20261013-150219-800-【歌】最后一电脑播⭐.srt",
+    "xml": "/data/streams/mizuki/2026_10_13_15_02_19/录制-30655190-20261013-150219-800-【歌】最后一电脑播⭐.xml",
+    "cover": "/data/streams/mizuki/2026_10_13_15_02_19/录制-30655190-20261013-150219-800-【歌】最后一电脑播⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_13_15_02_19/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_13_15_02_19/录制-30655190-20261013-150219-800-【歌】最后一电脑播⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_13_15_02_19/录制-30655190-20261013-150219-800-【歌】最后一电脑播⭐_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈上海出行、CS集锦和收益风险话题，并持续唱歌互动。",
+      "songs": [
+        {
+          "name": "江南"
+        },
+        {
+          "name": "带我走"
+        },
+        {
+          "name": "老派约会之必要"
+        },
+        {
+          "name": "狐狸精"
+        },
+        {
+          "name": "Stay with Me"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "CS集锦与蜘蛛感应"
+        },
+        {
+          "name": "上海出行与穿衣"
+        },
+        {
+          "name": "收益与风险"
+        },
+        {
+          "name": "歌回互动"
+        }
+      ],
+      "generatedAt": "2026-10-13T10:23:03.145Z"
+    }
+  },
+  {
     "id": "2026_10_12_21_02_33",
     "title": "【歌杂】这次对的这次对的⭐",
     "date": "2026-10-12",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_13_20_14_29",
+    "title": "唱歌歌！",
+    "date": "2026-10-13",
+    "time": "20:14:29",
+    "startTime": "20:14",
+    "endTime": "00:33",
+    "duration": 15591,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/kloa/2026_10_13_20_14_29/录制-1986461465-20261013-201429-784-唱歌歌！.srt",
+    "xml": "/data/streams/kloa/2026_10_13_20_14_29/录制-1986461465-20261013-201429-784-唱歌歌！.xml",
+    "cover": "/data/streams/kloa/2026_10_13_20_14_29/录制-1986461465-20261013-201429-784-唱歌歌！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_13_20_14_29/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_13_20_14_29/录制-1986461465-20261013-201429-784-唱歌歌！_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_13_20_14_29/录制-1986461465-20261013-201429-784-唱歌歌！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_13_13_05_07",
+    "title": "健身环~",
+    "date": "2026-10-13",
+    "time": "13:05:07",
+    "startTime": "13:05",
+    "endTime": "15:09",
+    "duration": 7495,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/kloa/2026_10_13_13_05_07/录制-1986461465-20261013-130507-133-健身环~_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_13_13_05_07/录制-1986461465-20261013-130507-133-健身环~_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_13_13_05_07/录制-1986461465-20261013-130507-133-健身环~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_13_13_05_07/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_13_13_05_07/录制-1986461465-20261013-130507-133-健身环~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_13_13_05_07/录制-1986461465-20261013-130507-133-健身环~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_12_20_02_26",
     "title": "ForgeTax-我要敲敲敲敲",
     "date": "2026-10-12",
