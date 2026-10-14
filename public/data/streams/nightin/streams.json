@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_14_20_11_48",
+    "title": "看看kpl年度总决赛！",
+    "date": "2026-10-14",
+    "time": "20:11:48",
+    "startTime": "20:11",
+    "endTime": "00:45",
+    "duration": 16485,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/nightin/2026_10_14_20_11_48/录制-24872476-20261014-201148-679-看看kpl年度总决赛！.srt",
+    "xml": "/data/streams/nightin/2026_10_14_20_11_48/录制-24872476-20261014-201148-679-看看kpl年度总决赛！.xml",
+    "cover": "/data/streams/nightin/2026_10_14_20_11_48/录制-24872476-20261014-201148-679-看看kpl年度总决赛！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_14_20_11_48/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_14_20_11_48/录制-24872476-20261014-201148-679-看看kpl年度总决赛！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_14_20_11_48/录制-24872476-20261014-201148-679-看看kpl年度总决赛！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_14_14_08_33",
+    "title": "小众宝藏直播间",
+    "date": "2026-10-14",
+    "time": "14:08:33",
+    "startTime": "14:08",
+    "endTime": "19:31",
+    "duration": 19397,
+    "durationStr": "5.4 小时",
+    "srt": "/data/streams/nightin/2026_10_14_14_08_33/录制-24872476-20261014-140833-970-小众宝藏直播间.srt",
+    "xml": "/data/streams/nightin/2026_10_14_14_08_33/录制-24872476-20261014-140833-970-小众宝藏直播间.xml",
+    "cover": "/data/streams/nightin/2026_10_14_14_08_33/录制-24872476-20261014-140833-970-小众宝藏直播间.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_14_14_08_33/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_14_14_08_33/录制-24872476-20261014-140833-970-小众宝藏直播间_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_14_14_08_33/录制-24872476-20261014-140833-970-小众宝藏直播间_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_13_20_02_34",
     "title": "终极雀圣登基",
     "date": "2026-10-13",

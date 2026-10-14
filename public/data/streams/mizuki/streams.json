@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026_10_14_23_14_34",
+    "title": "晚上好大家day1⭐",
+    "date": "2026-10-14",
+    "time": "23:14:34",
+    "startTime": "23:14",
+    "endTime": "00:30",
+    "duration": 4584,
+    "durationStr": "1.3 小时",
+    "srt": "/data/streams/mizuki/2026_10_14_23_14_34/录制-30655190-20261014-231434-753-晚上好大家day1⭐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_10_14_23_14_34/录制-30655190-20261014-231434-753-晚上好大家day1⭐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_10_14_23_14_34/录制-30655190-20261014-231434-753-晚上好大家day1⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_14_23_14_34/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_14_23_14_34/录制-30655190-20261014-231434-753-晚上好大家day1⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_14_23_14_34/录制-30655190-20261014-231434-753-晚上好大家day1⭐_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "直播中闲聊住宿安排和明日见面，也参与了赛事预测竞猜。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "三人住宿与被子"
+        },
+        {
+          "name": "明天见新朋友"
+        },
+        {
+          "name": "竞猜支持哪边"
+        },
+        {
+          "name": "睡眠与行程"
+        }
+      ],
+      "generatedAt": "2026-10-14T16:37:44.226Z"
+    }
+  },
+  {
     "id": "2026_10_13_23_04_56",
     "title": "出门day0⭐",
     "date": "2026-10-13",
