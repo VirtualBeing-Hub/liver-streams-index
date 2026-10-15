@@ -1,7 +1,62 @@
 [
   {
+    "id": "2026_10_15_23_03_14",
+    "title": "今天其实没干啥day2⭐",
+    "date": "2026-10-15",
+    "time": "23:03:14",
+    "startTime": "23:03",
+    "endTime": "00:05",
+    "duration": 3742,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/mizuki/2026_10_15_23_03_14/录制-30655190-20261015-230314-224-今天其实没干啥day2⭐.srt",
+    "xml": "/data/streams/mizuki/2026_10_15_23_03_14/录制-30655190-20261015-230314-224-今天其实没干啥day2⭐.xml",
+    "cover": "/data/streams/mizuki/2026_10_15_23_03_14/录制-30655190-20261015-230314-224-今天其实没干啥day2⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_15_23_03_14/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_15_23_03_14/录制-30655190-20261015-230314-224-今天其实没干啥day2⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_15_23_03_14/录制-30655190-20261015-230314-224-今天其实没干啥day2⭐_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "聚会闲聊身高、礼物与化妆，也聊到并游玩游戏。",
+      "songs": [],
+      "games": [
+        {
+          "name": "原神"
+        },
+        {
+          "name": "马里奥派对"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "朋友聚会与过夜"
+        },
+        {
+          "name": "身高比较"
+        },
+        {
+          "name": "互送礼物"
+        },
+        {
+          "name": "网吧玩原神"
+        },
+        {
+          "name": "Steam账号安全"
+        },
+        {
+          "name": "化妆与素颜"
+        },
+        {
+          "name": "掰手腕"
+        }
+      ],
+      "generatedAt": "2026-10-15T16:58:23.597Z"
+    }
+  },
+  {
     "id": "2026_10_14_23_14_34",
-    "title": "晚上好大家day1⭐",
+    "title": "今天其实没干啥day2⭐",
     "date": "2026-10-14",
     "time": "23:14:34",
     "startTime": "23:14",

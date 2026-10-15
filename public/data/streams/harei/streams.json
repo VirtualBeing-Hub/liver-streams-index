@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_15_23_44_42",
+    "title": "稍微播一下鼠^^",
+    "date": "2026-10-15",
+    "time": "23:44:42",
+    "startTime": "23:44",
+    "endTime": "00:35",
+    "duration": 3081,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/harei/2026_10_15_23_44_42/录制-1820703922-20261015-234442-977-稍微播一下鼠^^_merged.srt",
+    "xml": "/data/streams/harei/2026_10_15_23_44_42/录制-1820703922-20261015-234442-977-稍微播一下鼠^^_merged.xml",
+    "cover": "/data/streams/harei/2026_10_15_23_44_42/录制-1820703922-20261015-234442-977-稍微播一下鼠^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_10_15_23_44_42/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_15_23_44_42/录制-1820703922-20261015-234442-977-稍微播一下鼠^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_15_23_44_42/录制-1820703922-20261015-234442-977-稍微播一下鼠^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_15_10_00_35",
+    "title": "稍微播一下鼠^^",
+    "date": "2026-10-15",
+    "time": "10:00:35",
+    "startTime": "10:00",
+    "endTime": "12:21",
+    "duration": 8514,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/harei/2026_10_15_10_00_35/录制-1820703922-20261015-100035-723-悠闲小鼠早台^^.srt",
+    "xml": "/data/streams/harei/2026_10_15_10_00_35/录制-1820703922-20261015-100035-723-悠闲小鼠早台^^.xml",
+    "cover": "/data/streams/harei/2026_10_15_10_00_35/录制-1820703922-20261015-100035-723-悠闲小鼠早台^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_10_15_10_00_35/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_15_10_00_35/录制-1820703922-20261015-100035-723-悠闲小鼠早台^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_15_10_00_35/录制-1820703922-20261015-100035-723-悠闲小鼠早台^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_14_20_07_20",
     "title": "悠闲听歌^^",
     "date": "2026-10-14",
