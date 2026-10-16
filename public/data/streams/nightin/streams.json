@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_16_18_04_54",
+    "title": "看看kpl年度总决赛！",
+    "date": "2026-10-16",
+    "time": "18:04:54",
+    "startTime": "18:04",
+    "endTime": "22:24",
+    "duration": 15604,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/nightin/2026_10_16_18_04_54/录制-24872476-20261016-180454-726-背感疼痛_merged.srt",
+    "xml": "/data/streams/nightin/2026_10_16_18_04_54/录制-24872476-20261016-180454-726-背感疼痛_merged.xml",
+    "cover": "/data/streams/nightin/2026_10_16_18_04_54/录制-24872476-20261016-180454-726-背感疼痛.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_16_18_04_54/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_16_18_04_54/录制-24872476-20261016-180454-726-背感疼痛_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_16_18_04_54/录制-24872476-20261016-180454-726-背感疼痛_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_16_08_05_23",
+    "title": "小众宝藏直播间",
+    "date": "2026-10-16",
+    "time": "08:05:23",
+    "startTime": "08:05",
+    "endTime": "10:03",
+    "duration": 7125,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/nightin/2026_10_16_08_05_23/录制-24872476-20261016-080523-401-小众宝藏直播间.srt",
+    "xml": "/data/streams/nightin/2026_10_16_08_05_23/录制-24872476-20261016-080523-401-小众宝藏直播间.xml",
+    "cover": "/data/streams/nightin/2026_10_16_08_05_23/录制-24872476-20261016-080523-401-小众宝藏直播间.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_16_08_05_23/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_16_08_05_23/录制-24872476-20261016-080523-401-小众宝藏直播间_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_16_08_05_23/录制-24872476-20261016-080523-401-小众宝藏直播间_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_15_14_08_42",
     "title": "看看kpl年度总决赛！",
     "date": "2026-10-15",

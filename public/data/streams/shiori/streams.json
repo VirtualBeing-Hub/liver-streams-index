@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026_10_16_19_59_43",
+    "title": "栞栞生日3D Live",
+    "date": "2026-10-16",
+    "time": "19:59:43",
+    "startTime": "19:59",
+    "endTime": "22:35",
+    "duration": 9388,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/shiori/2026_10_16_19_59_43/录制-26966466-20261016-195943-018-栞栞生日3D Live.srt",
+    "xml": "/data/streams/shiori/2026_10_16_19_59_43/录制-26966466-20261016-195943-018-栞栞生日3D Live.xml",
+    "cover": "/data/streams/shiori/2026_10_16_19_59_43/录制-26966466-20261016-195943-018-栞栞生日3D Live.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_10_16_19_59_43/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_10_16_19_59_43/录制-26966466-20261016-195943-018-栞栞生日3D Live_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_10_16_19_59_43/录制-26966466-20261016-195943-018-栞栞生日3D Live_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "栞栞生日3D Live：唱歌跳舞、与嘉宾互动猜歌模仿，切蛋糕并分享生日感言。",
+      "songs": [
+        {
+          "name": "まさゆめCHASING"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "3D服装与礼物"
+        },
+        {
+          "name": "嘉宾猜歌和动作模仿"
+        },
+        {
+          "name": "生日蛋糕与生日愿望"
+        },
+        {
+          "name": "生日感言与感谢粉丝"
+        },
+        {
+          "name": "与岁己、弥月同台表演"
+        }
+      ],
+      "generatedAt": "2026-10-16T15:34:42.577Z"
+    }
+  },
+  {
     "id": "2026_10_15_23_03_04",
     "title": "嘿嘿过生日开心！",
     "date": "2026-10-15",

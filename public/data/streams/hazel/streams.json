@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_16_18_44_55",
+    "title": "周五夜晚 随便看看",
+    "date": "2026-10-16",
+    "time": "18:44:55",
+    "startTime": "18:44",
+    "endTime": "21:56",
+    "duration": 11552,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/hazel/2026_10_16_18_44_55/录制-1713546334-20261016-184455-527-周五夜晚 随便看看_merged.srt",
+    "xml": "/data/streams/hazel/2026_10_16_18_44_55/录制-1713546334-20261016-184455-527-周五夜晚 随便看看_merged.xml",
+    "cover": "/data/streams/hazel/2026_10_16_18_44_55/录制-1713546334-20261016-184455-527-周五夜晚 随便看看.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_10_16_18_44_55/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_10_16_18_44_55/录制-1713546334-20261016-184455-527-周五夜晚 随便看看_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_10_16_18_44_55/录制-1713546334-20261016-184455-527-周五夜晚 随便看看_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_13_21_34_48",
     "title": "随便聊聊",
     "date": "2026-10-13",

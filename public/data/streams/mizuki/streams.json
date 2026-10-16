@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026_10_16_17_33_11",
+    "title": "演出前见面day3⭐",
+    "date": "2026-10-16",
+    "time": "17:33:11",
+    "startTime": "17:33",
+    "endTime": "18:10",
+    "duration": 2230,
+    "durationStr": "0.6 小时",
+    "srt": "/data/streams/mizuki/2026_10_16_17_33_11/录制-30655190-20261016-173311-568-演出前见面day3⭐.srt",
+    "xml": "/data/streams/mizuki/2026_10_16_17_33_11/录制-30655190-20261016-173311-568-演出前见面day3⭐.xml",
+    "cover": "/data/streams/mizuki/2026_10_16_17_33_11/录制-30655190-20261016-173311-568-演出前见面day3⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_16_17_33_11/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_16_17_33_11/录制-30655190-20261016-173311-568-演出前见面day3⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_16_17_33_11/录制-30655190-20261016-173311-568-演出前见面day3⭐_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "彩排日抽空开播聊天，唱了几句，也聊到晚间演出安排。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "彩排与演出安排"
+        },
+        {
+          "name": "弹幕机卡顿"
+        },
+        {
+          "name": "折叠屏与游戏话题"
+        },
+        {
+          "name": "277集合"
+        }
+      ],
+      "generatedAt": "2026-10-16T10:16:55.532Z"
+    }
+  },
+  {
     "id": "2026_10_15_23_03_14",
     "title": "今天其实没干啥day2⭐",
     "date": "2026-10-15",

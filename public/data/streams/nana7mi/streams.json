@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_16_19_04_31",
+    "title": "娜米动物园",
+    "date": "2026-10-16",
+    "time": "19:04:31",
+    "startTime": "19:04",
+    "endTime": "02:47",
+    "duration": 27812,
+    "durationStr": "7.7 小时",
+    "srt": "/data/streams/nana7mi/2026_10_16_19_04_31/录制-21452505-20261016-190431-738-猴子拆弹第二回_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_10_16_19_04_31/录制-21452505-20261016-190431-738-猴子拆弹第二回_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_10_16_19_04_31/录制-21452505-20261016-190431-738-猴子拆弹第二回.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_16_19_04_31/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_16_19_04_31/录制-21452505-20261016-190431-738-猴子拆弹第二回_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_16_19_04_31/录制-21452505-20261016-190431-738-猴子拆弹第二回_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_15_18_46_28",
     "title": "冰火盛典 天猫双11Aldol直播盛典",
     "date": "2026-10-15",
