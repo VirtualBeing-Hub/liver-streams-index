@@ -5,14 +5,17 @@
     "date": "2026-10-16",
     "time": "01:56:47",
     "startTime": "01:56",
-    "endTime": "03:58",
-    "duration": 7353,
-    "durationStr": "2.0 小时",
-    "srt": null,
-    "xml": "/data/streams/michiya/2026_10_17_01_56_47/录制-27628030-20261017-015647-867-lpl老资历？中资历！往里进往里进！.xml",
+    "endTime": "04:33",
+    "duration": 9461,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/michiya/2026_10_17_01_56_47/录制-27628030-20261017-015647-867-lpl老资历？中资历！往里进往里进！_merged.srt",
+    "xml": "/data/streams/michiya/2026_10_17_01_56_47/录制-27628030-20261017-015647-867-lpl老资历？中资历！往里进往里进！_merged.xml",
     "cover": "/data/streams/michiya/2026_10_17_01_56_47/录制-27628030-20261017-015647-867-lpl老资历？中资历！往里进往里进！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/michiya/2026_10_17_01_56_47/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_10_17_01_56_47/录制-27628030-20261017-015647-867-lpl老资历？中资历！往里进往里进！_merged_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_10_17_01_56_47/录制-27628030-20261017-015647-867-lpl老资历？中资历！往里进往里进！_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_16_00_06_50",
