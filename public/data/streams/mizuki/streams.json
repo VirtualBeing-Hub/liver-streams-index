@@ -1,5 +1,44 @@
 [
   {
+    "id": "2026_10_17_23_02_35",
+    "title": "杭州with西瓜day4⭐",
+    "date": "2026-10-17",
+    "time": "23:02:35",
+    "startTime": "23:02",
+    "endTime": "00:15",
+    "duration": 4420,
+    "durationStr": "1.2 小时",
+    "srt": "/data/streams/mizuki/2026_10_17_23_02_35/录制-30655190-20261017-230235-472-杭州with西瓜day4⭐.srt",
+    "xml": "/data/streams/mizuki/2026_10_17_23_02_35/录制-30655190-20261017-230235-472-杭州with西瓜day4⭐.xml",
+    "cover": "/data/streams/mizuki/2026_10_17_23_02_35/录制-30655190-20261017-230235-472-杭州with西瓜day4⭐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_17_23_02_35/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_17_23_02_35/录制-30655190-20261017-230235-472-杭州with西瓜day4⭐_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_17_23_02_35/录制-30655190-20261017-230235-472-杭州with西瓜day4⭐_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "聊天分享出行与逛店经历，也一起看视频并轻松互动收尾。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "高铁行李找回"
+        },
+        {
+          "name": "动漫周边逛店"
+        },
+        {
+          "name": "《夺命十三枪》念白"
+        },
+        {
+          "name": "一起看视频"
+        }
+      ],
+      "generatedAt": "2026-10-17T16:35:48.183Z"
+    }
+  },
+  {
     "id": "2026_10_16_17_33_11",
     "title": "演出前见面day3⭐",
     "date": "2026-10-16",
