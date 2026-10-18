@@ -27,7 +27,14 @@
         {
           "name": "我",
           "start": 12575,
-          "end": 12887.66
+          "end": 12887.66,
+          "clips": [
+            {
+              "bvid": "BV1BxJz64Ehu",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1BxJz64Ehu/?p=1"
+            }
+          ]
         }
       ],
       "games": [],

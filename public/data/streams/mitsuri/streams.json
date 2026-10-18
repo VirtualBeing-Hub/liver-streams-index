@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_18_22_54_37",
+    "title": "我撸！！",
+    "date": "2026-10-18",
+    "time": "22:54:37",
+    "startTime": "22:54",
+    "endTime": "03:08",
+    "duration": 15297,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/mitsuri/2026_10_18_22_54_37/录制-1967216004-20261018-225437-022-我撸！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_10_18_22_54_37/录制-1967216004-20261018-225437-022-我撸！！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_10_18_22_54_37/录制-1967216004-20261018-225437-022-我撸！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_18_22_54_37/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_18_22_54_37/录制-1967216004-20261018-225437-022-我撸！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_18_22_54_37/录制-1967216004-20261018-225437-022-我撸！！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_18_15_49_34",
+    "title": "我鬼！！",
+    "date": "2026-10-18",
+    "time": "15:49:34",
+    "startTime": "15:49",
+    "endTime": "21:22",
+    "duration": 19997,
+    "durationStr": "5.6 小时",
+    "srt": "/data/streams/mitsuri/2026_10_18_15_49_34/录制-1967216004-20261018-154934-668-我鬼！！.srt",
+    "xml": "/data/streams/mitsuri/2026_10_18_15_49_34/录制-1967216004-20261018-154934-668-我鬼！！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_18_15_49_34/录制-1967216004-20261018-154934-668-我鬼！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_18_15_49_34/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_18_15_49_34/录制-1967216004-20261018-154934-668-我鬼！！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_18_15_49_34/录制-1967216004-20261018-154934-668-我鬼！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_17_21_18_28",
     "title": "我炒！！",
     "date": "2026-10-17",

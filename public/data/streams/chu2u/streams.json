@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_18_23_19_39",
+    "title": "⭐歌歌⭐",
+    "date": "2026-10-18",
+    "time": "23:19:39",
+    "startTime": "23:19",
+    "endTime": "01:08",
+    "duration": 6548,
+    "durationStr": "1.8 小时",
+    "srt": "/data/streams/chu2u/2026_10_18_23_19_39/录制-1727074031-20261018-231939-386-⭐歌歌⭐_merged.srt",
+    "xml": "/data/streams/chu2u/2026_10_18_23_19_39/录制-1727074031-20261018-231939-386-⭐歌歌⭐_merged.xml",
+    "cover": "/data/streams/chu2u/2026_10_18_23_19_39/录制-1727074031-20261018-231939-386-⭐歌歌⭐.cover.jpg",
+    "highlights": "/data/streams/chu2u/2026_10_18_23_19_39/highlights.md",
+    "images": [
+      "/data/streams/chu2u/2026_10_18_23_19_39/录制-1727074031-20261018-231939-386-⭐歌歌⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/chu2u/2026_10_18_23_19_39/录制-1727074031-20261018-231939-386-⭐歌歌⭐_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_18_21_58_42",
+    "title": "⭐电电台台⭐",
+    "date": "2026-10-18",
+    "time": "21:58:42",
+    "startTime": "21:58",
+    "endTime": "23:08",
+    "duration": 4236,
+    "durationStr": "1.2 小时",
+    "srt": "/data/streams/chu2u/2026_10_18_21_58_42/录制-1727074031-20261018-215842-455-⭐电电台台⭐.srt",
+    "xml": "/data/streams/chu2u/2026_10_18_21_58_42/录制-1727074031-20261018-215842-455-⭐电电台台⭐.xml",
+    "cover": "/data/streams/chu2u/2026_10_18_21_58_42/录制-1727074031-20261018-215842-455-⭐电电台台⭐.cover.jpg",
+    "highlights": "/data/streams/chu2u/2026_10_18_21_58_42/highlights.md",
+    "images": [
+      "/data/streams/chu2u/2026_10_18_21_58_42/录制-1727074031-20261018-215842-455-⭐电电台台⭐_COMIC_FACTORY.png",
+      "/data/streams/chu2u/2026_10_18_21_58_42/录制-1727074031-20261018-215842-455-⭐电电台台⭐_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_17_21_53_10",
     "title": "⭐爱，死亡，和外星人⭐",
     "date": "2026-10-17",

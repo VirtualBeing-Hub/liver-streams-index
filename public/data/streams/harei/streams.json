@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_18_21_02_52",
+    "title": "小鼠来唱歌吧^^",
+    "date": "2026-10-18",
+    "time": "21:02:52",
+    "startTime": "21:02",
+    "endTime": "02:44",
+    "duration": 20545,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/harei/2026_10_18_21_02_52/录制-1820703922-20261018-210252-364-小鼠来唱歌吧^^_merged.srt",
+    "xml": "/data/streams/harei/2026_10_18_21_02_52/录制-1820703922-20261018-210252-364-小鼠来唱歌吧^^_merged.xml",
+    "cover": "/data/streams/harei/2026_10_18_21_02_52/录制-1820703922-20261018-210252-364-小鼠来唱歌吧^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_10_18_21_02_52/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_18_21_02_52/录制-1820703922-20261018-210252-364-小鼠来唱歌吧^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_18_21_02_52/录制-1820703922-20261018-210252-364-小鼠来唱歌吧^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_18_10_06_44",
+    "title": "早上好困鼠^^",
+    "date": "2026-10-18",
+    "time": "10:06:44",
+    "startTime": "10:06",
+    "endTime": "12:46",
+    "duration": 9641,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/harei/2026_10_18_10_06_44/录制-1820703922-20261018-100644-080-早上好困鼠^^_merged.srt",
+    "xml": "/data/streams/harei/2026_10_18_10_06_44/录制-1820703922-20261018-100644-080-早上好困鼠^^_merged.xml",
+    "cover": "/data/streams/harei/2026_10_18_10_06_44/录制-1820703922-20261018-100644-080-早上好困鼠^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_10_18_10_06_44/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_18_10_06_44/录制-1820703922-20261018-100644-080-早上好困鼠^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_18_10_06_44/录制-1820703922-20261018-100644-080-早上好困鼠^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_16_21_01_17",
     "title": "夜行小鼠^^",
     "date": "2026-10-16",

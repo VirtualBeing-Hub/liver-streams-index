@@ -5,14 +5,48 @@
     "date": "2026-10-17",
     "time": "21:16:32",
     "startTime": "21:16",
-    "endTime": "03:59",
-    "duration": 24196,
-    "durationStr": "6.7 小时",
-    "srt": null,
+    "endTime": "07:12",
+    "duration": 35811,
+    "durationStr": "9.9 小时",
+    "srt": "/data/streams/nagisa/2026_10_17_21_16_32/录制-31368705-20261017-211632-301-试试「深空当铺」.srt",
     "xml": "/data/streams/nagisa/2026_10_17_21_16_32/录制-31368705-20261017-211632-301-试试「深空当铺」.xml",
     "cover": "/data/streams/nagisa/2026_10_17_21_16_32/录制-31368705-20261017-211632-301-试试「深空当铺」.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nagisa/2026_10_17_21_16_32/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_10_17_21_16_32/录制-31368705-20261017-211632-301-试试「深空当铺」_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_10_17_21_16_32/录制-31368705-20261017-211632-301-试试「深空当铺」_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "开场闲聊后长时间游玩《深空当铺》，经营当铺、鉴定商品并发展水生意。",
+      "songs": [],
+      "games": [
+        {
+          "name": "深空当铺"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "当铺经营与讨价还价"
+        },
+        {
+          "name": "商品鉴定与赝品"
+        },
+        {
+          "name": "净水与水生意"
+        },
+        {
+          "name": "声望与通缉犯"
+        },
+        {
+          "name": "拾荒与养鼠"
+        },
+        {
+          "name": "游戏玩到通宵"
+        }
+      ],
+      "generatedAt": "2026-10-17T23:25:09.499Z"
+    }
   },
   {
     "id": "2026_10_17_15_08_34",
@@ -28,7 +62,8 @@
     "cover": "/data/streams/nagisa/2026_10_17_15_08_34/录制-31368705-20261017-150834-466-周六练练歌.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_10_17_15_08_34/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_10_17_15_08_34/录制-31368705-20261017-150834-466-周六练练歌_COMIC_FACTORY.png"
+      "/data/streams/nagisa/2026_10_17_15_08_34/录制-31368705-20261017-150834-466-周六练练歌_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_10_17_15_08_34/录制-31368705-20261017-150834-466-周六练练歌_SCREENSHOTS.jpg"
     ],
     "recap": {
       "overview": "直播中聊天、唱歌并观看视频，聊到睡眠、贴膜、音乐审美与翻译等话题。",

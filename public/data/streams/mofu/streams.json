@@ -1,18 +1,39 @@
 [
   {
+    "id": "2026_10_18_18_03_17",
+    "title": "汪汪汪",
+    "date": "2026-10-18",
+    "time": "18:03:17",
+    "startTime": "18:03",
+    "endTime": "01:05",
+    "duration": 25374,
+    "durationStr": "7.0 小时",
+    "srt": "/data/streams/mofu/2026_10_18_18_03_17/录制-1791260716-20261018-180317-180-汪汪汪.srt",
+    "xml": "/data/streams/mofu/2026_10_18_18_03_17/录制-1791260716-20261018-180317-180-汪汪汪.xml",
+    "cover": "/data/streams/mofu/2026_10_18_18_03_17/录制-1791260716-20261018-180317-180-汪汪汪.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_18_18_03_17/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_18_18_03_17/录制-1791260716-20261018-180317-180-汪汪汪_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_18_18_03_17/录制-1791260716-20261018-180317-180-汪汪汪_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_17_23_29_09",
-    "title": "回归！！！好想你！！",
+    "title": "陪伴犬二路！",
     "date": "2026-10-17",
     "time": "23:29:09",
     "startTime": "23:29",
-    "endTime": "04:00",
-    "duration": 16290,
-    "durationStr": "4.5 小时",
-    "srt": null,
+    "endTime": "05:21",
+    "duration": 21160,
+    "durationStr": "5.9 小时",
+    "srt": "/data/streams/mofu/2026_10_17_23_29_09/录制-1791260716-20261017-232909-941-回归！！！好想你！！.srt",
     "xml": "/data/streams/mofu/2026_10_17_23_29_09/录制-1791260716-20261017-232909-941-回归！！！好想你！！.xml",
     "cover": "/data/streams/mofu/2026_10_17_23_29_09/录制-1791260716-20261017-232909-941-回归！！！好想你！！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mofu/2026_10_17_23_29_09/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_17_23_29_09/录制-1791260716-20261017-232909-941-回归！！！好想你！！_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_17_23_29_09/录制-1791260716-20261017-232909-941-回归！！！好想你！！_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_15_23_03_11",
