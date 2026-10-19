@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_19_22_28_23",
+    "title": "旅游回家啦~",
+    "date": "2026-10-19",
+    "time": "22:28:23",
+    "startTime": "22:28",
+    "endTime": "01:29",
+    "duration": 10896,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/liko/2026_10_19_22_28_23/录制-1713548468-20261019-222823-457-旅游回家啦~_merged.srt",
+    "xml": "/data/streams/liko/2026_10_19_22_28_23/录制-1713548468-20261019-222823-457-旅游回家啦~_merged.xml",
+    "cover": "/data/streams/liko/2026_10_19_22_28_23/录制-1713548468-20261019-222823-457-旅游回家啦~.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_19_22_28_23/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_19_22_28_23/录制-1713548468-20261019-222823-457-旅游回家啦~_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_19_22_28_23/录制-1713548468-20261019-222823-457-旅游回家啦~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_18_11_04_34",
     "title": "化妆电台",
     "date": "2026-10-18",

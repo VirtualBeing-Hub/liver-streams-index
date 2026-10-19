@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026_10_20_02_05_26",
+    "title": "被气晕了",
+    "date": "2026-10-19",
+    "time": "02:05:26",
+    "startTime": "02:05",
+    "endTime": "03:31",
+    "duration": 5215,
+    "durationStr": "1.4 小时",
+    "srt": "/data/streams/kloa/2026_10_20_02_05_26/录制-1986461465-20261020-020526-545-被气晕了_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_20_02_05_26/录制-1986461465-20261020-020526-545-被气晕了_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_20_02_05_26/录制-1986461465-20261020-020526-175-被气晕了.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_20_02_05_26/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_20_02_05_26/录制-1986461465-20261020-020526-545-被气晕了_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_20_02_05_26/录制-1986461465-20261020-020526-545-被气晕了_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_19_22_35_34",
+    "title": "回来啦！",
+    "date": "2026-10-19",
+    "time": "22:35:34",
+    "startTime": "22:35",
+    "endTime": "00:34",
+    "duration": 7183,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/kloa/2026_10_19_22_35_34/录制-1986461465-20261019-223534-050-回来啦！.srt",
+    "xml": "/data/streams/kloa/2026_10_19_22_35_34/录制-1986461465-20261019-223534-050-回来啦！.xml",
+    "cover": "/data/streams/kloa/2026_10_19_22_35_34/录制-1986461465-20261019-223534-050-回来啦！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_19_22_35_34/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_19_22_35_34/录制-1986461465-20261019-223534-050-回来啦！_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_19_22_35_34/录制-1986461465-20261019-223534-050-回来啦！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_19_11_50_29",
+    "title": "早安上海第四天～",
+    "date": "2026-10-19",
+    "time": "11:50:29",
+    "startTime": "11:50",
+    "endTime": "13:08",
+    "duration": 4731,
+    "durationStr": "1.3 小时",
+    "srt": "/data/streams/kloa/2026_10_19_11_50_29/录制-1986461465-20261019-115029-687-早安上海第四天～_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_19_11_50_29/录制-1986461465-20261019-115029-687-早安上海第四天～_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_19_11_50_29/录制-1986461465-20261019-115029-687-早安上海第四天～.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_19_11_50_29/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_19_11_50_29/录制-1986461465-20261019-115029-687-早安上海第四天～_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_19_11_50_29/录制-1986461465-20261019-115029-687-早安上海第四天～_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_18_11_08_32",
     "title": "早安上海第三天～",
     "date": "2026-10-18",

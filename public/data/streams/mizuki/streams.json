@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026_10_19_21_02_24",
+    "title": "【虚度】⭐来猪的",
+    "date": "2026-10-19",
+    "time": "21:02:24",
+    "startTime": "21:02",
+    "endTime": "00:44",
+    "duration": 13326,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/mizuki/2026_10_19_21_02_24/录制-30655190-20261019-210224-116-【虚度】⭐来猪的.srt",
+    "xml": "/data/streams/mizuki/2026_10_19_21_02_24/录制-30655190-20261019-210224-116-【虚度】⭐来猪的.xml",
+    "cover": "/data/streams/mizuki/2026_10_19_21_02_24/录制-30655190-20261019-210224-116-【虚度】⭐来猪的.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_19_21_02_24/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_19_21_02_24/录制-30655190-20261019-210224-116-【虚度】⭐来猪的_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_19_21_02_24/录制-30655190-20261019-210224-116-【虚度】⭐来猪的_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、观看视频，聊到手臂酸痛、吃鸡、衣服和粉丝形象等话题。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "手臂与手指酸痛"
+        },
+        {
+          "name": "鸡肉做法"
+        },
+        {
+          "name": "新衣风格"
+        },
+        {
+          "name": "粉丝形象点评"
+        },
+        {
+          "name": "相亲视频"
+        }
+      ],
+      "generatedAt": "2026-10-19T16:54:47.395Z"
+    }
+  },
+  {
+    "id": "2026_10_19_15_00_54",
+    "title": "【鬼武者】⭐猪来的",
+    "date": "2026-10-19",
+    "time": "15:00:54",
+    "startTime": "15:00",
+    "endTime": "18:31",
+    "duration": 12683,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/mizuki/2026_10_19_15_00_54/录制-30655190-20261019-150054-248-【鬼武者】⭐猪来的_merged.srt",
+    "xml": "/data/streams/mizuki/2026_10_19_15_00_54/录制-30655190-20261019-150054-248-【鬼武者】⭐猪来的_merged.xml",
+    "cover": "/data/streams/mizuki/2026_10_19_15_00_54/录制-30655190-20261019-150054-248-【鬼武者】⭐猪来的.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_19_15_00_54/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_19_15_00_54/录制-30655190-20261019-150054-248-【鬼武者】⭐猪来的_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_19_15_00_54/录制-30655190-20261019-150054-248-【鬼武者】⭐猪来的_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "午后玩《鬼武者》，探索解谜、战斗并挑战佐佐木，也聊到咖啡和补充药品。",
+      "songs": [],
+      "games": [
+        {
+          "name": "鬼武者"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "找路与炸药解谜"
+        },
+        {
+          "name": "佐佐木挑战"
+        },
+        {
+          "name": "咖啡"
+        },
+        {
+          "name": "补充药品"
+        }
+      ],
+      "generatedAt": "2026-10-19T10:41:32.337Z"
+    }
+  },
+  {
     "id": "2026_10_18_21_03_35",
     "title": "我回来咯⭐",
     "date": "2026-10-18",

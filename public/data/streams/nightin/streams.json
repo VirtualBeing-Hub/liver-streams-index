@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_19_18_35_11",
+    "title": "小众宝藏直播间",
+    "date": "2026-10-19",
+    "time": "18:35:11",
+    "startTime": "18:35",
+    "endTime": "22:12",
+    "duration": 13040,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/nightin/2026_10_19_18_35_11/录制-24872476-20261019-183511-420-小众宝藏直播间_merged.srt",
+    "xml": "/data/streams/nightin/2026_10_19_18_35_11/录制-24872476-20261019-183511-420-小众宝藏直播间_merged.xml",
+    "cover": "/data/streams/nightin/2026_10_19_18_35_11/录制-24872476-20261019-183511-420-小众宝藏直播间.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_19_18_35_11/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_19_18_35_11/录制-24872476-20261019-183511-420-小众宝藏直播间_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_19_18_35_11/录制-24872476-20261019-183511-420-小众宝藏直播间_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_17_14_06_09",
     "title": "看看kpl年度总决赛！",
     "date": "2026-10-17",

@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-18T20:00:44.633Z",
+  "generatedAt": "2026-10-19T20:01:16.672Z",
   "sessions": [
+    {
+      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
+      "recordedAt": "2026-10-19 20:12:43",
+      "title": "陪你这个猪过周一！唱唱聊_merged",
+      "complete": true
+    },
     {
       "id": "958d9f4f9561448da114700b425b0791e626eaf203b781895fd866c8bdd85def",
       "recordedAt": "2026-10-17 20:03:49",
@@ -330,6 +336,39 @@
         "part": 1,
         "url": "https://www.bilibili.com/video/BV1BxJz64Ehu/?p=1"
       }
+    },
+    {
+      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-1",
+      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
+      "name": null,
+      "start": 703.639,
+      "end": 994,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-2",
+      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
+      "name": null,
+      "start": 1332,
+      "end": 1392,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-3",
+      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
+      "name": null,
+      "start": 15056.17,
+      "end": 15309.38,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
     }
   ]
 }
