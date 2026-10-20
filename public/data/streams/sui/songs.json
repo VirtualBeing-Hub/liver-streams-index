@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-19T20:01:16.672Z",
+  "generatedAt": "2026-10-20T20:00:41.686Z",
   "sessions": [
+    {
+      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
+      "recordedAt": "2026-10-20 19:51:17",
+      "title": "陪你这个猪过周二！唱唱聊_darkrec_complete_merged",
+      "complete": true
+    },
     {
       "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
       "recordedAt": "2026-10-19 20:12:43",
@@ -340,34 +346,90 @@
     {
       "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-1",
       "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
-      "name": null,
+      "name": "Virtual to LIVE",
       "start": 703.639,
       "end": 994,
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
-      "clip": null
+      "clip": {
+        "bvid": "BV1Fwnc6WEVh",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=1"
+      }
     },
     {
       "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-2",
       "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
-      "name": null,
+      "name": "Virtual to LIVE（改编片段）",
       "start": 1332,
       "end": 1392,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1Fwnc6WEVh",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=2"
+      }
+    },
+    {
+      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-3",
+      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
+      "name": "雪の轍",
+      "start": 15056.17,
+      "end": 15309.38,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1Fwnc6WEVh",
+        "part": 3,
+        "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=3"
+      }
+    },
+    {
+      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-1",
+      "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
+      "name": "慢冷",
+      "start": 2286,
+      "end": 2393,
       "performance": "fragment",
       "confirmed": false,
       "boundariesConfirmed": false,
       "clip": null
     },
     {
-      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-3",
-      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
+      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-3",
+      "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
       "name": null,
-      "start": 15056.17,
-      "end": 15309.38,
+      "start": 8012,
+      "end": 8076,
+      "performance": "fragment",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-4",
+      "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
+      "name": "我不难过",
+      "start": 8176,
+      "end": 8558,
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-5",
+      "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
+      "name": null,
+      "start": 9000,
+      "end": 9199,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
       "clip": null
     }
   ]

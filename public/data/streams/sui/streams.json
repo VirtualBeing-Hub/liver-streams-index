@@ -1,5 +1,97 @@
 [
   {
+    "id": "2026_10_20_19_51_17",
+    "title": "陪你这个猪过周二！唱唱聊",
+    "date": "2026-10-20",
+    "time": "19:51:17",
+    "startTime": "19:51",
+    "endTime": "00:22",
+    "duration": 16308,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/sui/2026_10_20_19_51_17/录制-25788785-20261020-195117-606-陪你这个猪过周二！唱唱聊_darkrec_complete_merged.srt",
+    "xml": "/data/streams/sui/2026_10_20_19_51_17/录制-25788785-20261020-195117-606-陪你这个猪过周二！唱唱聊_darkrec_complete_merged.xml",
+    "cover": "/data/streams/sui/2026_10_20_19_51_17/录制-25788785-20261020-195359-375-陪你这个猪过周二！唱唱聊.cover.jpg",
+    "highlights": "/data/streams/sui/2026_10_20_19_51_17/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_10_20_19_51_17/录制-25788785-20261020-195117-606-陪你这个猪过周二！唱唱聊_darkrec_complete_merged_COMIC_FACTORY.png"
+    ],
+    "recap": {
+      "overview": "杂谈、回看小花帽新衣回视频、唱歌、玩《艾尔登法环》。",
+      "songs": [
+        {
+          "name": "慢冷",
+          "start": 2286,
+          "end": 2393
+        },
+        {
+          "name": "未识别歌名",
+          "start": 8012,
+          "end": 8076
+        },
+        {
+          "name": "我不难过",
+          "start": 8176,
+          "end": 8558
+        },
+        {
+          "name": "未识别歌名",
+          "start": 9000,
+          "end": 9199
+        }
+      ],
+      "games": [
+        {
+          "name": "艾尔登法环",
+          "clips": [
+            {
+              "bvid": "BV1kKnN6KE3g",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1kKnN6KE3g/?p=1",
+              "title": "艾尔登法环 第17集｜战斗与推进、回收卢恩与整理装备 2026-10-20"
+            }
+          ]
+        }
+      ],
+      "watch": [
+        {
+          "name": "小花帽新衣回",
+          "start": 5442,
+          "end": 7599.939
+        }
+      ],
+      "other": [
+        {
+          "name": "弹幕机与AI隐私"
+        },
+        {
+          "name": "妈妈与金钱蛋"
+        },
+        {
+          "name": "回复消息与落差感"
+        },
+        {
+          "name": "网络梗来源"
+        },
+        {
+          "name": "新衣与穿搭"
+        },
+        {
+          "name": "回顾小花帽新衣回"
+        },
+        {
+          "name": "galgame剧情推荐"
+        },
+        {
+          "name": "艾尔登法环探索与战斗"
+        },
+        {
+          "name": "椅子选购"
+        }
+      ],
+      "generatedAt": "2026-10-20T17:18:02.296Z"
+    }
+  },
+  {
     "id": "2026_10_19_20_12_43",
     "title": "陪你这个猪过周一！唱唱聊",
     "date": "2026-10-19",
@@ -20,19 +112,40 @@
       "overview": "闲聊生活、讨论关系边界与近期计划，并唱了《Virtual to Live》和《雪之辙》。",
       "songs": [
         {
-          "name": "未识别歌名",
+          "name": "Virtual to LIVE",
           "start": 703.639,
-          "end": 994
+          "end": 994,
+          "clips": [
+            {
+              "bvid": "BV1Fwnc6WEVh",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=1"
+            }
+          ]
         },
         {
-          "name": "未识别歌名",
+          "name": "Virtual to LIVE（改编片段）",
           "start": 1332,
-          "end": 1392
+          "end": 1392,
+          "clips": [
+            {
+              "bvid": "BV1Fwnc6WEVh",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=2"
+            }
+          ]
         },
         {
-          "name": "未识别歌名",
+          "name": "雪の轍",
           "start": 15056.17,
-          "end": 15309.38
+          "end": 15309.38,
+          "clips": [
+            {
+              "bvid": "BV1Fwnc6WEVh",
+              "part": 3,
+              "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=3"
+            }
+          ]
         }
       ],
       "games": [],
