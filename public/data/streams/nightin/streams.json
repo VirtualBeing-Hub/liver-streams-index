@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_21_18_10_29",
+    "title": "kplBO7！AG vs tes",
+    "date": "2026-10-21",
+    "time": "18:10:29",
+    "startTime": "18:10",
+    "endTime": "21:51",
+    "duration": 13272,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/nightin/2026_10_21_18_10_29/录制-24872476-20261021-181029-245-kplBO7！AG vs tes_merged.srt",
+    "xml": "/data/streams/nightin/2026_10_21_18_10_29/录制-24872476-20261021-181029-245-kplBO7！AG vs tes_merged.xml",
+    "cover": "/data/streams/nightin/2026_10_21_18_10_29/录制-24872476-20261021-181029-245-kplBO7！AG vs tes.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_21_18_10_29/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_21_18_10_29/录制-24872476-20261021-181029-245-kplBO7！AG vs tes_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_21_18_10_29/录制-24872476-20261021-181029-245-kplBO7！AG vs tes_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_21_14_09_02",
+    "title": "乞丐服新衣发布！",
+    "date": "2026-10-21",
+    "time": "14:09:02",
+    "startTime": "14:09",
+    "endTime": "16:38",
+    "duration": 8999,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/nightin/2026_10_21_14_09_02/录制-24872476-20261021-140902-550-乞丐服新衣发布！.srt",
+    "xml": "/data/streams/nightin/2026_10_21_14_09_02/录制-24872476-20261021-140902-550-乞丐服新衣发布！.xml",
+    "cover": "/data/streams/nightin/2026_10_21_14_09_02/录制-24872476-20261021-140902-550-乞丐服新衣发布！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_21_14_09_02/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_21_14_09_02/录制-24872476-20261021-140902-550-乞丐服新衣发布！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_21_14_09_02/录制-24872476-20261021-140902-550-乞丐服新衣发布！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_20_18_06_05",
     "title": "kplBO7！狼队vsDYG",
     "date": "2026-10-20",
@@ -11,7 +47,7 @@
     "srt": null,
     "xml": "/data/streams/nightin/2026_10_20_18_06_05/录制-24872476-20261020-180605-435-kplBO7！狼队vsDYG.xml",
     "cover": "/data/streams/nightin/2026_10_20_18_06_05/录制-24872476-20261020-180605-435-kplBO7！狼队vsDYG.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {

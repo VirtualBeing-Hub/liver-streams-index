@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_21_22_00_31",
+    "title": "红糖姜茶",
+    "date": "2026-10-21",
+    "time": "22:00:31",
+    "startTime": "22:00",
+    "endTime": "23:09",
+    "duration": 4151,
+    "durationStr": "1.2 小时",
+    "srt": "/data/streams/sumire/2026_10_21_22_00_31/录制-1727076670-20261021-220031-478-红糖姜茶.srt",
+    "xml": "/data/streams/sumire/2026_10_21_22_00_31/录制-1727076670-20261021-220031-478-红糖姜茶.xml",
+    "cover": "/data/streams/sumire/2026_10_21_22_00_31/录制-1727076670-20261021-220031-478-红糖姜茶.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_10_21_22_00_31/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_21_22_00_31/录制-1727076670-20261021-220031-478-红糖姜茶_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_10_21_22_00_31/录制-1727076670-20261021-220031-478-红糖姜茶_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_21_10_00_14",
+    "title": "早读读不读",
+    "date": "2026-10-21",
+    "time": "10:00:14",
+    "startTime": "10:00",
+    "endTime": "12:13",
+    "duration": 8031,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/sumire/2026_10_21_10_00_14/录制-1727076670-20261021-100014-821-早读读不读.srt",
+    "xml": "/data/streams/sumire/2026_10_21_10_00_14/录制-1727076670-20261021-100014-821-早读读不读.xml",
+    "cover": "/data/streams/sumire/2026_10_21_10_00_14/录制-1727076670-20261021-100014-821-早读读不读.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_10_21_10_00_14/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_21_10_00_14/录制-1727076670-20261021-100014-821-早读读不读_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_10_21_10_00_14/录制-1727076670-20261021-100014-821-早读读不读_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_20_23_24_12",
     "title": "想了",
     "date": "2026-10-20",

@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_21_18_53_02",
+    "title": "我超农",
+    "date": "2026-10-21",
+    "time": "18:53:02",
+    "startTime": "18:53",
+    "endTime": "00:45",
+    "duration": 21149,
+    "durationStr": "5.9 小时",
+    "srt": "/data/streams/nana7mi/2026_10_21_18_53_02/录制-21452505-20261021-185302-576-我超农_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_10_21_18_53_02/录制-21452505-20261021-185302-576-我超农_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_10_21_18_53_02/录制-21452505-20261021-185302-576-我超农.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_21_18_53_02/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_21_18_53_02/录制-21452505-20261021-185302-576-我超农_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_21_18_53_02/录制-21452505-20261021-185302-576-我超农_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_19_22_02_36",
     "title": "无穷无尽",
     "date": "2026-10-19",

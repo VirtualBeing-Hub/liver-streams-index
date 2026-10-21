@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026_10_21_20_04_50",
+    "title": "唱歌歌~",
+    "date": "2026-10-21",
+    "time": "20:04:50",
+    "startTime": "20:04",
+    "endTime": "23:29",
+    "duration": 12346,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/kloa/2026_10_21_20_04_50/录制-1986461465-20261021-200450-953-唱歌歌~_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_21_20_04_50/录制-1986461465-20261021-200450-953-唱歌歌~_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_21_20_04_50/录制-1986461465-20261021-200450-953-唱歌歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_21_20_04_50/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_21_20_04_50/录制-1986461465-20261021-200450-953-唱歌歌~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_21_20_04_50/录制-1986461465-20261021-200450-953-唱歌歌~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_21_09_50_13",
+    "title": "早安歌杂~",
+    "date": "2026-10-21",
+    "time": "09:50:13",
+    "startTime": "09:50",
+    "endTime": "12:04",
+    "duration": 8056,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/kloa/2026_10_21_09_50_13/录制-1986461465-20261021-095013-803-早安歌杂~.srt",
+    "xml": "/data/streams/kloa/2026_10_21_09_50_13/录制-1986461465-20261021-095013-803-早安歌杂~.xml",
+    "cover": "/data/streams/kloa/2026_10_21_09_50_13/录制-1986461465-20261021-095013-803-早安歌杂~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_21_09_50_13/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_21_09_50_13/录制-1986461465-20261021-095013-803-早安歌杂~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_21_09_50_13/录制-1986461465-20261021-095013-803-早安歌杂~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_21_09_38_32",
+    "title": "不是",
+    "date": "2026-10-21",
+    "time": "09:38:32",
+    "startTime": "09:38",
+    "endTime": "09:40",
+    "duration": 168,
+    "durationStr": "2 分钟",
+    "srt": "/data/streams/kloa/2026_10_21_09_38_32/录制-1986461465-20261021-093832-160-不是.srt",
+    "xml": "/data/streams/kloa/2026_10_21_09_38_32/录制-1986461465-20261021-093832-160-不是.xml",
+    "cover": "/data/streams/kloa/2026_10_21_09_38_32/录制-1986461465-20261021-093832-160-不是.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_21_09_38_32/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_21_09_38_32/录制-1986461465-20261021-093832-160-不是_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_21_09_38_32/录制-1986461465-20261021-093832-160-不是_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_20_20_05_57",
     "title": "做做周表杂谈",
     "date": "2026-10-20",

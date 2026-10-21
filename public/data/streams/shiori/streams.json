@@ -1,5 +1,108 @@
 [
   {
+    "id": "2026_10_21_21_33_03",
+    "title": "小栞深呼吸！",
+    "date": "2026-10-21",
+    "time": "21:33:03",
+    "startTime": "21:33",
+    "endTime": "00:37",
+    "duration": 11099,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/shiori/2026_10_21_21_33_03/录制-26966466-20261021-213303-327-小栞深呼吸！_merged.srt",
+    "xml": "/data/streams/shiori/2026_10_21_21_33_03/录制-26966466-20261021-213303-327-小栞深呼吸！_merged.xml",
+    "cover": "/data/streams/shiori/2026_10_21_21_33_03/录制-26966466-20261021-213303-327-小栞深呼吸！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_10_21_21_33_03/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_10_21_21_33_03/录制-26966466-20261021-213303-327-小栞深呼吸！_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_10_21_21_33_03/录制-26966466-20261021-213303-327-小栞深呼吸！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈并倾诉亲签礼物受限及损失，玩《银松镇》、品尝虫料理，后唱歌",
+      "songs": [],
+      "games": [
+        {
+          "name": "银松镇"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "亲签礼物寄送受限"
+        },
+        {
+          "name": "色纸损失与报销"
+        },
+        {
+          "name": "公司规定及管理沟通"
+        },
+        {
+          "name": "房间里的飞虫"
+        },
+        {
+          "name": "游戏探索与战斗"
+        },
+        {
+          "name": "虫料理试吃"
+        },
+        {
+          "name": "约朋友吃夜宵"
+        }
+      ],
+      "generatedAt": "2026-10-21T16:50:57.097Z"
+    }
+  },
+  {
+    "id": "2026_10_21_10_11_35",
+    "title": "早安獭獭栞！",
+    "date": "2026-10-21",
+    "time": "10:11:35",
+    "startTime": "10:11",
+    "endTime": "12:15",
+    "duration": 7440,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/shiori/2026_10_21_10_11_35/录制-26966466-20261021-101135-533-早安獭獭栞！.srt",
+    "xml": "/data/streams/shiori/2026_10_21_10_11_35/录制-26966466-20261021-101135-533-早安獭獭栞！.xml",
+    "cover": "/data/streams/shiori/2026_10_21_10_11_35/录制-26966466-20261021-101135-533-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_10_21_10_11_35/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_10_21_10_11_35/录制-26966466-20261021-101135-533-早安獭獭栞！_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_10_21_10_11_35/录制-26966466-20261021-101135-533-早安獭獭栞！_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、看B站视频、唱歌",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "塔罗牌与封建迷信"
+        },
+        {
+          "name": "AI外貌与审美"
+        },
+        {
+          "name": "AI二次元短剧"
+        },
+        {
+          "name": "玩偶与BJD"
+        },
+        {
+          "name": "直播睡着和全勤"
+        },
+        {
+          "name": "鼻炎与嗓子状态"
+        },
+        {
+          "name": "外卖与莲雾"
+        },
+        {
+          "name": "水果和蚂蚁"
+        }
+      ],
+      "generatedAt": "2026-10-21T04:29:41.340Z"
+    }
+  },
+  {
     "id": "2026_10_20_17_55_25",
     "title": "银松镇！！！",
     "date": "2026-10-20",

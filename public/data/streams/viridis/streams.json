@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_21_20_01_19",
+    "title": "小小的唱多多的聊",
+    "date": "2026-10-21",
+    "time": "20:01:19",
+    "startTime": "20:01",
+    "endTime": "22:41",
+    "duration": 9624,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/viridis/2026_10_21_20_01_19/录制-1727071052-20261021-200119-137-小小的唱多多的聊_merged.srt",
+    "xml": "/data/streams/viridis/2026_10_21_20_01_19/录制-1727071052-20261021-200119-137-小小的唱多多的聊_merged.xml",
+    "cover": "/data/streams/viridis/2026_10_21_20_01_19/录制-1727071052-20261021-200119-137-小小的唱多多的聊.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_10_21_20_01_19/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_10_21_20_01_19/录制-1727071052-20261021-200119-137-小小的唱多多的聊_merged_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_10_21_20_01_19/录制-1727071052-20261021-200119-137-小小的唱多多的聊_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_19_20_00_20",
     "title": "竟然是看视频！",
     "date": "2026-10-19",
