@@ -5,14 +5,45 @@
     "date": "2026-10-21",
     "time": "21:12:18",
     "startTime": "21:12",
-    "endTime": "03:58",
-    "duration": 24402,
-    "durationStr": "6.8 小时",
-    "srt": null,
+    "endTime": "05:40",
+    "duration": 30538,
+    "durationStr": "8.5 小时",
+    "srt": "/data/streams/nagisa/2026_10_21_21_12_18/录制-31368705-20261021-211218-086-锻剑「ForgeTax」.srt",
     "xml": "/data/streams/nagisa/2026_10_21_21_12_18/录制-31368705-20261021-211218-086-锻剑「ForgeTax」.xml",
     "cover": "/data/streams/nagisa/2026_10_21_21_12_18/录制-31368705-20261021-211218-086-锻剑「ForgeTax」.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nagisa/2026_10_21_21_12_18/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_10_21_21_12_18/录制-31368705-20261021-211218-086-锻剑「ForgeTax」_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_10_21_21_12_18/录制-31368705-20261021-211218-086-锻剑「ForgeTax」_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "聊天并长时间游玩《锻剑模拟器》，尝试损伤流，最终敲出强化与价值双满的屠龙剑。",
+      "songs": [],
+      "games": [
+        {
+          "name": "锻剑模拟器（ForgeTax）"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "生日与快乐"
+        },
+        {
+          "name": "猫咪元旦参与锻剑"
+        },
+        {
+          "name": "遗物搭配与损伤流"
+        },
+        {
+          "name": "剑胚培养与弟子设定"
+        },
+        {
+          "name": "通宵打铁与作息"
+        }
+      ],
+      "generatedAt": "2026-10-21T21:52:40.684Z"
+    }
   },
   {
     "id": "2026_10_21_08_06_34",
@@ -28,7 +59,8 @@
     "cover": "/data/streams/nagisa/2026_10_21_08_06_34/录制-31368705-20261021-080634-784-早歌一会儿.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_10_21_08_06_34/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_10_21_08_06_34/录制-31368705-20261021-080634-784-早歌一会儿_COMIC_FACTORY.png"
+      "/data/streams/nagisa/2026_10_21_08_06_34/录制-31368705-20261021-080634-784-早歌一会儿_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_10_21_08_06_34/录制-31368705-20261021-080634-784-早歌一会儿_SCREENSHOTS.jpg"
     ],
     "recap": {
       "overview": "早间杂谈、接受点歌并演唱多首歌曲。",

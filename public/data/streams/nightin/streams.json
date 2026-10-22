@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_22_20_00_18",
+    "title": "【联动】DSB vs 矮人联盟！",
+    "date": "2026-10-22",
+    "time": "20:00:18",
+    "startTime": "20:00",
+    "endTime": "22:24",
+    "duration": 8686,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/nightin/2026_10_22_20_00_18/录制-24872476-20261022-200018-259-【联动】DSB vs 矮人联盟！.srt",
+    "xml": "/data/streams/nightin/2026_10_22_20_00_18/录制-24872476-20261022-200018-259-【联动】DSB vs 矮人联盟！.xml",
+    "cover": "/data/streams/nightin/2026_10_22_20_00_18/录制-24872476-20261022-200018-259-【联动】DSB vs 矮人联盟！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_22_20_00_18/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_22_20_00_18/录制-24872476-20261022-200018-259-【联动】DSB vs 矮人联盟！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_22_20_00_18/录制-24872476-20261022-200018-259-【联动】DSB vs 矮人联盟！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_22_12_05_34",
+    "title": "今天是小众还是中众？",
+    "date": "2026-10-22",
+    "time": "12:05:34",
+    "startTime": "12:05",
+    "endTime": "15:00",
+    "duration": 10545,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/nightin/2026_10_22_12_05_34/录制-24872476-20261022-120534-616-今天是小众还是中众？.srt",
+    "xml": "/data/streams/nightin/2026_10_22_12_05_34/录制-24872476-20261022-120534-616-今天是小众还是中众？.xml",
+    "cover": "/data/streams/nightin/2026_10_22_12_05_34/录制-24872476-20261022-120534-616-今天是小众还是中众？.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_22_12_05_34/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_22_12_05_34/录制-24872476-20261022-120534-616-今天是小众还是中众？_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_22_12_05_34/录制-24872476-20261022-120534-616-今天是小众还是中众？_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_21_18_10_29",
     "title": "kplBO7！AG vs tes",
     "date": "2026-10-21",
