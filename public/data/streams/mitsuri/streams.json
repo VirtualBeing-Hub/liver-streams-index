@@ -1,5 +1,83 @@
 [
   {
+    "id": "2026_10_24_03_21_05",
+    "title": "出征！！",
+    "date": "2026-10-23",
+    "time": "03:21:05",
+    "startTime": "03:21",
+    "endTime": "04:00",
+    "duration": 2394,
+    "durationStr": "0.7 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_10_24_03_21_05/录制-1967216004-20261024-032105-976-出征！！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_24_03_21_05/录制-1967216004-20261024-032105-976-出征！！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_24_00_02_55",
+    "title": "出征！！",
+    "date": "2026-10-23",
+    "time": "00:02:55",
+    "startTime": "00:02",
+    "endTime": "03:20",
+    "duration": 11889,
+    "durationStr": "3.3 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_10_24_00_02_55/录制-1967216004-20261024-000255-012-出征！！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_24_00_02_55/录制-1967216004-20261024-000255-012-出征！！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_23_21_48_19",
+    "title": "我跳！",
+    "date": "2026-10-23",
+    "time": "21:48:19",
+    "startTime": "21:48",
+    "endTime": "22:53",
+    "duration": 3947,
+    "durationStr": "1.1 小时",
+    "srt": "/data/streams/mitsuri/2026_10_23_21_48_19/录制-1967216004-20261023-214819-942-我跳！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_10_23_21_48_19/录制-1967216004-20261023-214819-942-我跳！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_10_23_21_48_19/录制-1967216004-20261023-214819-942-我跳！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_23_21_48_19/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_23_21_48_19/录制-1967216004-20261023-214819-942-我跳！_merged_COMIC_FACTORY.png"
+    ],
+    "recap": {
+      "overview": "聊天、玩《舞力全开》跳舞，讨论歌曲、运动强度及稍后看比赛和唱歌的安排",
+      "songs": [],
+      "games": [
+        {
+          "name": "舞力全开"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "舞蹈游戏选曲"
+        },
+        {
+          "name": "跳舞运动强度"
+        },
+        {
+          "name": "舞蹈动作判定"
+        },
+        {
+          "name": "跳舞与健身环比较"
+        },
+        {
+          "name": "洗澡后唱歌安排"
+        },
+        {
+          "name": "稍后看比赛安排"
+        }
+      ],
+      "generatedAt": "2026-10-23T15:08:23.054Z"
+    }
+  },
+  {
     "id": "2026_10_23_16_03_24",
     "title": "我魂！",
     "date": "2026-10-23",
@@ -13,8 +91,7 @@
     "cover": "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_10_23_16_03_24/highlights.md",
     "images": [
-      "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！_merged_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！_merged_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！_merged_COMIC_FACTORY.png"
     ],
     "recap": {
       "overview": "与观众互动、唱生日快乐歌，并游玩《芙娅之魂》",

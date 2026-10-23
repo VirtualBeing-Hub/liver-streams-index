@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_23_22_03_30",
+    "title": "又有台风",
+    "date": "2026-10-23",
+    "time": "22:03:30",
+    "startTime": "22:03",
+    "endTime": "00:55",
+    "duration": 10348,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/nana7mi/2026_10_23_22_03_30/录制-21452505-20261023-220330-411-又有台风_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_10_23_22_03_30/录制-21452505-20261023-220330-411-又有台风_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_10_23_22_03_30/录制-21452505-20261023-220330-411-又有台风.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_23_22_03_30/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_23_22_03_30/录制-21452505-20261023-220330-411-又有台风_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_23_22_03_30/录制-21452505-20261023-220330-411-又有台风_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_21_18_53_02",
     "title": "我超农",
     "date": "2026-10-21",

@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-21T20:00:44.193Z",
+  "generatedAt": "2026-10-23T20:00:47.609Z",
   "sessions": [
+    {
+      "id": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023",
+      "recordedAt": "2026-10-23 20:00:30",
+      "title": "陪你这个猪过周五！先唱唱聊聊_merged",
+      "complete": true
+    },
     {
       "id": "ca8d01711b678f1e4d68d707e9f11b008728f92e7e44a50d973d60b63b267e85",
       "recordedAt": "2026-10-21 22:00:29",
@@ -440,6 +446,17 @@
       "performance": "fragment",
       "confirmed": false,
       "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023:activity-2",
+      "sessionId": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023",
+      "name": "風を食む",
+      "start": 5980,
+      "end": 6429,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
       "clip": null
     }
   ]

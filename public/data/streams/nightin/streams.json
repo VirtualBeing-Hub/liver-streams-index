@@ -1,5 +1,112 @@
 [
   {
+    "id": "2026_10_23_22_58_30",
+    "title": "周五晚上的小众宝藏",
+    "date": "2026-10-23",
+    "time": "22:58:30",
+    "startTime": "22:58",
+    "endTime": "00:13",
+    "duration": 4509,
+    "durationStr": "1.3 小时",
+    "srt": "/data/streams/nightin/2026_10_23_22_58_30/录制-24872476-20261023-225830-693-周五晚上的小众宝藏.srt",
+    "xml": "/data/streams/nightin/2026_10_23_22_58_30/录制-24872476-20261023-225830-693-周五晚上的小众宝藏.xml",
+    "cover": "/data/streams/nightin/2026_10_23_22_58_30/录制-24872476-20261023-225830-693-周五晚上的小众宝藏.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_23_22_58_30/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_23_22_58_30/录制-24872476-20261023-225830-693-周五晚上的小众宝藏_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_10_23_22_51_52",
+    "title": "周五晚上的小众宝藏",
+    "date": "2026-10-23",
+    "time": "22:51:52",
+    "startTime": "22:51",
+    "endTime": "22:56",
+    "duration": 352,
+    "durationStr": "5 分钟",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_10_23_22_51_52/录制-24872476-20261023-225152-307-周五晚上的小众宝藏.xml",
+    "cover": "/data/streams/nightin/2026_10_23_22_51_52/录制-24872476-20261023-225152-307-周五晚上的小众宝藏.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_23_22_43_56",
+    "title": "周五晚上的小众宝藏",
+    "date": "2026-10-23",
+    "time": "22:43:56",
+    "startTime": "22:43",
+    "endTime": "22:50",
+    "duration": 472,
+    "durationStr": "0.1 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_10_23_22_43_56/录制-24872476-20261023-224356-991-周五晚上的小众宝藏.xml",
+    "cover": "/data/streams/nightin/2026_10_23_22_43_56/录制-24872476-20261023-224356-991-周五晚上的小众宝藏.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_23_22_30_54",
+    "title": "周五晚上的小众宝藏",
+    "date": "2026-10-23",
+    "time": "22:30:54",
+    "startTime": "22:30",
+    "endTime": "22:39",
+    "duration": 578,
+    "durationStr": "0.2 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_10_23_22_30_54/录制-24872476-20261023-223054-679-周五晚上的小众宝藏.xml",
+    "cover": "/data/streams/nightin/2026_10_23_22_30_54/录制-24872476-20261023-223054-422-周五晚上的小众宝藏.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_23_22_26_11",
+    "title": "周五晚上的小众宝藏",
+    "date": "2026-10-23",
+    "time": "22:26:11",
+    "startTime": "22:26",
+    "endTime": "22:30",
+    "duration": 258,
+    "durationStr": "4 分钟",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_10_23_22_26_11/录制-24872476-20261023-222611-279-周五晚上的小众宝藏.xml",
+    "cover": "/data/streams/nightin/2026_10_23_22_26_11/录制-24872476-20261023-222611-279-周五晚上的小众宝藏.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_23_22_20_54",
+    "title": "周五晚上的小众宝藏",
+    "date": "2026-10-23",
+    "time": "22:20:54",
+    "startTime": "22:20",
+    "endTime": "22:25",
+    "duration": 308,
+    "durationStr": "5 分钟",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_10_23_22_20_54/录制-24872476-20261023-222054-869-周五晚上的小众宝藏.xml",
+    "cover": "/data/streams/nightin/2026_10_23_22_20_54/录制-24872476-20261023-222054-869-周五晚上的小众宝藏.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_23_22_00_46",
+    "title": "周五晚上的小众宝藏",
+    "date": "2026-10-23",
+    "time": "22:00:46",
+    "startTime": "22:00",
+    "endTime": "22:20",
+    "duration": 1204,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_10_23_22_00_46/录制-24872476-20261023-220046-843-周五晚上的小众宝藏.xml",
+    "cover": "/data/streams/nightin/2026_10_23_22_00_46/录制-24872476-20261023-220046-843-周五晚上的小众宝藏.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_23_14_05_08",
     "title": "周五的小众宝藏",
     "date": "2026-10-23",
@@ -13,8 +120,7 @@
     "cover": "/data/streams/nightin/2026_10_23_14_05_08/录制-24872476-20261023-140508-398-周五的小众宝藏.cover.jpg",
     "highlights": "/data/streams/nightin/2026_10_23_14_05_08/highlights.md",
     "images": [
-      "/data/streams/nightin/2026_10_23_14_05_08/录制-24872476-20261023-140508-398-周五的小众宝藏_merged_COMIC_FACTORY.png",
-      "/data/streams/nightin/2026_10_23_14_05_08/录制-24872476-20261023-140508-398-周五的小众宝藏_merged_SCREENSHOTS.jpg"
+      "/data/streams/nightin/2026_10_23_14_05_08/录制-24872476-20261023-140508-398-周五的小众宝藏_merged_COMIC_FACTORY.png"
     ]
   },
   {

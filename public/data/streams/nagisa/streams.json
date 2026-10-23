@@ -1,5 +1,108 @@
 [
   {
+    "id": "2026_10_23_22_36_48",
+    "title": "试一下「谋杀数独」",
+    "date": "2026-10-23",
+    "time": "22:36:48",
+    "startTime": "22:36",
+    "endTime": "02:08",
+    "duration": 12746,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/nagisa/2026_10_23_22_36_48/录制-31368705-20261023-223648-584-看看玩什么_merged.srt",
+    "xml": "/data/streams/nagisa/2026_10_23_22_36_48/录制-31368705-20261023-223648-584-看看玩什么_merged.xml",
+    "cover": "/data/streams/nagisa/2026_10_23_22_36_48/录制-31368705-20261023-223648-584-看看玩什么.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_10_23_22_36_48/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_10_23_22_36_48/录制-31368705-20261023-223648-584-看看玩什么_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_10_23_22_36_48/录制-31368705-20261023-223648-584-看看玩什么_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "闲聊可乐口味、游戏选择与显卡行情，随后实际游玩《谋杀数独》并解题至收尾。",
+      "songs": [],
+      "games": [
+        {
+          "name": "谋杀数独"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "可乐口味与比例"
+        },
+        {
+          "name": "大白兔奶糖产地"
+        },
+        {
+          "name": "显卡行情"
+        },
+        {
+          "name": "游戏选择"
+        },
+        {
+          "name": "谋杀数独解谜"
+        }
+      ],
+      "generatedAt": "2026-10-23T18:24:25.577Z"
+    }
+  },
+  {
+    "id": "2026_10_23_21_00_36",
+    "title": "参加「屋里说话」",
+    "date": "2026-10-23",
+    "time": "21:00:36",
+    "startTime": "21:00",
+    "endTime": "22:08",
+    "duration": 4128,
+    "durationStr": "1.1 小时",
+    "srt": "/data/streams/nagisa/2026_10_23_21_00_36/录制-31368705-20261023-210036-869-参加「屋里说话」_merged.srt",
+    "xml": "/data/streams/nagisa/2026_10_23_21_00_36/录制-31368705-20261023-210036-869-参加「屋里说话」_merged.xml",
+    "cover": "/data/streams/nagisa/2026_10_23_21_00_36/录制-31368705-20261023-210036-869-参加「屋里说话」.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_10_23_21_00_36/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_10_23_21_00_36/录制-31368705-20261023-210036-869-参加「屋里说话」_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_10_23_21_00_36/录制-31368705-20261023-210036-869-参加「屋里说话」_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "围绕网购物品变成一百倍的投稿展开聊天，畅聊饮料、生活趣事与各种脑洞。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "无糖菠萝啤"
+        },
+        {
+          "name": "钙片与补钙"
+        },
+        {
+          "name": "黄金和显卡"
+        },
+        {
+          "name": "大虾囤货"
+        },
+        {
+          "name": "可乐口感"
+        },
+        {
+          "name": "行李箱套娃"
+        },
+        {
+          "name": "蜂蜜和茶叶"
+        },
+        {
+          "name": "猫砂治水"
+        },
+        {
+          "name": "3D打印农场"
+        },
+        {
+          "name": "硅脂与散热"
+        }
+      ],
+      "generatedAt": "2026-10-23T14:29:52.927Z"
+    }
+  },
+  {
     "id": "2026_10_23_20_11_00",
     "title": "参加「屋里说话」",
     "date": "2026-10-23",
@@ -11,7 +114,7 @@
     "srt": null,
     "xml": "/data/streams/nagisa/2026_10_23_20_11_00/录制-31368705-20261023-201100-320-参加「屋里说话」.xml",
     "cover": "/data/streams/nagisa/2026_10_23_20_11_00/录制-31368705-20261023-201100-320-参加「屋里说话」.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {
@@ -28,7 +131,8 @@
     "cover": "/data/streams/nagisa/2026_10_23_08_06_34/录制-31368705-20261023-080634-070-早安整理.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_10_23_08_06_34/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_10_23_08_06_34/录制-31368705-20261023-080634-070-早安整理_COMIC_FACTORY.png"
+      "/data/streams/nagisa/2026_10_23_08_06_34/录制-31368705-20261023-080634-070-早安整理_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_10_23_08_06_34/录制-31368705-20261023-080634-070-早安整理_SCREENSHOTS.jpg"
     ],
     "recap": {
       "overview": "早间聊天并游玩《呓语小镇》，寻找异常、推进结尾，解锁自由建造与天气时间调整。",
