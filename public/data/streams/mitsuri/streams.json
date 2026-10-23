@@ -1,5 +1,55 @@
 [
   {
+    "id": "2026_10_23_16_03_24",
+    "title": "我魂！",
+    "date": "2026-10-23",
+    "time": "16:03:24",
+    "startTime": "16:03",
+    "endTime": "19:00",
+    "duration": 10628,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_23_16_03_24/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "与观众互动、唱生日快乐歌，并游玩《芙娅之魂》",
+      "songs": [
+        {
+          "name": "生日快乐歌"
+        }
+      ],
+      "games": [
+        {
+          "name": "芙娅之魂"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "生日祝福"
+        },
+        {
+          "name": "角色职业与取名"
+        },
+        {
+          "name": "探索战斗和装备升级"
+        },
+        {
+          "name": "永夜回响玩法"
+        },
+        {
+          "name": "下次开播时间"
+        }
+      ],
+      "generatedAt": "2026-10-23T11:37:00.169Z"
+    }
+  },
+  {
     "id": "2026_10_22_21_03_34",
     "title": "鸣鸣的潮！",
     "date": "2026-10-22",
