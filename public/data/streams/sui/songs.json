@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-23T20:00:47.609Z",
+  "generatedAt": "2026-10-24T20:00:51.014Z",
   "sessions": [
     {
       "id": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023",
@@ -457,7 +457,11 @@
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
-      "clip": null
+      "clip": {
+        "bvid": "BV1TSne68ExE",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1TSne68ExE/?p=1"
+      }
     }
   ]
 }

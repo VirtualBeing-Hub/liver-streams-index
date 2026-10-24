@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_24_18_12_18",
+    "title": "非常好啊非常好",
+    "date": "2026-10-24",
+    "time": "18:12:18",
+    "startTime": "18:12",
+    "endTime": "20:33",
+    "duration": 8483,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/michiya/2026_10_24_18_12_18/录制-27628030-20261024-181218-570-非常好啊非常好_merged.srt",
+    "xml": "/data/streams/michiya/2026_10_24_18_12_18/录制-27628030-20261024-181218-570-非常好啊非常好_merged.xml",
+    "cover": "/data/streams/michiya/2026_10_24_18_12_18/录制-27628030-20261024-181218-570-非常好啊非常好.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_10_24_18_12_18/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_10_24_18_12_18/录制-27628030-20261024-181218-570-非常好啊非常好_merged_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_10_24_18_12_18/录制-27628030-20261024-181218-570-非常好啊非常好_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_22_17_35_34",
     "title": "第24章：这是什么v",
     "date": "2026-10-22",

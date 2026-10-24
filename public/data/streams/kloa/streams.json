@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_24_20_14_42",
+    "title": "肚皮要爆炸了！",
+    "date": "2026-10-24",
+    "time": "20:14:42",
+    "startTime": "20:14",
+    "endTime": "22:41",
+    "duration": 8879,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/kloa/2026_10_24_20_14_42/录制-1986461465-20261024-201442-396-肚皮要爆炸了！_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_24_20_14_42/录制-1986461465-20261024-201442-396-肚皮要爆炸了！_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_24_20_14_42/录制-1986461465-20261024-201442-396-肚皮要爆炸了！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_24_20_14_42/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_24_20_14_42/录制-1986461465-20261024-201442-396-肚皮要爆炸了！_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_24_20_14_42/录制-1986461465-20261024-201442-396-肚皮要爆炸了！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_24_14_04_17",
+    "title": "学歌~",
+    "date": "2026-10-24",
+    "time": "14:04:17",
+    "startTime": "14:04",
+    "endTime": "16:02",
+    "duration": 7098,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/kloa/2026_10_24_14_04_17/录制-1986461465-20261024-140417-130-学歌~_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_24_14_04_17/录制-1986461465-20261024-140417-130-学歌~_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_24_14_04_17/录制-1986461465-20261024-140417-130-学歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_24_14_04_17/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_24_14_04_17/录制-1986461465-20261024-140417-130-学歌~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_24_14_04_17/录制-1986461465-20261024-140417-130-学歌~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_23_22_36_58",
     "title": "路边直播",
     "date": "2026-10-23",

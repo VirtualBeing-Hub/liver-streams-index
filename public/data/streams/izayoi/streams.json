@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_24_20_11_53",
+    "title": "kkv",
+    "date": "2026-10-24",
+    "time": "20:11:53",
+    "startTime": "20:11",
+    "endTime": "22:58",
+    "duration": 10032,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/izayoi/2026_10_24_20_11_53/录制-1741667419-20261024-201153-096-kkv.srt",
+    "xml": "/data/streams/izayoi/2026_10_24_20_11_53/录制-1741667419-20261024-201153-096-kkv.xml",
+    "cover": "/data/streams/izayoi/2026_10_24_20_11_53/录制-1741667419-20261024-201153-096-kkv.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_24_20_11_53/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_24_20_11_53/录制-1741667419-20261024-201153-096-kkv_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_24_20_11_53/录制-1741667419-20261024-201153-096-kkv_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_24_13_59_37",
+    "title": "艰难蠕动中ing",
+    "date": "2026-10-24",
+    "time": "13:59:37",
+    "startTime": "13:59",
+    "endTime": "16:20",
+    "duration": 8470,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/izayoi/2026_10_24_13_59_37/录制-1741667419-20261024-135937-025-艰难蠕动中ing_merged.srt",
+    "xml": "/data/streams/izayoi/2026_10_24_13_59_37/录制-1741667419-20261024-135937-025-艰难蠕动中ing_merged.xml",
+    "cover": "/data/streams/izayoi/2026_10_24_13_59_37/录制-1741667419-20261024-135937-025-艰难蠕动中ing.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_24_13_59_37/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_24_13_59_37/录制-1741667419-20261024-135937-025-艰难蠕动中ing_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_24_13_59_37/录制-1741667419-20261024-135937-025-艰难蠕动中ing_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_23_21_04_28",
     "title": "Pakoyoili第五期",
     "date": "2026-10-23",

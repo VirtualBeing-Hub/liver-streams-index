@@ -1,5 +1,90 @@
 [
   {
+    "id": "2026_10_25_00_48_28",
+    "title": "蘸豆！！",
+    "date": "2026-10-24",
+    "time": "00:48:28",
+    "startTime": "00:48",
+    "endTime": "04:00",
+    "duration": 11536,
+    "durationStr": "3.2 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_10_25_00_48_28/录制-1967216004-20261025-004828-308-蘸豆！！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_25_00_48_28/录制-1967216004-20261025-004828-308-蘸豆！！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_24_19_32_40",
+    "title": "嘟嘟唱歌！！",
+    "date": "2026-10-24",
+    "time": "19:32:40",
+    "startTime": "19:32",
+    "endTime": "23:03",
+    "duration": 12709,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/mitsuri/2026_10_24_19_32_40/录制-1967216004-20261024-193240-530-嘟嘟唱歌！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_10_24_19_32_40/录制-1967216004-20261024-193240-530-嘟嘟唱歌！！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_10_24_19_32_40/录制-1967216004-20261024-193240-530-嘟嘟唱歌！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_24_19_32_40/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_24_19_32_40/录制-1967216004-20261024-193240-530-嘟嘟唱歌！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_24_19_32_40/录制-1967216004-20261024-193240-530-嘟嘟唱歌！！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "聊天并连续唱歌，聊到鼻塞发声、洗手、直播封面及后续二路观赛安排。",
+      "songs": [
+        {
+          "name": "噬咬秒针"
+        },
+        {
+          "name": "夏雪冬花"
+        },
+        {
+          "name": "First Love"
+        },
+        {
+          "name": "烟草"
+        },
+        {
+          "name": "处处吻"
+        },
+        {
+          "name": "喜欢你"
+        },
+        {
+          "name": "下一站天后"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "LPL赛程与二路观赛"
+        },
+        {
+          "name": "长时间直播是否休息"
+        },
+        {
+          "name": "鼻塞影响发声"
+        },
+        {
+          "name": "直播封面审核"
+        },
+        {
+          "name": "上厕所后是否洗手"
+        },
+        {
+          "name": "柳智敏身材讨论"
+        },
+        {
+          "name": "日语与粤语歌单"
+        }
+      ],
+      "generatedAt": "2026-10-24T16:30:59.810Z"
+    }
+  },
+  {
     "id": "2026_10_24_03_21_05",
     "title": "出征！！",
     "date": "2026-10-23",
@@ -20,14 +105,61 @@
     "date": "2026-10-23",
     "time": "00:02:55",
     "startTime": "00:02",
-    "endTime": "03:20",
-    "duration": 11889,
-    "durationStr": "3.3 小时",
-    "srt": null,
-    "xml": "/data/streams/mitsuri/2026_10_24_00_02_55/录制-1967216004-20261024-000255-012-出征！！.xml",
+    "endTime": "05:04",
+    "duration": 18141,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/mitsuri/2026_10_24_00_02_55/录制-1967216004-20261024-000255-012-出征！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_10_24_00_02_55/录制-1967216004-20261024-000255-012-出征！！_merged.xml",
     "cover": "/data/streams/mitsuri/2026_10_24_00_02_55/录制-1967216004-20261024-000255-012-出征！！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_10_24_00_02_55/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_24_00_02_55/录制-1967216004-20261024-000255-012-出征！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_24_00_02_55/录制-1967216004-20261024-000255-012-出征！！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、演唱多首歌曲，并观看和解说《英雄联盟》全球总决赛多场比赛。",
+      "songs": [
+        {
+          "name": "Star Walkin’"
+        },
+        {
+          "name": "Legends Never Die"
+        }
+      ],
+      "games": [],
+      "watch": [
+        {
+          "name": "英雄联盟"
+        }
+      ],
+      "other": [
+        {
+          "name": "LPL战队赛前展望"
+        },
+        {
+          "name": "全球总决赛BP与战术"
+        },
+        {
+          "name": "IG对阵GEN比赛"
+        },
+        {
+          "name": "TES对阵HLE比赛"
+        },
+        {
+          "name": "BLG对阵MKOI比赛"
+        },
+        {
+          "name": "AL对阵KC比赛"
+        },
+        {
+          "name": "比赛暂停与设备问题"
+        },
+        {
+          "name": "晚安和早安动态"
+        }
+      ],
+      "generatedAt": "2026-10-23T21:22:22.131Z"
+    }
   },
   {
     "id": "2026_10_23_21_48_19",
@@ -43,7 +175,8 @@
     "cover": "/data/streams/mitsuri/2026_10_23_21_48_19/录制-1967216004-20261023-214819-942-我跳！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_10_23_21_48_19/highlights.md",
     "images": [
-      "/data/streams/mitsuri/2026_10_23_21_48_19/录制-1967216004-20261023-214819-942-我跳！_merged_COMIC_FACTORY.png"
+      "/data/streams/mitsuri/2026_10_23_21_48_19/录制-1967216004-20261023-214819-942-我跳！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_23_21_48_19/录制-1967216004-20261023-214819-942-我跳！_merged_SCREENSHOTS.jpg"
     ],
     "recap": {
       "overview": "聊天、玩《舞力全开》跳舞，讨论歌曲、运动强度及稍后看比赛和唱歌的安排",
@@ -91,7 +224,8 @@
     "cover": "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_10_23_16_03_24/highlights.md",
     "images": [
-      "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！_merged_COMIC_FACTORY.png"
+      "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_23_16_03_24/录制-1967216004-20261023-160324-272-我魂！_merged_SCREENSHOTS.jpg"
     ],
     "recap": {
       "overview": "与观众互动、唱生日快乐歌，并游玩《芙娅之魂》",

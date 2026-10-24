@@ -1,5 +1,38 @@
 [
   {
+    "id": "2026_10_25_00_56_40",
+    "title": "看谁命长！一考到底！",
+    "date": "2026-10-24",
+    "time": "00:56:40",
+    "startTime": "00:56",
+    "endTime": "04:00",
+    "duration": 11059,
+    "durationStr": "3.1 小时",
+    "srt": null,
+    "xml": "/data/streams/harei/2026_10_25_00_56_40/录制-1820703922-20261025-005640-045-看谁命长！一考到底！.xml",
+    "cover": "/data/streams/harei/2026_10_25_00_56_40/录制-1820703922-20261025-005640-045-看谁命长！一考到底！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_24_20_42_58",
+    "title": "小鼠先来歌杂一下^^",
+    "date": "2026-10-24",
+    "time": "20:42:58",
+    "startTime": "20:42",
+    "endTime": "23:13",
+    "duration": 9083,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/harei/2026_10_24_20_42_58/录制-1820703922-20261024-204258-576-小鼠先来歌杂一下^^.srt",
+    "xml": "/data/streams/harei/2026_10_24_20_42_58/录制-1820703922-20261024-204258-576-小鼠先来歌杂一下^^.xml",
+    "cover": "/data/streams/harei/2026_10_24_20_42_58/录制-1820703922-20261024-204258-576-小鼠先来歌杂一下^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_10_24_20_42_58/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_24_20_42_58/录制-1820703922-20261024-204258-576-小鼠先来歌杂一下^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_24_20_42_58/录制-1820703922-20261024-204258-576-小鼠先来歌杂一下^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_24_03_21_05",
     "title": "小鼠督战瑞士轮^^",
     "date": "2026-10-23",
@@ -35,14 +68,16 @@
     "date": "2026-10-23",
     "time": "00:49:06",
     "startTime": "00:49",
-    "endTime": "03:12",
-    "duration": 8581,
-    "durationStr": "2.4 小时",
-    "srt": null,
-    "xml": "/data/streams/harei/2026_10_24_00_49_06/录制-1820703922-20261024-004906-532-小鼠督战瑞士轮^^.xml",
+    "endTime": "08:57",
+    "duration": 29324,
+    "durationStr": "8.1 小时",
+    "srt": "/data/streams/harei/2026_10_24_00_49_06/录制-1820703922-20261024-004906-532-小鼠督战瑞士轮^^_merged.srt",
+    "xml": "/data/streams/harei/2026_10_24_00_49_06/录制-1820703922-20261024-004906-532-小鼠督战瑞士轮^^_merged.xml",
     "cover": "/data/streams/harei/2026_10_24_00_49_06/录制-1820703922-20261024-004906-532-小鼠督战瑞士轮^^.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/harei/2026_10_24_00_49_06/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_24_00_49_06/录制-1820703922-20261024-004906-532-小鼠督战瑞士轮^^_merged_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_10_23_21_02_34",
