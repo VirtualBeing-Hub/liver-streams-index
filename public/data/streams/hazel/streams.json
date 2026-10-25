@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_10_25_14_47_37",
+    "title": "哇是芙娅之魂",
+    "date": "2026-10-25",
+    "time": "14:47:37",
+    "startTime": "14:47",
+    "endTime": "17:43",
+    "duration": 10603,
+    "durationStr": "2.9 小时",
+    "srt": null,
+    "xml": "/data/streams/hazel/2026_10_25_14_47_37/录制-1713546334-20261025-144737-903-哇是芙娅之魂_merged.xml",
+    "cover": "/data/streams/hazel/2026_10_25_14_47_37/录制-1713546334-20261025-144737-903-哇是芙娅之魂.cover.jpg",
+    "highlights": "",
+    "images": [
+      "/data/streams/hazel/2026_10_25_14_47_37/录制-1713546334-20261025-144737-903-哇是芙娅之魂_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_24_17_01_40",
     "title": "哇是星露谷",
     "date": "2026-10-24",
@@ -11,7 +28,7 @@
     "srt": null,
     "xml": "/data/streams/hazel/2026_10_24_17_01_40/录制-1713546334-20261024-170140-977-哇是星露谷_merged.xml",
     "cover": "/data/streams/hazel/2026_10_24_17_01_40/录制-1713546334-20261024-170140-977-哇是星露谷.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {

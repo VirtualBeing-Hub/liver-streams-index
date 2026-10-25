@@ -1,5 +1,105 @@
 [
   {
+    "id": "2026_10_25_19_50_12",
+    "title": "陪你这个猪过周日！唱唱聊聊",
+    "date": "2026-10-25",
+    "time": "19:50:12",
+    "startTime": "19:50",
+    "endTime": "00:09",
+    "duration": 15595,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/sui/2026_10_25_19_50_12/录制-25788785-20261025-195012-371-陪你这个猪过周日！唱唱聊聊.live.srt",
+    "xml": "/data/streams/sui/2026_10_25_19_50_12/录制-25788785-20261025-195012-371-陪你这个猪过周日！唱唱聊聊.xml",
+    "cover": "/data/streams/sui/2026_10_25_19_50_12/录制-25788785-20261025-195012-371-陪你这个猪过周日！唱唱聊聊.cover.jpg",
+    "highlights": "/data/streams/sui/2026_10_25_19_50_12/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_10_25_19_50_12/录制-25788785-20261025-195012-371-陪你这个猪过周日！唱唱聊聊_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_10_25_19_50_12/录制-25788785-20261025-195012-371-陪你这个猪过周日！唱唱聊聊_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌，并同步观看《黑衣人2》。",
+      "songs": [
+        {
+          "name": "情书",
+          "start": 706.509,
+          "end": 977.6,
+          "clips": [
+            {
+              "bvid": "BV1uenD6yEad",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=1"
+            }
+          ]
+        },
+        {
+          "name": "绝对占有 相对自由",
+          "start": 3152.389,
+          "end": 3597,
+          "clips": [
+            {
+              "bvid": "BV1uenD6yEad",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=2"
+            }
+          ]
+        },
+        {
+          "name": "那个女孩",
+          "start": 7055.84,
+          "end": 7381,
+          "clips": [
+            {
+              "bvid": "BV1uenD6yEad",
+              "part": 3,
+              "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=3"
+            }
+          ]
+        }
+      ],
+      "games": [],
+      "watch": [
+        {
+          "name": "同步视听片段",
+          "start": 8906,
+          "end": 14056.079
+        },
+        {
+          "name": "黑衣人2"
+        }
+      ],
+      "other": [
+        {
+          "name": "挑选人体工学椅"
+        },
+        {
+          "name": "股票与市场波动"
+        },
+        {
+          "name": "奶茶和体重"
+        },
+        {
+          "name": "吃饭与家常菜"
+        },
+        {
+          "name": "虚拟形象口型插件"
+        },
+        {
+          "name": "学生时代与恋爱观"
+        },
+        {
+          "name": "出租车播放的AI歌曲"
+        },
+        {
+          "name": "摇花手与带货"
+        },
+        {
+          "name": "脱发与遗传"
+        }
+      ],
+      "generatedAt": "2026-10-25T16:29:24.434Z"
+    }
+  },
+  {
     "id": "2026_10_23_20_00_30",
     "title": "陪你这个猪过周五！看黑衣人",
     "date": "2026-10-23",

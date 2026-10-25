@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026_10_25_19_01_15",
+    "title": "西部快枪手（咦？",
+    "date": "2026-10-25",
+    "time": "19:01:15",
+    "startTime": "19:01",
+    "endTime": "23:55",
+    "duration": 17687,
+    "durationStr": "4.9 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_10_25_19_01_15/录制-25034104-20261025-190115-193-西部快枪手（咦？.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_10_25_19_01_15/录制-25034104-20261025-190115-193-西部快枪手（咦？.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_10_25_19_01_15/录制-25034104-20261025-190115-193-西部快枪手（咦？.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_10_25_19_01_15/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_10_25_19_01_15/录制-25034104-20261025-190115-193-西部快枪手（咦？_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_10_25_19_01_15/录制-25034104-20261025-190115-193-西部快枪手（咦？_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、点歌并唱生日歌、玩《狂野西部：赏金猎人》，观看《FX战士久留美》",
+      "songs": [
+        {
+          "name": "生日快乐歌"
+        }
+      ],
+      "games": [
+        {
+          "name": "狂野西部：赏金猎人"
+        }
+      ],
+      "watch": [
+        {
+          "name": "FX战士久留美"
+        }
+      ],
+      "other": [
+        {
+          "name": "麦克风与音量调试"
+        },
+        {
+          "name": "直播时间与双休话题"
+        },
+        {
+          "name": "李世民与朱棣"
+        },
+        {
+          "name": "LPL与电竞战队"
+        },
+        {
+          "name": "不应期话题"
+        },
+        {
+          "name": "花店设定"
+        },
+        {
+          "name": "VTuber职业与收入"
+        },
+        {
+          "name": "日元投资与赌博"
+        }
+      ],
+      "generatedAt": "2026-10-25T17:14:42.710Z"
+    }
+  },
+  {
     "id": "2026_10_24_19_02_52",
     "title": "大唐创业史0.0",
     "date": "2026-10-24",

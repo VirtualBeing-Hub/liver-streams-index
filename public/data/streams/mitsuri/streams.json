@@ -1,18 +1,83 @@
 [
   {
+    "id": "2026_10_25_21_35_21",
+    "title": "我要成为101高手！！",
+    "date": "2026-10-25",
+    "time": "21:35:21",
+    "startTime": "21:35",
+    "endTime": "04:00",
+    "duration": 23127,
+    "durationStr": "6.4 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_10_25_21_35_21/录制-1967216004-20261025-213521-430-我要成为101高手！！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_25_21_35_21/录制-1967216004-20261025-213521-430-我要成为101高手！！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_25_00_48_28",
     "title": "蘸豆！！",
     "date": "2026-10-24",
     "time": "00:48:28",
     "startTime": "00:48",
-    "endTime": "04:00",
-    "duration": 11536,
-    "durationStr": "3.2 小时",
-    "srt": null,
+    "endTime": "09:36",
+    "duration": 31719,
+    "durationStr": "8.8 小时",
+    "srt": "/data/streams/mitsuri/2026_10_25_00_48_28/录制-1967216004-20261025-004828-308-蘸豆！！.srt",
     "xml": "/data/streams/mitsuri/2026_10_25_00_48_28/录制-1967216004-20261025-004828-308-蘸豆！！.xml",
     "cover": "/data/streams/mitsuri/2026_10_25_00_48_28/录制-1967216004-20261025-004828-308-蘸豆！！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_10_25_00_48_28/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_25_00_48_28/录制-1967216004-20261025-004828-308-蘸豆！！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_25_00_48_28/录制-1967216004-20261025-004828-308-蘸豆！！_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "通宵观看并解说《英雄联盟》赛事，穿插聊天和游戏对局。",
+      "songs": [],
+      "games": [
+        {
+          "name": "英雄联盟"
+        }
+      ],
+      "watch": [
+        {
+          "name": "英雄联盟"
+        }
+      ],
+      "other": [
+        {
+          "name": "LPL世界赛赛事"
+        },
+        {
+          "name": "TES对AL比赛"
+        },
+        {
+          "name": "MKOI对CFO比赛"
+        },
+        {
+          "name": "IG对TSW比赛"
+        },
+        {
+          "name": "T1对DK比赛"
+        },
+        {
+          "name": "BLG对TL比赛"
+        },
+        {
+          "name": "英雄联盟BP与版本"
+        },
+        {
+          "name": "赛事抽签与赛果"
+        },
+        {
+          "name": "英雄联盟自定义对局"
+        },
+        {
+          "name": "熬夜与早安晚安"
+        }
+      ],
+      "generatedAt": "2026-10-25T02:00:54.278Z"
+    }
   },
   {
     "id": "2026_10_24_19_32_40",

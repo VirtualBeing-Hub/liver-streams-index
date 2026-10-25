@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-24T20:00:51.014Z",
+  "generatedAt": "2026-10-25T20:00:52.240Z",
   "sessions": [
+    {
+      "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
+      "recordedAt": "2026-10-25 19:50:12",
+      "title": "陪你这个猪过周日！唱唱聊聊",
+      "complete": true
+    },
     {
       "id": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023",
       "recordedAt": "2026-10-23 20:00:30",
@@ -461,6 +467,51 @@
         "bvid": "BV1TSne68ExE",
         "part": 1,
         "url": "https://www.bilibili.com/video/BV1TSne68ExE/?p=1"
+      }
+    },
+    {
+      "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8:activity-1",
+      "sessionId": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
+      "name": "情书",
+      "start": 706.509,
+      "end": 977.6,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1uenD6yEad",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=1"
+      }
+    },
+    {
+      "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8:activity-2",
+      "sessionId": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
+      "name": "绝对占有 相对自由",
+      "start": 3152.389,
+      "end": 3597,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1uenD6yEad",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=2"
+      }
+    },
+    {
+      "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8:activity-4",
+      "sessionId": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
+      "name": "那个女孩",
+      "start": 7055.84,
+      "end": 7381,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1uenD6yEad",
+        "part": 3,
+        "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=3"
       }
     }
   ]

@@ -1,18 +1,39 @@
 [
   {
+    "id": "2026_10_26_00_46_39",
+    "title": "今天IG我很怕！",
+    "date": "2026-10-25",
+    "time": "00:46:39",
+    "startTime": "00:46",
+    "endTime": "02:57",
+    "duration": 7884,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/harei/2026_10_26_00_46_39/录制-1820703922-20261026-004639-968-今天IG我很怕！.srt",
+    "xml": "/data/streams/harei/2026_10_26_00_46_39/录制-1820703922-20261026-004639-968-今天IG我很怕！.xml",
+    "cover": "/data/streams/harei/2026_10_26_00_46_39/录制-1820703922-20261026-004639-968-今天IG我很怕！.cover.jpg",
+    "highlights": "/data/streams/harei/2026_10_26_00_46_39/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_26_00_46_39/录制-1820703922-20261026-004639-968-今天IG我很怕！_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_26_00_46_39/录制-1820703922-20261026-004639-968-今天IG我很怕！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_25_00_56_40",
     "title": "看谁命长！一考到底！",
     "date": "2026-10-24",
     "time": "00:56:40",
     "startTime": "00:56",
-    "endTime": "04:00",
-    "duration": 11059,
-    "durationStr": "3.1 小时",
-    "srt": null,
+    "endTime": "09:29",
+    "duration": 30803,
+    "durationStr": "8.6 小时",
+    "srt": "/data/streams/harei/2026_10_25_00_56_40/录制-1820703922-20261025-005640-045-看谁命长！一考到底！.srt",
     "xml": "/data/streams/harei/2026_10_25_00_56_40/录制-1820703922-20261025-005640-045-看谁命长！一考到底！.xml",
     "cover": "/data/streams/harei/2026_10_25_00_56_40/录制-1820703922-20261025-005640-045-看谁命长！一考到底！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/harei/2026_10_25_00_56_40/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_25_00_56_40/录制-1820703922-20261025-005640-045-看谁命长！一考到底！_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_25_00_56_40/录制-1820703922-20261025-005640-045-看谁命长！一考到底！_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_24_20_42_58",

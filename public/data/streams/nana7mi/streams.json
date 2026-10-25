@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_10_25_22_24_55",
+    "title": "海水过滤器早就过时了",
+    "date": "2026-10-25",
+    "time": "22:24:55",
+    "startTime": "22:24",
+    "endTime": "03:58",
+    "duration": 20088,
+    "durationStr": "5.6 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_10_25_22_24_55/录制-21452505-20261025-222455-377-海水过滤器早就过时了.xml",
+    "cover": "/data/streams/nana7mi/2026_10_25_22_24_55/录制-21452505-20261025-222455-377-海水过滤器早就过时了.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_25_22_06_49",
+    "title": "海水过滤器早就过时了",
+    "date": "2026-10-25",
+    "time": "22:06:49",
+    "startTime": "22:06",
+    "endTime": "22:22",
+    "duration": 967,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_10_25_22_06_49/录制-21452505-20261025-220649-113-海水过滤器早就过时了.xml",
+    "cover": "/data/streams/nana7mi/2026_10_25_22_06_49/录制-21452505-20261025-220649-113-海水过滤器早就过时了.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_24_23_31_17",
     "title": "海水过滤器早就过时了",
     "date": "2026-10-24",
@@ -8,11 +38,12 @@
     "endTime": "02:45",
     "duration": 11672,
     "durationStr": "3.2 小时",
-    "srt": null,
+    "srt": "/data/streams/nana7mi/2026_10_24_23_31_17/录制-21452505-20261024-233117-841-海水过滤器早就过时了_merged.srt",
     "xml": "/data/streams/nana7mi/2026_10_24_23_31_17/录制-21452505-20261024-233117-841-海水过滤器早就过时了_merged.xml",
     "cover": "/data/streams/nana7mi/2026_10_24_23_31_17/录制-21452505-20261024-233117-841-海水过滤器早就过时了.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/nana7mi/2026_10_24_23_31_17/highlights.md",
     "images": [
+      "/data/streams/nana7mi/2026_10_24_23_31_17/录制-21452505-20261024-233117-841-海水过滤器早就过时了_merged_COMIC_FACTORY.png",
       "/data/streams/nana7mi/2026_10_24_23_31_17/录制-21452505-20261024-233117-841-海水过滤器早就过时了_merged_SCREENSHOTS.jpg"
     ]
   },

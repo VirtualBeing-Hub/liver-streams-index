@@ -1,5 +1,117 @@
 [
   {
+    "id": "2026_10_25_19_54_31",
+    "title": "来一起看！！",
+    "date": "2026-10-25",
+    "time": "19:54:31",
+    "startTime": "19:54",
+    "endTime": "23:48",
+    "duration": 14056,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/viridis/2026_10_25_19_54_31/录制-1727071052-20261025-195431-283-芙娅之魂嘿嘿嘿.srt",
+    "xml": "/data/streams/viridis/2026_10_25_19_54_31/录制-1727071052-20261025-195431-283-芙娅之魂嘿嘿嘿.xml",
+    "cover": "/data/streams/viridis/2026_10_25_19_54_31/录制-1727071052-20261025-195431-283-芙娅之魂嘿嘿嘿.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_10_25_19_54_31/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_10_25_19_54_31/录制-1727071052-20261025-195431-283-芙娅之魂嘿嘿嘿_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_10_25_19_54_31/录制-1727071052-20261025-195431-283-芙娅之魂嘿嘿嘿_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、玩《芙娅之魂》、观看《少女歌剧》剧场版并唱歌",
+      "songs": [
+        {
+          "name": "Starlet"
+        }
+      ],
+      "games": [
+        {
+          "name": "芙娅之魂"
+        }
+      ],
+      "watch": [
+        {
+          "name": "少女歌剧"
+        }
+      ],
+      "other": [
+        {
+          "name": "女仆室友话题"
+        },
+        {
+          "name": "类魂游戏闯关"
+        },
+        {
+          "name": "FPS操作习惯"
+        },
+        {
+          "name": "美术课逃课"
+        },
+        {
+          "name": "少女歌剧剧情"
+        },
+        {
+          "name": "后续动画观看计划"
+        }
+      ],
+      "generatedAt": "2026-10-25T16:11:23.718Z"
+    }
+  },
+  {
+    "id": "2026_10_25_14_00_39",
+    "title": "假装是早台讲半小时话",
+    "date": "2026-10-25",
+    "time": "14:00:39",
+    "startTime": "14:00",
+    "endTime": "14:51",
+    "duration": 3110,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/viridis/2026_10_25_14_00_39/录制-1727071052-20261025-140039-525-假装是早台讲半小时话.srt",
+    "xml": "/data/streams/viridis/2026_10_25_14_00_39/录制-1727071052-20261025-140039-525-假装是早台讲半小时话.xml",
+    "cover": "/data/streams/viridis/2026_10_25_14_00_39/录制-1727071052-20261025-140039-525-假装是早台讲半小时话.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_10_25_14_00_39/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_10_25_14_00_39/录制-1727071052-20261025-140039-525-假装是早台讲半小时话_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_10_25_14_00_39/录制-1727071052-20261025-140039-525-假装是早台讲半小时话_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "聊天杂谈，聊睡眠、护眼、肺活量、跳舞和直播间氛围",
+      "songs": [],
+      "games": [],
+      "watch": [
+        {
+          "name": "少女歌剧"
+        }
+      ],
+      "other": [
+        {
+          "name": "睡十二小时与生物钟"
+        },
+        {
+          "name": "早台与起床状态"
+        },
+        {
+          "name": "捣蛋猪和煎蛋兄弟"
+        },
+        {
+          "name": "视力与保护眼睛"
+        },
+        {
+          "name": "肺活量测试经历"
+        },
+        {
+          "name": "学跳舞与3D回感动"
+        },
+        {
+          "name": "直播间氛围与对抗"
+        },
+        {
+          "name": "嗓子沙哑与下播"
+        }
+      ],
+      "generatedAt": "2026-10-25T07:00:24.304Z"
+    }
+  },
+  {
     "id": "2026_10_24_19_58_54",
     "title": "来玩玩芙娅之魂",
     "date": "2026-10-24",
@@ -71,7 +183,8 @@
     "cover": "/data/streams/viridis/2026_10_23_21_00_54/录制-1727071052-20261023-210054-330-竟然是传说中的行道树！.cover.jpg",
     "highlights": "/data/streams/viridis/2026_10_23_21_00_54/highlights.md",
     "images": [
-      "/data/streams/viridis/2026_10_23_21_00_54/录制-1727071052-20261023-210054-330-竟然是传说中的行道树！_merged_COMIC_FACTORY.png"
+      "/data/streams/viridis/2026_10_23_21_00_54/录制-1727071052-20261023-210054-330-竟然是传说中的行道树！_merged_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_10_23_21_00_54/录制-1727071052-20261023-210054-330-竟然是传说中的行道树！_merged_SCREENSHOTS.jpg"
     ],
     "recap": {
       "overview": "讲解行道树植物知识并围绕上课、组会和生活趣事闲聊。",
@@ -116,11 +229,46 @@
     "endTime": "20:53",
     "duration": 3354,
     "durationStr": "0.9 小时",
-    "srt": null,
+    "srt": "/data/streams/viridis/2026_10_23_19_58_42/录制-1727071052-20261023-195842-097-竟然是传说中的行道树！.srt",
     "xml": "/data/streams/viridis/2026_10_23_19_58_42/录制-1727071052-20261023-195842-097-竟然是传说中的行道树！.xml",
     "cover": "/data/streams/viridis/2026_10_23_19_58_42/录制-1727071052-20261023-195842-097-竟然是传说中的行道树！.cover.jpg",
-    "highlights": null,
-    "images": []
+    "highlights": "/data/streams/viridis/2026_10_23_19_58_42/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_10_23_19_58_42/录制-1727071052-20261023-195842-097-竟然是传说中的行道树！_COMIC_FACTORY.png"
+    ],
+    "recap": {
+      "overview": "聊天并讲解行道树PPT，介绍多种植物的特征与相关知识。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "汇报前的紧张与压力"
+        },
+        {
+          "name": "行道树PPT制作流程"
+        },
+        {
+          "name": "紫薇花与树皮特征"
+        },
+        {
+          "name": "石楠花气味与绿化"
+        },
+        {
+          "name": "蔷薇科植物分类"
+        },
+        {
+          "name": "雪松与松节油"
+        },
+        {
+          "name": "植物叶片与秋色"
+        },
+        {
+          "name": "路边植物能否食用"
+        }
+      ],
+      "generatedAt": "2026-10-24T20:50:23.741Z"
+    }
   },
   {
     "id": "2026_10_22_21_57_18",
