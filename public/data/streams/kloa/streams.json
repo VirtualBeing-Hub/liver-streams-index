@@ -1,7 +1,25 @@
 [
   {
+    "id": "2026_10_26_20_02_33",
+    "title": "歌杂~",
+    "date": "2026-10-26",
+    "time": "20:02:33",
+    "startTime": "20:02",
+    "endTime": "23:26",
+    "duration": 12244,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/kloa/2026_10_26_20_02_33/录制-1986461465-20261026-200233-340-歌杂~_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_26_20_02_33/录制-1986461465-20261026-200233-340-歌杂~_merged.xml",
+    "cover": "/data/streams/kloa/2026_10_26_20_02_33/录制-1986461465-20261026-200233-340-歌杂~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_26_20_02_33/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_26_20_02_33/录制-1986461465-20261026-200233-340-歌杂~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_26_20_02_33/录制-1986461465-20261026-200233-340-歌杂~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_25_20_02_42",
-    "title": "唱歌歌~",
+    "title": "歌杂~",
     "date": "2026-10-25",
     "time": "20:02:42",
     "startTime": "20:02",

@@ -1,5 +1,153 @@
 [
   {
+    "id": "2026_10_26_20_02_33",
+    "title": "【虚度】⭐休息休息休息",
+    "date": "2026-10-26",
+    "time": "20:02:33",
+    "startTime": "20:02",
+    "endTime": "23:02",
+    "duration": 10813,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/mizuki/2026_10_26_20_02_33/录制-30655190-20261026-200233-077-【芙娅之魂】⭐冲刺！_merged.srt",
+    "xml": "/data/streams/mizuki/2026_10_26_20_02_33/录制-30655190-20261026-200233-077-【芙娅之魂】⭐冲刺！_merged.xml",
+    "cover": "/data/streams/mizuki/2026_10_26_20_02_33/录制-30655190-20261026-200233-077-【芙娅之魂】⭐冲刺！.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_26_20_02_33/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_26_20_02_33/录制-30655190-20261026-200233-077-【芙娅之魂】⭐冲刺！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "玩《芙娅之魂》鏖战Boss后通关，随后闲聊游戏与动漫。",
+      "songs": [],
+      "games": [
+        {
+          "name": "芙娅之魂"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "Boss鏖战"
+        },
+        {
+          "name": "FF14"
+        },
+        {
+          "name": "动漫推荐"
+        },
+        {
+          "name": "Minecraft"
+        }
+      ],
+      "generatedAt": "2026-10-26T15:24:43.715Z"
+    }
+  },
+  {
+    "id": "2026_10_26_15_02_29",
+    "title": "【深渊】⭐一看就很久没玩了",
+    "date": "2026-10-26",
+    "time": "15:02:29",
+    "startTime": "15:02",
+    "endTime": "18:22",
+    "duration": 12019,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mizuki/2026_10_26_15_02_29/录制-30655190-20261026-150229-170-【深渊】⭐一看就很久没玩了_merged.srt",
+    "xml": "/data/streams/mizuki/2026_10_26_15_02_29/录制-30655190-20261026-150229-170-【深渊】⭐一看就很久没玩了_merged.xml",
+    "cover": "/data/streams/mizuki/2026_10_26_15_02_29/录制-30655190-20261026-150229-170-【深渊】⭐一看就很久没玩了.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_26_15_02_29/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_26_15_02_29/录制-30655190-20261026-150229-170-【深渊】⭐一看就很久没玩了_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_26_15_02_29/录制-30655190-20261026-150229-170-【深渊】⭐一看就很久没玩了_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "聊天并游玩《崩坏：星穹铁道》《原神》和《绝区零》",
+      "songs": [],
+      "games": [
+        {
+          "name": "崩坏：星穹铁道"
+        },
+        {
+          "name": "原神"
+        },
+        {
+          "name": "绝区零"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "原神角色养成与深渊挑战"
+        },
+        {
+          "name": "崩铁配队与王棋挑战"
+        },
+        {
+          "name": "绝区零操作挑战"
+        },
+        {
+          "name": "真珠配队与抽卡讨论"
+        },
+        {
+          "name": "咖啡与肚子不适"
+        }
+      ],
+      "generatedAt": "2026-10-26T12:15:40.823Z"
+    }
+  },
+  {
+    "id": "2026_10_26_11_13_14",
+    "title": "【早早】⭐的播",
+    "date": "2026-10-26",
+    "time": "11:13:14",
+    "startTime": "11:13",
+    "endTime": "13:00",
+    "duration": 6451,
+    "durationStr": "1.8 小时",
+    "srt": "/data/streams/mizuki/2026_10_26_11_13_14/录制-30655190-20261026-111314-495-【早早】⭐的播.srt",
+    "xml": "/data/streams/mizuki/2026_10_26_11_13_14/录制-30655190-20261026-111314-495-【早早】⭐的播.xml",
+    "cover": "/data/streams/mizuki/2026_10_26_11_13_14/录制-30655190-20261026-111314-495-【早早】⭐的播.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_26_11_13_14/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_26_11_13_14/录制-30655190-20261026-111314-495-【早早】⭐的播_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_26_11_13_14/录制-30655190-20261026-111314-495-【早早】⭐的播_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "早间杂谈、讨论周播安排与游戏，末尾唱歌",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "周播安排与休息"
+        },
+        {
+          "name": "影之刃零排期"
+        },
+        {
+          "name": "野生西瓜生日回"
+        },
+        {
+          "name": "咒术回战遭剧透"
+        },
+        {
+          "name": "舰长礼物审核规则"
+        },
+        {
+          "name": "充电表情包征集"
+        },
+        {
+          "name": "星露谷模组与厕所"
+        },
+        {
+          "name": "手柄选购与手痛"
+        },
+        {
+          "name": "联动游戏搭档"
+        }
+      ],
+      "generatedAt": "2026-10-26T05:09:09.592Z"
+    }
+  },
+  {
     "id": "2026_10_25_21_02_46",
     "title": "【歌杂】⭐内心有点悸动",
     "date": "2026-10-25",

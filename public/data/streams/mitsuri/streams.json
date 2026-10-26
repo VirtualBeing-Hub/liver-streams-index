@@ -1,18 +1,86 @@
 [
   {
+    "id": "2026_10_26_22_46_37",
+    "title": "嘟嘟！！",
+    "date": "2026-10-26",
+    "time": "22:46:37",
+    "startTime": "22:46",
+    "endTime": "03:58",
+    "duration": 18765,
+    "durationStr": "5.2 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_10_26_22_46_37/录制-1967216004-20261026-224637-593-嘟嘟！！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_26_22_46_37/录制-1967216004-20261026-224637-593-嘟嘟！！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_25_21_35_21",
     "title": "我要成为101高手！！",
     "date": "2026-10-25",
     "time": "21:35:21",
     "startTime": "21:35",
-    "endTime": "04:00",
-    "duration": 23127,
-    "durationStr": "6.4 小时",
-    "srt": null,
+    "endTime": "07:22",
+    "duration": 35254,
+    "durationStr": "9.8 小时",
+    "srt": "/data/streams/mitsuri/2026_10_25_21_35_21/录制-1967216004-20261025-213521-430-我要成为101高手！！.srt",
     "xml": "/data/streams/mitsuri/2026_10_25_21_35_21/录制-1967216004-20261025-213521-430-我要成为101高手！！.xml",
     "cover": "/data/streams/mitsuri/2026_10_25_21_35_21/录制-1967216004-20261025-213521-430-我要成为101高手！！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_10_25_21_35_21/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_25_21_35_21/录制-1967216004-20261025-213521-430-我要成为101高手！！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_25_21_35_21/录制-1967216004-20261025-213521-430-我要成为101高手！！_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "聊天、唱歌、玩《英雄联盟》排位，并观看赛事和视频。",
+      "songs": [
+        {
+          "name": "樱花草"
+        },
+        {
+          "name": "倔强"
+        },
+        {
+          "name": "夏天的风"
+        },
+        {
+          "name": "Blueming"
+        }
+      ],
+      "games": [
+        {
+          "name": "英雄联盟"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "睡眠不足与熬夜"
+        },
+        {
+          "name": "抽奖和涨粉"
+        },
+        {
+          "name": "英雄联盟排位"
+        },
+        {
+          "name": "LPL赛事与赛后分析"
+        },
+        {
+          "name": "IG战胜HLE"
+        },
+        {
+          "name": "TES战胜G2"
+        },
+        {
+          "name": "DK晋级八强"
+        },
+        {
+          "name": "AI选手短视频"
+        }
+      ],
+      "generatedAt": "2026-10-25T23:40:59.283Z"
+    }
   },
   {
     "id": "2026_10_25_00_48_28",

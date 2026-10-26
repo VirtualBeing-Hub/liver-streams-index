@@ -1,5 +1,38 @@
 [
   {
+    "id": "2026_10_27_00_49_20",
+    "title": "今晚的lpl我很怕！",
+    "date": "2026-10-26",
+    "time": "00:49:20",
+    "startTime": "00:49",
+    "endTime": "03:59",
+    "duration": 11455,
+    "durationStr": "3.2 小时",
+    "srt": null,
+    "xml": "/data/streams/harei/2026_10_27_00_49_20/录制-1820703922-20261027-004920-575-今晚的lpl我很怕！.xml",
+    "cover": "/data/streams/harei/2026_10_27_00_49_20/录制-1820703922-20261027-004920-575-今晚的lpl我很怕！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_26_14_02_41",
+    "title": "通勤小鼠歌杂台^^",
+    "date": "2026-10-26",
+    "time": "14:02:41",
+    "startTime": "14:02",
+    "endTime": "16:34",
+    "duration": 9178,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/harei/2026_10_26_14_02_41/录制-1820703922-20261026-140241-255-通勤小鼠歌杂台^^_merged.srt",
+    "xml": "/data/streams/harei/2026_10_26_14_02_41/录制-1820703922-20261026-140241-255-通勤小鼠歌杂台^^_merged.xml",
+    "cover": "/data/streams/harei/2026_10_26_14_02_41/录制-1820703922-20261026-140241-255-通勤小鼠歌杂台^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_10_26_14_02_41/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_26_14_02_41/录制-1820703922-20261026-140241-255-通勤小鼠歌杂台^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_26_14_02_41/录制-1820703922-20261026-140241-255-通勤小鼠歌杂台^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_26_00_46_39",
     "title": "今天IG我很怕！",
     "date": "2026-10-25",

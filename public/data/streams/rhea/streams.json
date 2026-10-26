@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_26_21_43_06",
+    "title": "【魔兽无限】无限……",
+    "date": "2026-10-26",
+    "time": "21:43:06",
+    "startTime": "21:43",
+    "endTime": "00:38",
+    "duration": 10544,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/rhea/2026_10_26_21_43_06/录制-23260993-20261026-214306-484-【魔兽无限】关服前的疯狂_merged.srt",
+    "xml": "/data/streams/rhea/2026_10_26_21_43_06/录制-23260993-20261026-214306-484-【魔兽无限】关服前的疯狂_merged.xml",
+    "cover": "/data/streams/rhea/2026_10_26_21_43_06/录制-23260993-20261026-214306-484-【魔兽无限】关服前的疯狂.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_10_26_21_43_06/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_10_26_21_43_06/录制-23260993-20261026-214306-484-【魔兽无限】关服前的疯狂_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_10_26_21_43_06/录制-23260993-20261026-214306-484-【魔兽无限】关服前的疯狂_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_26_19_07_22",
+    "title": "【魔兽无限】今晚狂欢夜",
+    "date": "2026-10-26",
+    "time": "19:07:22",
+    "startTime": "19:07",
+    "endTime": "20:45",
+    "duration": 5898,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/rhea/2026_10_26_19_07_22/录制-23260993-20261026-190722-870-【魔兽无限】今晚狂欢夜_merged.srt",
+    "xml": "/data/streams/rhea/2026_10_26_19_07_22/录制-23260993-20261026-190722-870-【魔兽无限】今晚狂欢夜_merged.xml",
+    "cover": "/data/streams/rhea/2026_10_26_19_07_22/录制-23260993-20261026-190722-870-【魔兽无限】今晚狂欢夜.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_10_26_19_07_22/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_10_26_19_07_22/录制-23260993-20261026-190722-870-【魔兽无限】今晚狂欢夜_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_10_26_19_07_22/录制-23260993-20261026-190722-870-【魔兽无限】今晚狂欢夜_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_24_21_10_15",
     "title": "【读棉花糖】你瑞考子几级",
     "date": "2026-10-24",

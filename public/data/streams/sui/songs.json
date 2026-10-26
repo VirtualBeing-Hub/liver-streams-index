@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-25T20:00:52.240Z",
+  "generatedAt": "2026-10-26T20:00:20.009Z",
   "sessions": [
+    {
+      "id": "d8ee0cdeb0b5cc212da81bb4e6d46ffc89d7badcbcd139f8b7ceadaeb76940c6",
+      "recordedAt": "2026-10-26 20:04:16",
+      "title": "陪你这个猪过周一！唱唱聊聊_merged",
+      "complete": true
+    },
     {
       "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
       "recordedAt": "2026-10-25 19:50:12",
@@ -512,6 +518,21 @@
         "bvid": "BV1uenD6yEad",
         "part": 3,
         "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=3"
+      }
+    },
+    {
+      "id": "d8ee0cdeb0b5cc212da81bb4e6d46ffc89d7badcbcd139f8b7ceadaeb76940c6:activity-1",
+      "sessionId": "d8ee0cdeb0b5cc212da81bb4e6d46ffc89d7badcbcd139f8b7ceadaeb76940c6",
+      "name": "大笨钟",
+      "start": 8253,
+      "end": 8443,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV15qnf6yE2k",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV15qnf6yE2k/?p=1"
       }
     }
   ]
