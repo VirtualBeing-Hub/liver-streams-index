@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_27_18_26_51",
+    "title": "逆转裁判第四弹~",
+    "date": "2026-10-27",
+    "time": "18:26:51",
+    "startTime": "18:26",
+    "endTime": "00:55",
+    "duration": 23385,
+    "durationStr": "6.5 小时",
+    "srt": "/data/streams/liko/2026_10_27_18_26_51/录制-1713548468-20261027-182651-176-逆转裁判第四弹~_merged.srt",
+    "xml": "/data/streams/liko/2026_10_27_18_26_51/录制-1713548468-20261027-182651-176-逆转裁判第四弹~_merged.xml",
+    "cover": "/data/streams/liko/2026_10_27_18_26_51/录制-1713548468-20261027-182651-176-逆转裁判第四弹~.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_27_18_26_51/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_27_18_26_51/录制-1713548468-20261027-182651-176-逆转裁判第四弹~_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_27_18_26_51/录制-1713548468-20261027-182651-176-逆转裁判第四弹~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_27_11_04_31",
+    "title": "中午好呀",
+    "date": "2026-10-27",
+    "time": "11:04:31",
+    "startTime": "11:04",
+    "endTime": "14:07",
+    "duration": 11026,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/liko/2026_10_27_11_04_31/录制-1713548468-20261027-110431-587-中午好呀.srt",
+    "xml": "/data/streams/liko/2026_10_27_11_04_31/录制-1713548468-20261027-110431-587-中午好呀.xml",
+    "cover": "/data/streams/liko/2026_10_27_11_04_31/录制-1713548468-20261027-110431-587-中午好呀.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_27_11_04_31/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_27_11_04_31/录制-1713548468-20261027-110431-587-中午好呀_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_27_11_04_31/录制-1713548468-20261027-110431-587-中午好呀_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_26_20_04_22",
     "title": "激情周一又来咯！",
     "date": "2026-10-26",

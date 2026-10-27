@@ -1,5 +1,120 @@
 [
   {
+    "id": "2026_10_27_21_05_35",
+    "title": "ovo",
+    "date": "2026-10-27",
+    "time": "21:05:35",
+    "startTime": "21:05",
+    "endTime": "00:10",
+    "duration": 11110,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/mofu/2026_10_27_21_05_35/录制-1791260716-20261027-210535-073-ovo_merged.srt",
+    "xml": "/data/streams/mofu/2026_10_27_21_05_35/录制-1791260716-20261027-210535-073-ovo_merged.xml",
+    "cover": "/data/streams/mofu/2026_10_27_21_05_35/录制-1791260716-20261027-210535-073-ovo.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_27_21_05_35/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_27_21_05_35/录制-1791260716-20261027-210535-073-ovo_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_27_21_05_35/录制-1791260716-20261027-210535-073-ovo_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、看B站赛事解说视频",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "透明狗形象设计"
+        },
+        {
+          "name": "粉丝形象大乱斗"
+        },
+        {
+          "name": "舞蹈课与练舞"
+        },
+        {
+          "name": "电竞赛事与观赛"
+        },
+        {
+          "name": "同人文话题"
+        },
+        {
+          "name": "AI待机画面"
+        },
+        {
+          "name": "睡眠作息与蚊子"
+        },
+        {
+          "name": "饮食与健身"
+        },
+        {
+          "name": "皮肤护理"
+        },
+        {
+          "name": "伴手礼"
+        }
+      ],
+      "generatedAt": "2026-10-27T16:31:43.941Z"
+    }
+  },
+  {
+    "id": "2026_10_27_09_34_50",
+    "title": "ovo",
+    "date": "2026-10-27",
+    "time": "09:34:50",
+    "startTime": "09:34",
+    "endTime": "11:27",
+    "duration": 6830,
+    "durationStr": "1.9 小时",
+    "srt": "/data/streams/mofu/2026_10_27_09_34_50/录制-1791260716-20261027-093450-045-ovo_merged.srt",
+    "xml": "/data/streams/mofu/2026_10_27_09_34_50/录制-1791260716-20261027-093450-045-ovo_merged.xml",
+    "cover": "/data/streams/mofu/2026_10_27_09_34_50/录制-1791260716-20261027-093450-045-ovo.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_10_27_09_34_50/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_27_09_34_50/录制-1791260716-20261027-093450-045-ovo_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_27_09_34_50/录制-1791260716-20261027-093450-045-ovo_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "直播睡醒后与观众聊天，聊蚊子、电竞、游戏和吃饭，也唱了几句歌。",
+      "songs": [
+        {
+          "name": "好想好想"
+        },
+        {
+          "name": "My Jealousy"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "睡播与蚊子"
+        },
+        {
+          "name": "LPL世界赛"
+        },
+        {
+          "name": "Dota与自走棋"
+        },
+        {
+          "name": "吃饭和外卖"
+        },
+        {
+          "name": "房间布局与独居"
+        },
+        {
+          "name": "韩剧和剧情解说"
+        },
+        {
+          "name": "英雄联盟玩法"
+        },
+        {
+          "name": "刷牙与牙套"
+        }
+      ],
+      "generatedAt": "2026-10-27T03:36:19.833Z"
+    }
+  },
+  {
     "id": "2026_10_27_03_41_09",
     "title": "ovo",
     "date": "2026-10-26",
@@ -151,18 +266,20 @@
   },
   {
     "id": "2026_10_26_19_02_50",
-    "title": "无限的魔！",
+    "title": "ovo",
     "date": "2026-10-26",
     "time": "19:02:50",
     "startTime": "19:02",
-    "endTime": "20:01",
-    "duration": 3565,
-    "durationStr": "1.0 小时",
+    "endTime": "04:39",
+    "duration": 34660,
+    "durationStr": "9.6 小时",
     "srt": null,
-    "xml": "/data/streams/mofu/2026_10_26_19_02_50/录制-1791260716-20261026-190250-934-无限的魔！.xml",
+    "xml": "/data/streams/mofu/2026_10_26_19_02_50/录制-1791260716-20261026-190250-934-无限的魔！_merged.xml",
     "cover": "/data/streams/mofu/2026_10_26_19_02_50/录制-1791260716-20261026-190250-934-无限的魔！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": null,
+    "images": [
+      "/data/streams/mofu/2026_10_26_19_02_50/录制-1791260716-20261026-190250-934-无限的魔！_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_25_17_32_21",

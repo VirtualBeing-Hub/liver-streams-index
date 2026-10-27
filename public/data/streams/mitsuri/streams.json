@@ -1,18 +1,112 @@
 [
   {
+    "id": "2026_10_27_23_36_57",
+    "title": "嘟嘟登场！！",
+    "date": "2026-10-27",
+    "time": "23:36:57",
+    "startTime": "23:36",
+    "endTime": "01:33",
+    "duration": 7076,
+    "durationStr": "2.0 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_10_27_23_36_57/录制-1967216004-20261027-233657-503-嘟嘟登场！！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_27_23_36_57/录制-1967216004-20261027-233657-503-嘟嘟登场！！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_27_22_32_35",
+    "title": "嘟嘟登场！！",
+    "date": "2026-10-27",
+    "time": "22:32:35",
+    "startTime": "22:32",
+    "endTime": "23:35",
+    "duration": 3823,
+    "durationStr": "1.1 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_10_27_22_32_35/录制-1967216004-20261027-223235-175-嘟嘟登场！！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_27_22_32_35/录制-1967216004-20261027-223235-175-嘟嘟登场！！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_26_22_46_37",
     "title": "嘟嘟！！",
     "date": "2026-10-26",
     "time": "22:46:37",
     "startTime": "22:46",
-    "endTime": "03:58",
-    "duration": 18765,
-    "durationStr": "5.2 小时",
-    "srt": null,
+    "endTime": "07:19",
+    "duration": 30821,
+    "durationStr": "8.6 小时",
+    "srt": "/data/streams/mitsuri/2026_10_26_22_46_37/录制-1967216004-20261026-224637-593-嘟嘟！！.srt",
     "xml": "/data/streams/mitsuri/2026_10_26_22_46_37/录制-1967216004-20261026-224637-593-嘟嘟！！.xml",
     "cover": "/data/streams/mitsuri/2026_10_26_22_46_37/录制-1967216004-20261026-224637-593-嘟嘟！！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_10_26_22_46_37/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_26_22_46_37/录制-1967216004-20261026-224637-593-嘟嘟！！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_26_22_46_37/录制-1967216004-20261026-224637-593-嘟嘟！！_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "闲聊、唱歌并观看电竞比赛与视频，讨论赛事、宿敌CP和耳机。",
+      "songs": [
+        {
+          "name": "兜圈"
+        },
+        {
+          "name": "带我走"
+        },
+        {
+          "name": "几分之几"
+        },
+        {
+          "name": "雨爱"
+        },
+        {
+          "name": "安静了"
+        },
+        {
+          "name": "黑色幽默"
+        },
+        {
+          "name": "你就不要想起我"
+        },
+        {
+          "name": "天亮了"
+        },
+        {
+          "name": "鱼仔"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "耳机佩戴与监听"
+        },
+        {
+          "name": "直播间昵称讨论"
+        },
+        {
+          "name": "宿敌CP与性转"
+        },
+        {
+          "name": "AI性转短视频"
+        },
+        {
+          "name": "英雄联盟赛事解说"
+        },
+        {
+          "name": "AL对阵TL比赛"
+        },
+        {
+          "name": "T1对阵CFO比赛"
+        },
+        {
+          "name": "瑞士轮抽签结果"
+        }
+      ],
+      "generatedAt": "2026-10-26T23:36:58.788Z"
+    }
   },
   {
     "id": "2026_10_25_21_35_21",

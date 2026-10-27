@@ -1,5 +1,50 @@
 [
   {
+    "id": "2026_10_28_01_17_03",
+    "title": "额啊",
+    "date": "2026-10-27",
+    "time": "01:17:03",
+    "startTime": "01:17",
+    "endTime": "04:00",
+    "duration": 9797,
+    "durationStr": "2.7 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_10_28_01_17_03/录制-21452505-20261028-011703-804-额啊.xml",
+    "cover": "/data/streams/nana7mi/2026_10_28_01_17_03/录制-21452505-20261028-011703-804-额啊.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_27_23_36_58",
+    "title": "额啊",
+    "date": "2026-10-27",
+    "time": "23:36:58",
+    "startTime": "23:36",
+    "endTime": "01:15",
+    "duration": 5990,
+    "durationStr": "1.7 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_10_27_23_36_58/录制-21452505-20261027-233658-324-额啊.xml",
+    "cover": "/data/streams/nana7mi/2026_10_27_23_36_58/录制-21452505-20261027-233658-324-额啊.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_27_20_58_44",
+    "title": "额啊",
+    "date": "2026-10-27",
+    "time": "20:58:44",
+    "startTime": "20:58",
+    "endTime": "23:35",
+    "duration": 9463,
+    "durationStr": "2.6 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_10_27_20_58_44/录制-21452505-20261027-205844-294-额啊.xml",
+    "cover": "/data/streams/nana7mi/2026_10_27_20_58_44/录制-21452505-20261027-205844-294-额啊.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_27_03_29_24",
     "title": "魔兽世界无限服内测最后一天惹",
     "date": "2026-10-26",
@@ -50,14 +95,17 @@
     "date": "2026-10-26",
     "time": "18:34:36",
     "startTime": "18:34",
-    "endTime": "20:01",
-    "duration": 5264,
-    "durationStr": "1.5 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_10_26_18_34_36/录制-21452505-20261026-183436-811-魔兽世界无限服内测最后一天惹.xml",
+    "endTime": "04:46",
+    "duration": 36756,
+    "durationStr": "10.2 小时",
+    "srt": "/data/streams/nana7mi/2026_10_26_18_34_36/录制-21452505-20261026-183436-811-魔兽世界无限服内测最后一天惹_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_10_26_18_34_36/录制-21452505-20261026-183436-811-魔兽世界无限服内测最后一天惹_merged.xml",
     "cover": "/data/streams/nana7mi/2026_10_26_18_34_36/录制-21452505-20261026-183436-811-魔兽世界无限服内测最后一天惹.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_10_26_18_34_36/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_26_18_34_36/录制-21452505-20261026-183436-811-魔兽世界无限服内测最后一天惹_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_26_18_34_36/录制-21452505-20261026-183436-811-魔兽世界无限服内测最后一天惹_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_25_22_24_55",

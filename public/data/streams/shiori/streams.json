@@ -1,5 +1,114 @@
 [
   {
+    "id": "2026_10_27_22_07_19",
+    "title": "小栞来(_^▽^_)",
+    "date": "2026-10-27",
+    "time": "22:07:19",
+    "startTime": "22:07",
+    "endTime": "00:38",
+    "duration": 9081,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/shiori/2026_10_27_22_07_19/录制-26966466-20261027-220719-199-小栞来；；_merged.srt",
+    "xml": "/data/streams/shiori/2026_10_27_22_07_19/录制-26966466-20261027-220719-199-小栞来；；_merged.xml",
+    "cover": "/data/streams/shiori/2026_10_27_22_07_19/录制-26966466-20261027-220719-199-小栞来；；.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_10_27_22_07_19/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_10_27_22_07_19/录制-26966466-20261027-220719-199-小栞来；；_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_10_27_22_07_19/录制-26966466-20261027-220719-199-小栞来；；_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌、玩《东方魔塔》和《绯红编年的诗梦》",
+      "songs": [],
+      "games": [
+        {
+          "name": "东方魔塔"
+        },
+        {
+          "name": "绯红编年的诗梦"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "色纸印章与印油"
+        },
+        {
+          "name": "VR同事恋爱玩笑"
+        },
+        {
+          "name": "Steam好友清理与辨认"
+        },
+        {
+          "name": "椰子鸡和鸡脆骨"
+        },
+        {
+          "name": "天使恶魔装扮"
+        },
+        {
+          "name": "天降青梅梗"
+        },
+        {
+          "name": "鸡排与银松镇话题"
+        }
+      ],
+      "generatedAt": "2026-10-27T16:52:14.940Z"
+    }
+  },
+  {
+    "id": "2026_10_27_10_11_28",
+    "title": "早安獭獭栞！",
+    "date": "2026-10-27",
+    "time": "10:11:28",
+    "startTime": "10:11",
+    "endTime": "12:12",
+    "duration": 7314,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/shiori/2026_10_27_10_11_28/录制-26966466-20261027-101128-585-早安獭獭栞！_merged.srt",
+    "xml": "/data/streams/shiori/2026_10_27_10_11_28/录制-26966466-20261027-101128-585-早安獭獭栞！_merged.xml",
+    "cover": "/data/streams/shiori/2026_10_27_10_11_28/录制-26966466-20261027-101128-585-早安獭獭栞！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_10_27_10_11_28/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_10_27_10_11_28/录制-26966466-20261027-101128-585-早安獭獭栞！_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_10_27_10_11_28/录制-26966466-20261027-101128-585-早安獭獭栞！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、看视频、唱歌",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "按摩店经历"
+        },
+        {
+          "name": "烤西葫芦与烧烤"
+        },
+        {
+          "name": "豆包角色扮演"
+        },
+        {
+          "name": "称体重与增肥"
+        },
+        {
+          "name": "鼻炎与空鼻症"
+        },
+        {
+          "name": "护肝片与健康"
+        },
+        {
+          "name": "别墅与女仆话题"
+        },
+        {
+          "name": "联机游戏计划"
+        },
+        {
+          "name": "外卖与餐食"
+        }
+      ],
+      "generatedAt": "2026-10-27T04:22:10.930Z"
+    }
+  },
+  {
     "id": "2026_10_25_22_16_40",
     "title": "小栞来晚啦！！",
     "date": "2026-10-25",

@@ -1,5 +1,61 @@
 [
   {
+    "id": "2026_10_27_19_58_29",
+    "title": "别别别",
+    "date": "2026-10-27",
+    "time": "19:58:29",
+    "startTime": "19:58",
+    "endTime": "01:12",
+    "duration": 18865,
+    "durationStr": "5.2 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_10_27_19_58_29/录制-25034104-20261027-195829-811-别别别_merged.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_10_27_19_58_29/录制-25034104-20261027-195829-811-别别别_merged.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_10_27_19_58_29/录制-25034104-20261027-195829-811-别别别.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_10_27_19_58_29/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_10_27_19_58_29/录制-25034104-20261027-195829-811-别别别_merged_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_10_27_19_58_29/录制-25034104-20261027-195829-811-别别别_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、为观众唱生日快乐歌，并观看《楚汉传奇》",
+      "songs": [
+        {
+          "name": "生日快乐歌"
+        }
+      ],
+      "games": [],
+      "watch": [
+        {
+          "name": "楚汉传奇"
+        }
+      ],
+      "other": [
+        {
+          "name": "舰长礼物与地址填写"
+        },
+        {
+          "name": "足球赛事和战队表现"
+        },
+        {
+          "name": "科比梗与烧烤店"
+        },
+        {
+          "name": "AI工具与翻译"
+        },
+        {
+          "name": "补牙与牙科护理"
+        },
+        {
+          "name": "秋招与工作焦虑"
+        },
+        {
+          "name": "历史剧人物塑造"
+        }
+      ],
+      "generatedAt": "2026-10-27T17:28:20.480Z"
+    }
+  },
+  {
     "id": "2026_10_25_19_01_15",
     "title": "西部快枪手（咦？",
     "date": "2026-10-25",
