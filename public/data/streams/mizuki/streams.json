@@ -1,5 +1,45 @@
 [
   {
+    "id": "2026_10_28_21_03_35",
+    "title": "【弥】⭐来！",
+    "date": "2026-10-28",
+    "time": "21:03:35",
+    "startTime": "21:03",
+    "endTime": "00:51",
+    "duration": 13712,
+    "durationStr": "3.8 小时",
+    "srt": "/data/streams/mizuki/2026_10_28_21_03_35/录制-30655190-20261028-210335-867-【弥】⭐来！_merged.srt",
+    "xml": "/data/streams/mizuki/2026_10_28_21_03_35/录制-30655190-20261028-210335-867-【弥】⭐来！_merged.xml",
+    "cover": "/data/streams/mizuki/2026_10_28_21_03_35/录制-30655190-20261028-210335-867-【弥】⭐来！.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_28_21_03_35/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_28_21_03_35/录制-30655190-20261028-210335-867-【弥】⭐来！_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_28_21_03_35/录制-30655190-20261028-210335-867-【弥】⭐来！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈后观看恐怖片《来了》，结束后聊观感与电影推荐，也聊到抽卡和桌椅选择。",
+      "songs": [],
+      "games": [],
+      "watch": [
+        {
+          "name": "来了"
+        }
+      ],
+      "other": [
+        {
+          "name": "恐怖片推荐"
+        },
+        {
+          "name": "抽卡经历"
+        },
+        {
+          "name": "腰椅与升降桌"
+        }
+      ],
+      "generatedAt": "2026-10-28T17:03:05.675Z"
+    }
+  },
+  {
     "id": "2026_10_27_21_03_19",
     "title": "【旅游】⭐继续看小博兔分享的",
     "date": "2026-10-27",

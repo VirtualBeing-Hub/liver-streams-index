@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-27T20:00:15.471Z",
+  "generatedAt": "2026-10-28T20:00:15.937Z",
   "sessions": [
+    {
+      "id": "7ca11bece06571ca521f748c3f6ed615d44df297515a2f8d09d78f546979e887",
+      "recordedAt": "2026-10-28 22:00:47",
+      "title": "煮你这个猪的周三！",
+      "complete": true
+    },
+    {
+      "id": "05c2588eba88e000aa747a2b182bb04258cf099d7c17489f4663ff8d5485b57e",
+      "recordedAt": "2026-10-28 15:01:42",
+      "title": "和栞栞玩抬棺！",
+      "complete": true
+    },
     {
       "id": "a2c125feaa59cf06378d040889a01161f6a0467172ae1c52e10f417295fa9717",
       "recordedAt": "2026-10-27 20:08:16",
@@ -561,6 +573,17 @@
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "7ca11bece06571ca521f748c3f6ed615d44df297515a2f8d09d78f546979e887:activity-1",
+      "sessionId": "7ca11bece06571ca521f748c3f6ed615d44df297515a2f8d09d78f546979e887",
+      "name": null,
+      "start": 6858,
+      "end": 6875,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
       "clip": null
     }
   ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_28_18_15_39",
+    "title": "精彩的kpl淘汰赛",
+    "date": "2026-10-28",
+    "time": "18:15:39",
+    "startTime": "18:15",
+    "endTime": "22:42",
+    "duration": 16070,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/nightin/2026_10_28_18_15_39/录制-24872476-20261028-181539-147-精彩的kpl淘汰赛.srt",
+    "xml": "/data/streams/nightin/2026_10_28_18_15_39/录制-24872476-20261028-181539-147-精彩的kpl淘汰赛.xml",
+    "cover": "/data/streams/nightin/2026_10_28_18_15_39/录制-24872476-20261028-181539-147-精彩的kpl淘汰赛.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_28_18_15_39/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_28_18_15_39/录制-24872476-20261028-181539-147-精彩的kpl淘汰赛_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_28_18_15_39/录制-24872476-20261028-181539-147-精彩的kpl淘汰赛_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_28_13_10_32",
+    "title": "小众宝藏直播间",
+    "date": "2026-10-28",
+    "time": "13:10:32",
+    "startTime": "13:10",
+    "endTime": "16:10",
+    "duration": 10837,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/nightin/2026_10_28_13_10_32/录制-24872476-20261028-131032-962-小众宝藏直播间.srt",
+    "xml": "/data/streams/nightin/2026_10_28_13_10_32/录制-24872476-20261028-131032-962-小众宝藏直播间.xml",
+    "cover": "/data/streams/nightin/2026_10_28_13_10_32/录制-24872476-20261028-131032-962-小众宝藏直播间.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_28_13_10_32/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_28_13_10_32/录制-24872476-20261028-131032-962-小众宝藏直播间_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_28_13_10_32/录制-24872476-20261028-131032-962-小众宝藏直播间_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_27_18_02_36",
     "title": "精彩的kpl淘汰赛",
     "date": "2026-10-27",
