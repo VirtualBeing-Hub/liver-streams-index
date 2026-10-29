@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_29_21_06_58",
+    "title": "不想起床(_￣m￣)",
+    "date": "2026-10-29",
+    "time": "21:06:58",
+    "startTime": "21:06",
+    "endTime": "00:45",
+    "duration": 13165,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/liko/2026_10_29_21_06_58/录制-1713548468-20261029-210658-348-不想起床(_￣m￣)_merged.srt",
+    "xml": "/data/streams/liko/2026_10_29_21_06_58/录制-1713548468-20261029-210658-348-不想起床(_￣m￣)_merged.xml",
+    "cover": "/data/streams/liko/2026_10_29_21_06_58/录制-1713548468-20261029-210658-348-不想起床(_￣m￣).cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_29_21_06_58/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_29_21_06_58/录制-1713548468-20261029-210658-348-不想起床(_￣m￣)_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_29_21_06_58/录制-1713548468-20261029-210658-348-不想起床(_￣m￣)_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_29_10_04_15",
+    "title": "试一下影之刃零",
+    "date": "2026-10-29",
+    "time": "10:04:15",
+    "startTime": "10:04",
+    "endTime": "15:23",
+    "duration": 19184,
+    "durationStr": "5.3 小时",
+    "srt": "/data/streams/liko/2026_10_29_10_04_15/录制-1713548468-20261029-100415-818-试一下影之刃零_merged.srt",
+    "xml": "/data/streams/liko/2026_10_29_10_04_15/录制-1713548468-20261029-100415-818-试一下影之刃零_merged.xml",
+    "cover": "/data/streams/liko/2026_10_29_10_04_15/录制-1713548468-20261029-100415-818-试一下影之刃零.cover.jpg",
+    "highlights": "/data/streams/liko/2026_10_29_10_04_15/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_10_29_10_04_15/录制-1713548468-20261029-100415-818-试一下影之刃零_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_10_29_10_04_15/录制-1713548468-20261029-100415-818-试一下影之刃零_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_27_18_26_51",
     "title": "逆转裁判第四弹~",
     "date": "2026-10-27",

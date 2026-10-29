@@ -1,5 +1,151 @@
 [
   {
+    "id": "2026_10_29_22_50_37",
+    "title": "困…zzZ",
+    "date": "2026-10-29",
+    "time": "22:50:37",
+    "startTime": "22:50",
+    "endTime": "23:29",
+    "duration": 2390,
+    "durationStr": "0.7 小时",
+    "srt": "/data/streams/mitsuri/2026_10_29_22_50_37/录制-1967216004-20261029-225037-819-困…zzZ.srt",
+    "xml": "/data/streams/mitsuri/2026_10_29_22_50_37/录制-1967216004-20261029-225037-819-困…zzZ.xml",
+    "cover": "/data/streams/mitsuri/2026_10_29_22_50_37/录制-1967216004-20261029-225037-819-困…zzZ.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_29_22_50_37/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_29_22_50_37/录制-1967216004-20261029-225037-819-困…zzZ_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_29_22_50_37/录制-1967216004-20261029-225037-819-困…zzZ_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "深夜聊天，谈到赛事与二路解说，和观众道晚安后下播。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "困倦与作息"
+        },
+        {
+          "name": "即将参加的赛事"
+        },
+        {
+          "name": "二路解说与观赛"
+        },
+        {
+          "name": "对游戏的热爱"
+        },
+        {
+          "name": "休息与身体状况"
+        }
+      ],
+      "generatedAt": "2026-10-29T15:58:55.753Z"
+    }
+  },
+  {
+    "id": "2026_10_29_10_00_28",
+    "title": "又是类魂！！",
+    "date": "2026-10-29",
+    "time": "10:00:28",
+    "startTime": "10:00",
+    "endTime": "15:22",
+    "duration": 19335,
+    "durationStr": "5.4 小时",
+    "srt": "/data/streams/mitsuri/2026_10_29_10_00_28/录制-1967216004-20261029-100028-521-又是类魂！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_10_29_10_00_28/录制-1967216004-20261029-100028-521-又是类魂！！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_10_29_10_00_28/录制-1967216004-20261029-100028-521-又是类魂！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_29_10_00_28/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_29_10_00_28/录制-1967216004-20261029-100028-521-又是类魂！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_29_10_00_28/录制-1967216004-20261029-100028-521-又是类魂！！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、演唱《行走的鱼》、游玩《影之刃零》。",
+      "songs": [
+        {
+          "name": "行走的鱼"
+        }
+      ],
+      "games": [
+        {
+          "name": "影之刃零"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "打赏量力而行"
+        },
+        {
+          "name": "直播间屏蔽词"
+        },
+        {
+          "name": "请假玩游戏"
+        },
+        {
+          "name": "游戏难度选择"
+        },
+        {
+          "name": "手柄操作与震动互动"
+        },
+        {
+          "name": "VR直播设想"
+        },
+        {
+          "name": "《影之刃零》剧情与战斗"
+        }
+      ],
+      "generatedAt": "2026-10-29T07:35:41.778Z"
+    }
+  },
+  {
+    "id": "2026_10_29_06_02_47",
+    "title": "起床看比赛！！",
+    "date": "2026-10-28",
+    "time": "06:02:47",
+    "startTime": "06:02",
+    "endTime": "08:39",
+    "duration": 9458,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/mitsuri/2026_10_29_06_02_47/录制-1967216004-20261029-060247-899-起床看比赛！！.srt",
+    "xml": "/data/streams/mitsuri/2026_10_29_06_02_47/录制-1967216004-20261029-060247-899-起床看比赛！！.xml",
+    "cover": "/data/streams/mitsuri/2026_10_29_06_02_47/录制-1967216004-20261029-060247-899-起床看比赛！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_29_06_02_47/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_29_06_02_47/录制-1967216004-20261029-060247-899-起床看比赛！！_COMIC_FACTORY.png"
+    ],
+    "recap": {
+      "overview": "看《英雄联盟》比赛、看视频、聊天",
+      "songs": [],
+      "games": [],
+      "watch": [
+        {
+          "name": "英雄联盟"
+        }
+      ],
+      "other": [
+        {
+          "name": "IG对阵Lyon比赛"
+        },
+        {
+          "name": "比赛BP与战术"
+        },
+        {
+          "name": "AI搞笑短视频"
+        },
+        {
+          "name": "蒙克《呐喊》"
+        },
+        {
+          "name": "IG晋级八强与赛后采访"
+        },
+        {
+          "name": "次日TES对阵BLG"
+        }
+      ],
+      "generatedAt": "2026-10-29T00:52:29.412Z"
+    }
+  },
+  {
     "id": "2026_10_28_16_02_50",
     "title": "又是类魂！！",
     "date": "2026-10-28",
@@ -13,8 +159,7 @@
     "cover": "/data/streams/mitsuri/2026_10_28_16_02_50/录制-1967216004-20261028-160250-373-又是类魂！！.cover.jpg",
     "highlights": "/data/streams/mitsuri/2026_10_28_16_02_50/highlights.md",
     "images": [
-      "/data/streams/mitsuri/2026_10_28_16_02_50/录制-1967216004-20261028-160250-373-又是类魂！！_COMIC_FACTORY.png",
-      "/data/streams/mitsuri/2026_10_28_16_02_50/录制-1967216004-20261028-160250-373-又是类魂！！_SCREENSHOTS.jpg"
+      "/data/streams/mitsuri/2026_10_28_16_02_50/录制-1967216004-20261028-160250-373-又是类魂！！_COMIC_FACTORY.png"
     ],
     "recap": {
       "overview": "聊天、游玩《芙娅之魂》，探索迷宫、升级配装并挑战首领。",

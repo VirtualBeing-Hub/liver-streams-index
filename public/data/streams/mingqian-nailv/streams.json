@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_10_29_20_03_45",
+    "title": "影之刃0000",
+    "date": "2026-10-29",
+    "time": "20:03:45",
+    "startTime": "20:03",
+    "endTime": "01:41",
+    "duration": 20330,
+    "durationStr": "5.6 小时",
+    "srt": null,
+    "xml": "/data/streams/mingqian-nailv/2026_10_29_20_03_45/录制-25034104-20261029-200345-760-影之刃0000_merged.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_10_29_20_03_45/录制-25034104-20261029-200345-760-影之刃0000.cover.jpg",
+    "highlights": "",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_10_29_20_03_45/录制-25034104-20261029-200345-760-影之刃0000_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_28_12_43_00",
     "title": "困了就睡，醒了就播，别过蓝狗生活！",
     "date": "2026-10-28",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_29_20_05_39",
+    "title": "1616我们喜浣你！",
+    "date": "2026-10-29",
+    "time": "20:05:39",
+    "startTime": "20:05",
+    "endTime": "00:08",
+    "duration": 14639,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/izayoi/2026_10_29_20_05_39/录制-1741667419-20261029-200539-446-1616我们喜浣你！.srt",
+    "xml": "/data/streams/izayoi/2026_10_29_20_05_39/录制-1741667419-20261029-200539-446-1616我们喜浣你！.xml",
+    "cover": "/data/streams/izayoi/2026_10_29_20_05_39/录制-1741667419-20261029-200539-446-1616我们喜浣你！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_29_20_05_39/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_29_20_05_39/录制-1741667419-20261029-200539-446-1616我们喜浣你！_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_29_20_05_39/录制-1741667419-20261029-200539-446-1616我们喜浣你！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_29_09_00_20",
+    "title": "深空当铺！",
+    "date": "2026-10-29",
+    "time": "09:00:20",
+    "startTime": "09:00",
+    "endTime": "14:13",
+    "duration": 18837,
+    "durationStr": "5.2 小时",
+    "srt": "/data/streams/izayoi/2026_10_29_09_00_20/录制-1741667419-20261029-090020-770-吃吃早茶！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_10_29_09_00_20/录制-1741667419-20261029-090020-770-吃吃早茶！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_10_29_09_00_20/录制-1741667419-20261029-090020-770-吃吃早茶！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_10_29_09_00_20/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_10_29_09_00_20/录制-1741667419-20261029-090020-770-吃吃早茶！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_10_29_09_00_20/录制-1741667419-20261029-090020-770-吃吃早茶！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_28_20_02_31",
     "title": "睡得久身体好",
     "date": "2026-10-28",

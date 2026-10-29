@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-28T20:00:15.937Z",
+  "generatedAt": "2026-10-29T20:00:38.986Z",
   "sessions": [
+    {
+      "id": "e66abd44ca23b13f54c24bbf4753d365bb5233396cb9ebc119d57d1e10dd727f",
+      "recordedAt": "2026-10-29 20:03:31",
+      "title": "陪你这个猪过周四！唱唱聊聊_merged",
+      "complete": true
+    },
     {
       "id": "7ca11bece06571ca521f748c3f6ed615d44df297515a2f8d09d78f546979e887",
       "recordedAt": "2026-10-28 22:00:47",

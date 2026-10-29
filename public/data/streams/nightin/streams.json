@@ -1,7 +1,43 @@
 [
   {
-    "id": "2026_10_28_18_15_39",
+    "id": "2026_10_29_18_15_12",
     "title": "精彩的kpl淘汰赛",
+    "date": "2026-10-29",
+    "time": "18:15:12",
+    "startTime": "18:15",
+    "endTime": "22:10",
+    "duration": 14111,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nightin/2026_10_29_18_15_12/录制-24872476-20261029-181512-985-精彩的kpl淘汰赛.srt",
+    "xml": "/data/streams/nightin/2026_10_29_18_15_12/录制-24872476-20261029-181512-985-精彩的kpl淘汰赛.xml",
+    "cover": "/data/streams/nightin/2026_10_29_18_15_12/录制-24872476-20261029-181512-985-精彩的kpl淘汰赛.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_29_18_15_12/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_29_18_15_12/录制-24872476-20261029-181512-985-精彩的kpl淘汰赛_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_29_18_15_12/录制-24872476-20261029-181512-985-精彩的kpl淘汰赛_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_29_10_37_09",
+    "title": "【影之刃零】首发初见！！",
+    "date": "2026-10-29",
+    "time": "10:37:09",
+    "startTime": "10:37",
+    "endTime": "14:09",
+    "duration": 12771,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/nightin/2026_10_29_10_37_09/录制-24872476-20261029-103709-651-【影之刃零】首发初见！！_merged.srt",
+    "xml": "/data/streams/nightin/2026_10_29_10_37_09/录制-24872476-20261029-103709-651-【影之刃零】首发初见！！_merged.xml",
+    "cover": "/data/streams/nightin/2026_10_29_10_37_09/录制-24872476-20261029-103709-651-【影之刃零】首发初见！！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_10_29_10_37_09/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_10_29_10_37_09/录制-24872476-20261029-103709-651-【影之刃零】首发初见！！_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_10_29_10_37_09/录制-24872476-20261029-103709-651-【影之刃零】首发初见！！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_28_18_15_39",
+    "title": "【影之刃零】首发初见！！",
     "date": "2026-10-28",
     "time": "18:15:39",
     "startTime": "18:15",
