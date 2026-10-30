@@ -1,5 +1,118 @@
 [
   {
+    "id": "2026_10_30_20_03_42",
+    "title": "【闪耀吧！噜咪】⭐爆发！",
+    "date": "2026-10-30",
+    "time": "20:03:42",
+    "startTime": "20:03",
+    "endTime": "20:33",
+    "duration": 1806,
+    "durationStr": "0.5 小时",
+    "srt": null,
+    "xml": "/data/streams/mizuki/2026_10_30_20_03_42/录制-30655190-20261030-200342-024-【闪耀吧！噜咪】⭐爆发！.xml",
+    "cover": "/data/streams/mizuki/2026_10_30_20_03_42/录制-30655190-20261030-200342-024-【闪耀吧！噜咪】⭐爆发！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_30_15_00_13",
+    "title": "【影之刃】⭐part2",
+    "date": "2026-10-30",
+    "time": "15:00:13",
+    "startTime": "15:00",
+    "endTime": "18:12",
+    "duration": 11556,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/mizuki/2026_10_30_15_00_13/录制-30655190-20261030-150013-582-【影之刃】⭐part2.srt",
+    "xml": "/data/streams/mizuki/2026_10_30_15_00_13/录制-30655190-20261030-150013-582-【影之刃】⭐part2.xml",
+    "cover": "/data/streams/mizuki/2026_10_30_15_00_13/录制-30655190-20261030-150013-582-【影之刃】⭐part2.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_30_15_00_13/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_30_15_00_13/录制-30655190-20261030-150013-582-【影之刃】⭐part2_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_30_15_00_13/录制-30655190-20261030-150013-582-【影之刃】⭐part2_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "游玩《影之刃零》，挑战阿花并推进主线，讨论战斗机制与武器装备。",
+      "songs": [],
+      "games": [
+        {
+          "name": "影之刃零"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "阿花Boss挑战"
+        },
+        {
+          "name": "闪避格挡与切刀"
+        },
+        {
+          "name": "武器装备升级"
+        },
+        {
+          "name": "叶问战斗机制"
+        },
+        {
+          "name": "角色身世剧情"
+        }
+      ],
+      "generatedAt": "2026-10-30T10:22:27.206Z"
+    }
+  },
+  {
+    "id": "2026_10_30_11_06_21",
+    "title": "【早】⭐安",
+    "date": "2026-10-30",
+    "time": "11:06:21",
+    "startTime": "11:06",
+    "endTime": "12:20",
+    "duration": 4488,
+    "durationStr": "1.2 小时",
+    "srt": "/data/streams/mizuki/2026_10_30_11_06_21/录制-30655190-20261030-110621-059-【早】⭐安_merged.srt",
+    "xml": "/data/streams/mizuki/2026_10_30_11_06_21/录制-30655190-20261030-110621-059-【早】⭐安_merged.xml",
+    "cover": "/data/streams/mizuki/2026_10_30_11_06_21/录制-30655190-20261030-110621-059-【早】⭐安.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_10_30_11_06_21/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_30_11_06_21/录制-30655190-20261030-110621-059-【早】⭐安_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_30_11_06_21/录制-30655190-20261030-110621-059-【早】⭐安_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、游玩《影之刃零》",
+      "songs": [],
+      "games": [
+        {
+          "name": "影之刃零"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "万圣节日期弄错"
+        },
+        {
+          "name": "鸡蛋与巧克力"
+        },
+        {
+          "name": "盲盒爆率"
+        },
+        {
+          "name": "影之刃零QTE"
+        },
+        {
+          "name": "游戏操作与手柄"
+        },
+        {
+          "name": "直播努力与机遇"
+        },
+        {
+          "name": "早台观众氛围"
+        }
+      ],
+      "generatedAt": "2026-10-30T04:29:49.819Z"
+    }
+  },
+  {
     "id": "2026_10_29_21_02_43",
     "title": "【工作音】⭐（8-12首）",
     "date": "2026-10-29",

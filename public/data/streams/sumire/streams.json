@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026_10_30_20_24_41",
+    "title": "来聊聊我们眼中的世界",
+    "date": "2026-10-30",
+    "time": "20:24:41",
+    "startTime": "20:24",
+    "endTime": "20:33",
+    "duration": 559,
+    "durationStr": "0.2 小时",
+    "srt": null,
+    "xml": "/data/streams/sumire/2026_10_30_20_24_41/录制-1727076670-20261030-202441-058-来聊聊我们眼中的世界.xml",
+    "cover": "/data/streams/sumire/2026_10_30_20_24_41/录制-1727076670-20261030-202441-058-来聊聊我们眼中的世界.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_30_20_03_38",
+    "title": "来聊聊我们眼中的世界",
+    "date": "2026-10-30",
+    "time": "20:03:38",
+    "startTime": "20:03",
+    "endTime": "20:23",
+    "duration": 1256,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/sumire/2026_10_30_20_03_38/录制-1727076670-20261030-200338-808-来聊聊我们眼中的世界.xml",
+    "cover": "/data/streams/sumire/2026_10_30_20_03_38/录制-1727076670-20261030-200338-808-来聊聊我们眼中的世界.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_30_13_25_30",
+    "title": "歪",
+    "date": "2026-10-30",
+    "time": "13:25:30",
+    "startTime": "13:25",
+    "endTime": "13:58",
+    "duration": 2039,
+    "durationStr": "0.6 小时",
+    "srt": "/data/streams/sumire/2026_10_30_13_25_30/录制-1727076670-20261030-132530-243-歪.srt",
+    "xml": "/data/streams/sumire/2026_10_30_13_25_30/录制-1727076670-20261030-132530-243-歪.xml",
+    "cover": "/data/streams/sumire/2026_10_30_13_25_30/录制-1727076670-20261030-132530-243-歪.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_10_30_13_25_30/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_30_13_25_30/录制-1727076670-20261030-132530-243-歪_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_10_29_21_04_54",
     "title": "联动星露谷",
     "date": "2026-10-29",

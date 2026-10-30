@@ -8,13 +8,55 @@
     "endTime": "01:41",
     "duration": 20330,
     "durationStr": "5.6 小时",
-    "srt": null,
+    "srt": "/data/streams/mingqian-nailv/2026_10_29_20_03_45/录制-25034104-20261029-200345-760-影之刃0000_merged.srt",
     "xml": "/data/streams/mingqian-nailv/2026_10_29_20_03_45/录制-25034104-20261029-200345-760-影之刃0000_merged.xml",
     "cover": "/data/streams/mingqian-nailv/2026_10_29_20_03_45/录制-25034104-20261029-200345-760-影之刃0000.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/mingqian-nailv/2026_10_29_20_03_45/highlights.md",
     "images": [
+      "/data/streams/mingqian-nailv/2026_10_29_20_03_45/录制-25034104-20261029-200345-760-影之刃0000_merged_COMIC_FACTORY.png",
       "/data/streams/mingqian-nailv/2026_10_29_20_03_45/录制-25034104-20261029-200345-760-影之刃0000_merged_SCREENSHOTS.jpg"
-    ]
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌并游玩《影之刃零》，体验剧情、探索地图并挑战新娘阿花。",
+      "songs": [
+        {
+          "name": "生日快乐"
+        }
+      ],
+      "games": [
+        {
+          "name": "影之刃零"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "直播麦克风与画质调整"
+        },
+        {
+          "name": "影之刃零难度选择"
+        },
+        {
+          "name": "游戏剧情与角色配音"
+        },
+        {
+          "name": "新娘阿花的战斗机制"
+        },
+        {
+          "name": "闪避、格挡与切换武器"
+        },
+        {
+          "name": "影之刃零游戏评价"
+        },
+        {
+          "name": "鬼武者与影之刃零的战斗差异"
+        },
+        {
+          "name": "Steam家庭组共享游戏"
+        }
+      ],
+      "generatedAt": "2026-10-29T20:26:48.410Z"
+    }
   },
   {
     "id": "2026_10_28_12_43_00",

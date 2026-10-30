@@ -1,5 +1,51 @@
 [
   {
+    "id": "2026_10_30_08_10_27",
+    "title": "「影之刃零」第二回",
+    "date": "2026-10-30",
+    "time": "08:10:27",
+    "startTime": "08:10",
+    "endTime": "13:11",
+    "duration": 18103,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/nagisa/2026_10_30_08_10_27/录制-31368705-20261030-081027-832-「影之刃零」第二回_merged.srt",
+    "xml": "/data/streams/nagisa/2026_10_30_08_10_27/录制-31368705-20261030-081027-832-「影之刃零」第二回_merged.xml",
+    "cover": "/data/streams/nagisa/2026_10_30_08_10_27/录制-31368705-20261030-081027-832-「影之刃零」第二回.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_10_30_08_10_27/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_10_30_08_10_27/录制-31368705-20261030-081027-832-「影之刃零」第二回_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_10_30_08_10_27/录制-31368705-20261030-081027-832-「影之刃零」第二回_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "聊天、游玩《影之刃零》，探索地图、推进剧情并挑战多个BOSS。",
+      "songs": [],
+      "games": [
+        {
+          "name": "影之刃零"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "叶师傅战斗与红蓝光应对"
+        },
+        {
+          "name": "斩马刀与破盾武器搭配"
+        },
+        {
+          "name": "地图探索和支线任务"
+        },
+        {
+          "name": "龙体改造与人偶剧情"
+        },
+        {
+          "name": "睡眠不足与休息"
+        }
+      ],
+      "generatedAt": "2026-10-30T05:23:12.697Z"
+    }
+  },
+  {
     "id": "2026_10_29_12_02_39",
     "title": "「影之刃零」初见",
     "date": "2026-10-29",
@@ -11,7 +57,7 @@
     "srt": null,
     "xml": "/data/streams/nagisa/2026_10_29_12_02_39/录制-31368705-20261029-120239-092-「影之刃零」初见.xml",
     "cover": "/data/streams/nagisa/2026_10_29_12_02_39/录制-31368705-20261029-120239-092-「影之刃零」初见.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": [
       "/data/streams/nagisa/2026_10_29_12_02_39/录制-31368705-20261029-120239-092-「影之刃零」初见_SCREENSHOTS.jpg"
     ]

@@ -1,5 +1,62 @@
 [
   {
+    "id": "2026_10_30_04_11_21",
+    "title": "看比赛！我不困！",
+    "date": "2026-10-29",
+    "time": "04:11:21",
+    "startTime": "04:11",
+    "endTime": "09:21",
+    "duration": 18604,
+    "durationStr": "5.2 小时",
+    "srt": "/data/streams/mitsuri/2026_10_30_04_11_21/录制-1967216004-20261030-041121-975-看比赛！我不困！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_10_30_04_11_21/录制-1967216004-20261030-041121-975-看比赛！我不困！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_10_30_04_11_21/录制-1967216004-20261030-041121-975-看比赛！我不困！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_10_30_04_11_21/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_10_30_04_11_21/录制-1967216004-20261030-041121-975-看比赛！我不困！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_10_30_04_11_21/录制-1967216004-20261030-041121-975-看比赛！我不困！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "解说并观看英雄联盟比赛，期间聊天、看短视频，最后与观众道别。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "KC对阵CFO比赛"
+        },
+        {
+          "name": "滔搏对阵BLG比赛"
+        },
+        {
+          "name": "英雄联盟BP与战术"
+        },
+        {
+          "name": "比赛暂停与设备故障"
+        },
+        {
+          "name": "选手题材短剧视频"
+        },
+        {
+          "name": "JackeyLove脱口秀视频"
+        },
+        {
+          "name": "熬夜与补觉"
+        },
+        {
+          "name": "鼻炎与身体状态"
+        },
+        {
+          "name": "早餐和零食"
+        },
+        {
+          "name": "369打瓦与比赛状态"
+        }
+      ],
+      "generatedAt": "2026-10-30T01:35:05.795Z"
+    }
+  },
+  {
     "id": "2026_10_29_22_50_37",
     "title": "困…zzZ",
     "date": "2026-10-29",
