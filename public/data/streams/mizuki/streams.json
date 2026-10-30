@@ -5,14 +5,42 @@
     "date": "2026-10-30",
     "time": "20:03:42",
     "startTime": "20:03",
-    "endTime": "20:33",
-    "duration": 1806,
-    "durationStr": "0.5 小时",
-    "srt": null,
-    "xml": "/data/streams/mizuki/2026_10_30_20_03_42/录制-30655190-20261030-200342-024-【闪耀吧！噜咪】⭐爆发！.xml",
+    "endTime": "00:38",
+    "duration": 16519,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/mizuki/2026_10_30_20_03_42/录制-30655190-20261030-200342-024-【闪耀吧！噜咪】⭐爆发！_merged.srt",
+    "xml": "/data/streams/mizuki/2026_10_30_20_03_42/录制-30655190-20261030-200342-024-【闪耀吧！噜咪】⭐爆发！_merged.xml",
     "cover": "/data/streams/mizuki/2026_10_30_20_03_42/录制-30655190-20261030-200342-024-【闪耀吧！噜咪】⭐爆发！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mizuki/2026_10_30_20_03_42/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_10_30_20_03_42/录制-30655190-20261030-200342-024-【闪耀吧！噜咪】⭐爆发！_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_10_30_20_03_42/录制-30655190-20261030-200342-024-【闪耀吧！噜咪】⭐爆发！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "玩《噜咪》、看萌宠视频并聊天，话题涉及抽卡、猫咪、嗓子状况和饮食偏好。",
+      "songs": [],
+      "games": [
+        {
+          "name": "噜咪"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "噜咪攒体力盼出彩"
+        },
+        {
+          "name": "萌宠视频与猫咪"
+        },
+        {
+          "name": "嗓子不适"
+        },
+        {
+          "name": "晚饭和食物"
+        }
+      ],
+      "generatedAt": "2026-10-30T16:51:55.055Z"
+    }
   },
   {
     "id": "2026_10_30_15_00_13",

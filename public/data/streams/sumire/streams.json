@@ -20,14 +20,17 @@
     "date": "2026-10-30",
     "time": "20:03:38",
     "startTime": "20:03",
-    "endTime": "20:23",
-    "duration": 1256,
-    "durationStr": "0.3 小时",
-    "srt": null,
-    "xml": "/data/streams/sumire/2026_10_30_20_03_38/录制-1727076670-20261030-200338-808-来聊聊我们眼中的世界.xml",
+    "endTime": "22:29",
+    "duration": 8811,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/sumire/2026_10_30_20_03_38/录制-1727076670-20261030-200338-808-来聊聊我们眼中的世界_merged.srt",
+    "xml": "/data/streams/sumire/2026_10_30_20_03_38/录制-1727076670-20261030-200338-808-来聊聊我们眼中的世界_merged.xml",
     "cover": "/data/streams/sumire/2026_10_30_20_03_38/录制-1727076670-20261030-200338-808-来聊聊我们眼中的世界.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/sumire/2026_10_30_20_03_38/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_10_30_20_03_38/录制-1727076670-20261030-200338-808-来聊聊我们眼中的世界_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_10_30_20_03_38/录制-1727076670-20261030-200338-808-来聊聊我们眼中的世界_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_30_13_25_30",
@@ -43,7 +46,8 @@
     "cover": "/data/streams/sumire/2026_10_30_13_25_30/录制-1727076670-20261030-132530-243-歪.cover.jpg",
     "highlights": "/data/streams/sumire/2026_10_30_13_25_30/highlights.md",
     "images": [
-      "/data/streams/sumire/2026_10_30_13_25_30/录制-1727076670-20261030-132530-243-歪_COMIC_FACTORY.png"
+      "/data/streams/sumire/2026_10_30_13_25_30/录制-1727076670-20261030-132530-243-歪_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_10_30_13_25_30/录制-1727076670-20261030-132530-243-歪_SCREENSHOTS.jpg"
     ]
   },
   {

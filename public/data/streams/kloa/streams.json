@@ -35,14 +35,17 @@
     "date": "2026-10-30",
     "time": "20:02:17",
     "startTime": "20:02",
-    "endTime": "20:14",
-    "duration": 777,
-    "durationStr": "0.2 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_10_30_20_02_17/录制-1986461465-20261030-200217-005-嗷呜嗷呜.xml",
+    "endTime": "22:45",
+    "duration": 9790,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/kloa/2026_10_30_20_02_17/录制-1986461465-20261030-200217-005-嗷呜嗷呜_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_30_20_02_17/录制-1986461465-20261030-200217-005-嗷呜嗷呜_merged.xml",
     "cover": "/data/streams/kloa/2026_10_30_20_02_17/录制-1986461465-20261030-200217-005-嗷呜嗷呜.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/kloa/2026_10_30_20_02_17/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_30_20_02_17/录制-1986461465-20261030-200217-005-嗷呜嗷呜_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_30_20_02_17/录制-1986461465-20261030-200217-005-嗷呜嗷呜_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_10_30_14_05_14",
@@ -58,7 +61,8 @@
     "cover": "/data/streams/kloa/2026_10_30_14_05_14/录制-1986461465-20261030-140514-008-下午好~wohoo~.cover.jpg",
     "highlights": "/data/streams/kloa/2026_10_30_14_05_14/highlights.md",
     "images": [
-      "/data/streams/kloa/2026_10_30_14_05_14/录制-1986461465-20261030-140514-008-下午好~wohoo~_COMIC_FACTORY.png"
+      "/data/streams/kloa/2026_10_30_14_05_14/录制-1986461465-20261030-140514-008-下午好~wohoo~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_30_14_05_14/录制-1986461465-20261030-140514-008-下午好~wohoo~_SCREENSHOTS.jpg"
     ]
   },
   {

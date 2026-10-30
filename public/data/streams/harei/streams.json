@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_10_30_21_02_59",
+    "title": "今天影之刃继续挑战！^^",
+    "date": "2026-10-30",
+    "time": "21:02:59",
+    "startTime": "21:02",
+    "endTime": "01:26",
+    "duration": 15898,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/harei/2026_10_30_21_02_59/录制-1820703922-20261030-210259-131-今天影之刃继续挑战！^^.srt",
+    "xml": "/data/streams/harei/2026_10_30_21_02_59/录制-1820703922-20261030-210259-131-今天影之刃继续挑战！^^.xml",
+    "cover": "/data/streams/harei/2026_10_30_21_02_59/录制-1820703922-20261030-210259-131-今天影之刃继续挑战！^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_10_30_21_02_59/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_10_30_21_02_59/录制-1820703922-20261030-210259-131-今天影之刃继续挑战！^^_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_30_21_02_59/录制-1820703922-20261030-210259-131-今天影之刃继续挑战！^^_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_30_06_27_19",
     "title": "TES vs BLG^^",
     "date": "2026-10-29",
@@ -203,7 +221,8 @@
     "cover": "/data/streams/harei/2026_10_24_00_49_06/录制-1820703922-20261024-004906-532-小鼠督战瑞士轮^^.cover.jpg",
     "highlights": "/data/streams/harei/2026_10_24_00_49_06/highlights.md",
     "images": [
-      "/data/streams/harei/2026_10_24_00_49_06/录制-1820703922-20261024-004906-532-小鼠督战瑞士轮^^_merged_COMIC_FACTORY.png"
+      "/data/streams/harei/2026_10_24_00_49_06/录制-1820703922-20261024-004906-532-小鼠督战瑞士轮^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_10_24_00_49_06/录制-1820703922-20261024-004906-532-小鼠督战瑞士轮^^_merged_SCREENSHOTS.jpg"
     ]
   },
   {

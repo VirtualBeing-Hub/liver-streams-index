@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_10_31_00_02_40",
+    "title": "看你农很心酸",
+    "date": "2026-10-30",
+    "time": "00:02:40",
+    "startTime": "00:02",
+    "endTime": "03:34",
+    "duration": 12733,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/nana7mi/2026_10_31_00_02_40/录制-21452505-20261031-000240-670-看你农很心酸.srt",
+    "xml": "/data/streams/nana7mi/2026_10_31_00_02_40/录制-21452505-20261031-000240-670-看你农很心酸.xml",
+    "cover": "/data/streams/nana7mi/2026_10_31_00_02_40/录制-21452505-20261031-000240-670-看你农很心酸.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_31_00_02_40/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_31_00_02_40/录制-21452505-20261031-000240-670-看你农很心酸_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_10_30_22_03_50",
+    "title": "看你影之刃很心酸",
+    "date": "2026-10-30",
+    "time": "22:03:50",
+    "startTime": "22:03",
+    "endTime": "22:56",
+    "duration": 3188,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/nana7mi/2026_10_30_22_03_50/录制-21452505-20261030-220350-462-看你影之刃很心酸.srt",
+    "xml": "/data/streams/nana7mi/2026_10_30_22_03_50/录制-21452505-20261030-220350-462-看你影之刃很心酸.xml",
+    "cover": "/data/streams/nana7mi/2026_10_30_22_03_50/录制-21452505-20261030-220350-462-看你影之刃很心酸.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_30_22_03_50/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_30_22_03_50/录制-21452505-20261030-220350-462-看你影之刃很心酸_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_10_29_22_05_59",
     "title": "看你农很心酸",
     "date": "2026-10-29",

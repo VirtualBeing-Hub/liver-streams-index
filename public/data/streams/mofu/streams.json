@@ -5,14 +5,57 @@
     "date": "2026-10-30",
     "time": "20:05:27",
     "startTime": "20:05",
-    "endTime": "20:33",
-    "duration": 1688,
-    "durationStr": "0.5 小时",
-    "srt": null,
-    "xml": "/data/streams/mofu/2026_10_30_20_05_27/录制-1791260716-20261030-200527-408-陪小狗一下嘛.xml",
+    "endTime": "22:42",
+    "duration": 9461,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/mofu/2026_10_30_20_05_27/录制-1791260716-20261030-200527-408-陪小狗一下嘛_merged.srt",
+    "xml": "/data/streams/mofu/2026_10_30_20_05_27/录制-1791260716-20261030-200527-408-陪小狗一下嘛_merged.xml",
     "cover": "/data/streams/mofu/2026_10_30_20_05_27/录制-1791260716-20261030-200527-408-陪小狗一下嘛.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mofu/2026_10_30_20_05_27/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_10_30_20_05_27/录制-1791260716-20261030-200527-408-陪小狗一下嘛_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_10_30_20_05_27/录制-1791260716-20261030-200527-408-陪小狗一下嘛_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "长时间杂谈、短暂唱歌，聊家庭与隐私、搬家租房、动漫作品和夜宵",
+      "songs": [
+        {
+          "name": "绿色"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "与家人沟通和独立生活"
+        },
+        {
+          "name": "隐私泄露与搬家计划"
+        },
+        {
+          "name": "苏州租房预算与要求"
+        },
+        {
+          "name": "动漫漫画和网络小说"
+        },
+        {
+          "name": "英雄联盟赛事讨论"
+        },
+        {
+          "name": "夜宵点单与吃饭"
+        },
+        {
+          "name": "女仆妹妹音声制作"
+        },
+        {
+          "name": "养猫与防蚊"
+        },
+        {
+          "name": "比较自己与他人"
+        }
+      ],
+      "generatedAt": "2026-10-30T15:41:56.846Z"
+    }
   },
   {
     "id": "2026_10_29_21_03_11",
