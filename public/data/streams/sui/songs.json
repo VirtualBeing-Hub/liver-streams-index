@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-29T20:00:38.986Z",
+  "generatedAt": "2026-10-31T20:00:54.498Z",
   "sessions": [
+    {
+      "id": "f6ae1ac1dc48c0590f5ba28c3d82b950990e6fc06015f898ab16fbacef660ce6",
+      "recordedAt": "2026-10-31 20:33:18",
+      "title": "10月最后一天拜拜10月！_merged",
+      "complete": true
+    },
     {
       "id": "e66abd44ca23b13f54c24bbf4753d365bb5233396cb9ebc119d57d1e10dd727f",
       "recordedAt": "2026-10-29 20:03:31",
@@ -590,6 +596,17 @@
       "performance": "fragment",
       "confirmed": false,
       "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "f6ae1ac1dc48c0590f5ba28c3d82b950990e6fc06015f898ab16fbacef660ce6:activity-2",
+      "sessionId": "f6ae1ac1dc48c0590f5ba28c3d82b950990e6fc06015f898ab16fbacef660ce6",
+      "name": null,
+      "start": 7690,
+      "end": 8114,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
       "clip": null
     }
   ]

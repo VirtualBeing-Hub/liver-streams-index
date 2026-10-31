@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_10_31_20_06_38",
+    "title": "万圣节啦",
+    "date": "2026-10-31",
+    "time": "20:06:38",
+    "startTime": "20:06",
+    "endTime": "23:38",
+    "duration": 12726,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/kloa/2026_10_31_20_06_38/录制-1986461465-20261031-200638-989-万圣节啦_merged.srt",
+    "xml": "/data/streams/kloa/2026_10_31_20_06_38/录制-1986461465-20261031-200638-989-万圣节啦_merged.xml",
+    "cover": null,
+    "highlights": "/data/streams/kloa/2026_10_31_20_06_38/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_31_20_06_38/录制-1986461465-20261031-200638-989-万圣节啦_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_31_20_06_38/录制-1986461465-20261031-200638-989-万圣节啦_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_31_14_06_43",
+    "title": "嗷呜嗷呜",
+    "date": "2026-10-31",
+    "time": "14:06:43",
+    "startTime": "14:06",
+    "endTime": "17:48",
+    "duration": 13351,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/kloa/2026_10_31_14_06_43/录制-1986461465-20261031-140643-988-嗷呜嗷呜.srt",
+    "xml": "/data/streams/kloa/2026_10_31_14_06_43/录制-1986461465-20261031-140643-988-嗷呜嗷呜.xml",
+    "cover": "/data/streams/kloa/2026_10_31_14_06_43/录制-1986461465-20261031-140643-988-嗷呜嗷呜.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_10_31_14_06_43/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_10_31_14_06_43/录制-1986461465-20261031-140643-988-嗷呜嗷呜_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_10_31_14_06_43/录制-1986461465-20261031-140643-988-嗷呜嗷呜_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_30_20_24_50",
     "title": "嗷呜嗷呜",
     "date": "2026-10-30",

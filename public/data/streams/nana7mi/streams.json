@@ -1,5 +1,56 @@
 [
   {
+    "id": "2026_11_01_00_02_56",
+    "title": "看你影之刃很心酸",
+    "date": "2026-10-31",
+    "time": "00:02:56",
+    "startTime": "00:02",
+    "endTime": "03:58",
+    "duration": 14212,
+    "durationStr": "3.9 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_11_01_00_02_56/录制-21452505-20261101-000256-841-看你影之刃很心酸.xml",
+    "cover": "/data/streams/nana7mi/2026_11_01_00_02_56/录制-21452505-20261101-000256-841-看你影之刃很心酸.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_10_31_20_04_45",
+    "title": "狒！",
+    "date": "2026-10-31",
+    "time": "20:04:45",
+    "startTime": "20:04",
+    "endTime": "23:15",
+    "duration": 11483,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/nana7mi/2026_10_31_20_04_45/录制-21452505-20261031-200445-345-一起看KPL_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_10_31_20_04_45/录制-21452505-20261031-200445-345-一起看KPL_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_10_31_20_04_45/录制-21452505-20261031-200445-345-一起看KPL.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_31_20_04_45/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_31_20_04_45/录制-21452505-20261031-200445-345-一起看KPL_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_31_20_04_45/录制-21452505-20261031-200445-345-一起看KPL_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_31_15_06_14",
+    "title": "看你农友杯很心酸",
+    "date": "2026-10-31",
+    "time": "15:06:14",
+    "startTime": "15:06",
+    "endTime": "16:23",
+    "duration": 4632,
+    "durationStr": "1.3 小时",
+    "srt": "/data/streams/nana7mi/2026_10_31_15_06_14/录制-21452505-20261031-150614-855-看你农友杯很心酸_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_10_31_15_06_14/录制-21452505-20261031-150614-855-看你农友杯很心酸_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_10_31_15_06_14/录制-21452505-20261031-150614-855-看你农友杯很心酸.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_10_31_15_06_14/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_10_31_15_06_14/录制-21452505-20261031-150614-855-看你农友杯很心酸_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_10_31_15_06_14/录制-21452505-20261031-150614-855-看你农友杯很心酸_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_10_31_00_02_40",
     "title": "看你农很心酸",
     "date": "2026-10-30",

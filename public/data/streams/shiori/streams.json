@@ -1,5 +1,73 @@
 [
   {
+    "id": "2026_10_31_22_18_58",
+    "title": "想獭獭栞！",
+    "date": "2026-10-31",
+    "time": "22:18:58",
+    "startTime": "22:18",
+    "endTime": "01:20",
+    "duration": 10974,
+    "durationStr": "3.0 小时",
+    "srt": null,
+    "xml": "/data/streams/shiori/2026_10_31_22_18_58/录制-26966466-20261031-221858-174-想獭獭栞！.xml",
+    "cover": "/data/streams/shiori/2026_10_31_22_18_58/录制-26966466-20261031-221858-174-想獭獭栞！.cover.jpg",
+    "highlights": "",
+    "images": [
+      "/data/streams/shiori/2026_10_31_22_18_58/录制-26966466-20261031-221858-174-想獭獭栞！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_10_31_14_40_46",
+    "title": "小栞电台2.0",
+    "date": "2026-10-31",
+    "time": "14:40:46",
+    "startTime": "14:40",
+    "endTime": "15:45",
+    "duration": 3926,
+    "durationStr": "1.1 小时",
+    "srt": "/data/streams/shiori/2026_10_31_14_40_46/录制-26966466-20261031-144046-132-小栞电台2.0_merged.srt",
+    "xml": "/data/streams/shiori/2026_10_31_14_40_46/录制-26966466-20261031-144046-132-小栞电台2.0_merged.xml",
+    "cover": "/data/streams/shiori/2026_10_31_14_40_46/录制-26966466-20261031-144046-132-小栞电台2.0.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_10_31_14_40_46/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_10_31_14_40_46/录制-26966466-20261031-144046-132-小栞电台2.0_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_10_31_14_40_46/录制-26966466-20261031-144046-132-小栞电台2.0_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "与妈妈聊天，围绕狗狗、饮食、健康和出行等话题交流。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "妈妈买锅和食材"
+        },
+        {
+          "name": "狗狗洗澡与黏人"
+        },
+        {
+          "name": "AI视频与量子水玩笑"
+        },
+        {
+          "name": "饮食习惯和体重"
+        },
+        {
+          "name": "冷饮与体温争论"
+        },
+        {
+          "name": "狗狗年龄和游泳"
+        },
+        {
+          "name": "回家车票安排"
+        },
+        {
+          "name": "《影之刃》游戏闲聊"
+        }
+      ],
+      "generatedAt": "2026-10-31T07:54:03.280Z"
+    }
+  },
+  {
     "id": "2026_10_30_20_04_53",
     "title": "小栞电台！",
     "date": "2026-10-30",
