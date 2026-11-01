@@ -1,5 +1,105 @@
 [
   {
+    "id": "2026_11_01_22_02_55",
+    "title": "【歌杂】⭐哪个占比更多嘞",
+    "date": "2026-11-01",
+    "time": "22:02:55",
+    "startTime": "22:02",
+    "endTime": "00:57",
+    "duration": 10504,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/mizuki/2026_11_01_22_02_55/录制-30655190-20261101-220255-487-【歌杂】⭐哪个占比更多嘞.srt",
+    "xml": "/data/streams/mizuki/2026_11_01_22_02_55/录制-30655190-20261101-220255-487-【歌杂】⭐哪个占比更多嘞.xml",
+    "cover": "/data/streams/mizuki/2026_11_01_22_02_55/录制-30655190-20261101-220255-487-【歌杂】⭐哪个占比更多嘞.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_11_01_22_02_55/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_11_01_22_02_55/录制-30655190-20261101-220255-487-【歌杂】⭐哪个占比更多嘞_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_11_01_22_02_55/录制-30655190-20261101-220255-487-【歌杂】⭐哪个占比更多嘞_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "本场聊万圣节装扮、比赛、游戏与猫咪，也有多段唱歌。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "万圣节装扮"
+        },
+        {
+          "name": "西瓜比赛与赛后"
+        },
+        {
+          "name": "猫神掉毛护理"
+        },
+        {
+          "name": "Switch掌机"
+        },
+        {
+          "name": "第五人格组队构想"
+        },
+        {
+          "name": "游戏活动与抽卡"
+        }
+      ],
+      "generatedAt": "2026-11-01T17:08:26.165Z"
+    }
+  },
+  {
+    "id": "2026_11_01_15_03_02",
+    "title": "【虚度】⭐一天一天休息",
+    "date": "2026-11-01",
+    "time": "15:03:02",
+    "startTime": "15:03",
+    "endTime": "19:32",
+    "duration": 16163,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/mizuki/2026_11_01_15_03_02/录制-30655190-20261101-150302-730-【虚度】⭐一天一天休息.srt",
+    "xml": "/data/streams/mizuki/2026_11_01_15_03_02/录制-30655190-20261101-150302-730-【虚度】⭐一天一天休息.xml",
+    "cover": "/data/streams/mizuki/2026_11_01_15_03_02/录制-30655190-20261101-150302-730-【虚度】⭐一天一天休息.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_11_01_15_03_02/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_11_01_15_03_02/录制-30655190-20261101-150302-730-【虚度】⭐一天一天休息_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_11_01_15_03_02/录制-30655190-20261101-150302-730-【虚度】⭐一天一天休息_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、看B站点播视频和《星布谷地》前瞻、唱歌",
+      "songs": [],
+      "games": [],
+      "watch": [
+        {
+          "name": "星布谷地"
+        }
+      ],
+      "other": [
+        {
+          "name": "星布谷地公测前瞻"
+        },
+        {
+          "name": "SC点播视频"
+        },
+        {
+          "name": "FF14宣传片"
+        },
+        {
+          "name": "影之刃配装"
+        },
+        {
+          "name": "APEX比赛"
+        },
+        {
+          "name": "奶蛙视频"
+        },
+        {
+          "name": "V圈关系玩笑"
+        },
+        {
+          "name": "晚饭与作息"
+        }
+      ],
+      "generatedAt": "2026-11-01T12:49:07.915Z"
+    }
+  },
+  {
     "id": "2026_11_01_14_01_12",
     "title": "【代抽】⭐明日方舟",
     "date": "2026-11-01",
@@ -8,10 +108,10 @@
     "endTime": "14:04",
     "duration": 196,
     "durationStr": "3 分钟",
-    "srt": null,
+    "srt": "/data/streams/mizuki/2026_11_01_14_01_12/录制-30655190-20261101-140112-322-【代抽】⭐明日方舟.srt",
     "xml": "/data/streams/mizuki/2026_11_01_14_01_12/录制-30655190-20261101-140112-322-【代抽】⭐明日方舟.xml",
     "cover": "/data/streams/mizuki/2026_11_01_14_01_12/录制-30655190-20261101-140112-322-【代抽】⭐明日方舟.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/mizuki/2026_11_01_14_01_12/highlights.md",
     "images": [
       "/data/streams/mizuki/2026_11_01_14_01_12/录制-30655190-20261101-140112-322-【代抽】⭐明日方舟_SCREENSHOTS.jpg"
     ]

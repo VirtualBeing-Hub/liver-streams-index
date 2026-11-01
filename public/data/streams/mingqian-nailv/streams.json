@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026_11_01_18_56_45",
+    "title": "看会0.0",
+    "date": "2026-11-01",
+    "time": "18:56:45",
+    "startTime": "18:56",
+    "endTime": "00:41",
+    "duration": 20707,
+    "durationStr": "5.8 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_11_01_18_56_45/录制-25034104-20261101-185645-162-看会0.0.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_11_01_18_56_45/录制-25034104-20261101-185645-162-看会0.0.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_11_01_18_56_45/录制-25034104-20261101-185645-162-看会0.0.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_11_01_18_56_45/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_11_01_18_56_45/录制-25034104-20261101-185645-162-看会0.0_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_11_01_18_56_45/录制-25034104-20261101-185645-162-看会0.0_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌，并观看《逃出巴迪秀》和《僵尸世界大战》",
+      "songs": [
+        {
+          "name": "关键词"
+        }
+      ],
+      "games": [],
+      "watch": [
+        {
+          "name": "逃出巴迪秀"
+        },
+        {
+          "name": "僵尸世界大战"
+        }
+      ],
+      "other": [
+        {
+          "name": "《边缘行者2》观影争论"
+        },
+        {
+          "name": "恐怖片口味与推荐"
+        },
+        {
+          "name": "爵迹与Fate讨论"
+        },
+        {
+          "name": "动画和影视片单"
+        },
+        {
+          "name": "直播间年龄设置"
+        },
+        {
+          "name": "绿色车身与痛车"
+        },
+        {
+          "name": "电竞赛事与战队预测"
+        },
+        {
+          "name": "潜伏和谍战剧讨论"
+        }
+      ],
+      "generatedAt": "2026-11-01T16:56:06.507Z"
+    }
+  },
+  {
     "id": "2026_10_31_19_03_04",
     "title": "梦境之花0.0",
     "date": "2026-10-31",

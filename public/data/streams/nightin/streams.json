@@ -1,5 +1,39 @@
 [
   {
+    "id": "2026_11_01_18_10_53",
+    "title": "小福星看kpl今天支持ksg！！",
+    "date": "2026-11-01",
+    "time": "18:10:53",
+    "startTime": "18:10",
+    "endTime": "22:12",
+    "duration": 14540,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/nightin/2026_11_01_18_10_53/录制-24872476-20261101-181053-802-小福星看kpl今天支持ksg！！.srt",
+    "xml": "/data/streams/nightin/2026_11_01_18_10_53/录制-24872476-20261101-181053-802-小福星看kpl今天支持ksg！！.xml",
+    "cover": "/data/streams/nightin/2026_11_01_18_10_53/录制-24872476-20261101-181053-802-小福星看kpl今天支持ksg！！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_01_18_10_53/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_01_18_10_53/录制-24872476-20261101-181053-802-小福星看kpl今天支持ksg！！_COMIC_FACTORY.png"
+    ]
+  },
+  {
+    "id": "2026_11_01_14_16_52",
+    "title": "11月的小众宝藏",
+    "date": "2026-11-01",
+    "time": "14:16:52",
+    "startTime": "14:16",
+    "endTime": "16:17",
+    "duration": 7296,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/nightin/2026_11_01_14_16_52/录制-24872476-20261101-141652-024-11月的小众宝藏.srt",
+    "xml": "/data/streams/nightin/2026_11_01_14_16_52/录制-24872476-20261101-141652-024-11月的小众宝藏.xml",
+    "cover": "/data/streams/nightin/2026_11_01_14_16_52/录制-24872476-20261101-141652-024-11月的小众宝藏.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_01_14_16_52/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_01_14_16_52/录制-24872476-20261101-141652-024-11月的小众宝藏_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_11_01_14_01_16",
     "title": "11月的小众宝藏",
     "date": "2026-11-01",
@@ -11,7 +45,7 @@
     "srt": null,
     "xml": "/data/streams/nightin/2026_11_01_14_01_16/录制-24872476-20261101-140116-277-11月的小众宝藏.xml",
     "cover": "/data/streams/nightin/2026_11_01_14_01_16/录制-24872476-20261101-140116-277-11月的小众宝藏.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {

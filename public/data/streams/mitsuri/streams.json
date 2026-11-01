@@ -1,5 +1,115 @@
 [
   {
+    "id": "2026_11_02_00_04_38",
+    "title": "小唱一小会儿",
+    "date": "2026-11-01",
+    "time": "00:04:38",
+    "startTime": "00:04",
+    "endTime": "01:42",
+    "duration": 5891,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/mitsuri/2026_11_02_00_04_38/录制-1967216004-20261102-000438-435-小唱一小会儿.srt",
+    "xml": "/data/streams/mitsuri/2026_11_02_00_04_38/录制-1967216004-20261102-000438-435-小唱一小会儿.xml",
+    "cover": "/data/streams/mitsuri/2026_11_02_00_04_38/录制-1967216004-20261102-000438-435-小唱一小会儿.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_02_00_04_38/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_02_00_04_38/录制-1967216004-20261102-000438-435-小唱一小会儿_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_02_00_04_38/录制-1967216004-20261102-000438-435-小唱一小会儿_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "深夜聊天并连续唱歌，聊到赛事准备、作息和舰礼补发。",
+      "songs": [
+        {
+          "name": "Almost Lover"
+        },
+        {
+          "name": "暖暖"
+        },
+        {
+          "name": "追光者"
+        },
+        {
+          "name": "简单爱"
+        },
+        {
+          "name": "三人游"
+        },
+        {
+          "name": "园游会"
+        },
+        {
+          "name": "给我你的爱"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "临时赛事准备仓促"
+        },
+        {
+          "name": "训练安排与睡眠"
+        },
+        {
+          "name": "舰礼补发与问卷"
+        },
+        {
+          "name": "钻石段位自评"
+        }
+      ],
+      "generatedAt": "2026-11-01T17:52:05.278Z"
+    }
+  },
+  {
+    "id": "2026_11_01_18_58_23",
+    "title": "萌新杯你知道吗！",
+    "date": "2026-11-01",
+    "time": "18:58:23",
+    "startTime": "18:58",
+    "endTime": "22:38",
+    "duration": 13222,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/mitsuri/2026_11_01_18_58_23/录制-1967216004-20261101-185823-971-萌新杯你知道吗！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_11_01_18_58_23/录制-1967216004-20261101-185823-971-萌新杯你知道吗！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_11_01_18_58_23/录制-1967216004-20261101-185823-971-萌新杯你知道吗！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_01_18_58_23/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_01_18_58_23/录制-1967216004-20261101-185823-971-萌新杯你知道吗！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_01_18_58_23/录制-1967216004-20261101-185823-971-萌新杯你知道吗！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "聊天、参加萌新杯并游玩《英雄联盟》，进行海克斯大乱斗和峡谷对局",
+      "songs": [],
+      "games": [
+        {
+          "name": "英雄联盟"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "萌新杯比赛"
+        },
+        {
+          "name": "海克斯大乱斗"
+        },
+        {
+          "name": "峡谷对局"
+        },
+        {
+          "name": "英雄选择与教学"
+        },
+        {
+          "name": "ban劫争议"
+        },
+        {
+          "name": "明日比赛安排"
+        }
+      ],
+      "generatedAt": "2026-11-01T16:23:58.704Z"
+    }
+  },
+  {
     "id": "2026_11_01_05_54_42",
     "title": "BLG VS HLE你知道吗！",
     "date": "2026-10-31",

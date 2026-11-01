@@ -1,5 +1,66 @@
 [
   {
+    "id": "2026_11_01_22_01_33",
+    "title": "⭐一起睡觉吧Zzz⭐",
+    "date": "2026-11-01",
+    "time": "22:01:33",
+    "startTime": "22:01",
+    "endTime": "00:01",
+    "duration": 7238,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/chu2u/2026_11_01_22_01_33/录制-1727074031-20261101-220133-389-⭐一起睡觉吧Zzz⭐.srt",
+    "xml": "/data/streams/chu2u/2026_11_01_22_01_33/录制-1727074031-20261101-220133-389-⭐一起睡觉吧Zzz⭐.xml",
+    "cover": "/data/streams/chu2u/2026_11_01_22_01_33/录制-1727074031-20261101-220133-389-⭐一起睡觉吧Zzz⭐.cover.jpg",
+    "highlights": "/data/streams/chu2u/2026_11_01_22_01_33/highlights.md",
+    "images": [
+      "/data/streams/chu2u/2026_11_01_22_01_33/录制-1727074031-20261101-220133-389-⭐一起睡觉吧Zzz⭐_COMIC_FACTORY.png",
+      "/data/streams/chu2u/2026_11_01_22_01_33/录制-1727074031-20261101-220133-389-⭐一起睡觉吧Zzz⭐_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "围绕作息、身体状况和直播安排杂谈，分享游戏与朋友往事，并唱《Merry Christmas without You》。",
+      "songs": [
+        {
+          "name": "Merry Christmas without You"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "作息调整与开播时间"
+        },
+        {
+          "name": "睡眠过多与身体不适"
+        },
+        {
+          "name": "咖啡因与心悸"
+        },
+        {
+          "name": "低精力与粉丝群"
+        },
+        {
+          "name": "晕3D和运动模糊"
+        },
+        {
+          "name": "游戏改名与性别偏见"
+        },
+        {
+          "name": "朋友买《博德之门》往事"
+        },
+        {
+          "name": "回避冲突与人际关系"
+        },
+        {
+          "name": "心理恐怖与跳脸恐怖"
+        },
+        {
+          "name": "主体性与MBTI"
+        }
+      ],
+      "generatedAt": "2026-11-01T16:40:05.118Z"
+    }
+  },
+  {
     "id": "2026_10_31_21_11_18",
     "title": "⭐双人抬⭐",
     "date": "2026-10-31",
