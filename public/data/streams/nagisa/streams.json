@@ -8,13 +8,51 @@
     "endTime": "01:48",
     "duration": 14704,
     "durationStr": "4.1 小时",
-    "srt": null,
+    "srt": "/data/streams/nagisa/2026_10_31_21_43_24/录制-31368705-20261031-214324-716-周六换地方练练歌.srt",
     "xml": "/data/streams/nagisa/2026_10_31_21_43_24/录制-31368705-20261031-214324-716-周六换地方练练歌.xml",
     "cover": "/data/streams/nagisa/2026_10_31_21_43_24/录制-31368705-20261031-214324-716-周六换地方练练歌.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/nagisa/2026_10_31_21_43_24/highlights.md",
     "images": [
+      "/data/streams/nagisa/2026_10_31_21_43_24/录制-31368705-20261031-214324-716-周六换地方练练歌_COMIC_FACTORY.png",
       "/data/streams/nagisa/2026_10_31_21_43_24/录制-31368705-20261031-214324-716-周六换地方练练歌_SCREENSHOTS.jpg"
-    ]
+    ],
+    "recap": {
+      "overview": "万圣节街头练歌，边互动点歌边演唱，也聊到设备状况与节日话题。",
+      "songs": [
+        {
+          "name": "杀手"
+        },
+        {
+          "name": "A.I.N.Y."
+        },
+        {
+          "name": "魔鬼中的天使"
+        },
+        {
+          "name": "路过人间"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "街头练歌与主题点歌"
+        },
+        {
+          "name": "镜头和线路故障"
+        },
+        {
+          "name": "万圣节与跨月"
+        },
+        {
+          "name": "站着唱歌与嗓子状态"
+        },
+        {
+          "name": "吉他盒装满礼物"
+        }
+      ],
+      "generatedAt": "2026-10-31T20:33:58.073Z"
+    }
   },
   {
     "id": "2026_10_31_15_08_09",

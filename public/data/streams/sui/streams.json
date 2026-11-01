@@ -20,25 +20,36 @@
       "overview": "杂谈、看视频、唱《画心》，并同步观看《电锯惊魂》",
       "songs": [
         {
-          "name": "未识别歌名",
-          "start": 7690,
-          "end": 8114
+          "name": "画心",
+          "start": 7672,
+          "end": 8114,
+          "clips": [
+            {
+              "bvid": "BV1SWxp6LERM",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1SWxp6LERM/?p=1"
+            }
+          ]
         }
       ],
       "games": [],
       "watch": [
         {
           "name": "同步视听片段",
-          "start": 2554,
-          "end": 2842
+          "start": 2597,
+          "end": 2845
         },
         {
-          "name": "同步视听片段",
-          "start": 8257,
-          "end": 14370
-        },
-        {
-          "name": "电锯惊魂"
+          "name": "电锯惊魂",
+          "start": 8212,
+          "end": 14940,
+          "clips": [
+            {
+              "bvid": "BV1eXxn6mEc1",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1eXxn6mEc1/?p=1"
+            }
+          ]
         }
       ],
       "other": [

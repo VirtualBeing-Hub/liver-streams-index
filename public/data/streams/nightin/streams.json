@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026_11_01_13_08_27",
+    "title": "11月的小众宝藏",
+    "date": "2026-11-01",
+    "time": "13:08:27",
+    "startTime": "13:08",
+    "endTime": "13:48",
+    "duration": 2451,
+    "durationStr": "0.7 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_11_01_13_08_27/录制-24872476-20261101-130827-290-11月的小众宝藏.xml",
+    "cover": "/data/streams/nightin/2026_11_01_13_08_27/录制-24872476-20261101-130827-290-11月的小众宝藏.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_31_20_08_21",
     "title": "不给糖就捣蛋！！",
     "date": "2026-10-31",
@@ -8,11 +23,12 @@
     "endTime": "01:04",
     "duration": 17816,
     "durationStr": "4.9 小时",
-    "srt": null,
+    "srt": "/data/streams/nightin/2026_10_31_20_08_21/录制-24872476-20261031-200821-812-不给糖就捣蛋！！.srt",
     "xml": "/data/streams/nightin/2026_10_31_20_08_21/录制-24872476-20261031-200821-812-不给糖就捣蛋！！.xml",
     "cover": "/data/streams/nightin/2026_10_31_20_08_21/录制-24872476-20261031-200821-812-不给糖就捣蛋！！.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/nightin/2026_10_31_20_08_21/highlights.md",
     "images": [
+      "/data/streams/nightin/2026_10_31_20_08_21/录制-24872476-20261031-200821-812-不给糖就捣蛋！！_COMIC_FACTORY.png",
       "/data/streams/nightin/2026_10_31_20_08_21/录制-24872476-20261031-200821-812-不给糖就捣蛋！！_SCREENSHOTS.jpg"
     ]
   },

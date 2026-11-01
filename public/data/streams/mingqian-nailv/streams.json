@@ -8,13 +8,57 @@
     "endTime": "00:39",
     "duration": 20208,
     "durationStr": "5.6 小时",
-    "srt": null,
+    "srt": "/data/streams/mingqian-nailv/2026_10_31_19_03_04/录制-25034104-20261031-190304-754-梦境之花0.0_merged.srt",
     "xml": "/data/streams/mingqian-nailv/2026_10_31_19_03_04/录制-25034104-20261031-190304-754-梦境之花0.0_merged.xml",
     "cover": "/data/streams/mingqian-nailv/2026_10_31_19_03_04/录制-25034104-20261031-190304-754-梦境之花0.0.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/mingqian-nailv/2026_10_31_19_03_04/highlights.md",
     "images": [
+      "/data/streams/mingqian-nailv/2026_10_31_19_03_04/录制-25034104-20261031-190304-754-梦境之花0.0_merged_COMIC_FACTORY.png",
       "/data/streams/mingqian-nailv/2026_10_31_19_03_04/录制-25034104-20261031-190304-754-梦境之花0.0_merged_SCREENSHOTS.jpg"
-    ]
+    ],
+    "recap": {
+      "overview": "围绕AI应用与就业等话题聊天、朗读投稿，并为观众唱生日歌。",
+      "songs": [
+        {
+          "name": "生日快乐歌"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "AI对工作与生活的影响"
+        },
+        {
+          "name": "AI与程序员就业"
+        },
+        {
+          "name": "网文版权与平台"
+        },
+        {
+          "name": "时光机与重生"
+        },
+        {
+          "name": "古装剧与花千骨"
+        },
+        {
+          "name": "有声书受众"
+        },
+        {
+          "name": "AI陪伴与情绪倾诉"
+        },
+        {
+          "name": "AI绘图与配音冲击"
+        },
+        {
+          "name": "职业与行业变化"
+        },
+        {
+          "name": "投稿与创作表达"
+        }
+      ],
+      "generatedAt": "2026-10-31T20:04:01.093Z"
+    }
   },
   {
     "id": "2026_10_30_20_51_00",

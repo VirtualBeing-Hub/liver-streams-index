@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026_11_01_10_04_29",
+    "title": "来看看方舟！",
+    "date": "2026-11-01",
+    "time": "10:04:29",
+    "startTime": "10:04",
+    "endTime": "13:35",
+    "duration": 12699,
+    "durationStr": "3.5 小时",
+    "srt": null,
+    "xml": "/data/streams/izayoi/2026_11_01_10_04_29/录制-1741667419-20261101-100429-258-早早早！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_11_01_10_04_29/录制-1741667419-20261101-100429-258-早早早！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_31_20_02_50",
     "title": "包包里面有什么？",
     "date": "2026-10-31",
@@ -11,7 +26,7 @@
     "srt": null,
     "xml": "/data/streams/izayoi/2026_10_31_20_02_50/录制-1741667419-20261031-200250-639-包包里面有什么？.xml",
     "cover": "/data/streams/izayoi/2026_10_31_20_02_50/录制-1741667419-20261031-200250-639-包包里面有什么？.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": [
       "/data/streams/izayoi/2026_10_31_20_02_50/录制-1741667419-20261031-200250-639-包包里面有什么？_SCREENSHOTS.jpg"
     ]

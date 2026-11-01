@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026_11_01_13_10_39",
+    "title": "塔露拉你怎么在这里快和我回",
+    "date": "2026-11-01",
+    "time": "13:10:39",
+    "startTime": "13:10",
+    "endTime": "13:48",
+    "duration": 2322,
+    "durationStr": "0.6 小时",
+    "srt": null,
+    "xml": "/data/streams/rhea/2026_11_01_13_10_39/录制-23260993-20261101-131039-580-塔露拉你怎么在这里快和我回.xml",
+    "cover": "/data/streams/rhea/2026_11_01_13_10_39/录制-23260993-20261101-131039-580-塔露拉你怎么在这里快和我回.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_10_31_21_23_18",
     "title": "万圣来讨糖！Month0",
     "date": "2026-10-31",
@@ -8,11 +23,12 @@
     "endTime": "02:06",
     "duration": 17009,
     "durationStr": "4.7 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_10_31_21_23_18/录制-23260993-20261031-212318-078-万圣来讨糖！Month0_merged.srt",
     "xml": "/data/streams/rhea/2026_10_31_21_23_18/录制-23260993-20261031-212318-078-万圣来讨糖！Month0_merged.xml",
     "cover": "/data/streams/rhea/2026_10_31_21_23_18/录制-23260993-20261031-212318-078-万圣来讨糖！Month0.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/rhea/2026_10_31_21_23_18/highlights.md",
     "images": [
+      "/data/streams/rhea/2026_10_31_21_23_18/录制-23260993-20261031-212318-078-万圣来讨糖！Month0_merged_COMIC_FACTORY.png",
       "/data/streams/rhea/2026_10_31_21_23_18/录制-23260993-20261031-212318-078-万圣来讨糖！Month0_merged_SCREENSHOTS.jpg"
     ]
   },

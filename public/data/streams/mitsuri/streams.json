@@ -1,5 +1,52 @@
 [
   {
+    "id": "2026_11_01_05_54_42",
+    "title": "BLG VS HLE你知道吗！",
+    "date": "2026-10-31",
+    "time": "05:54:42",
+    "startTime": "05:54",
+    "endTime": "08:09",
+    "duration": 8107,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/mitsuri/2026_11_01_05_54_42/录制-1967216004-20261101-055442-419-BLG VS HLE你知道吗！.srt",
+    "xml": "/data/streams/mitsuri/2026_11_01_05_54_42/录制-1967216004-20261101-055442-419-BLG VS HLE你知道吗！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_01_05_54_42/录制-1967216004-20261101-055442-419-BLG VS HLE你知道吗！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_01_05_54_42/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_01_05_54_42/录制-1967216004-20261101-055442-419-BLG VS HLE你知道吗！_COMIC_FACTORY.png"
+    ],
+    "recap": {
+      "overview": "观看并解说BLG与HLE的比赛，观看短剧视频，讨论赛后抽签与淘汰赛对阵。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "BLG对阵HLE"
+        },
+        {
+          "name": "比赛BP与阵容"
+        },
+        {
+          "name": "团战与资源运营"
+        },
+        {
+          "name": "BLG晋级八强"
+        },
+        {
+          "name": "赛后MVP讨论"
+        },
+        {
+          "name": "淘汰赛抽签"
+        },
+        {
+          "name": "AI短剧视频"
+        }
+      ],
+      "generatedAt": "2026-11-01T00:19:59.773Z"
+    }
+  },
+  {
     "id": "2026_10_31_19_05_34",
     "title": "我要成为101高手！",
     "date": "2026-10-31",
@@ -8,13 +55,69 @@
     "endTime": "00:41",
     "duration": 20165,
     "durationStr": "5.6 小时",
-    "srt": null,
+    "srt": "/data/streams/mitsuri/2026_10_31_19_05_34/录制-1967216004-20261031-190534-766-我要成为101高手！.srt",
     "xml": "/data/streams/mitsuri/2026_10_31_19_05_34/录制-1967216004-20261031-190534-766-我要成为101高手！.xml",
     "cover": "/data/streams/mitsuri/2026_10_31_19_05_34/录制-1967216004-20261031-190534-766-我要成为101高手！.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/mitsuri/2026_10_31_19_05_34/highlights.md",
     "images": [
-      "/data/streams/mitsuri/2026_10_31_19_05_34/录制-1967216004-20261031-190534-766-我要成为101高手！_SCREENSHOTS.jpg"
-    ]
+      "/data/streams/mitsuri/2026_10_31_19_05_34/录制-1967216004-20261031-190534-766-我要成为101高手！_COMIC_FACTORY.png"
+    ],
+    "recap": {
+      "overview": "聊天、连续唱歌，并游玩《英雄联盟》排位及海克斯模式。",
+      "songs": [
+        {
+          "name": "小幸运"
+        },
+        {
+          "name": "我怀念的"
+        },
+        {
+          "name": "童话镇"
+        },
+        {
+          "name": "泡沫"
+        },
+        {
+          "name": "遇见"
+        },
+        {
+          "name": "我要我们在一起"
+        },
+        {
+          "name": "猜不透"
+        }
+      ],
+      "games": [
+        {
+          "name": "英雄联盟"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "九万粉与天选抽奖"
+        },
+        {
+          "name": "BLG对阵HLE观赛安排"
+        },
+        {
+          "name": "训练赛与队友邀约"
+        },
+        {
+          "name": "英雄联盟排位冲黄金"
+        },
+        {
+          "name": "卢锡安与滑板鞋对局"
+        },
+        {
+          "name": "海克斯模式与装备选择"
+        },
+        {
+          "name": "直播间私信与互动边界"
+        }
+      ],
+      "generatedAt": "2026-10-31T20:07:56.035Z"
+    }
   },
   {
     "id": "2026_10_30_21_22_23",

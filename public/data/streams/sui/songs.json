@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-10-31T20:00:54.498Z",
+  "generatedAt": "2026-11-01T06:00:27.158Z",
   "sessions": [
     {
       "id": "f6ae1ac1dc48c0590f5ba28c3d82b950990e6fc06015f898ab16fbacef660ce6",
@@ -601,13 +601,17 @@
     {
       "id": "f6ae1ac1dc48c0590f5ba28c3d82b950990e6fc06015f898ab16fbacef660ce6:activity-2",
       "sessionId": "f6ae1ac1dc48c0590f5ba28c3d82b950990e6fc06015f898ab16fbacef660ce6",
-      "name": null,
-      "start": 7690,
+      "name": "画心",
+      "start": 7672,
       "end": 8114,
       "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": null
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1SWxp6LERM",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1SWxp6LERM/?p=1"
+      }
     }
   ]
 }

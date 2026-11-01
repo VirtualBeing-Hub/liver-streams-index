@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_11_01_05_24_30",
+    "title": "来看大战BLG vs HLE^^",
+    "date": "2026-10-31",
+    "time": "05:24:30",
+    "startTime": "05:24",
+    "endTime": "08:29",
+    "duration": 11119,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/harei/2026_11_01_05_24_30/录制-1820703922-20261101-052430-127-来看大战BLG vs HLE^^.srt",
+    "xml": "/data/streams/harei/2026_11_01_05_24_30/录制-1820703922-20261101-052430-127-来看大战BLG vs HLE^^.xml",
+    "cover": "/data/streams/harei/2026_11_01_05_24_30/录制-1820703922-20261101-052430-127-来看大战BLG vs HLE^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_11_01_05_24_30/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_11_01_05_24_30/录制-1820703922-20261101-052430-127-来看大战BLG vs HLE^^_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_10_31_21_02_59",
     "title": "万圣节小鼠鬼魂^^",
     "date": "2026-10-31",
@@ -8,12 +25,12 @@
     "endTime": "01:28",
     "duration": 15976,
     "durationStr": "4.4 小时",
-    "srt": null,
+    "srt": "/data/streams/harei/2026_10_31_21_02_59/录制-1820703922-20261031-210259-489-万圣节小鼠鬼魂^^.srt",
     "xml": "/data/streams/harei/2026_10_31_21_02_59/录制-1820703922-20261031-210259-489-万圣节小鼠鬼魂^^.xml",
     "cover": "/data/streams/harei/2026_10_31_21_02_59/录制-1820703922-20261031-210259-489-万圣节小鼠鬼魂^^.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/harei/2026_10_31_21_02_59/highlights.md",
     "images": [
-      "/data/streams/harei/2026_10_31_21_02_59/录制-1820703922-20261031-210259-489-万圣节小鼠鬼魂^^_SCREENSHOTS.jpg"
+      "/data/streams/harei/2026_10_31_21_02_59/录制-1820703922-20261031-210259-489-万圣节小鼠鬼魂^^_COMIC_FACTORY.png"
     ]
   },
   {
