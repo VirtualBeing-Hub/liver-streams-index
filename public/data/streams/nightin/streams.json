@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026_11_01_14_01_16",
+    "title": "11月的小众宝藏",
+    "date": "2026-11-01",
+    "time": "14:01:16",
+    "startTime": "14:01",
+    "endTime": "14:08",
+    "duration": 430,
+    "durationStr": "0.1 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_11_01_14_01_16/录制-24872476-20261101-140116-277-11月的小众宝藏.xml",
+    "cover": "/data/streams/nightin/2026_11_01_14_01_16/录制-24872476-20261101-140116-277-11月的小众宝藏.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_11_01_13_08_27",
     "title": "11月的小众宝藏",
     "date": "2026-11-01",
@@ -11,7 +26,7 @@
     "srt": null,
     "xml": "/data/streams/nightin/2026_11_01_13_08_27/录制-24872476-20261101-130827-290-11月的小众宝藏.xml",
     "cover": "/data/streams/nightin/2026_11_01_13_08_27/录制-24872476-20261101-130827-290-11月的小众宝藏.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {
