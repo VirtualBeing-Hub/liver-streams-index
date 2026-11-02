@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_02_18_02_44",
+    "title": "来看看比赛！",
+    "date": "2026-11-02",
+    "time": "18:02:44",
+    "startTime": "18:02",
+    "endTime": "22:27",
+    "duration": 15948,
+    "durationStr": "4.4 小时",
+    "srt": "/data/streams/izayoi/2026_11_02_18_02_44/录制-1741667419-20261102-180244-510-来看看比赛！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_11_02_18_02_44/录制-1741667419-20261102-180244-510-来看看比赛！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_11_02_18_02_44/录制-1741667419-20261102-180244-510-来看看比赛！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_02_18_02_44/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_02_18_02_44/录制-1741667419-20261102-180244-510-来看看比赛！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_02_18_02_44/录制-1741667419-20261102-180244-510-来看看比赛！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_02_14_04_48",
+    "title": "迟来的万圣节.....",
+    "date": "2026-11-02",
+    "time": "14:04:48",
+    "startTime": "14:04",
+    "endTime": "16:00",
+    "duration": 6961,
+    "durationStr": "1.9 小时",
+    "srt": "/data/streams/izayoi/2026_11_02_14_04_48/录制-1741667419-20261102-140448-246-迟来的万圣节....._merged.srt",
+    "xml": "/data/streams/izayoi/2026_11_02_14_04_48/录制-1741667419-20261102-140448-246-迟来的万圣节....._merged.xml",
+    "cover": "/data/streams/izayoi/2026_11_02_14_04_48/录制-1741667419-20261102-140448-246-迟来的万圣节......cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_02_14_04_48/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_02_14_04_48/录制-1741667419-20261102-140448-246-迟来的万圣节....._merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_02_14_04_48/录制-1741667419-20261102-140448-246-迟来的万圣节....._merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_01_17_51_34",
     "title": "继续看一下比赛的说！",
     "date": "2026-11-01",

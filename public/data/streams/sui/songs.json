@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-01T06:00:27.158Z",
+  "generatedAt": "2026-11-02T20:00:47.749Z",
   "sessions": [
+    {
+      "id": "ee346158da3a67cf776cd2ddce0927053b2a0152dcaf41cc02920d90138249c0",
+      "recordedAt": "2026-11-02 20:33:27",
+      "title": "陪你这个猪过周一！",
+      "complete": true
+    },
+    {
+      "id": "62bf8772ba4d363bfd9d0734a77fd50d8b4423df790b0c5f69569d08b860ec2c",
+      "recordedAt": "2026-11-01 20:00:57",
+      "title": "陪你这个猪过周一！聊聊先影之刃零后_merged",
+      "complete": true
+    },
     {
       "id": "f6ae1ac1dc48c0590f5ba28c3d82b950990e6fc06015f898ab16fbacef660ce6",
       "recordedAt": "2026-10-31 20:33:18",
@@ -612,6 +624,58 @@
         "part": 1,
         "url": "https://www.bilibili.com/video/BV1SWxp6LERM/?p=1"
       }
+    },
+    {
+      "id": "62bf8772ba4d363bfd9d0734a77fd50d8b4423df790b0c5f69569d08b860ec2c:activity-1",
+      "sessionId": "62bf8772ba4d363bfd9d0734a77fd50d8b4423df790b0c5f69569d08b860ec2c",
+      "name": null,
+      "start": 3522,
+      "end": 3558,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "62bf8772ba4d363bfd9d0734a77fd50d8b4423df790b0c5f69569d08b860ec2c:activity-2",
+      "sessionId": "62bf8772ba4d363bfd9d0734a77fd50d8b4423df790b0c5f69569d08b860ec2c",
+      "name": "小伞的品格",
+      "start": 8542,
+      "end": 8790,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1BN4K67EtQ",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1BN4K67EtQ/?p=1"
+      }
+    },
+    {
+      "id": "62bf8772ba4d363bfd9d0734a77fd50d8b4423df790b0c5f69569d08b860ec2c:activity-3",
+      "sessionId": "62bf8772ba4d363bfd9d0734a77fd50d8b4423df790b0c5f69569d08b860ec2c",
+      "name": "带我走",
+      "start": 9045.129,
+      "end": 9400,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1BN4K67EtQ",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1BN4K67EtQ/?p=2"
+      }
+    },
+    {
+      "id": "ee346158da3a67cf776cd2ddce0927053b2a0152dcaf41cc02920d90138249c0:activity-1",
+      "sessionId": "ee346158da3a67cf776cd2ddce0927053b2a0152dcaf41cc02920d90138249c0",
+      "name": null,
+      "start": 5815,
+      "end": 5870,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
     }
   ]
 }

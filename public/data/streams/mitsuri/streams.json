@@ -1,5 +1,72 @@
 [
   {
+    "id": "2026_11_02_22_03_31",
+    "title": "嘟嘟登场你懂吗",
+    "date": "2026-11-02",
+    "time": "22:03:31",
+    "startTime": "22:03",
+    "endTime": "01:00",
+    "duration": 10641,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/mitsuri/2026_11_02_22_03_31/录制-1967216004-20261102-220331-644-嘟嘟登场你懂吗.srt",
+    "xml": "/data/streams/mitsuri/2026_11_02_22_03_31/录制-1967216004-20261102-220331-644-嘟嘟登场你懂吗.xml",
+    "cover": "/data/streams/mitsuri/2026_11_02_22_03_31/录制-1967216004-20261102-220331-644-嘟嘟登场你懂吗.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_02_22_03_31/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_02_22_03_31/录制-1967216004-20261102-220331-644-嘟嘟登场你懂吗_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_02_22_03_31/录制-1967216004-20261102-220331-644-嘟嘟登场你懂吗_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_02_18_57_00",
+    "title": "萌新杯你懂吗！",
+    "date": "2026-11-02",
+    "time": "18:57:00",
+    "startTime": "18:57",
+    "endTime": "20:39",
+    "duration": 6131,
+    "durationStr": "1.7 小时",
+    "srt": "/data/streams/mitsuri/2026_11_02_18_57_00/录制-1967216004-20261102-185700-135-萌新杯你懂吗！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_11_02_18_57_00/录制-1967216004-20261102-185700-135-萌新杯你懂吗！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_11_02_18_57_00/录制-1967216004-20261102-185700-135-萌新杯你懂吗！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_02_18_57_00/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_02_18_57_00/录制-1967216004-20261102-185700-135-萌新杯你懂吗！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_02_18_57_00/录制-1967216004-20261102-185700-135-萌新杯你懂吗！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "玩《英雄联盟》参加对局和大乱斗，赛后聊天、听改编歌曲",
+      "songs": [],
+      "games": [
+        {
+          "name": "英雄联盟"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "萌新杯对局"
+        },
+        {
+          "name": "对线宗师AD"
+        },
+        {
+          "name": "英雄与装备选择"
+        },
+        {
+          "name": "大乱斗海克斯"
+        },
+        {
+          "name": "改编歌曲与音乐"
+        },
+        {
+          "name": "螃蟹口味"
+        }
+      ],
+      "generatedAt": "2026-11-02T12:51:42.668Z"
+    }
+  },
+  {
     "id": "2026_11_02_00_04_38",
     "title": "小唱一小会儿",
     "date": "2026-11-01",

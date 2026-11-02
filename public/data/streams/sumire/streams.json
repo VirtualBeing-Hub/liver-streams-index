@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_02_22_02_38",
+    "title": "咪啊",
+    "date": "2026-11-02",
+    "time": "22:02:38",
+    "startTime": "22:02",
+    "endTime": "23:30",
+    "duration": 5326,
+    "durationStr": "1.5 小时",
+    "srt": "/data/streams/sumire/2026_11_02_22_02_38/录制-1727076670-20261102-220238-393-咪啊.srt",
+    "xml": "/data/streams/sumire/2026_11_02_22_02_38/录制-1727076670-20261102-220238-393-咪啊.xml",
+    "cover": "/data/streams/sumire/2026_11_02_22_02_38/录制-1727076670-20261102-220238-393-咪啊.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_02_22_02_38/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_02_22_02_38/录制-1727076670-20261102-220238-393-咪啊_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_02_22_02_38/录制-1727076670-20261102-220238-393-咪啊_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_02_14_02_38",
+    "title": "软糯商人",
+    "date": "2026-11-02",
+    "time": "14:02:38",
+    "startTime": "14:02",
+    "endTime": "16:41",
+    "duration": 9561,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/sumire/2026_11_02_14_02_38/录制-1727076670-20261102-140238-761-软糯商人_merged.srt",
+    "xml": "/data/streams/sumire/2026_11_02_14_02_38/录制-1727076670-20261102-140238-761-软糯商人_merged.xml",
+    "cover": "/data/streams/sumire/2026_11_02_14_02_38/录制-1727076670-20261102-140238-761-软糯商人.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_02_14_02_38/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_02_14_02_38/录制-1727076670-20261102-140238-761-软糯商人_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_02_14_02_38/录制-1727076670-20261102-140238-761-软糯商人_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_01_20_30_16",
     "title": "挖泥棉花糖",
     "date": "2026-11-01",
