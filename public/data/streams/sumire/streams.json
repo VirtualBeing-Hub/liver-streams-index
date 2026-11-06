@@ -1,5 +1,127 @@
 [
   {
+    "id": "2026_11_06_20_05_33",
+    "title": "忧郁歌单我去",
+    "date": "2026-11-06",
+    "time": "20:05:33",
+    "startTime": "20:05",
+    "endTime": "22:18",
+    "duration": 7992,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/sumire/2026_11_06_20_05_33/录制-1727076670-20261106-200533-029-忧郁歌单我去.srt",
+    "xml": "/data/streams/sumire/2026_11_06_20_05_33/录制-1727076670-20261106-200533-029-忧郁歌单我去.xml",
+    "cover": "/data/streams/sumire/2026_11_06_20_05_33/录制-1727076670-20261106-200533-029-忧郁歌单我去.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_06_20_05_33/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_06_20_05_33/录制-1727076670-20261106-200533-029-忧郁歌单我去_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_06_20_05_33/录制-1727076670-20261106-200533-029-忧郁歌单我去_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_06_10_01_01",
+    "title": "早台念书",
+    "date": "2026-11-06",
+    "time": "10:01:01",
+    "startTime": "10:01",
+    "endTime": "12:36",
+    "duration": 9336,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/sumire/2026_11_06_10_01_01/录制-1727076670-20261106-100101-280-早台念书.srt",
+    "xml": "/data/streams/sumire/2026_11_06_10_01_01/录制-1727076670-20261106-100101-280-早台念书.xml",
+    "cover": "/data/streams/sumire/2026_11_06_10_01_01/录制-1727076670-20261106-100101-280-早台念书.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_06_10_01_01/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_06_10_01_01/录制-1727076670-20261106-100101-280-早台念书_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_06_10_01_01/录制-1727076670-20261106-100101-280-早台念书_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_05_21_04_40",
+    "title": "作弊联动",
+    "date": "2026-11-05",
+    "time": "21:04:40",
+    "startTime": "21:04",
+    "endTime": "23:48",
+    "duration": 9852,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/sumire/2026_11_05_21_04_40/录制-1727076670-20261105-210440-170-作弊联动.srt",
+    "xml": "/data/streams/sumire/2026_11_05_21_04_40/录制-1727076670-20261105-210440-170-作弊联动.xml",
+    "cover": "/data/streams/sumire/2026_11_05_21_04_40/录制-1727076670-20261105-210440-170-作弊联动.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_05_21_04_40/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_05_21_04_40/录制-1727076670-20261105-210440-170-作弊联动_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_05_21_04_40/录制-1727076670-20261105-210440-170-作弊联动_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_04_22_24_38",
+    "title": "晚风",
+    "date": "2026-11-04",
+    "time": "22:24:38",
+    "startTime": "22:24",
+    "endTime": "00:00",
+    "duration": 5786,
+    "durationStr": "1.6 小时",
+    "srt": "/data/streams/sumire/2026_11_04_22_24_38/录制-1727076670-20261104-222438-403-晚风_merged.srt",
+    "xml": "/data/streams/sumire/2026_11_04_22_24_38/录制-1727076670-20261104-222438-403-晚风_merged.xml",
+    "cover": "/data/streams/sumire/2026_11_04_22_24_38/录制-1727076670-20261104-222438-403-晚风.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_04_22_24_38/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_04_22_24_38/录制-1727076670-20261104-222438-403-晚风_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_04_22_24_38/录制-1727076670-20261104-222438-403-晚风_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_04_21_58_53",
+    "title": "晚风",
+    "date": "2026-11-04",
+    "time": "21:58:53",
+    "startTime": "21:58",
+    "endTime": "22:14",
+    "duration": 962,
+    "durationStr": "0.3 小时",
+    "srt": null,
+    "xml": "/data/streams/sumire/2026_11_04_21_58_53/录制-1727076670-20261104-215853-528-晚风.xml",
+    "cover": "/data/streams/sumire/2026_11_04_21_58_53/录制-1727076670-20261104-215853-528-晚风.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_04_10_23_12",
+    "title": "没睡",
+    "date": "2026-11-04",
+    "time": "10:23:12",
+    "startTime": "10:23",
+    "endTime": "10:41",
+    "duration": 1092,
+    "durationStr": "0.3 小时",
+    "srt": "/data/streams/sumire/2026_11_04_10_23_12/录制-1727076670-20261104-102312-958-没睡.srt",
+    "xml": "/data/streams/sumire/2026_11_04_10_23_12/录制-1727076670-20261104-102312-958-没睡.xml",
+    "cover": "/data/streams/sumire/2026_11_04_10_23_12/录制-1727076670-20261104-102312-958-没睡.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_04_10_23_12/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_04_10_23_12/录制-1727076670-20261104-102312-958-没睡_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_04_10_23_12/录制-1727076670-20261104-102312-958-没睡_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_03_17_00_05",
+    "title": "先聊再玩再聊（深空当铺",
+    "date": "2026-11-03",
+    "time": "17:00:05",
+    "startTime": "17:00",
+    "endTime": "19:22",
+    "duration": 8557,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/sumire/2026_11_03_17_00_05/录制-1727076670-20261103-170005-847-先聊再玩再聊（深空当铺.srt",
+    "xml": "/data/streams/sumire/2026_11_03_17_00_05/录制-1727076670-20261103-170005-847-先聊再玩再聊（深空当铺.xml",
+    "cover": "/data/streams/sumire/2026_11_03_17_00_05/录制-1727076670-20261103-170005-847-先聊再玩再聊（深空当铺.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_03_17_00_05/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_03_17_00_05/录制-1727076670-20261103-170005-847-先聊再玩再聊（深空当铺_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_02_22_02_38",
     "title": "咪啊",
     "date": "2026-11-02",
@@ -70,21 +192,6 @@
       "/data/streams/sumire/2026_10_31_20_58_48/录制-1727076670-20261031-205848-712-关进南瓜屋来一杯_COMIC_FACTORY.png",
       "/data/streams/sumire/2026_10_31_20_58_48/录制-1727076670-20261031-205848-712-关进南瓜屋来一杯_SCREENSHOTS.jpg"
     ]
-  },
-  {
-    "id": "2026_10_30_20_24_41",
-    "title": "来聊聊我们眼中的世界",
-    "date": "2026-10-30",
-    "time": "20:24:41",
-    "startTime": "20:24",
-    "endTime": "20:33",
-    "duration": 559,
-    "durationStr": "0.2 小时",
-    "srt": null,
-    "xml": "/data/streams/sumire/2026_10_30_20_24_41/录制-1727076670-20261030-202441-058-来聊聊我们眼中的世界.xml",
-    "cover": "/data/streams/sumire/2026_10_30_20_24_41/录制-1727076670-20261030-202441-058-来聊聊我们眼中的世界.cover.jpg",
-    "highlights": "",
-    "images": []
   },
   {
     "id": "2026_10_30_20_03_38",

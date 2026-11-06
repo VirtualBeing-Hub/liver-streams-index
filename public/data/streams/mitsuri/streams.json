@@ -1,5 +1,228 @@
 [
   {
+    "id": "2026_11_06_18_59_42",
+    "title": "鸣潮3.8前瞻！",
+    "date": "2026-11-06",
+    "time": "18:59:42",
+    "startTime": "18:59",
+    "endTime": "22:51",
+    "duration": 13961,
+    "durationStr": "3.9 小时",
+    "srt": null,
+    "xml": "/data/streams/mitsuri/2026_11_06_18_59_42/录制-1967216004-20261106-185942-717-鸣潮3.8前瞻！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_06_18_59_42/录制-1967216004-20261106-185942-717-鸣潮3.8前瞻！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_06_06_00_44",
+    "title": "BLG vs DK 你知道吗！",
+    "date": "2026-11-05",
+    "time": "06:00:44",
+    "startTime": "06:00",
+    "endTime": "10:04",
+    "duration": 14647,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/mitsuri/2026_11_06_06_00_44/录制-1967216004-20261106-060044-442-BLG vs DK 你知道吗！.srt",
+    "xml": "/data/streams/mitsuri/2026_11_06_06_00_44/录制-1967216004-20261106-060044-442-BLG vs DK 你知道吗！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_06_06_00_44/录制-1967216004-20261106-060044-442-BLG vs DK 你知道吗！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_06_06_00_44/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_06_06_00_44/录制-1967216004-20261106-060044-442-BLG vs DK 你知道吗！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_06_06_00_44/录制-1967216004-20261106-060044-442-BLG vs DK 你知道吗！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_04_10_10_26",
+    "title": "TES vs IG 你知道吗！",
+    "date": "2026-11-04",
+    "time": "10:10:26",
+    "startTime": "10:10",
+    "endTime": "11:17",
+    "duration": 4028,
+    "durationStr": "1.1 小时",
+    "srt": "/data/streams/mitsuri/2026_11_04_10_10_26/录制-1967216004-20261104-101026-152-TES vs IG 你知道吗！.srt",
+    "xml": "/data/streams/mitsuri/2026_11_04_10_10_26/录制-1967216004-20261104-101026-152-TES vs IG 你知道吗！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_04_10_10_26/录制-1967216004-20261104-101026-152-TES vs IG 你知道吗！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_04_10_10_26/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_04_10_10_26/录制-1967216004-20261104-101026-152-TES vs IG 你知道吗！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_04_10_10_26/录制-1967216004-20261104-101026-152-TES vs IG 你知道吗！_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "解说并观看TES对IG的比赛，赛后采访、复盘并讨论赛事结果",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "TES对阵IG比赛"
+        },
+        {
+          "name": "IG晋级四强"
+        },
+        {
+          "name": "赛后采访"
+        },
+        {
+          "name": "比赛BP与阵容"
+        },
+        {
+          "name": "选手赛场表现"
+        },
+        {
+          "name": "TES失利原因"
+        }
+      ],
+      "generatedAt": "2026-11-04T03:25:56.425Z"
+    }
+  },
+  {
+    "id": "2026_11_04_05_54_37",
+    "title": "TES vs IG 你知道吗！",
+    "date": "2026-11-03",
+    "time": "05:54:37",
+    "startTime": "05:54",
+    "endTime": "09:48",
+    "duration": 14099,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/mitsuri/2026_11_04_05_54_37/录制-1967216004-20261104-055437-807-TES vs IG 你知道吗！.srt",
+    "xml": "/data/streams/mitsuri/2026_11_04_05_54_37/录制-1967216004-20261104-055437-807-TES vs IG 你知道吗！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_04_05_54_37/录制-1967216004-20261104-055437-807-TES vs IG 你知道吗！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_04_05_54_37/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_04_05_54_37/录制-1967216004-20261104-055437-807-TES vs IG 你知道吗！_COMIC_FACTORY.png"
+    ],
+    "recap": {
+      "overview": "解说并观看TES对阵IG的比赛，暂停期间看短剧视频",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "TES对阵IG比赛"
+        },
+        {
+          "name": "赛前预测与阵容BP"
+        },
+        {
+          "name": "比赛战术与团战复盘"
+        },
+        {
+          "name": "比赛暂停与服务器故障"
+        },
+        {
+          "name": "AI短剧视频"
+        },
+        {
+          "name": "熬夜看比赛"
+        }
+      ],
+      "generatedAt": "2026-11-04T02:04:22.351Z"
+    }
+  },
+  {
+    "id": "2026_11_03_22_44_35",
+    "title": "再练会儿！",
+    "date": "2026-11-03",
+    "time": "22:44:35",
+    "startTime": "22:44",
+    "endTime": "00:23",
+    "duration": 5941,
+    "durationStr": "1.7 小时",
+    "srt": "/data/streams/mitsuri/2026_11_03_22_44_35/录制-1967216004-20261103-224435-304-再练会儿！.srt",
+    "xml": "/data/streams/mitsuri/2026_11_03_22_44_35/录制-1967216004-20261103-224435-304-再练会儿！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_03_22_44_35/录制-1967216004-20261103-224435-304-再练会儿！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_03_22_44_35/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_03_22_44_35/录制-1967216004-20261103-224435-304-再练会儿！_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "练习并击败叶师傅，推进游戏剧情，聊明日比赛，随后唱歌互动。",
+      "songs": [
+        {
+          "name": "月牙湾"
+        },
+        {
+          "name": "Marry You"
+        },
+        {
+          "name": "至少还有你"
+        }
+      ],
+      "games": [
+        {
+          "name": "芙娅之魂"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "挑战叶师傅与战斗技巧"
+        },
+        {
+          "name": "明日TES对阵IG"
+        },
+        {
+          "name": "白银与职业段位玩笑"
+        }
+      ],
+      "generatedAt": "2026-11-03T16:33:45.506Z"
+    }
+  },
+  {
+    "id": "2026_11_03_15_02_06",
+    "title": "影之刃零第二回！",
+    "date": "2026-11-03",
+    "time": "15:02:06",
+    "startTime": "15:02",
+    "endTime": "20:45",
+    "duration": 20609,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/mitsuri/2026_11_03_15_02_06/录制-1967216004-20261103-150206-420-影之刃零！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_11_03_15_02_06/录制-1967216004-20261103-150206-420-影之刃零！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_11_03_15_02_06/录制-1967216004-20261103-150206-420-影之刃零！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_03_15_02_06/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_03_15_02_06/录制-1967216004-20261103-150206-420-影之刃零！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "唱歌、玩《影之刃零》挑战阿花和叶师傅，随后玩《英雄联盟》组队比赛。",
+      "songs": [
+        {
+          "name": "你啊你啊"
+        }
+      ],
+      "games": [
+        {
+          "name": "影之刃零"
+        },
+        {
+          "name": "英雄联盟"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "阿花与叶师傅攻略"
+        },
+        {
+          "name": "游戏驱动与卡顿"
+        },
+        {
+          "name": "手柄和键鼠操作"
+        },
+        {
+          "name": "英雄联盟组队比赛"
+        },
+        {
+          "name": "主播段位与操作水平"
+        }
+      ],
+      "generatedAt": "2026-11-03T13:02:28.047Z"
+    }
+  },
+  {
     "id": "2026_11_02_22_03_31",
     "title": "嘟嘟登场你懂吗",
     "date": "2026-11-02",
@@ -15,7 +238,53 @@
     "images": [
       "/data/streams/mitsuri/2026_11_02_22_03_31/录制-1967216004-20261102-220331-644-嘟嘟登场你懂吗_COMIC_FACTORY.png",
       "/data/streams/mitsuri/2026_11_02_22_03_31/录制-1967216004-20261102-220331-644-嘟嘟登场你懂吗_SCREENSHOTS.jpg"
-    ]
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌，聊电竞赛事、韩国生活、AI与游戏动漫等话题",
+      "songs": [
+        {
+          "name": "黄昏晓"
+        },
+        {
+          "name": "Please Please Please"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "TES与IG比赛"
+        },
+        {
+          "name": "赛事赛制与队伍磨合"
+        },
+        {
+          "name": "职业选手抗压与退役"
+        },
+        {
+          "name": "韩国生活与未成年人规定"
+        },
+        {
+          "name": "洗澡时刷手机"
+        },
+        {
+          "name": "日本声优偶像化"
+        },
+        {
+          "name": "AI与未来就业"
+        },
+        {
+          "name": "Galgame与黄油区别"
+        },
+        {
+          "name": "《脑洞学生会》讨论"
+        },
+        {
+          "name": "《CLANNAD》推荐"
+        }
+      ],
+      "generatedAt": "2026-11-02T20:10:27.564Z"
+    }
   },
   {
     "id": "2026_11_02_18_57_00",

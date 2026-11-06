@@ -1,5 +1,142 @@
 [
   {
+    "id": "2026_11_06_19_06_18",
+    "title": "和灰灰玩游戏~",
+    "date": "2026-11-06",
+    "time": "19:06:18",
+    "startTime": "19:06",
+    "endTime": "22:49",
+    "duration": 13435,
+    "durationStr": "3.7 小时",
+    "srt": null,
+    "xml": "/data/streams/kloa/2026_11_06_19_06_18/录制-1986461465-20261106-190618-727-和灰灰玩游戏~.xml",
+    "cover": "/data/streams/kloa/2026_11_06_19_06_18/录制-1986461465-20261106-190618-727-和灰灰玩游戏~.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_05_22_00_45",
+    "title": "唱歌歌~还债",
+    "date": "2026-11-05",
+    "time": "22:00:45",
+    "startTime": "22:00",
+    "endTime": "00:37",
+    "duration": 9444,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/kloa/2026_11_05_22_00_45/录制-1986461465-20261105-220045-322-唱歌歌~还债.srt",
+    "xml": "/data/streams/kloa/2026_11_05_22_00_45/录制-1986461465-20261105-220045-322-唱歌歌~还债.xml",
+    "cover": "/data/streams/kloa/2026_11_05_22_00_45/录制-1986461465-20261105-220045-322-唱歌歌~还债.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_05_22_00_45/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_05_22_00_45/录制-1986461465-20261105-220045-322-唱歌歌~还债_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_05_22_00_45/录制-1986461465-20261105-220045-322-唱歌歌~还债_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_05_14_06_26",
+    "title": "吃吃吃然后料理电台",
+    "date": "2026-11-05",
+    "time": "14:06:26",
+    "startTime": "14:06",
+    "endTime": "16:27",
+    "duration": 8505,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/kloa/2026_11_05_14_06_26/录制-1986461465-20261105-140626-718-吃吃吃然后料理电台_merged.srt",
+    "xml": "/data/streams/kloa/2026_11_05_14_06_26/录制-1986461465-20261105-140626-718-吃吃吃然后料理电台_merged.xml",
+    "cover": "/data/streams/kloa/2026_11_05_14_06_26/录制-1986461465-20261105-140626-718-吃吃吃然后料理电台.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_05_14_06_26/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_05_14_06_26/录制-1986461465-20261105-140626-718-吃吃吃然后料理电台_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_05_14_06_26/录制-1986461465-20261105-140626-718-吃吃吃然后料理电台_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_04_22_21_01",
+    "title": "唱歌歌~",
+    "date": "2026-11-04",
+    "time": "22:21:01",
+    "startTime": "22:21",
+    "endTime": "23:43",
+    "duration": 4930,
+    "durationStr": "1.4 小时",
+    "srt": "/data/streams/kloa/2026_11_04_22_21_01/录制-1986461465-20261104-222101-184-唱歌歌~.srt",
+    "xml": "/data/streams/kloa/2026_11_04_22_21_01/录制-1986461465-20261104-222101-184-唱歌歌~.xml",
+    "cover": "/data/streams/kloa/2026_11_04_22_21_01/录制-1986461465-20261104-222101-184-唱歌歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_04_22_21_01/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_04_22_21_01/录制-1986461465-20261104-222101-184-唱歌歌~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_04_22_21_01/录制-1986461465-20261104-222101-184-唱歌歌~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_04_20_05_43",
+    "title": "唱歌歌~",
+    "date": "2026-11-04",
+    "time": "20:05:43",
+    "startTime": "20:05",
+    "endTime": "22:14",
+    "duration": 7761,
+    "durationStr": "2.2 小时",
+    "srt": null,
+    "xml": "/data/streams/kloa/2026_11_04_20_05_43/录制-1986461465-20261104-200543-073-唱歌歌~.xml",
+    "cover": "/data/streams/kloa/2026_11_04_20_05_43/录制-1986461465-20261104-200543-073-唱歌歌~.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_04_09_04_13",
+    "title": "早安学歌~",
+    "date": "2026-11-04",
+    "time": "09:04:13",
+    "startTime": "09:04",
+    "endTime": "12:45",
+    "duration": 13292,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/kloa/2026_11_04_09_04_13/录制-1986461465-20261104-090413-604-早安学歌~.srt",
+    "xml": "/data/streams/kloa/2026_11_04_09_04_13/录制-1986461465-20261104-090413-604-早安学歌~.xml",
+    "cover": "/data/streams/kloa/2026_11_04_09_04_13/录制-1986461465-20261104-090413-604-早安学歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_04_09_04_13/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_04_09_04_13/录制-1986461465-20261104-090413-604-早安学歌~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_04_09_04_13/录制-1986461465-20261104-090413-604-早安学歌~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_03_20_06_46",
+    "title": "晕乎乎被窝",
+    "date": "2026-11-03",
+    "time": "20:06:46",
+    "startTime": "20:06",
+    "endTime": "22:27",
+    "duration": 8516,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/kloa/2026_11_03_20_06_46/录制-1986461465-20261103-200646-439-晕乎乎被窝_merged.srt",
+    "xml": "/data/streams/kloa/2026_11_03_20_06_46/录制-1986461465-20261103-200646-439-晕乎乎被窝_merged.xml",
+    "cover": "/data/streams/kloa/2026_11_03_20_06_46/录制-1986461465-20261103-200646-439-晕乎乎被窝.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_03_20_06_46/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_03_20_06_46/录制-1986461465-20261103-200646-439-晕乎乎被窝_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_03_09_07_22",
+    "title": "早安~",
+    "date": "2026-11-03",
+    "time": "09:07:22",
+    "startTime": "09:07",
+    "endTime": "11:14",
+    "duration": 7651,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/kloa/2026_11_03_09_07_22/录制-1986461465-20261103-090722-131-早安~.srt",
+    "xml": "/data/streams/kloa/2026_11_03_09_07_22/录制-1986461465-20261103-090722-131-早安~.xml",
+    "cover": "/data/streams/kloa/2026_11_03_09_07_22/录制-1986461465-20261103-090722-131-早安~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_03_09_07_22/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_03_09_07_22/录制-1986461465-20261103-090722-131-早安~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_03_09_07_22/录制-1986461465-20261103-090722-131-早安~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_01_20_07_04",
     "title": "歌歌杂杂~",
     "date": "2026-11-01",
@@ -83,36 +220,6 @@
       "/data/streams/kloa/2026_10_31_14_06_43/录制-1986461465-20261031-140643-988-嗷呜嗷呜_COMIC_FACTORY.png",
       "/data/streams/kloa/2026_10_31_14_06_43/录制-1986461465-20261031-140643-988-嗷呜嗷呜_SCREENSHOTS.jpg"
     ]
-  },
-  {
-    "id": "2026_10_30_20_24_50",
-    "title": "嗷呜嗷呜",
-    "date": "2026-10-30",
-    "time": "20:24:50",
-    "startTime": "20:24",
-    "endTime": "20:33",
-    "duration": 545,
-    "durationStr": "0.2 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_10_30_20_24_50/录制-1986461465-20261030-202450-848-嗷呜嗷呜.xml",
-    "cover": "/data/streams/kloa/2026_10_30_20_24_50/录制-1986461465-20261030-202450-848-嗷呜嗷呜.cover.jpg",
-    "highlights": "",
-    "images": []
-  },
-  {
-    "id": "2026_10_30_20_15_14",
-    "title": "嗷呜嗷呜",
-    "date": "2026-10-30",
-    "time": "20:15:14",
-    "startTime": "20:15",
-    "endTime": "20:21",
-    "duration": 380,
-    "durationStr": "0.1 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_10_30_20_15_14/录制-1986461465-20261030-201514-854-嗷呜嗷呜.xml",
-    "cover": "/data/streams/kloa/2026_10_30_20_15_14/录制-1986461465-20261030-201514-854-嗷呜嗷呜.cover.jpg",
-    "highlights": "",
-    "images": []
   },
   {
     "id": "2026_10_30_20_02_17",
@@ -1807,81 +1914,6 @@
       "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_COMIC_FACTORY.png",
       "/data/streams/kloa/2026_09_05_12_33_20/录制-1986461465-20260905-123320-698-料理电台_merged_SCREENSHOTS.jpg"
     ]
-  },
-  {
-    "id": "2026_09_04_23_07_08",
-    "title": "被窝电台～",
-    "date": "2026-09-04",
-    "time": "23:07:08",
-    "startTime": "23:07",
-    "endTime": "23:13",
-    "duration": 391,
-    "durationStr": "0.1 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_09_04_23_07_08/录制-1986461465-20260904-230708-553-被窝电台～.xml",
-    "cover": "/data/streams/kloa/2026_09_04_23_07_08/录制-1986461465-20260904-230708-553-被窝电台～.cover.jpg",
-    "highlights": null,
-    "images": []
-  },
-  {
-    "id": "2026_09_04_23_05_38",
-    "title": "被窝电台～",
-    "date": "2026-09-04",
-    "time": "23:05:38",
-    "startTime": "23:05",
-    "endTime": "23:06",
-    "duration": 82,
-    "durationStr": "1 分钟",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_09_04_23_05_38/录制-1986461465-20260904-230538-002-被窝电台～.xml",
-    "cover": "/data/streams/kloa/2026_09_04_23_05_38/录制-1986461465-20260904-230538-002-被窝电台～.cover.jpg",
-    "highlights": null,
-    "images": []
-  },
-  {
-    "id": "2026_09_04_22_52_58",
-    "title": "被窝电台～",
-    "date": "2026-09-04",
-    "time": "22:52:58",
-    "startTime": "22:52",
-    "endTime": "23:04",
-    "duration": 754,
-    "durationStr": "0.2 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_09_04_22_52_58/录制-1986461465-20260904-225258-141-被窝电台～.xml",
-    "cover": "/data/streams/kloa/2026_09_04_22_52_58/录制-1986461465-20260904-225258-141-被窝电台～.cover.jpg",
-    "highlights": null,
-    "images": []
-  },
-  {
-    "id": "2026_09_04_22_46_25",
-    "title": "被窝电台～",
-    "date": "2026-09-04",
-    "time": "22:46:25",
-    "startTime": "22:46",
-    "endTime": "22:52",
-    "duration": 392,
-    "durationStr": "0.1 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_09_04_22_46_25/录制-1986461465-20260904-224625-627-被窝电台～.xml",
-    "cover": "/data/streams/kloa/2026_09_04_22_46_25/录制-1986461465-20260904-224625-627-被窝电台～.cover.jpg",
-    "highlights": null,
-    "images": []
-  },
-  {
-    "id": "2026_09_04_22_40_29",
-    "title": "被窝电台～",
-    "date": "2026-09-04",
-    "time": "22:40:29",
-    "startTime": "22:40",
-    "endTime": "22:45",
-    "duration": 354,
-    "durationStr": "5 分钟",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_09_04_22_40_29/录制-1986461465-20260904-224029-834-被窝电台～.xml",
-    "cover": "/data/streams/kloa/2026_09_04_22_40_29/录制-1986461465-20260904-224029-834-被窝电台～.cover.jpg",
-    "highlights": null,
-    "images": []
   },
   {
     "id": "2026_09_04_22_03_19",

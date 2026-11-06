@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_06_00_39_33",
+    "title": "哎哟我",
+    "date": "2026-11-05",
+    "time": "00:39:33",
+    "startTime": "00:39",
+    "endTime": "02:01",
+    "duration": 4928,
+    "durationStr": "1.4 小时",
+    "srt": "/data/streams/nana7mi/2026_11_06_00_39_33/录制-21452505-20261106-003933-150-哎哟我_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_11_06_00_39_33/录制-21452505-20261106-003933-150-哎哟我_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_11_06_00_39_33/录制-21452505-20261106-003933-150-哎哟我.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_11_06_00_39_33/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_11_06_00_39_33/录制-21452505-20261106-003933-150-哎哟我_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_06_00_39_33/录制-21452505-20261106-003933-150-哎哟我_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_04_00_02_59",
+    "title": "悠闲的影之刃",
+    "date": "2026-11-03",
+    "time": "00:02:59",
+    "startTime": "00:02",
+    "endTime": "08:21",
+    "duration": 29953,
+    "durationStr": "8.3 小时",
+    "srt": "/data/streams/nana7mi/2026_11_04_00_02_59/录制-21452505-20261104-000259-034-悠闲的影之刃_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_11_04_00_02_59/录制-21452505-20261104-000259-034-悠闲的影之刃_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_11_04_00_02_59/录制-21452505-20261104-000259-034-悠闲的影之刃.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_11_04_00_02_59/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_11_04_00_02_59/录制-21452505-20261104-000259-034-悠闲的影之刃_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_04_00_02_59/录制-21452505-20261104-000259-034-悠闲的影之刃_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_03_03_28_53",
     "title": "悠闲的影之刃",
     "date": "2026-11-02",
@@ -20,14 +56,17 @@
     "date": "2026-11-02",
     "time": "23:32:43",
     "startTime": "23:32",
-    "endTime": "03:25",
-    "duration": 14002,
-    "durationStr": "3.9 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_11_02_23_32_43/录制-21452505-20261102-233243-258-悠闲的影之刃.xml",
+    "endTime": "04:36",
+    "duration": 18290,
+    "durationStr": "5.1 小时",
+    "srt": "/data/streams/nana7mi/2026_11_02_23_32_43/录制-21452505-20261102-233243-258-悠闲的影之刃_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_11_02_23_32_43/录制-21452505-20261102-233243-258-悠闲的影之刃_merged.xml",
     "cover": "/data/streams/nana7mi/2026_11_02_23_32_43/录制-21452505-20261102-233243-258-悠闲的影之刃.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_11_02_23_32_43/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_11_02_23_32_43/录制-21452505-20261102-233243-258-悠闲的影之刃_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_02_23_32_43/录制-21452505-20261102-233243-258-悠闲的影之刃_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_02_19_32_44",
@@ -43,7 +82,8 @@
     "cover": "/data/streams/nana7mi/2026_11_02_19_32_44/录制-21452505-20261102-193244-791-看会儿KPL.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_11_02_19_32_44/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_11_02_19_32_44/录制-21452505-20261102-193244-791-看会儿KPL_COMIC_FACTORY.png"
+      "/data/streams/nana7mi/2026_11_02_19_32_44/录制-21452505-20261102-193244-791-看会儿KPL_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_02_19_32_44/录制-21452505-20261102-193244-791-看会儿KPL_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -702,51 +742,6 @@
       "/data/streams/nana7mi/2026_10_06_00_19_24/录制-21452505-20261006-001924-129-偷塔_merged_COMIC_FACTORY.png",
       "/data/streams/nana7mi/2026_10_06_00_19_24/录制-21452505-20261006-001924-129-偷塔_merged_SCREENSHOTS.jpg"
     ]
-  },
-  {
-    "id": "2026_10_05_03_46_58",
-    "title": "偷塔",
-    "date": "2026-10-04",
-    "time": "03:46:58",
-    "startTime": "03:46",
-    "endTime": "03:59",
-    "duration": 835,
-    "durationStr": "0.2 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_10_05_03_46_58/录制-21452505-20261005-034658-934-偷塔.xml",
-    "cover": "/data/streams/nana7mi/2026_10_05_03_46_58/录制-21452505-20261005-034658-934-偷塔.cover.jpg",
-    "highlights": "",
-    "images": []
-  },
-  {
-    "id": "2026_10_05_03_39_28",
-    "title": "偷塔",
-    "date": "2026-10-04",
-    "time": "03:39:28",
-    "startTime": "03:39",
-    "endTime": "03:46",
-    "duration": 446,
-    "durationStr": "0.1 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_10_05_03_39_28/录制-21452505-20261005-033928-344-偷塔.xml",
-    "cover": "/data/streams/nana7mi/2026_10_05_03_39_28/录制-21452505-20261005-033928-344-偷塔.cover.jpg",
-    "highlights": "",
-    "images": []
-  },
-  {
-    "id": "2026_10_05_03_33_06",
-    "title": "偷塔",
-    "date": "2026-10-04",
-    "time": "03:33:06",
-    "startTime": "03:33",
-    "endTime": "03:37",
-    "duration": 278,
-    "durationStr": "4 分钟",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_10_05_03_33_06/录制-21452505-20261005-033306-479-偷塔.xml",
-    "cover": "/data/streams/nana7mi/2026_10_05_03_33_06/录制-21452505-20261005-033306-479-偷塔.cover.jpg",
-    "highlights": "",
-    "images": []
   },
   {
     "id": "2026_10_05_00_04_33",

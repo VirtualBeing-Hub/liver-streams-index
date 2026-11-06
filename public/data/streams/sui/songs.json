@@ -1,7 +1,19 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-02T20:00:47.749Z",
+  "generatedAt": "2026-11-06T14:47:50.116Z",
   "sessions": [
+    {
+      "id": "2daca8db965158ed14a740f1e222c76727d1b6de40b68b61688f8b381977a6c3",
+      "recordedAt": "2026-11-04 22:18:21",
+      "title": "陪你这个猪过周三！影之刃和煮猪_merged",
+      "complete": true
+    },
+    {
+      "id": "edd6c83fc118b0d8ab5374d41fe2858f32d6abe248b0cd63c546bb0a93a35c73",
+      "recordedAt": "2026-11-03 20:11:29",
+      "title": "陪你这个猪过周二！唱唱聊聊_merged",
+      "complete": true
+    },
     {
       "id": "ee346158da3a67cf776cd2ddce0927053b2a0152dcaf41cc02920d90138249c0",
       "recordedAt": "2026-11-02 20:33:27",
@@ -166,51 +178,6 @@
     }
   ],
   "performances": [
-    {
-      "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",
-      "sessionId": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22",
-      "name": "泡泡",
-      "start": 4302,
-      "end": 4565,
-      "performance": "fragment",
-      "confirmed": false,
-      "boundariesConfirmed": false,
-      "clip": {
-        "bvid": "BV1pvaU6xE6i",
-        "part": 1,
-        "url": "https://www.bilibili.com/video/BV1pvaU6xE6i/?p=1"
-      }
-    },
-    {
-      "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743:activity-1",
-      "sessionId": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
-      "name": "Don't Look Back in Anger",
-      "start": 5906,
-      "end": 6207,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1HnHh61ES8",
-        "part": 1,
-        "url": "https://www.bilibili.com/video/BV1HnHh61ES8/?p=1"
-      }
-    },
-    {
-      "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743:activity-2",
-      "sessionId": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
-      "name": "Moon River",
-      "start": 6518,
-      "end": 6726,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1HnHh61ES8",
-        "part": 2,
-        "url": "https://www.bilibili.com/video/BV1HnHh61ES8/?p=2"
-      }
-    },
     {
       "id": "a0ced0ae9d8e640e83a9948650acd9e77733bc2609319cc13b3fc2ba3ef4b63e:activity-1",
       "sessionId": "a0ced0ae9d8e640e83a9948650acd9e77733bc2609319cc13b3fc2ba3ef4b63e",
@@ -676,6 +643,51 @@
       "confirmed": false,
       "boundariesConfirmed": false,
       "clip": null
+    },
+    {
+      "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",
+      "sessionId": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22",
+      "name": "泡泡",
+      "start": 4302,
+      "end": 4565,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1pvaU6xE6i",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1pvaU6xE6i/?p=1"
+      }
+    },
+    {
+      "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743:activity-1",
+      "sessionId": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
+      "name": "Don't Look Back in Anger",
+      "start": 5906,
+      "end": 6207,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1HnHh61ES8",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1HnHh61ES8/?p=1"
+      }
+    },
+    {
+      "id": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743:activity-2",
+      "sessionId": "cdf353cc4ce461ed592cbf70ae3249da2e0c8cdab39d6859f68b30e744a15743",
+      "name": "Moon River",
+      "start": 6518,
+      "end": 6726,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1HnHh61ES8",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1HnHh61ES8/?p=2"
+      }
     }
   ]
 }

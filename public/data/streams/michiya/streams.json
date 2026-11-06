@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_11_04_17_43_07",
+    "title": "【eva初见】夜观19-24",
+    "date": "2026-11-04",
+    "time": "17:43:07",
+    "startTime": "17:43",
+    "endTime": "21:51",
+    "duration": 14931,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/michiya/2026_11_04_17_43_07/录制-27628030-20261104-174307-656-【eva初见】夜观19-24_merged.srt",
+    "xml": "/data/streams/michiya/2026_11_04_17_43_07/录制-27628030-20261104-174307-656-【eva初见】夜观19-24_merged.xml",
+    "cover": "/data/streams/michiya/2026_11_04_17_43_07/录制-27628030-20261104-174307-656-【eva初见】夜观19-24.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_11_04_17_43_07/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_11_04_17_43_07/录制-27628030-20261104-174307-656-【eva初见】夜观19-24_merged_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_11_04_17_43_07/录制-27628030-20261104-174307-656-【eva初见】夜观19-24_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_03_18_03_13",
+    "title": "柠檬苏打水真好喝吧",
+    "date": "2026-11-03",
+    "time": "18:03:13",
+    "startTime": "18:03",
+    "endTime": "20:18",
+    "duration": 8143,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/michiya/2026_11_03_18_03_13/录制-27628030-20261103-180313-294-柠檬苏打水真好喝吧_merged.srt",
+    "xml": "/data/streams/michiya/2026_11_03_18_03_13/录制-27628030-20261103-180313-294-柠檬苏打水真好喝吧_merged.xml",
+    "cover": "/data/streams/michiya/2026_11_03_18_03_13/录制-27628030-20261103-180313-294-柠檬苏打水真好喝吧.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_11_03_18_03_13/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_11_03_18_03_13/录制-27628030-20261103-180313-294-柠檬苏打水真好喝吧_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_02_19_02_14",
     "title": "101萌新杯-眼前一黑",
     "date": "2026-11-02",
