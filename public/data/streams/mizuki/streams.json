@@ -5,14 +5,41 @@
     "date": "2026-11-06",
     "time": "21:02:57",
     "startTime": "21:02",
-    "endTime": "22:51",
-    "duration": 6540,
-    "durationStr": "1.8 小时",
-    "srt": null,
+    "endTime": "00:20",
+    "duration": 11936,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/mizuki/2026_11_06_21_02_57/录制-30655190-20261106-210257-763-【提问箱】⭐你的冬天30°？.srt",
     "xml": "/data/streams/mizuki/2026_11_06_21_02_57/录制-30655190-20261106-210257-763-【提问箱】⭐你的冬天30°？.xml",
     "cover": "/data/streams/mizuki/2026_11_06_21_02_57/录制-30655190-20261106-210257-763-【提问箱】⭐你的冬天30°？.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mizuki/2026_11_06_21_02_57/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_11_06_21_02_57/录制-30655190-20261106-210257-763-【提问箱】⭐你的冬天30°？_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_11_06_21_02_57/录制-30655190-20261106-210257-763-【提问箱】⭐你的冬天30°？_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "本场以提问箱投稿和冬日话题聊天为主，也聊到声乐课、生活与天气。",
+      "songs": [],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "冬日入冬记忆"
+        },
+        {
+          "name": "雪景与围巾"
+        },
+        {
+          "name": "南北冬日差异"
+        },
+        {
+          "name": "声乐课与唱歌"
+        },
+        {
+          "name": "广东三十度天气"
+        }
+      ],
+      "generatedAt": "2026-11-06T17:05:19.867Z"
+    }
   },
   {
     "id": "2026_11_05_21_02_51",
@@ -225,7 +252,7 @@
     "srt": null,
     "xml": "/data/streams/mizuki/2026_11_04_21_02_50/录制-30655190-20261104-210250-415-【虚度】⭐开门啊.xml",
     "cover": "/data/streams/mizuki/2026_11_04_21_02_50/录制-30655190-20261104-210250-415-【虚度】⭐开门啊.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {

@@ -1,20 +1,5 @@
 [
   {
-    "id": "2026_11_06_22_49_02",
-    "title": "今天的纪录片！",
-    "date": "2026-11-06",
-    "time": "22:49:02",
-    "startTime": "22:49",
-    "endTime": "22:52",
-    "duration": 189,
-    "durationStr": "3 分钟",
-    "srt": null,
-    "xml": "/data/streams/viridis/2026_11_06_22_49_02/录制-1727071052-20261106-224902-176-今天的纪录片！.xml",
-    "cover": "/data/streams/viridis/2026_11_06_22_49_02/录制-1727071052-20261106-224902-176-今天的纪录片！.cover.jpg",
-    "highlights": "",
-    "images": []
-  },
-  {
     "id": "2026_11_06_21_52_06",
     "title": "今天的纪录片！",
     "date": "2026-11-06",
@@ -35,14 +20,17 @@
     "date": "2026-11-06",
     "time": "21:02:30",
     "startTime": "21:02",
-    "endTime": "21:51",
-    "duration": 2974,
-    "durationStr": "0.8 小时",
-    "srt": null,
-    "xml": "/data/streams/viridis/2026_11_06_21_02_30/录制-1727071052-20261106-210230-891-今天的纪录片！.xml",
+    "endTime": "23:52",
+    "duration": 10207,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/viridis/2026_11_06_21_02_30/录制-1727071052-20261106-210230-891-今天的纪录片！_merged.srt",
+    "xml": "/data/streams/viridis/2026_11_06_21_02_30/录制-1727071052-20261106-210230-891-今天的纪录片！_merged.xml",
     "cover": "/data/streams/viridis/2026_11_06_21_02_30/录制-1727071052-20261106-210230-891-今天的纪录片！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/viridis/2026_11_06_21_02_30/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_11_06_21_02_30/录制-1727071052-20261106-210230-891-今天的纪录片！_merged_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_11_06_21_02_30/录制-1727071052-20261106-210230-891-今天的纪录片！_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_04_20_00_19",
@@ -56,7 +44,7 @@
     "srt": null,
     "xml": "/data/streams/viridis/2026_11_04_20_00_19/录制-1727071052-20261104-200019-761-提问箱再来.xml",
     "cover": "/data/streams/viridis/2026_11_04_20_00_19/录制-1727071052-20261104-200019-761-提问箱再来.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {

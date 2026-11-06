@@ -5,14 +5,17 @@
     "date": "2026-11-06",
     "time": "18:59:42",
     "startTime": "18:59",
-    "endTime": "22:51",
-    "duration": 13961,
-    "durationStr": "3.9 小时",
-    "srt": null,
+    "endTime": "23:56",
+    "duration": 17824,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/mitsuri/2026_11_06_18_59_42/录制-1967216004-20261106-185942-717-鸣潮3.8前瞻！.srt",
     "xml": "/data/streams/mitsuri/2026_11_06_18_59_42/录制-1967216004-20261106-185942-717-鸣潮3.8前瞻！.xml",
     "cover": "/data/streams/mitsuri/2026_11_06_18_59_42/录制-1967216004-20261106-185942-717-鸣潮3.8前瞻！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_11_06_18_59_42/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_06_18_59_42/录制-1967216004-20261106-185942-717-鸣潮3.8前瞻！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_06_18_59_42/录制-1967216004-20261106-185942-717-鸣潮3.8前瞻！_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_06_06_00_44",

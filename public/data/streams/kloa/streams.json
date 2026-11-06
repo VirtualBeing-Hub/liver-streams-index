@@ -5,14 +5,17 @@
     "date": "2026-11-06",
     "time": "19:06:18",
     "startTime": "19:06",
-    "endTime": "22:49",
-    "duration": 13435,
-    "durationStr": "3.7 小时",
-    "srt": null,
-    "xml": "/data/streams/kloa/2026_11_06_19_06_18/录制-1986461465-20261106-190618-727-和灰灰玩游戏~.xml",
+    "endTime": "23:05",
+    "duration": 14393,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/kloa/2026_11_06_19_06_18/录制-1986461465-20261106-190618-727-和灰灰玩游戏~_merged.srt",
+    "xml": "/data/streams/kloa/2026_11_06_19_06_18/录制-1986461465-20261106-190618-727-和灰灰玩游戏~_merged.xml",
     "cover": "/data/streams/kloa/2026_11_06_19_06_18/录制-1986461465-20261106-190618-727-和灰灰玩游戏~.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/kloa/2026_11_06_19_06_18/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_06_19_06_18/录制-1986461465-20261106-190618-727-和灰灰玩游戏~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_06_19_06_18/录制-1986461465-20261106-190618-727-和灰灰玩游戏~_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_05_22_00_45",
@@ -80,7 +83,7 @@
     "srt": null,
     "xml": "/data/streams/kloa/2026_11_04_20_05_43/录制-1986461465-20261104-200543-073-唱歌歌~.xml",
     "cover": "/data/streams/kloa/2026_11_04_20_05_43/录制-1986461465-20261104-200543-073-唱歌歌~.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {

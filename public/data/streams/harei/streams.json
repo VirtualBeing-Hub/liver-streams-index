@@ -8,11 +8,12 @@
     "endTime": "22:36",
     "duration": 10944,
     "durationStr": "3.0 小时",
-    "srt": null,
+    "srt": "/data/streams/harei/2026_11_06_19_34_41/录制-1820703922-20261106-193441-701-屋里吃饭 一起吃吃吃_merged.srt",
     "xml": "/data/streams/harei/2026_11_06_19_34_41/录制-1820703922-20261106-193441-701-屋里吃饭 一起吃吃吃_merged.xml",
     "cover": "/data/streams/harei/2026_11_06_19_34_41/录制-1820703922-20261106-193441-701-屋里吃饭 一起吃吃吃.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/harei/2026_11_06_19_34_41/highlights.md",
     "images": [
+      "/data/streams/harei/2026_11_06_19_34_41/录制-1820703922-20261106-193441-701-屋里吃饭 一起吃吃吃_merged_COMIC_FACTORY.png",
       "/data/streams/harei/2026_11_06_19_34_41/录制-1820703922-20261106-193441-701-屋里吃饭 一起吃吃吃_merged_SCREENSHOTS.jpg"
     ]
   },

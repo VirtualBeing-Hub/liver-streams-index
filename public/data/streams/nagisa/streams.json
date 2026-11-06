@@ -5,14 +5,78 @@
     "date": "2026-11-06",
     "time": "21:12:43",
     "startTime": "21:12",
-    "endTime": "22:50",
-    "duration": 5926,
-    "durationStr": "1.6 小时",
-    "srt": null,
+    "endTime": "01:17",
+    "duration": 14747,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/nagisa/2026_11_06_21_12_43/录制-31368705-20261106-211243-708-周五的歌杂.srt",
     "xml": "/data/streams/nagisa/2026_11_06_21_12_43/录制-31368705-20261106-211243-708-周五的歌杂.xml",
     "cover": "/data/streams/nagisa/2026_11_06_21_12_43/录制-31368705-20261106-211243-708-周五的歌杂.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nagisa/2026_11_06_21_12_43/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_06_21_12_43/录制-31368705-20261106-211243-708-周五的歌杂_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_06_21_12_43/录制-31368705-20261106-211243-708-周五的歌杂_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "周五歌杂直播，聊天并演唱多首歌曲，聊牛排部位、皮影戏剧情和立冬天气。",
+      "songs": [
+        {
+          "name": "牵丝戏"
+        },
+        {
+          "name": "浮夸"
+        },
+        {
+          "name": "永远的微笑"
+        },
+        {
+          "name": "马步谣"
+        },
+        {
+          "name": "泡沫"
+        },
+        {
+          "name": "别找我麻烦"
+        },
+        {
+          "name": "匿名的好友"
+        },
+        {
+          "name": "初日"
+        },
+        {
+          "name": "深海少女"
+        },
+        {
+          "name": "Tell Your World"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "牛排部位与烹饪"
+        },
+        {
+          "name": "皮影戏剧情改编"
+        },
+        {
+          "name": "歌词特效与星星"
+        },
+        {
+          "name": "粤语歌发音"
+        },
+        {
+          "name": "原版与慢版偏好"
+        },
+        {
+          "name": "观众扭伤脚踝"
+        },
+        {
+          "name": "立冬天气与保暖"
+        }
+      ],
+      "generatedAt": "2026-11-06T18:09:42.459Z"
+    }
   },
   {
     "id": "2026_11_06_08_12_45",
@@ -28,7 +92,8 @@
     "cover": "/data/streams/nagisa/2026_11_06_08_12_45/录制-31368705-20261106-081245-235-「影之刃零」第八回.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_11_06_08_12_45/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_11_06_08_12_45/录制-31368705-20261106-081245-235-「影之刃零」第八回_merged_COMIC_FACTORY.png"
+      "/data/streams/nagisa/2026_11_06_08_12_45/录制-31368705-20261106-081245-235-「影之刃零」第八回_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_06_08_12_45/录制-31368705-20261106-081245-235-「影之刃零」第八回_merged_SCREENSHOTS.jpg"
     ],
     "recap": {
       "overview": "聊天并游玩《影之刃零》，推进主线、观看游戏内皮影戏，通关后查漏补收集。",

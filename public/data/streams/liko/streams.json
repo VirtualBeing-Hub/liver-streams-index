@@ -5,14 +5,17 @@
     "date": "2026-11-06",
     "time": "20:06:50",
     "startTime": "20:06",
-    "endTime": "22:49",
-    "duration": 9835,
-    "durationStr": "2.7 小时",
-    "srt": null,
+    "endTime": "00:01",
+    "duration": 14143,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/liko/2026_11_06_20_06_50/录制-1713548468-20261106-200650-416-好多亲亲！.srt",
     "xml": "/data/streams/liko/2026_11_06_20_06_50/录制-1713548468-20261106-200650-416-好多亲亲！.xml",
     "cover": "/data/streams/liko/2026_11_06_20_06_50/录制-1713548468-20261106-200650-416-好多亲亲！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/liko/2026_11_06_20_06_50/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_11_06_20_06_50/录制-1713548468-20261106-200650-416-好多亲亲！_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_11_06_20_06_50/录制-1713548468-20261106-200650-416-好多亲亲！_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_05_20_02_34",

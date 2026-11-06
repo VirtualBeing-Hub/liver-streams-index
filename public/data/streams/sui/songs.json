@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T14:47:50.116Z",
+  "generatedAt": "2026-11-06T20:01:13.758Z",
   "sessions": [
+    {
+      "id": "03422496112b26200b963527f42281d28fdcd61b7eff5bed5acb1d649edf8167",
+      "recordedAt": "2026-11-06 20:13:00",
+      "title": "陪你这个猪过周五！唱唱聊聊_merged",
+      "complete": true
+    },
     {
       "id": "2daca8db965158ed14a740f1e222c76727d1b6de40b68b61688f8b381977a6c3",
       "recordedAt": "2026-11-04 22:18:21",
@@ -642,6 +648,28 @@
       "performance": "fragment",
       "confirmed": false,
       "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "03422496112b26200b963527f42281d28fdcd61b7eff5bed5acb1d649edf8167:activity-1",
+      "sessionId": "03422496112b26200b963527f42281d28fdcd61b7eff5bed5acb1d649edf8167",
+      "name": "天之若",
+      "start": 6841.159,
+      "end": 7155,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "03422496112b26200b963527f42281d28fdcd61b7eff5bed5acb1d649edf8167:activity-2",
+      "sessionId": "03422496112b26200b963527f42281d28fdcd61b7eff5bed5acb1d649edf8167",
+      "name": null,
+      "start": 7274,
+      "end": 7592,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
       "clip": null
     },
     {

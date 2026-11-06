@@ -5,14 +5,17 @@
     "date": "2026-11-06",
     "time": "22:00:23",
     "startTime": "22:00",
-    "endTime": "22:47",
-    "duration": 2838,
-    "durationStr": "0.8 小时",
-    "srt": null,
+    "endTime": "00:47",
+    "duration": 10055,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/joi/2026_11_06_22_00_23/录制-21484828-20261106-220023-994-千面人在此.srt",
     "xml": "/data/streams/joi/2026_11_06_22_00_23/录制-21484828-20261106-220023-994-千面人在此.xml",
     "cover": "/data/streams/joi/2026_11_06_22_00_23/录制-21484828-20261106-220023-994-千面人在此.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/joi/2026_11_06_22_00_23/highlights.md",
+    "images": [
+      "/data/streams/joi/2026_11_06_22_00_23/录制-21484828-20261106-220023-994-千面人在此_COMIC_FACTORY.png",
+      "/data/streams/joi/2026_11_06_22_00_23/录制-21484828-20261106-220023-994-千面人在此_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_04_22_21_01",
@@ -43,7 +46,7 @@
     "srt": null,
     "xml": "/data/streams/joi/2026_11_04_21_04_15/录制-21484828-20261104-210415-571-和犬绒抬棺fallbearers.xml",
     "cover": "/data/streams/joi/2026_11_04_21_04_15/录制-21484828-20261104-210415-571-和犬绒抬棺fallbearers.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {
