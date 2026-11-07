@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_07_21_04_28",
+    "title": "唱歌！",
+    "date": "2026-11-07",
+    "time": "21:04:28",
+    "startTime": "21:04",
+    "endTime": "23:53",
+    "duration": 10141,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/kloa/2026_11_07_21_04_28/录制-1986461465-20261107-210428-649-唱歌！.srt",
+    "xml": "/data/streams/kloa/2026_11_07_21_04_28/录制-1986461465-20261107-210428-649-唱歌！.xml",
+    "cover": "/data/streams/kloa/2026_11_07_21_04_28/录制-1986461465-20261107-210428-649-唱歌！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_07_21_04_28/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_07_21_04_28/录制-1986461465-20261107-210428-649-唱歌！_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_07_21_04_28/录制-1986461465-20261107-210428-649-唱歌！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_07_13_02_17",
+    "title": "277五人联动！",
+    "date": "2026-11-07",
+    "time": "13:02:17",
+    "startTime": "13:02",
+    "endTime": "15:26",
+    "duration": 8646,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/kloa/2026_11_07_13_02_17/录制-1986461465-20261107-130217-621-277五人联动！_merged.srt",
+    "xml": "/data/streams/kloa/2026_11_07_13_02_17/录制-1986461465-20261107-130217-621-277五人联动！_merged.xml",
+    "cover": "/data/streams/kloa/2026_11_07_13_02_17/录制-1986461465-20261107-130217-621-277五人联动！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_07_13_02_17/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_07_13_02_17/录制-1986461465-20261107-130217-621-277五人联动！_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_07_13_02_17/录制-1986461465-20261107-130217-621-277五人联动！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_06_19_06_18",
     "title": "和灰灰玩游戏~",
     "date": "2026-11-06",

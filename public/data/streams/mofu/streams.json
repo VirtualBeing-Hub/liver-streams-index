@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_11_07_21_05_27",
+    "title": "汪汪-v=",
+    "date": "2026-11-07",
+    "time": "21:05:27",
+    "startTime": "21:05",
+    "endTime": "00:55",
+    "duration": 13825,
+    "durationStr": "3.8 小时",
+    "srt": "/data/streams/mofu/2026_11_07_21_05_27/录制-1791260716-20261107-210527-384-汪汪-v=_merged.srt",
+    "xml": "/data/streams/mofu/2026_11_07_21_05_27/录制-1791260716-20261107-210527-384-汪汪-v=_merged.xml",
+    "cover": "/data/streams/mofu/2026_11_07_21_05_27/录制-1791260716-20261107-210527-384-汪汪-v=.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_11_07_21_05_27/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_11_07_21_05_27/录制-1791260716-20261107-210527-384-汪汪-v=_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_07_12_03_38",
+    "title": "中午汪汪-v=",
+    "date": "2026-11-07",
+    "time": "12:03:38",
+    "startTime": "12:03",
+    "endTime": "18:32",
+    "duration": 23359,
+    "durationStr": "6.5 小时",
+    "srt": "/data/streams/mofu/2026_11_07_12_03_38/录制-1791260716-20261107-120338-529-中午汪汪-v=.srt",
+    "xml": "/data/streams/mofu/2026_11_07_12_03_38/录制-1791260716-20261107-120338-529-中午汪汪-v=.xml",
+    "cover": "/data/streams/mofu/2026_11_07_12_03_38/录制-1791260716-20261107-120338-529-中午汪汪-v=.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_11_07_12_03_38/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_11_07_12_03_38/录制-1791260716-20261107-120338-529-中午汪汪-v=_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_11_07_12_03_38/录制-1791260716-20261107-120338-529-中午汪汪-v=_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_06_21_00_55",
     "title": "晚上好 抱着你看恐怖片",
     "date": "2026-11-06",

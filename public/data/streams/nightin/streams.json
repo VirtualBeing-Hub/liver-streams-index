@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_07_16_37_00",
+    "title": "盲人主播TAT",
+    "date": "2026-11-07",
+    "time": "16:37:00",
+    "startTime": "16:37",
+    "endTime": "20:28",
+    "duration": 13869,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nightin/2026_11_07_16_37_00/录制-24872476-20261107-163700-980-盲人主播TAT_merged.srt",
+    "xml": "/data/streams/nightin/2026_11_07_16_37_00/录制-24872476-20261107-163700-980-盲人主播TAT_merged.xml",
+    "cover": "/data/streams/nightin/2026_11_07_16_37_00/录制-24872476-20261107-163700-980-盲人主播TAT.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_07_16_37_00/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_07_16_37_00/录制-24872476-20261107-163700-980-盲人主播TAT_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_07_16_37_00/录制-24872476-20261107-163700-980-盲人主播TAT_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_07_13_06_59",
+    "title": "周六下午好！！",
+    "date": "2026-11-07",
+    "time": "13:06:59",
+    "startTime": "13:06",
+    "endTime": "13:17",
+    "duration": 688,
+    "durationStr": "0.2 小时",
+    "srt": "/data/streams/nightin/2026_11_07_13_06_59/录制-24872476-20261107-130659-556-周六下午好！！.srt",
+    "xml": "/data/streams/nightin/2026_11_07_13_06_59/录制-24872476-20261107-130659-556-周六下午好！！.xml",
+    "cover": "/data/streams/nightin/2026_11_07_13_06_59/录制-24872476-20261107-130659-556-周六下午好！！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_07_13_06_59/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_07_13_06_59/录制-24872476-20261107-130659-556-周六下午好！！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_07_13_06_59/录制-24872476-20261107-130659-556-周六下午好！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_06_18_14_43",
     "title": "kpl ！",
     "date": "2026-11-06",

@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026_11_08_00_41_38",
+    "title": "爽唱爽聊",
+    "date": "2026-11-07",
+    "time": "00:41:38",
+    "startTime": "00:41",
+    "endTime": "03:51",
+    "duration": 11423,
+    "durationStr": "3.2 小时",
+    "srt": null,
+    "xml": "/data/streams/rhea/2026_11_08_00_41_38/录制-23260993-20261108-004138-501-爽唱爽聊_merged.xml",
+    "cover": "/data/streams/rhea/2026_11_08_00_41_38/录制-23260993-20261108-004138-501-爽唱爽聊.cover.jpg",
+    "highlights": "",
+    "images": [
+      "/data/streams/rhea/2026_11_08_00_41_38/录制-23260993-20261108-004138-501-爽唱爽聊_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_08_00_26_58",
+    "title": "爽唱爽聊",
+    "date": "2026-11-07",
+    "time": "00:26:58",
+    "startTime": "00:26",
+    "endTime": "00:30",
+    "duration": 251,
+    "durationStr": "4 分钟",
+    "srt": null,
+    "xml": "/data/streams/rhea/2026_11_08_00_26_58/录制-23260993-20261108-002658-162-爽唱爽聊.xml",
+    "cover": "/data/streams/rhea/2026_11_08_00_26_58/录制-23260993-20261108-002658-162-爽唱爽聊.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_08_00_25_40",
+    "title": "爽唱爽聊",
+    "date": "2026-11-07",
+    "time": "00:25:40",
+    "startTime": "00:25",
+    "endTime": "00:26",
+    "duration": 67,
+    "durationStr": "1 分钟",
+    "srt": null,
+    "xml": "/data/streams/rhea/2026_11_08_00_25_40/录制-23260993-20261108-002540-809-爽唱爽聊.xml",
+    "cover": "/data/streams/rhea/2026_11_08_00_25_40/录制-23260993-20261108-002540-809-爽唱爽聊.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_07_20_39_08",
+    "title": "爽唱爽聊",
+    "date": "2026-11-07",
+    "time": "20:39:08",
+    "startTime": "20:39",
+    "endTime": "00:24",
+    "duration": 13527,
+    "durationStr": "3.8 小时",
+    "srt": null,
+    "xml": "/data/streams/rhea/2026_11_07_20_39_08/录制-23260993-20261107-203908-968-爽唱爽聊.xml",
+    "cover": "/data/streams/rhea/2026_11_07_20_39_08/录制-23260993-20261107-203908-968-爽唱爽聊.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_11_06_21_42_52",
     "title": "啊啊啊虚度周五",
     "date": "2026-11-06",

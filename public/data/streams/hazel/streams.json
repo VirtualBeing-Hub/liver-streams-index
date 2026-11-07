@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_07_23_36_37",
+    "title": "熬夜只熬一会儿",
+    "date": "2026-11-07",
+    "time": "23:36:37",
+    "startTime": "23:36",
+    "endTime": "01:39",
+    "duration": 7418,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/hazel/2026_11_07_23_36_37/录制-1713546334-20261107-233637-294-熬夜只熬一会儿_merged.srt",
+    "xml": "/data/streams/hazel/2026_11_07_23_36_37/录制-1713546334-20261107-233637-294-熬夜只熬一会儿_merged.xml",
+    "cover": "/data/streams/hazel/2026_11_07_23_36_37/录制-1713546334-20261107-233637-294-熬夜只熬一会儿.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_11_07_23_36_37/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_11_07_23_36_37/录制-1713546334-20261107-233637-294-熬夜只熬一会儿_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_11_07_23_36_37/录制-1713546334-20261107-233637-294-熬夜只熬一会儿_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_07_12_58_27",
+    "title": "联动玩玩勇敢者试炼！",
+    "date": "2026-11-07",
+    "time": "12:58:27",
+    "startTime": "12:58",
+    "endTime": "15:35",
+    "duration": 9476,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/hazel/2026_11_07_12_58_27/录制-1713546334-20261107-125827-735-联动玩玩勇敢者试炼！_merged.srt",
+    "xml": "/data/streams/hazel/2026_11_07_12_58_27/录制-1713546334-20261107-125827-735-联动玩玩勇敢者试炼！_merged.xml",
+    "cover": "/data/streams/hazel/2026_11_07_12_58_27/录制-1713546334-20261107-125827-735-联动玩玩勇敢者试炼！.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_11_07_12_58_27/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_11_07_12_58_27/录制-1713546334-20261107-125827-735-联动玩玩勇敢者试炼！_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_11_07_12_58_27/录制-1713546334-20261107-125827-735-联动玩玩勇敢者试炼！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_06_19_38_41",
     "title": "和雅雅玩一会儿游戏",
     "date": "2026-11-06",

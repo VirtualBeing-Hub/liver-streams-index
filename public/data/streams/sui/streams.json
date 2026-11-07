@@ -1,5 +1,71 @@
 [
   {
+    "id": "2026_11_07_20_29_18",
+    "title": "陪你这个猪过周6！唱唱聊聊",
+    "date": "2026-11-07",
+    "time": "20:29:18",
+    "startTime": "20:29",
+    "endTime": "23:49",
+    "duration": 12053,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/sui/2026_11_07_20_29_18/录制-25788785-20261107-202918-083-陪你这个猪过周6！唱唱聊聊_merged.srt",
+    "xml": "/data/streams/sui/2026_11_07_20_29_18/录制-25788785-20261107-202918-083-陪你这个猪过周6！唱唱聊聊_merged.xml",
+    "cover": "/data/streams/sui/2026_11_07_20_29_18/录制-25788785-20261107-202918-083-陪你这个猪过周6！唱唱聊聊.cover.jpg",
+    "highlights": "/data/streams/sui/2026_11_07_20_29_18/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_11_07_20_29_18/录制-25788785-20261107-202918-083-陪你这个猪过周6！唱唱聊聊_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_11_07_20_29_18/录制-25788785-20261107-202918-083-陪你这个猪过周6！唱唱聊聊_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "聊天、唱歌片段、玩《影之刃零》；未实际观看影片或视频。",
+      "songs": [
+        {
+          "name": "未识别歌名",
+          "start": 134,
+          "end": 153
+        },
+        {
+          "name": "未识别歌名",
+          "start": 2980,
+          "end": 3052
+        }
+      ],
+      "games": [
+        {
+          "name": "影之刃零"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "努努手偶涨价"
+        },
+        {
+          "name": "猫舔塑料袋与陪玩"
+        },
+        {
+          "name": "身体乳美白效果"
+        },
+        {
+          "name": "AI下载表情包"
+        },
+        {
+          "name": "观众表情包鉴赏"
+        },
+        {
+          "name": "婆婆体检与记忆担忧"
+        },
+        {
+          "name": "新衣投稿准备"
+        },
+        {
+          "name": "《影之刃零》挑战叶师傅"
+        }
+      ],
+      "generatedAt": "2026-11-07T18:32:31.209Z"
+    }
+  },
+  {
     "id": "2026_11_06_21_22_31",
     "title": "陪你这个猪过周五！唱唱聊聊",
     "date": "2026-11-06",
@@ -52,12 +118,26 @@
         {
           "name": "天之若",
           "start": 6841.159,
-          "end": 7155
+          "end": 7155,
+          "clips": [
+            {
+              "bvid": "BV1Gu4V6ZE2q",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1Gu4V6ZE2q/?p=1"
+            }
+          ]
         },
         {
-          "name": "未识别歌名",
+          "name": "干物女",
           "start": 7274,
-          "end": 7592
+          "end": 7592,
+          "clips": [
+            {
+              "bvid": "BV1Gu4V6ZE2q",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1Gu4V6ZE2q/?p=2"
+            }
+          ]
         }
       ],
       "games": [

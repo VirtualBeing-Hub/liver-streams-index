@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_07_20_06_42",
+    "title": "唱唱歌聊聊天",
+    "date": "2026-11-07",
+    "time": "20:06:42",
+    "startTime": "20:06",
+    "endTime": "00:37",
+    "duration": 16275,
+    "durationStr": "4.5 小时",
+    "srt": "/data/streams/liko/2026_11_07_20_06_42/录制-1713548468-20261107-200642-631-唱唱歌聊聊天_merged.srt",
+    "xml": "/data/streams/liko/2026_11_07_20_06_42/录制-1713548468-20261107-200642-631-唱唱歌聊聊天_merged.xml",
+    "cover": "/data/streams/liko/2026_11_07_20_06_42/录制-1713548468-20261107-200642-631-唱唱歌聊聊天.cover.jpg",
+    "highlights": "/data/streams/liko/2026_11_07_20_06_42/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_11_07_20_06_42/录制-1713548468-20261107-200642-631-唱唱歌聊聊天_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_11_07_20_06_42/录制-1713548468-20261107-200642-631-唱唱歌聊聊天_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_07_13_02_30",
+    "title": "277大冒险！",
+    "date": "2026-11-07",
+    "time": "13:02:30",
+    "startTime": "13:02",
+    "endTime": "15:34",
+    "duration": 9172,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/liko/2026_11_07_13_02_30/录制-1713548468-20261107-130230-980-277大冒险！.srt",
+    "xml": "/data/streams/liko/2026_11_07_13_02_30/录制-1713548468-20261107-130230-980-277大冒险！.xml",
+    "cover": "/data/streams/liko/2026_11_07_13_02_30/录制-1713548468-20261107-130230-980-277大冒险！.cover.jpg",
+    "highlights": "/data/streams/liko/2026_11_07_13_02_30/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_11_07_13_02_30/录制-1713548468-20261107-130230-980-277大冒险！_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_11_07_13_02_30/录制-1713548468-20261107-130230-980-277大冒险！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_06_20_06_50",
     "title": "好多亲亲！",
     "date": "2026-11-06",

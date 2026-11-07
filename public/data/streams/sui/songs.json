@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-06T20:01:13.758Z",
+  "generatedAt": "2026-11-07T20:01:09.390Z",
   "sessions": [
+    {
+      "id": "2a2eae3b6cd5f3d7b0a8eabbd8ff32bfde27b1c255231b03331c96074fa44ce6",
+      "recordedAt": "2026-11-07 20:29:18",
+      "title": "陪你这个猪过周6！唱唱聊聊_merged",
+      "complete": true
+    },
     {
       "id": "03422496112b26200b963527f42281d28fdcd61b7eff5bed5acb1d649edf8167",
       "recordedAt": "2026-11-06 20:13:00",
@@ -184,17 +190,6 @@
     }
   ],
   "performances": [
-    {
-      "id": "a0ced0ae9d8e640e83a9948650acd9e77733bc2609319cc13b3fc2ba3ef4b63e:activity-1",
-      "sessionId": "a0ced0ae9d8e640e83a9948650acd9e77733bc2609319cc13b3fc2ba3ef4b63e",
-      "name": null,
-      "start": 5320,
-      "end": 5355,
-      "performance": "fragment",
-      "confirmed": false,
-      "boundariesConfirmed": false,
-      "clip": null
-    },
     {
       "id": "e00732ddba619f8713beba61b7dc08575b1519e88ba6b0d9b12c6ae824ee84c9:activity-1",
       "sessionId": "e00732ddba619f8713beba61b7dc08575b1519e88ba6b0d9b12c6ae824ee84c9",
@@ -659,17 +654,47 @@
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
-      "clip": null
+      "clip": {
+        "bvid": "BV1Gu4V6ZE2q",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1Gu4V6ZE2q/?p=1"
+      }
     },
     {
       "id": "03422496112b26200b963527f42281d28fdcd61b7eff5bed5acb1d649edf8167:activity-2",
       "sessionId": "03422496112b26200b963527f42281d28fdcd61b7eff5bed5acb1d649edf8167",
-      "name": null,
+      "name": "干物女",
       "start": 7274,
       "end": 7592,
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1Gu4V6ZE2q",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1Gu4V6ZE2q/?p=2"
+      }
+    },
+    {
+      "id": "2a2eae3b6cd5f3d7b0a8eabbd8ff32bfde27b1c255231b03331c96074fa44ce6:activity-1",
+      "sessionId": "2a2eae3b6cd5f3d7b0a8eabbd8ff32bfde27b1c255231b03331c96074fa44ce6",
+      "name": null,
+      "start": 134,
+      "end": 153,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "2a2eae3b6cd5f3d7b0a8eabbd8ff32bfde27b1c255231b03331c96074fa44ce6:activity-2",
+      "sessionId": "2a2eae3b6cd5f3d7b0a8eabbd8ff32bfde27b1c255231b03331c96074fa44ce6",
+      "name": null,
+      "start": 2980,
+      "end": 3052,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
       "clip": null
     },
     {
@@ -716,6 +741,17 @@
         "part": 2,
         "url": "https://www.bilibili.com/video/BV1HnHh61ES8/?p=2"
       }
+    },
+    {
+      "id": "a0ced0ae9d8e640e83a9948650acd9e77733bc2609319cc13b3fc2ba3ef4b63e:activity-1",
+      "sessionId": "a0ced0ae9d8e640e83a9948650acd9e77733bc2609319cc13b3fc2ba3ef4b63e",
+      "name": null,
+      "start": 5320,
+      "end": 5355,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
     }
   ]
 }
