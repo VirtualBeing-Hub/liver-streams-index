@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_09_00_43_03",
+    "title": "我来了孩子们",
+    "date": "2026-11-08",
+    "time": "00:43:03",
+    "startTime": "00:43",
+    "endTime": "01:10",
+    "duration": 1666,
+    "durationStr": "0.5 小时",
+    "srt": "/data/streams/nightin/2026_11_09_00_43_03/录制-24872476-20261109-004303-007-我来了孩子们.srt",
+    "xml": "/data/streams/nightin/2026_11_09_00_43_03/录制-24872476-20261109-004303-007-我来了孩子们.xml",
+    "cover": "/data/streams/nightin/2026_11_09_00_43_03/录制-24872476-20261109-004303-007-我来了孩子们.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_09_00_43_03/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_09_00_43_03/录制-24872476-20261109-004303-007-我来了孩子们_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_09_00_43_03/录制-24872476-20261109-004303-007-我来了孩子们_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_08_18_10_19",
+    "title": "kpl！！！wb加油",
+    "date": "2026-11-08",
+    "time": "18:10:19",
+    "startTime": "18:10",
+    "endTime": "22:01",
+    "duration": 13897,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nightin/2026_11_08_18_10_19/录制-24872476-20261108-181019-037-kpl！！！wb加油.srt",
+    "xml": "/data/streams/nightin/2026_11_08_18_10_19/录制-24872476-20261108-181019-037-kpl！！！wb加油.xml",
+    "cover": "/data/streams/nightin/2026_11_08_18_10_19/录制-24872476-20261108-181019-037-kpl！！！wb加油.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_08_18_10_19/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_08_18_10_19/录制-24872476-20261108-181019-037-kpl！！！wb加油_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_08_18_10_19/录制-24872476-20261108-181019-037-kpl！！！wb加油_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_08_13_08_42",
     "title": "小众宝藏直播间",
     "date": "2026-11-08",

@@ -1,18 +1,21 @@
 [
   {
-    "id": "2026_11_08_16_35_50",
-    "title": "复健一下练练歌",
+    "id": "2026_11_08_20_00_32",
+    "title": "想你了卫",
     "date": "2026-11-08",
-    "time": "16:35:50",
-    "startTime": "16:35",
-    "endTime": "16:37",
-    "duration": 144,
-    "durationStr": "2 分钟",
-    "srt": null,
-    "xml": "/data/streams/viridis/2026_11_08_16_35_50/录制-1727071052-20261108-163550-280-复健一下练练歌.xml",
-    "cover": "/data/streams/viridis/2026_11_08_16_35_50/录制-1727071052-20261108-163550-280-复健一下练练歌.cover.jpg",
-    "highlights": "",
-    "images": []
+    "time": "20:00:32",
+    "startTime": "20:00",
+    "endTime": "00:36",
+    "duration": 16603,
+    "durationStr": "4.6 小时",
+    "srt": "/data/streams/viridis/2026_11_08_20_00_32/录制-1727071052-20261108-200032-061-想你了卫_merged.srt",
+    "xml": "/data/streams/viridis/2026_11_08_20_00_32/录制-1727071052-20261108-200032-061-想你了卫_merged.xml",
+    "cover": "/data/streams/viridis/2026_11_08_20_00_32/录制-1727071052-20261108-200032-061-想你了卫.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_11_08_20_00_32/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_11_08_20_00_32/录制-1727071052-20261108-200032-061-想你了卫_merged_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_11_08_20_00_32/录制-1727071052-20261108-200032-061-想你了卫_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_08_15_47_26",
@@ -50,14 +53,17 @@
     "date": "2026-11-08",
     "time": "13:59:22",
     "startTime": "13:59",
-    "endTime": "14:11",
-    "duration": 772,
-    "durationStr": "0.2 小时",
-    "srt": null,
-    "xml": "/data/streams/viridis/2026_11_08_13_59_22/录制-1727071052-20261108-135922-019-复健一下练练歌.xml",
+    "endTime": "18:19",
+    "duration": 15619,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/viridis/2026_11_08_13_59_22/录制-1727071052-20261108-135922-019-复健一下练练歌_merged.srt",
+    "xml": "/data/streams/viridis/2026_11_08_13_59_22/录制-1727071052-20261108-135922-019-复健一下练练歌_merged.xml",
     "cover": "/data/streams/viridis/2026_11_08_13_59_22/录制-1727071052-20261108-135922-019-复健一下练练歌.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/viridis/2026_11_08_13_59_22/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_11_08_13_59_22/录制-1727071052-20261108-135922-019-复健一下练练歌_merged_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_11_08_13_59_22/录制-1727071052-20261108-135922-019-复健一下练练歌_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_07_20_58_40",

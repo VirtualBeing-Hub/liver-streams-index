@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_11_08_20_45_06",
+    "title": "嘟嘟登场！",
+    "date": "2026-11-08",
+    "time": "20:45:06",
+    "startTime": "20:45",
+    "endTime": "23:45",
+    "duration": 10842,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/mitsuri/2026_11_08_20_45_06/录制-1967216004-20261108-204506-947-嘟嘟登场！.srt",
+    "xml": "/data/streams/mitsuri/2026_11_08_20_45_06/录制-1967216004-20261108-204506-947-嘟嘟登场！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_08_20_45_06/录制-1967216004-20261108-204506-947-嘟嘟登场！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_08_20_45_06/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_08_20_45_06/录制-1967216004-20261108-204506-947-嘟嘟登场！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_08_20_45_06/录制-1967216004-20261108-204506-947-嘟嘟登场！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_08_06_02_55",
     "title": "IG vs GenG！",
     "date": "2026-11-07",

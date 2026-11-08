@@ -8,11 +8,12 @@
     "endTime": "16:18",
     "duration": 7987,
     "durationStr": "2.2 小时",
-    "srt": null,
+    "srt": "/data/streams/sumire/2026_11_08_14_05_12/录制-1727076670-20261108-140512-158-虚度_merged.srt",
     "xml": "/data/streams/sumire/2026_11_08_14_05_12/录制-1727076670-20261108-140512-158-虚度_merged.xml",
     "cover": "/data/streams/sumire/2026_11_08_14_05_12/录制-1727076670-20261108-140512-158-虚度.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/sumire/2026_11_08_14_05_12/highlights.md",
     "images": [
+      "/data/streams/sumire/2026_11_08_14_05_12/录制-1727076670-20261108-140512-158-虚度_merged_COMIC_FACTORY.png",
       "/data/streams/sumire/2026_11_08_14_05_12/录制-1727076670-20261108-140512-158-虚度_merged_SCREENSHOTS.jpg"
     ]
   },
