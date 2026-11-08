@@ -8,10 +8,10 @@
     "endTime": "03:51",
     "duration": 11423,
     "durationStr": "3.2 小时",
-    "srt": null,
+    "srt": "/data/streams/rhea/2026_11_08_00_41_38/录制-23260993-20261108-004138-501-爽唱爽聊_merged.srt",
     "xml": "/data/streams/rhea/2026_11_08_00_41_38/录制-23260993-20261108-004138-501-爽唱爽聊_merged.xml",
     "cover": "/data/streams/rhea/2026_11_08_00_41_38/录制-23260993-20261108-004138-501-爽唱爽聊.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/rhea/2026_11_08_00_41_38/highlights.md",
     "images": [
       "/data/streams/rhea/2026_11_08_00_41_38/录制-23260993-20261108-004138-501-爽唱爽聊_merged_SCREENSHOTS.jpg"
     ]
@@ -28,7 +28,7 @@
     "srt": null,
     "xml": "/data/streams/rhea/2026_11_08_00_26_58/录制-23260993-20261108-002658-162-爽唱爽聊.xml",
     "cover": "/data/streams/rhea/2026_11_08_00_26_58/录制-23260993-20261108-002658-162-爽唱爽聊.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {
@@ -43,7 +43,7 @@
     "srt": null,
     "xml": "/data/streams/rhea/2026_11_08_00_25_40/录制-23260993-20261108-002540-809-爽唱爽聊.xml",
     "cover": "/data/streams/rhea/2026_11_08_00_25_40/录制-23260993-20261108-002540-809-爽唱爽聊.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {
@@ -58,7 +58,7 @@
     "srt": null,
     "xml": "/data/streams/rhea/2026_11_07_20_39_08/录制-23260993-20261107-203908-968-爽唱爽聊.xml",
     "cover": "/data/streams/rhea/2026_11_07_20_39_08/录制-23260993-20261107-203908-968-爽唱爽聊.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {

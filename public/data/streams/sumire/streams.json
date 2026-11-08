@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_11_08_14_05_12",
+    "title": "虚度",
+    "date": "2026-11-08",
+    "time": "14:05:12",
+    "startTime": "14:05",
+    "endTime": "16:18",
+    "duration": 7987,
+    "durationStr": "2.2 小时",
+    "srt": null,
+    "xml": "/data/streams/sumire/2026_11_08_14_05_12/录制-1727076670-20261108-140512-158-虚度_merged.xml",
+    "cover": "/data/streams/sumire/2026_11_08_14_05_12/录制-1727076670-20261108-140512-158-虚度.cover.jpg",
+    "highlights": "",
+    "images": [
+      "/data/streams/sumire/2026_11_08_14_05_12/录制-1727076670-20261108-140512-158-虚度_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_07_20_01_04",
     "title": "学歌清唱加杂谈吧",
     "date": "2026-11-07",

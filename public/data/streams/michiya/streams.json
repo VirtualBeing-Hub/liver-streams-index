@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_11_08_05_54_34",
+    "title": "[ig-gen]我已全力绷住",
+    "date": "2026-11-07",
+    "time": "05:54:34",
+    "startTime": "05:54",
+    "endTime": "07:41",
+    "duration": 6432,
+    "durationStr": "1.8 小时",
+    "srt": "/data/streams/michiya/2026_11_08_05_54_34/录制-27628030-20261108-055434-936-[ig-gen]我已全力绷住.srt",
+    "xml": "/data/streams/michiya/2026_11_08_05_54_34/录制-27628030-20261108-055434-936-[ig-gen]我已全力绷住.xml",
+    "cover": "/data/streams/michiya/2026_11_08_05_54_34/录制-27628030-20261108-055434-936-[ig-gen]我已全力绷住.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_11_08_05_54_34/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_11_08_05_54_34/录制-27628030-20261108-055434-936-[ig-gen]我已全力绷住_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_07_15_30_57",
     "title": "又是一个安静的下午",
     "date": "2026-11-07",
@@ -13,8 +30,7 @@
     "cover": "/data/streams/michiya/2026_11_07_15_30_57/录制-27628030-20261107-153057-823-又是一个安静的下午.cover.jpg",
     "highlights": "/data/streams/michiya/2026_11_07_15_30_57/highlights.md",
     "images": [
-      "/data/streams/michiya/2026_11_07_15_30_57/录制-27628030-20261107-153057-823-又是一个安静的下午_COMIC_FACTORY.png",
-      "/data/streams/michiya/2026_11_07_15_30_57/录制-27628030-20261107-153057-823-又是一个安静的下午_SCREENSHOTS.jpg"
+      "/data/streams/michiya/2026_11_07_15_30_57/录制-27628030-20261107-153057-823-又是一个安静的下午_COMIC_FACTORY.png"
     ]
   },
   {

@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_11_08_15_47_08",
+    "title": "「时之笛」重制版第二回",
+    "date": "2026-11-08",
+    "time": "15:47:08",
+    "startTime": "15:47",
+    "endTime": "16:31",
+    "duration": 2696,
+    "durationStr": "0.7 小时",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_11_08_15_47_08/录制-31368705-20261108-154708-644-「时之笛」重制版第二回.xml",
+    "cover": "/data/streams/nagisa/2026_11_08_15_47_08/录制-31368705-20261108-154708-644-「时之笛」重制版第二回.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_08_15_09_01",
+    "title": "「时之笛」重制版第二回",
+    "date": "2026-11-08",
+    "time": "15:09:01",
+    "startTime": "15:09",
+    "endTime": "15:45",
+    "duration": 2198,
+    "durationStr": "0.6 小时",
+    "srt": null,
+    "xml": "/data/streams/nagisa/2026_11_08_15_09_01/录制-31368705-20261108-150901-007-「时之笛」重制版第二回.xml",
+    "cover": "/data/streams/nagisa/2026_11_08_15_09_01/录制-31368705-20261108-150901-007-「时之笛」重制版第二回.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_11_08_00_44_23",
     "title": "「时之笛」重制版初见",
     "date": "2026-11-07",
@@ -15,19 +45,21 @@
     "images": []
   },
   {
-    "id": "2026_11_08_00_42_06",
+    "id": "2026_11_08_00_41_25",
     "title": "「时之笛」重制版初见",
     "date": "2026-11-07",
-    "time": "00:42:06",
-    "startTime": "00:42",
-    "endTime": "00:44",
-    "duration": 130,
-    "durationStr": "2 分钟",
-    "srt": null,
-    "xml": "/data/streams/nagisa/2026_11_08_00_42_06/录制-31368705-20261108-004206-439-「时之笛」重制版初见.xml",
-    "cover": "/data/streams/nagisa/2026_11_08_00_42_06/录制-31368705-20261108-004206-439-「时之笛」重制版初见.cover.jpg",
-    "highlights": "",
-    "images": []
+    "time": "00:41:25",
+    "startTime": "00:41",
+    "endTime": "04:34",
+    "duration": 13993,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nagisa/2026_11_08_00_41_25/录制-31368705-20261108-004125-354-「时之笛」重制版初见_merged.srt",
+    "xml": "/data/streams/nagisa/2026_11_08_00_41_25/录制-31368705-20261108-004125-354-「时之笛」重制版初见_merged.xml",
+    "cover": "/data/streams/nagisa/2026_11_08_00_41_25/录制-31368705-20261108-004125-354-「时之笛」重制版初见.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_11_08_00_41_25/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_08_00_41_25/录制-31368705-20261108-004125-354-「时之笛」重制版初见_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_08_00_28_29",
@@ -41,7 +73,7 @@
     "srt": null,
     "xml": "/data/streams/nagisa/2026_11_08_00_28_29/录制-31368705-20261108-002829-144-「时之笛」重制版初见.xml",
     "cover": "/data/streams/nagisa/2026_11_08_00_28_29/录制-31368705-20261108-002829-144-「时之笛」重制版初见.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {
@@ -56,7 +88,7 @@
     "srt": null,
     "xml": "/data/streams/nagisa/2026_11_08_00_25_47/录制-31368705-20261108-002547-342-「时之笛」重制版初见.xml",
     "cover": "/data/streams/nagisa/2026_11_08_00_25_47/录制-31368705-20261108-002547-342-「时之笛」重制版初见.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {
@@ -71,7 +103,7 @@
     "srt": null,
     "xml": "/data/streams/nagisa/2026_11_08_00_24_02/录制-31368705-20261108-002402-499-「时之笛」重制版初见.xml",
     "cover": "/data/streams/nagisa/2026_11_08_00_24_02/录制-31368705-20261108-002402-499-「时之笛」重制版初见.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {
@@ -86,7 +118,7 @@
     "srt": null,
     "xml": "/data/streams/nagisa/2026_11_07_21_08_30/录制-31368705-20261107-210830-370-「时之笛」重制版初见.xml",
     "cover": "/data/streams/nagisa/2026_11_07_21_08_30/录制-31368705-20261107-210830-370-「时之笛」重制版初见.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": []
   },
   {

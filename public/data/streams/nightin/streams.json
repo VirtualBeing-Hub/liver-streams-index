@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_11_08_13_08_42",
+    "title": "小众宝藏直播间",
+    "date": "2026-11-08",
+    "time": "13:08:42",
+    "startTime": "13:08",
+    "endTime": "16:00",
+    "duration": 10358,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/nightin/2026_11_08_13_08_42/录制-24872476-20261108-130842-674-小众宝藏直播间_merged.srt",
+    "xml": "/data/streams/nightin/2026_11_08_13_08_42/录制-24872476-20261108-130842-674-小众宝藏直播间_merged.xml",
+    "cover": "/data/streams/nightin/2026_11_08_13_08_42/录制-24872476-20261108-130842-674-小众宝藏直播间.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_08_13_08_42/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_08_13_08_42/录制-24872476-20261108-130842-674-小众宝藏直播间_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_08_13_08_42/录制-24872476-20261108-130842-674-小众宝藏直播间_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_07_16_37_00",
     "title": "盲人主播TAT",
     "date": "2026-11-07",

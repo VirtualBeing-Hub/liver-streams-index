@@ -32,7 +32,15 @@
       ],
       "games": [
         {
-          "name": "影之刃零"
+          "name": "影之刃零",
+          "clips": [
+            {
+              "bvid": "BV1d24s6wEMw",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1d24s6wEMw/?p=1",
+              "title": "影之刃零 第06集｜战后调整 2026-11-07"
+            }
+          ]
         }
       ],
       "watch": [],
