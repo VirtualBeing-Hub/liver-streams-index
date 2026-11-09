@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_09_19_22_16",
+    "title": "还我睡眠T T",
+    "date": "2026-11-09",
+    "time": "19:22:16",
+    "startTime": "19:22",
+    "endTime": "21:39",
+    "duration": 8233,
+    "durationStr": "2.3 小时",
+    "srt": "/data/streams/michiya/2026_11_09_19_22_16/录制-27628030-20261109-192216-382-还我睡眠T T.srt",
+    "xml": "/data/streams/michiya/2026_11_09_19_22_16/录制-27628030-20261109-192216-382-还我睡眠T T.xml",
+    "cover": "/data/streams/michiya/2026_11_09_19_22_16/录制-27628030-20261109-192216-382-还我睡眠T T.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_11_09_19_22_16/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_11_09_19_22_16/录制-27628030-20261109-192216-382-还我睡眠T T_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_11_09_19_22_16/录制-27628030-20261109-192216-382-还我睡眠T T_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_09_06_45_13",
+    "title": "[blg-t1]今天是早睡还是晚睡！",
+    "date": "2026-11-08",
+    "time": "06:45:13",
+    "startTime": "06:45",
+    "endTime": "10:27",
+    "duration": 13350,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/michiya/2026_11_09_06_45_13/录制-27628030-20261109-064513-429-[blg-t1]今天是早睡还是晚睡！_merged.srt",
+    "xml": "/data/streams/michiya/2026_11_09_06_45_13/录制-27628030-20261109-064513-429-[blg-t1]今天是早睡还是晚睡！_merged.xml",
+    "cover": "/data/streams/michiya/2026_11_09_06_45_13/录制-27628030-20261109-064513-429-[blg-t1]今天是早睡还是晚睡！.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_11_09_06_45_13/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_11_09_06_45_13/录制-27628030-20261109-064513-429-[blg-t1]今天是早睡还是晚睡！_merged_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_11_09_06_45_13/录制-27628030-20261109-064513-429-[blg-t1]今天是早睡还是晚睡！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_08_05_54_34",
     "title": "[ig-gen]我已全力绷住",
     "date": "2026-11-07",

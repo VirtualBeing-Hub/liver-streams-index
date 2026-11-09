@@ -1,5 +1,20 @@
 [
   {
+    "id": "2026_11_10_00_00_32",
+    "title": "还在影之刃",
+    "date": "2026-11-09",
+    "time": "00:00:32",
+    "startTime": "00:00",
+    "endTime": "04:00",
+    "duration": 14419,
+    "durationStr": "4.0 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_11_10_00_00_32/录制-21452505-20261110-000032-920-还在影之刃.xml",
+    "cover": "/data/streams/nana7mi/2026_11_10_00_00_32/录制-21452505-20261110-000032-920-还在影之刃.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_11_09_03_36_54",
     "title": "还在影之刃",
     "date": "2026-11-08",
@@ -50,14 +65,17 @@
     "date": "2026-11-08",
     "time": "00:03:07",
     "startTime": "00:03",
-    "endTime": "01:17",
-    "duration": 4464,
-    "durationStr": "1.2 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_11_09_00_03_07/录制-21452505-20261109-000307-339-还在影之刃.xml",
+    "endTime": "08:59",
+    "duration": 32200,
+    "durationStr": "8.9 小时",
+    "srt": "/data/streams/nana7mi/2026_11_09_00_03_07/录制-21452505-20261109-000307-339-还在影之刃_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_11_09_00_03_07/录制-21452505-20261109-000307-339-还在影之刃_merged.xml",
     "cover": "/data/streams/nana7mi/2026_11_09_00_03_07/录制-21452505-20261109-000307-339-还在影之刃.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_11_09_00_03_07/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_11_09_00_03_07/录制-21452505-20261109-000307-339-还在影之刃_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_09_00_03_07/录制-21452505-20261109-000307-339-还在影之刃_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_08_19_25_01",
@@ -73,7 +91,8 @@
     "cover": "/data/streams/nana7mi/2026_11_08_19_25_01/录制-21452505-20261108-192501-531-看会儿KPL.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_11_08_19_25_01/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_11_08_19_25_01/录制-21452505-20261108-192501-531-看会儿KPL_COMIC_FACTORY.png"
+      "/data/streams/nana7mi/2026_11_08_19_25_01/录制-21452505-20261108-192501-531-看会儿KPL_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_08_19_25_01/录制-21452505-20261108-192501-531-看会儿KPL_SCREENSHOTS.jpg"
     ]
   },
   {
@@ -90,7 +109,8 @@
     "cover": "/data/streams/nana7mi/2026_11_08_13_50_44/录制-21452505-20261108-135044-032-农友杯半决赛哇敲.cover.jpg",
     "highlights": "/data/streams/nana7mi/2026_11_08_13_50_44/highlights.md",
     "images": [
-      "/data/streams/nana7mi/2026_11_08_13_50_44/录制-21452505-20261108-135044-032-农友杯半决赛哇敲_merged_COMIC_FACTORY.png"
+      "/data/streams/nana7mi/2026_11_08_13_50_44/录制-21452505-20261108-135044-032-农友杯半决赛哇敲_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_08_13_50_44/录制-21452505-20261108-135044-032-农友杯半决赛哇敲_merged_SCREENSHOTS.jpg"
     ]
   },
   {

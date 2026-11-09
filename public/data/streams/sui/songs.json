@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-08T20:00:49.088Z",
+  "generatedAt": "2026-11-09T20:00:50.276Z",
   "sessions": [
+    {
+      "id": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04",
+      "recordedAt": "2026-11-09 20:15:18",
+      "title": "陪你这个猪过周一！唱唱聊聊_merged",
+      "complete": true
+    },
     {
       "id": "465a550a0ed7506116e721501ae993270a96c37733cf99b94c7ff5f02b8aa34d",
       "recordedAt": "2026-11-08 21:11:31",
@@ -691,6 +697,39 @@
       "start": 3473,
       "end": 3515,
       "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04:activity-1",
+      "sessionId": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04",
+      "name": "发如雪",
+      "start": 3571,
+      "end": 3838,
+      "performance": "full",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04:activity-2",
+      "sessionId": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04",
+      "name": "坏女孩",
+      "start": 4247,
+      "end": 4458,
+      "performance": "full",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04:activity-3",
+      "sessionId": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04",
+      "name": null,
+      "start": 4993,
+      "end": 5237,
+      "performance": "full",
       "confirmed": false,
       "boundariesConfirmed": false,
       "clip": null
