@@ -1,7 +1,43 @@
 [
   {
+    "id": "2026_11_10_21_00_47",
+    "title": "电脑好乐！",
+    "date": "2026-11-10",
+    "time": "21:00:47",
+    "startTime": "21:00",
+    "endTime": "01:17",
+    "duration": 15477,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/mofu/2026_11_10_21_00_47/录制-1791260716-20261110-210047-568-电脑好乐！.srt",
+    "xml": "/data/streams/mofu/2026_11_10_21_00_47/录制-1791260716-20261110-210047-568-电脑好乐！.xml",
+    "cover": "/data/streams/mofu/2026_11_10_21_00_47/录制-1791260716-20261110-210047-568-电脑好乐！.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_11_10_21_00_47/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_11_10_21_00_47/录制-1791260716-20261110-210047-568-电脑好乐！_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_11_10_21_00_47/录制-1791260716-20261110-210047-568-电脑好乐！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_10_09_35_01",
+    "title": "灶灶",
+    "date": "2026-11-10",
+    "time": "09:35:01",
+    "startTime": "09:35",
+    "endTime": "11:01",
+    "duration": 5196,
+    "durationStr": "1.4 小时",
+    "srt": "/data/streams/mofu/2026_11_10_09_35_01/录制-1791260716-20261110-093501-531-灶灶_merged.srt",
+    "xml": "/data/streams/mofu/2026_11_10_09_35_01/录制-1791260716-20261110-093501-531-灶灶_merged.xml",
+    "cover": "/data/streams/mofu/2026_11_10_09_35_01/录制-1791260716-20261110-093501-531-灶灶.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_11_10_09_35_01/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_11_10_09_35_01/录制-1791260716-20261110-093501-531-灶灶_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_11_10_09_35_01/录制-1791260716-20261110-093501-531-灶灶_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_09_20_28_45",
-    "title": "rere的po",
+    "title": "灶灶",
     "date": "2026-11-09",
     "time": "20:28:45",
     "startTime": "20:28",

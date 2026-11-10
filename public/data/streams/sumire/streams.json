@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_10_20_00_54",
+    "title": "紫女路聊天中",
+    "date": "2026-11-10",
+    "time": "20:00:54",
+    "startTime": "20:00",
+    "endTime": "22:35",
+    "duration": 9330,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/sumire/2026_11_10_20_00_54/录制-1727076670-20261110-200054-329-紫女路聊天中.srt",
+    "xml": "/data/streams/sumire/2026_11_10_20_00_54/录制-1727076670-20261110-200054-329-紫女路聊天中.xml",
+    "cover": "/data/streams/sumire/2026_11_10_20_00_54/录制-1727076670-20261110-200054-329-紫女路聊天中.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_10_20_00_54/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_10_20_00_54/录制-1727076670-20261110-200054-329-紫女路聊天中_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_10_20_00_54/录制-1727076670-20261110-200054-329-紫女路聊天中_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_10_13_58_49",
+    "title": "呼噜呼噜",
+    "date": "2026-11-10",
+    "time": "13:58:49",
+    "startTime": "13:58",
+    "endTime": "14:26",
+    "duration": 1737,
+    "durationStr": "0.5 小时",
+    "srt": "/data/streams/sumire/2026_11_10_13_58_49/录制-1727076670-20261110-135849-491-呼噜呼噜.srt",
+    "xml": "/data/streams/sumire/2026_11_10_13_58_49/录制-1727076670-20261110-135849-491-呼噜呼噜.xml",
+    "cover": "/data/streams/sumire/2026_11_10_13_58_49/录制-1727076670-20261110-135849-491-呼噜呼噜.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_10_13_58_49/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_10_13_58_49/录制-1727076670-20261110-135849-491-呼噜呼噜_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_10_13_58_49/录制-1727076670-20261110-135849-491-呼噜呼噜_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_08_14_05_12",
     "title": "虚度",
     "date": "2026-11-08",

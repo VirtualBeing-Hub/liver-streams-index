@@ -1,5 +1,76 @@
 [
   {
+    "id": "2026_11_10_20_16_22",
+    "title": "陪你这个猪过周二！",
+    "date": "2026-11-10",
+    "time": "20:16:22",
+    "startTime": "20:16",
+    "endTime": "02:31",
+    "duration": 22507,
+    "durationStr": "6.3 小时",
+    "srt": "/data/streams/sui/2026_11_10_20_16_22/录制-25788785-20261110-201622-129-陪你这个猪过周二！_merged.srt",
+    "xml": "/data/streams/sui/2026_11_10_20_16_22/录制-25788785-20261110-201622-129-陪你这个猪过周二！_merged.xml",
+    "cover": "/data/streams/sui/2026_11_10_20_16_22/录制-25788785-20261110-201622-129-陪你这个猪过周二！.cover.jpg",
+    "highlights": "/data/streams/sui/2026_11_10_20_16_22/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_11_10_20_16_22/录制-25788785-20261110-201622-129-陪你这个猪过周二！_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_11_10_20_16_22/录制-25788785-20261110-201622-129-陪你这个猪过周二！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、演唱歌曲、游玩《影之刃零》",
+      "songs": [
+        {
+          "name": "那天下雨了",
+          "start": 5850,
+          "end": 6083
+        },
+        {
+          "name": "一样的月光",
+          "start": 6338,
+          "end": 6698
+        },
+        {
+          "name": "下个, 路口, 见",
+          "start": 6781,
+          "end": 7109
+        }
+      ],
+      "games": [
+        {
+          "name": "影之刃零"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "新衣与双形态"
+        },
+        {
+          "name": "投票插件操作"
+        },
+        {
+          "name": "身体乳和牙膏"
+        },
+        {
+          "name": "嘴角干裂与唇炎"
+        },
+        {
+          "name": "影之刃零探索与战斗"
+        },
+        {
+          "name": "学习与坚持"
+        },
+        {
+          "name": "嘉嘉和出行"
+        },
+        {
+          "name": "新衣海报设计"
+        }
+      ],
+      "generatedAt": "2026-11-10T18:53:28.815Z"
+    }
+  },
+  {
     "id": "2026_11_09_20_15_18",
     "title": "陪你这个猪过周一！唱唱聊聊",
     "date": "2026-11-09",
@@ -22,17 +93,38 @@
         {
           "name": "发如雪",
           "start": 3571,
-          "end": 3838
+          "end": 3838,
+          "clips": [
+            {
+              "bvid": "BV1FRWN65EUY",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1FRWN65EUY/?p=1"
+            }
+          ]
         },
         {
           "name": "坏女孩",
           "start": 4247,
-          "end": 4458
+          "end": 4458,
+          "clips": [
+            {
+              "bvid": "BV1FRWN65EUY",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1FRWN65EUY/?p=2"
+            }
+          ]
         },
         {
-          "name": "未识别歌名",
+          "name": "多余的解释",
           "start": 4993,
-          "end": 5237
+          "end": 5237,
+          "clips": [
+            {
+              "bvid": "BV1FRWN65EUY",
+              "part": 3,
+              "url": "https://www.bilibili.com/video/BV1FRWN65EUY/?p=3"
+            }
+          ]
         }
       ],
       "games": [

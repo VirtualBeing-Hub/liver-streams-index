@@ -1,18 +1,66 @@
 [
   {
+    "id": "2026_11_11_03_33_14",
+    "title": "尽量全收集之后通关！影之刃",
+    "date": "2026-11-10",
+    "time": "03:33:14",
+    "startTime": "03:33",
+    "endTime": "04:00",
+    "duration": 1663,
+    "durationStr": "0.5 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_11_11_03_33_14/录制-21452505-20261111-033314-666-尽量全收集之后通关！影之刃.xml",
+    "cover": "/data/streams/nana7mi/2026_11_11_03_33_14/录制-21452505-20261111-033314-666-尽量全收集之后通关！影之刃.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_11_03_28_00",
+    "title": "尽量全收集之后通关！影之刃",
+    "date": "2026-11-10",
+    "time": "03:28:00",
+    "startTime": "03:28",
+    "endTime": "03:33",
+    "duration": 309,
+    "durationStr": "5 分钟",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_11_11_03_28_00/录制-21452505-20261111-032800-650-尽量全收集之后通关！影之刃.xml",
+    "cover": "/data/streams/nana7mi/2026_11_11_03_28_00/录制-21452505-20261111-032800-650-尽量全收集之后通关！影之刃.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_10_22_04_35",
+    "title": "小三星露谷",
+    "date": "2026-11-10",
+    "time": "22:04:35",
+    "startTime": "22:04",
+    "endTime": "03:25",
+    "duration": 19269,
+    "durationStr": "5.4 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_11_10_22_04_35/录制-21452505-20261110-220435-806-小三星露谷.xml",
+    "cover": "/data/streams/nana7mi/2026_11_10_22_04_35/录制-21452505-20261110-220435-806-小三星露谷.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_11_10_00_00_32",
     "title": "还在影之刃",
     "date": "2026-11-09",
     "time": "00:00:32",
     "startTime": "00:00",
-    "endTime": "04:00",
-    "duration": 14419,
-    "durationStr": "4.0 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_11_10_00_00_32/录制-21452505-20261110-000032-920-还在影之刃.xml",
+    "endTime": "10:26",
+    "duration": 37619,
+    "durationStr": "10.4 小时",
+    "srt": "/data/streams/nana7mi/2026_11_10_00_00_32/录制-21452505-20261110-000032-920-还在影之刃_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_11_10_00_00_32/录制-21452505-20261110-000032-920-还在影之刃_merged.xml",
     "cover": "/data/streams/nana7mi/2026_11_10_00_00_32/录制-21452505-20261110-000032-920-还在影之刃.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_11_10_00_00_32/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_11_10_00_00_32/录制-21452505-20261110-000032-920-还在影之刃_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_10_00_00_32/录制-21452505-20261110-000032-920-还在影之刃_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_09_03_36_54",

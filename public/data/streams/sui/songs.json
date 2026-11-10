@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-09T20:00:50.276Z",
+  "generatedAt": "2026-11-10T20:00:58.227Z",
   "sessions": [
+    {
+      "id": "8c1cfb22775e89c06c520dc2f90b3a698c74867ad86526c91d93eb4032f7cadc",
+      "recordedAt": "2026-11-10 20:16:22",
+      "title": "陪你这个猪过周二！_merged",
+      "complete": true
+    },
     {
       "id": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04",
       "recordedAt": "2026-11-09 20:15:18",
@@ -202,36 +208,6 @@
     }
   ],
   "performances": [
-    {
-      "id": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9:activity-1",
-      "sessionId": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9",
-      "name": "爱情讯息",
-      "start": 3198.44,
-      "end": 3488,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1c8H26REoi",
-        "part": 1,
-        "url": "https://www.bilibili.com/video/BV1c8H26REoi/?p=1"
-      }
-    },
-    {
-      "id": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9:activity-2",
-      "sessionId": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9",
-      "name": "反方向的钟",
-      "start": 3755,
-      "end": 4024,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1c8H26REoi",
-        "part": 2,
-        "url": "https://www.bilibili.com/video/BV1c8H26REoi/?p=2"
-      }
-    },
     {
       "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a:activity-3",
       "sessionId": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a",
@@ -710,7 +686,11 @@
       "performance": "full",
       "confirmed": false,
       "boundariesConfirmed": false,
-      "clip": null
+      "clip": {
+        "bvid": "BV1FRWN65EUY",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1FRWN65EUY/?p=1"
+      }
     },
     {
       "id": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04:activity-2",
@@ -721,14 +701,55 @@
       "performance": "full",
       "confirmed": false,
       "boundariesConfirmed": false,
-      "clip": null
+      "clip": {
+        "bvid": "BV1FRWN65EUY",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1FRWN65EUY/?p=2"
+      }
     },
     {
       "id": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04:activity-3",
       "sessionId": "a8db2d53f520b92dbe5d658e6a907a82cb85e48670617622a8b22835e748dc04",
-      "name": null,
+      "name": "多余的解释",
       "start": 4993,
       "end": 5237,
+      "performance": "full",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1FRWN65EUY",
+        "part": 3,
+        "url": "https://www.bilibili.com/video/BV1FRWN65EUY/?p=3"
+      }
+    },
+    {
+      "id": "8c1cfb22775e89c06c520dc2f90b3a698c74867ad86526c91d93eb4032f7cadc:activity-1",
+      "sessionId": "8c1cfb22775e89c06c520dc2f90b3a698c74867ad86526c91d93eb4032f7cadc",
+      "name": "那天下雨了",
+      "start": 5850,
+      "end": 6083,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "8c1cfb22775e89c06c520dc2f90b3a698c74867ad86526c91d93eb4032f7cadc:activity-2",
+      "sessionId": "8c1cfb22775e89c06c520dc2f90b3a698c74867ad86526c91d93eb4032f7cadc",
+      "name": "一样的月光",
+      "start": 6338,
+      "end": 6698,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "8c1cfb22775e89c06c520dc2f90b3a698c74867ad86526c91d93eb4032f7cadc:activity-3",
+      "sessionId": "8c1cfb22775e89c06c520dc2f90b3a698c74867ad86526c91d93eb4032f7cadc",
+      "name": "下个, 路口, 见",
+      "start": 6781,
+      "end": 7109,
       "performance": "full",
       "confirmed": false,
       "boundariesConfirmed": false,
@@ -818,6 +839,36 @@
         "bvid": "BV1y6pK6UE3t",
         "part": 2,
         "url": "https://www.bilibili.com/video/BV1y6pK6UE3t/?p=2"
+      }
+    },
+    {
+      "id": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9:activity-1",
+      "sessionId": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9",
+      "name": "爱情讯息",
+      "start": 3198.44,
+      "end": 3488,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1c8H26REoi",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1c8H26REoi/?p=1"
+      }
+    },
+    {
+      "id": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9:activity-2",
+      "sessionId": "4edbc8ae7280dd9ab353d59d6ca476efa0cd23c4cf9ca36946e69d57868d45d9",
+      "name": "反方向的钟",
+      "start": 3755,
+      "end": 4024,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1c8H26REoi",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1c8H26REoi/?p=2"
       }
     }
   ]

@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026_11_10_20_02_32",
+    "title": "晚上好 随便玩玩",
+    "date": "2026-11-10",
+    "time": "20:02:32",
+    "startTime": "20:02",
+    "endTime": "23:05",
+    "duration": 11001,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/hazel/2026_11_10_20_02_32/录制-1713546334-20261110-200232-390-晚上好 随便玩玩_merged.srt",
+    "xml": "/data/streams/hazel/2026_11_10_20_02_32/录制-1713546334-20261110-200232-390-晚上好 随便玩玩_merged.xml",
+    "cover": "/data/streams/hazel/2026_11_10_20_02_32/录制-1713546334-20261110-200232-390-晚上好 随便玩玩.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_11_10_20_02_32/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_11_10_20_02_32/录制-1713546334-20261110-200232-390-晚上好 随便玩玩_merged_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_11_10_20_02_32/录制-1713546334-20261110-200232-390-晚上好 随便玩玩_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_10_19_34_24",
+    "title": "晚上好 随便玩玩",
+    "date": "2026-11-10",
+    "time": "19:34:24",
+    "startTime": "19:34",
+    "endTime": "19:45",
+    "duration": 700,
+    "durationStr": "0.2 小时",
+    "srt": "/data/streams/hazel/2026_11_10_19_34_24/录制-1713546334-20261110-193424-921-晚上好 随便玩玩.srt",
+    "xml": "/data/streams/hazel/2026_11_10_19_34_24/录制-1713546334-20261110-193424-921-晚上好 随便玩玩.xml",
+    "cover": "/data/streams/hazel/2026_11_10_19_34_24/录制-1713546334-20261110-193424-921-晚上好 随便玩玩.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_11_10_19_34_24/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_11_10_19_34_24/录制-1713546334-20261110-193424-921-晚上好 随便玩玩_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_11_10_19_34_24/录制-1713546334-20261110-193424-921-晚上好 随便玩玩_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_10_19_13_24",
+    "title": "晚上好 随便玩玩",
+    "date": "2026-11-10",
+    "time": "19:13:24",
+    "startTime": "19:13",
+    "endTime": "19:22",
+    "duration": 588,
+    "durationStr": "0.2 小时",
+    "srt": "/data/streams/hazel/2026_11_10_19_13_24/录制-1713546334-20261110-191324-413-晚上好 随便玩玩.srt",
+    "xml": "/data/streams/hazel/2026_11_10_19_13_24/录制-1713546334-20261110-191324-413-晚上好 随便玩玩.xml",
+    "cover": "/data/streams/hazel/2026_11_10_19_13_24/录制-1713546334-20261110-191324-413-晚上好 随便玩玩.cover.jpg",
+    "highlights": "/data/streams/hazel/2026_11_10_19_13_24/highlights.md",
+    "images": [
+      "/data/streams/hazel/2026_11_10_19_13_24/录制-1713546334-20261110-191324-413-晚上好 随便玩玩_COMIC_FACTORY.png",
+      "/data/streams/hazel/2026_11_10_19_13_24/录制-1713546334-20261110-191324-413-晚上好 随便玩玩_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_09_20_07_31",
     "title": "久违的周一晚上好",
     "date": "2026-11-09",
