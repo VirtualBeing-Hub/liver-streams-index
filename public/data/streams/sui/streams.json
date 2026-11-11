@@ -22,22 +22,51 @@
         {
           "name": "那天下雨了",
           "start": 5850,
-          "end": 6083
+          "end": 6083,
+          "clips": [
+            {
+              "bvid": "BV1hKW16uEhx",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1hKW16uEhx/?p=1"
+            }
+          ]
         },
         {
           "name": "一样的月光",
           "start": 6338,
-          "end": 6698
+          "end": 6698,
+          "clips": [
+            {
+              "bvid": "BV1hKW16uEhx",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1hKW16uEhx/?p=2"
+            }
+          ]
         },
         {
           "name": "下个, 路口, 见",
           "start": 6781,
-          "end": 7109
+          "end": 7109,
+          "clips": [
+            {
+              "bvid": "BV1hKW16uEhx",
+              "part": 3,
+              "url": "https://www.bilibili.com/video/BV1hKW16uEhx/?p=3"
+            }
+          ]
         }
       ],
       "games": [
         {
-          "name": "影之刃零"
+          "name": "影之刃零",
+          "clips": [
+            {
+              "bvid": "BV1wMW56qEVP",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1wMW56qEVP/?p=1",
+              "title": "影之刃零 第08集｜方丈、沐小葵、鬼差队长：火流星、庞镇 2026-11-10"
+            }
+          ]
         }
       ],
       "watch": [],

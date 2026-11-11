@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-10T20:00:58.227Z",
+  "generatedAt": "2026-11-11T20:00:52.475Z",
   "sessions": [
     {
       "id": "8c1cfb22775e89c06c520dc2f90b3a698c74867ad86526c91d93eb4032f7cadc",
@@ -208,36 +208,6 @@
     }
   ],
   "performances": [
-    {
-      "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a:activity-3",
-      "sessionId": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a",
-      "name": "晚婚",
-      "start": 6884,
-      "end": 7274,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1Cgpg6dEwf",
-        "part": 1,
-        "url": "https://www.bilibili.com/video/BV1Cgpg6dEwf/?p=1"
-      }
-    },
-    {
-      "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a:activity-4",
-      "sessionId": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a",
-      "name": "昨日晴空",
-      "start": 7478.229,
-      "end": 7920,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1Cgpg6dEwf",
-        "part": 2,
-        "url": "https://www.bilibili.com/video/BV1Cgpg6dEwf/?p=2"
-      }
-    },
     {
       "id": "1981c882decace8bf8d5f717dfa40f1ede10131e68ebf9b988d32dc581400f3d:activity-2",
       "sessionId": "1981c882decace8bf8d5f717dfa40f1ede10131e68ebf9b988d32dc581400f3d",
@@ -731,7 +701,11 @@
       "performance": "fragment",
       "confirmed": false,
       "boundariesConfirmed": false,
-      "clip": null
+      "clip": {
+        "bvid": "BV1hKW16uEhx",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1hKW16uEhx/?p=1"
+      }
     },
     {
       "id": "8c1cfb22775e89c06c520dc2f90b3a698c74867ad86526c91d93eb4032f7cadc:activity-2",
@@ -742,7 +716,11 @@
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
-      "clip": null
+      "clip": {
+        "bvid": "BV1hKW16uEhx",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1hKW16uEhx/?p=2"
+      }
     },
     {
       "id": "8c1cfb22775e89c06c520dc2f90b3a698c74867ad86526c91d93eb4032f7cadc:activity-3",
@@ -753,7 +731,11 @@
       "performance": "full",
       "confirmed": false,
       "boundariesConfirmed": false,
-      "clip": null
+      "clip": {
+        "bvid": "BV1hKW16uEhx",
+        "part": 3,
+        "url": "https://www.bilibili.com/video/BV1hKW16uEhx/?p=3"
+      }
     },
     {
       "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",
@@ -869,6 +851,36 @@
         "bvid": "BV1c8H26REoi",
         "part": 2,
         "url": "https://www.bilibili.com/video/BV1c8H26REoi/?p=2"
+      }
+    },
+    {
+      "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a:activity-3",
+      "sessionId": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a",
+      "name": "晚婚",
+      "start": 6884,
+      "end": 7274,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1Cgpg6dEwf",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1Cgpg6dEwf/?p=1"
+      }
+    },
+    {
+      "id": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a:activity-4",
+      "sessionId": "375187966a401bd510dae8703accb720ba3147b3dfb2c47e979692d0c4dff90a",
+      "name": "昨日晴空",
+      "start": 7478.229,
+      "end": 7920,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1Cgpg6dEwf",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1Cgpg6dEwf/?p=2"
       }
     }
   ]

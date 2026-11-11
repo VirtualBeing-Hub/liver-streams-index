@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_11_20_02_35",
+    "title": "进行一个聊天",
+    "date": "2026-11-11",
+    "time": "20:02:35",
+    "startTime": "20:02",
+    "endTime": "22:53",
+    "duration": 10316,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/kloa/2026_11_11_20_02_35/录制-1986461465-20261111-200235-450-进行一个聊天_merged.srt",
+    "xml": "/data/streams/kloa/2026_11_11_20_02_35/录制-1986461465-20261111-200235-450-进行一个聊天_merged.xml",
+    "cover": "/data/streams/kloa/2026_11_11_20_02_35/录制-1986461465-20261111-200235-450-进行一个聊天.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_11_20_02_35/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_11_20_02_35/录制-1986461465-20261111-200235-450-进行一个聊天_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_11_20_02_35/录制-1986461465-20261111-200235-450-进行一个聊天_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_11_09_04_31",
+    "title": "早安学歌~",
+    "date": "2026-11-11",
+    "time": "09:04:31",
+    "startTime": "09:04",
+    "endTime": "11:10",
+    "duration": 7571,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/kloa/2026_11_11_09_04_31/录制-1986461465-20261111-090431-943-早安学歌~.srt",
+    "xml": "/data/streams/kloa/2026_11_11_09_04_31/录制-1986461465-20261111-090431-943-早安学歌~.xml",
+    "cover": "/data/streams/kloa/2026_11_11_09_04_31/录制-1986461465-20261111-090431-943-早安学歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_11_09_04_31/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_11_09_04_31/录制-1986461465-20261111-090431-943-早安学歌~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_11_09_04_31/录制-1986461465-20261111-090431-943-早安学歌~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_10_20_09_38",
     "title": "烛光晚餐！",
     "date": "2026-11-10",
@@ -11,7 +47,7 @@
     "srt": null,
     "xml": "/data/streams/kloa/2026_11_10_20_09_38/录制-1986461465-20261110-200938-351-烛光晚餐！.xml",
     "cover": "/data/streams/kloa/2026_11_10_20_09_38/录制-1986461465-20261110-200938-351-烛光晚餐！.cover.jpg",
-    "highlights": "",
+    "highlights": null,
     "images": [
       "/data/streams/kloa/2026_11_10_20_09_38/录制-1986461465-20261110-200938-351-烛光晚餐！_SCREENSHOTS.jpg"
     ]
