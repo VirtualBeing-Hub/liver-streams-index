@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_12_23_35_05",
+    "title": "测试测试哇咔咔",
+    "date": "2026-11-12",
+    "time": "23:35:05",
+    "startTime": "23:35",
+    "endTime": "00:01",
+    "duration": 1618,
+    "durationStr": "0.4 小时",
+    "srt": "/data/streams/nana7mi/2026_11_12_23_35_05/录制-21452505-20261112-233505-054-测试测试哇咔咔.srt",
+    "xml": "/data/streams/nana7mi/2026_11_12_23_35_05/录制-21452505-20261112-233505-054-测试测试哇咔咔.xml",
+    "cover": "/data/streams/nana7mi/2026_11_12_23_35_05/录制-21452505-20261112-233505-054-测试测试哇咔咔.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_11_12_23_35_05/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_11_12_23_35_05/录制-21452505-20261112-233505-054-测试测试哇咔咔_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_12_23_35_05/录制-21452505-20261112-233505-054-测试测试哇咔咔_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_12_09_01_08",
+    "title": "第一次玩时之笛",
+    "date": "2026-11-12",
+    "time": "09:01:08",
+    "startTime": "09:01",
+    "endTime": "15:12",
+    "duration": 22262,
+    "durationStr": "6.2 小时",
+    "srt": "/data/streams/nana7mi/2026_11_12_09_01_08/录制-21452505-20261112-090108-651-第一次玩时之笛_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_11_12_09_01_08/录制-21452505-20261112-090108-651-第一次玩时之笛_merged.xml",
+    "cover": "/data/streams/nana7mi/2026_11_12_09_01_08/录制-21452505-20261112-090108-651-第一次玩时之笛.cover.jpg",
+    "highlights": "/data/streams/nana7mi/2026_11_12_09_01_08/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_11_12_09_01_08/录制-21452505-20261112-090108-651-第一次玩时之笛_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_12_09_01_08/录制-21452505-20261112-090108-651-第一次玩时之笛_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_11_03_33_14",
     "title": "尽量全收集之后通关！影之刃",
     "date": "2026-11-10",

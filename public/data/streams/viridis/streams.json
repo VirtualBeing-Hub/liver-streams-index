@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_11_12_19_58_54",
+    "title": "唱唱歌",
+    "date": "2026-11-12",
+    "time": "19:58:54",
+    "startTime": "19:58",
+    "endTime": "00:48",
+    "duration": 17456,
+    "durationStr": "4.8 小时",
+    "srt": "/data/streams/viridis/2026_11_12_19_58_54/录制-1727071052-20261112-195854-458-唱唱歌.srt",
+    "xml": "/data/streams/viridis/2026_11_12_19_58_54/录制-1727071052-20261112-195854-458-唱唱歌.xml",
+    "cover": "/data/streams/viridis/2026_11_12_19_58_54/录制-1727071052-20261112-195854-458-唱唱歌.cover.jpg",
+    "highlights": "/data/streams/viridis/2026_11_12_19_58_54/highlights.md",
+    "images": [
+      "/data/streams/viridis/2026_11_12_19_58_54/录制-1727071052-20261112-195854-458-唱唱歌_COMIC_FACTORY.png",
+      "/data/streams/viridis/2026_11_12_19_58_54/录制-1727071052-20261112-195854-458-唱唱歌_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_10_19_58_40",
     "title": "对棉花糖进行一个了结",
     "date": "2026-11-10",
