@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_13_20_07_01",
+    "title": "小聊再see！",
+    "date": "2026-11-13",
+    "time": "20:07:01",
+    "startTime": "20:07",
+    "endTime": "23:59",
+    "duration": 13968,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nightin/2026_11_13_20_07_01/录制-24872476-20261113-200701-123-小聊再see！_merged.srt",
+    "xml": "/data/streams/nightin/2026_11_13_20_07_01/录制-24872476-20261113-200701-123-小聊再see！_merged.xml",
+    "cover": "/data/streams/nightin/2026_11_13_20_07_01/录制-24872476-20261113-200701-123-小聊再see！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_13_20_07_01/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_13_20_07_01/录制-24872476-20261113-200701-123-小聊再see！_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_13_20_07_01/录制-24872476-20261113-200701-123-小聊再see！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_13_14_04_28",
+    "title": "疯狂的星期五！",
+    "date": "2026-11-13",
+    "time": "14:04:28",
+    "startTime": "14:04",
+    "endTime": "15:43",
+    "duration": 5986,
+    "durationStr": "1.7 小时",
+    "srt": "/data/streams/nightin/2026_11_13_14_04_28/录制-24872476-20261113-140428-936-疯狂的星期五！.srt",
+    "xml": "/data/streams/nightin/2026_11_13_14_04_28/录制-24872476-20261113-140428-936-疯狂的星期五！.xml",
+    "cover": "/data/streams/nightin/2026_11_13_14_04_28/录制-24872476-20261113-140428-936-疯狂的星期五！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_13_14_04_28/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_13_14_04_28/录制-24872476-20261113-140428-936-疯狂的星期五！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_13_14_04_28/录制-24872476-20261113-140428-936-疯狂的星期五！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_12_21_05_11",
     "title": "先雀再see",
     "date": "2026-11-12",

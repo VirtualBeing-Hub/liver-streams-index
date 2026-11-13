@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_11_13_19_53_17",
+    "title": "影之刃00000000000",
+    "date": "2026-11-13",
+    "time": "19:53:17",
+    "startTime": "19:53",
+    "endTime": "01:46",
+    "duration": 21227,
+    "durationStr": "5.9 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_11_13_19_53_17/录制-25034104-20261113-195317-256-影之刃00000000000_merged.srt",
+    "xml": "/data/streams/mingqian-nailv/2026_11_13_19_53_17/录制-25034104-20261113-195317-256-影之刃00000000000_merged.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_11_13_19_53_17/录制-25034104-20261113-195317-256-影之刃00000000000.cover.jpg",
+    "highlights": "/data/streams/mingqian-nailv/2026_11_13_19_53_17/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_11_13_19_53_17/录制-25034104-20261113-195317-256-影之刃00000000000_merged_COMIC_FACTORY.png",
+      "/data/streams/mingqian-nailv/2026_11_13_19_53_17/录制-25034104-20261113-195317-256-影之刃00000000000_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_12_20_03_35",
     "title": "看会吧哎",
     "date": "2026-11-12",
