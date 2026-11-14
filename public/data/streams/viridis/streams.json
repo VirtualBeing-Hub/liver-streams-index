@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_11_14_21_59_10",
+    "title": "和小啾we were here forever （2）",
+    "date": "2026-11-14",
+    "time": "21:59:10",
+    "startTime": "21:59",
+    "endTime": "03:00",
+    "duration": 18098,
+    "durationStr": "5.0 小时",
+    "srt": null,
+    "xml": "/data/streams/viridis/2026_11_14_21_59_10/录制-1727071052-20261114-215910-267-和小啾we were here forever （2）_merged.xml",
+    "cover": "/data/streams/viridis/2026_11_14_21_59_10/录制-1727071052-20261114-215910-267-和小啾we were here forever （2）.cover.jpg",
+    "highlights": "",
+    "images": [
+      "/data/streams/viridis/2026_11_14_21_59_10/录制-1727071052-20261114-215910-267-和小啾we were here forever （2）_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_13_22_23_11",
     "title": "试试这个塔2",
     "date": "2026-11-13",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_14_21_12_27",
+    "title": "南征北战第二期",
+    "date": "2026-11-14",
+    "time": "21:12:27",
+    "startTime": "21:12",
+    "endTime": "00:45",
+    "duration": 12791,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/liko/2026_11_14_21_12_27/录制-1713548468-20261114-211227-738-南征北战第二期.srt",
+    "xml": "/data/streams/liko/2026_11_14_21_12_27/录制-1713548468-20261114-211227-738-南征北战第二期.xml",
+    "cover": "/data/streams/liko/2026_11_14_21_12_27/录制-1713548468-20261114-211227-738-南征北战第二期.cover.jpg",
+    "highlights": "/data/streams/liko/2026_11_14_21_12_27/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_11_14_21_12_27/录制-1713548468-20261114-211227-738-南征北战第二期_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_11_14_21_12_27/录制-1713548468-20261114-211227-738-南征北战第二期_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_14_11_05_07",
+    "title": "小兔叽来咯~",
+    "date": "2026-11-14",
+    "time": "11:05:07",
+    "startTime": "11:05",
+    "endTime": "13:59",
+    "duration": 10468,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/liko/2026_11_14_11_05_07/录制-1713548468-20261114-110507-500-小兔叽来咯~_merged.srt",
+    "xml": "/data/streams/liko/2026_11_14_11_05_07/录制-1713548468-20261114-110507-500-小兔叽来咯~_merged.xml",
+    "cover": "/data/streams/liko/2026_11_14_11_05_07/录制-1713548468-20261114-110507-500-小兔叽来咯~.cover.jpg",
+    "highlights": "/data/streams/liko/2026_11_14_11_05_07/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_11_14_11_05_07/录制-1713548468-20261114-110507-500-小兔叽来咯~_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_11_14_11_05_07/录制-1713548468-20261114-110507-500-小兔叽来咯~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_13_21_20_18",
     "title": "小兔叽来咯~",
     "date": "2026-11-13",
@@ -15,34 +51,22 @@
     "images": []
   },
   {
-    "id": "2026_11_13_21_15_45",
-    "title": "小兔叽来咯~",
-    "date": "2026-11-13",
-    "time": "21:15:45",
-    "startTime": "21:15",
-    "endTime": "21:19",
-    "duration": 269,
-    "durationStr": "4 分钟",
-    "srt": null,
-    "xml": "/data/streams/liko/2026_11_13_21_15_45/录制-1713548468-20261113-211545-617-小兔叽来咯~.xml",
-    "cover": "/data/streams/liko/2026_11_13_21_15_45/录制-1713548468-20261113-211545-617-小兔叽来咯~.cover.jpg",
-    "highlights": "",
-    "images": []
-  },
-  {
     "id": "2026_11_13_20_00_43",
     "title": "小兔叽来咯~",
     "date": "2026-11-13",
     "time": "20:00:43",
     "startTime": "20:00",
-    "endTime": "21:13",
-    "duration": 4406,
-    "durationStr": "1.2 小时",
-    "srt": null,
-    "xml": "/data/streams/liko/2026_11_13_20_00_43/录制-1713548468-20261113-200043-403-小兔叽来咯~.xml",
+    "endTime": "04:05",
+    "duration": 29115,
+    "durationStr": "8.1 小时",
+    "srt": "/data/streams/liko/2026_11_13_20_00_43/录制-1713548468-20261113-200043-403-小兔叽来咯~_merged.srt",
+    "xml": "/data/streams/liko/2026_11_13_20_00_43/录制-1713548468-20261113-200043-403-小兔叽来咯~_merged.xml",
     "cover": "/data/streams/liko/2026_11_13_20_00_43/录制-1713548468-20261113-200043-403-小兔叽来咯~.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/liko/2026_11_13_20_00_43/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_11_13_20_00_43/录制-1713548468-20261113-200043-403-小兔叽来咯~_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_11_13_20_00_43/录制-1713548468-20261113-200043-403-小兔叽来咯~_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_12_21_09_45",
