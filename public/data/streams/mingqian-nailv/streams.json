@@ -5,14 +5,16 @@
     "date": "2026-11-14",
     "time": "02:57:43",
     "startTime": "02:57",
-    "endTime": "04:03",
-    "duration": 3963,
-    "durationStr": "1.1 小时",
-    "srt": null,
+    "endTime": "09:59",
+    "duration": 25364,
+    "durationStr": "7.0 小时",
+    "srt": "/data/streams/mingqian-nailv/2026_11_15_02_57_43/录制-25034104-20261115-025743-467-看S赛咯！.srt",
     "xml": "/data/streams/mingqian-nailv/2026_11_15_02_57_43/录制-25034104-20261115-025743-467-看S赛咯！.xml",
     "cover": "/data/streams/mingqian-nailv/2026_11_15_02_57_43/录制-25034104-20261115-025743-467-看S赛咯！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mingqian-nailv/2026_11_15_02_57_43/highlights.md",
+    "images": [
+      "/data/streams/mingqian-nailv/2026_11_15_02_57_43/录制-25034104-20261115-025743-467-看S赛咯！_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_11_14_18_59_05",

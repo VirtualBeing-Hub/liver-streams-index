@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_15_20_14_31",
+    "title": "最后一次的kpl！！！",
+    "date": "2026-11-15",
+    "time": "20:14:31",
+    "startTime": "20:14",
+    "endTime": "22:05",
+    "duration": 6706,
+    "durationStr": "1.9 小时",
+    "srt": "/data/streams/nightin/2026_11_15_20_14_31/录制-24872476-20261115-201431-145-最后一次的kpl！！！.srt",
+    "xml": "/data/streams/nightin/2026_11_15_20_14_31/录制-24872476-20261115-201431-145-最后一次的kpl！！！.xml",
+    "cover": "/data/streams/nightin/2026_11_15_20_14_31/录制-24872476-20261115-201431-145-最后一次的kpl！！！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_15_20_14_31/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_15_20_14_31/录制-24872476-20261115-201431-145-最后一次的kpl！！！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_15_20_14_31/录制-24872476-20261115-201431-145-最后一次的kpl！！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_15_14_09_30",
+    "title": "nn的2",
+    "date": "2026-11-15",
+    "time": "14:09:30",
+    "startTime": "14:09",
+    "endTime": "17:13",
+    "duration": 11088,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/nightin/2026_11_15_14_09_30/录制-24872476-20261115-140930-354-nn的2_merged.srt",
+    "xml": "/data/streams/nightin/2026_11_15_14_09_30/录制-24872476-20261115-140930-354-nn的2_merged.xml",
+    "cover": "/data/streams/nightin/2026_11_15_14_09_30/录制-24872476-20261115-140930-354-nn的2.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_15_14_09_30/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_15_14_09_30/录制-24872476-20261115-140930-354-nn的2_merged_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_15_14_09_30/录制-24872476-20261115-140930-354-nn的2_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_14_16_06_31",
     "title": "kpl年总总决赛！！！！",
     "date": "2026-11-14",

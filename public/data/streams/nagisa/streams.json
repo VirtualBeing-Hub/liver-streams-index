@@ -1,18 +1,107 @@
 [
   {
-    "id": "2026_11_14_21_38_25",
-    "title": "「时之笛」重制版第五回",
-    "date": "2026-11-14",
-    "time": "21:38:25",
-    "startTime": "21:38",
-    "endTime": "04:03",
-    "duration": 23133,
-    "durationStr": "6.4 小时",
-    "srt": null,
-    "xml": "/data/streams/nagisa/2026_11_14_21_38_25/录制-31368705-20261114-213825-866-「时之笛」重制版第五回.xml",
-    "cover": "/data/streams/nagisa/2026_11_14_21_38_25/录制-31368705-20261114-213825-866-「时之笛」重制版第五回.cover.jpg",
-    "highlights": "",
-    "images": []
+    "id": "2026_11_15_21_08_42",
+    "title": "「时之笛」重制版最终回",
+    "date": "2026-11-15",
+    "time": "21:08:42",
+    "startTime": "21:08",
+    "endTime": "00:41",
+    "duration": 12826,
+    "durationStr": "3.6 小时",
+    "srt": "/data/streams/nagisa/2026_11_15_21_08_42/录制-31368705-20261115-210842-576-「时之笛」重制版最终回_merged.srt",
+    "xml": "/data/streams/nagisa/2026_11_15_21_08_42/录制-31368705-20261115-210842-576-「时之笛」重制版最终回_merged.xml",
+    "cover": "/data/streams/nagisa/2026_11_15_21_08_42/录制-31368705-20261115-210842-576-「时之笛」重制版最终回.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_11_15_21_08_42/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_15_21_08_42/录制-31368705-20261115-210842-576-「时之笛」重制版最终回_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_15_21_08_42/录制-31368705-20261115-210842-576-「时之笛」重制版最终回_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "继续探索并完成《塞尔达传说：时之笛》重制版收集，击败加农并讨论结局。",
+      "songs": [],
+      "games": [
+        {
+          "name": "塞尔达传说：时之笛 重制版"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "稻草人全收集"
+        },
+        {
+          "name": "海拉鲁城堡探索"
+        },
+        {
+          "name": "加农最终战"
+        },
+        {
+          "name": "时之笛世界线"
+        },
+        {
+          "name": "Navi离开与结局"
+        },
+        {
+          "name": "游戏时长与完成度"
+        },
+        {
+          "name": "GTA直播限制"
+        }
+      ],
+      "generatedAt": "2026-11-15T18:21:33.072Z"
+    }
+  },
+  {
+    "id": "2026_11_15_15_14_33",
+    "title": "「时之笛」重制版第六回",
+    "date": "2026-11-15",
+    "time": "15:14:33",
+    "startTime": "15:14",
+    "endTime": "19:26",
+    "duration": 15161,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/nagisa/2026_11_15_15_14_33/录制-31368705-20261115-151433-033-「时之笛」重制版第六回.srt",
+    "xml": "/data/streams/nagisa/2026_11_15_15_14_33/录制-31368705-20261115-151433-033-「时之笛」重制版第六回.xml",
+    "cover": "/data/streams/nagisa/2026_11_15_15_14_33/录制-31368705-20261115-151433-033-「时之笛」重制版第六回.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_11_15_15_14_33/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_15_15_14_33/录制-31368705-20261115-151433-033-「时之笛」重制版第六回_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_15_15_14_33/录制-31368705-20261115-151433-033-「时之笛」重制版第六回_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈并游玩《塞尔达传说：时之笛》，探索神殿、推进剧情并查漏补缺。",
+      "songs": [],
+      "games": [
+        {
+          "name": "《塞尔达传说：时之笛》"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "BLG夺冠与七天大会员"
+        },
+        {
+          "name": "AI观众与鱼送礼"
+        },
+        {
+          "name": "点唱抽奖连刷19次"
+        },
+        {
+          "name": "元旦吃洁牙零食"
+        },
+        {
+          "name": "历代大妖精升级动画"
+        },
+        {
+          "name": "希克与塞尔达身份揭晓"
+        },
+        {
+          "name": "地图探索与全收集"
+        }
+      ],
+      "generatedAt": "2026-11-15T11:43:18.436Z"
+    }
   },
   {
     "id": "2026_11_14_21_06_57",
@@ -20,14 +109,64 @@
     "date": "2026-11-14",
     "time": "21:06:57",
     "startTime": "21:06",
-    "endTime": "21:37",
-    "duration": 1886,
-    "durationStr": "0.5 小时",
-    "srt": null,
-    "xml": "/data/streams/nagisa/2026_11_14_21_06_57/录制-31368705-20261114-210657-582-「时之笛」重制版第五回.xml",
+    "endTime": "04:05",
+    "duration": 25169,
+    "durationStr": "7.0 小时",
+    "srt": "/data/streams/nagisa/2026_11_14_21_06_57/录制-31368705-20261114-210657-582-「时之笛」重制版第五回_merged.srt",
+    "xml": "/data/streams/nagisa/2026_11_14_21_06_57/录制-31368705-20261114-210657-582-「时之笛」重制版第五回_merged.xml",
     "cover": "/data/streams/nagisa/2026_11_14_21_06_57/录制-31368705-20261114-210657-582-「时之笛」重制版第五回.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nagisa/2026_11_14_21_06_57/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_14_21_06_57/录制-31368705-20261114-210657-582-「时之笛」重制版第五回_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_14_21_06_57/录制-31368705-20261114-210657-582-「时之笛」重制版第五回_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、哼唱《稻草人之歌》并游玩《塞尔达传说：时之笛》重制版，探索神殿与解谜。",
+      "songs": [
+        {
+          "name": "稻草人之歌"
+        }
+      ],
+      "games": [
+        {
+          "name": "《塞尔达传说：时之笛》重制版"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "暗之神殿探索"
+        },
+        {
+          "name": "真实之眼与隐藏道路"
+        },
+        {
+          "name": "面具任务和读心"
+        },
+        {
+          "name": "声控识别与稻草人之歌"
+        },
+        {
+          "name": "黄金蜘蛛收集"
+        },
+        {
+          "name": "格鲁德村潜行与救人"
+        },
+        {
+          "name": "游戏关卡设计细节"
+        },
+        {
+          "name": "大肥鱼与AI养鱼"
+        },
+        {
+          "name": "猫咪元旦舔到薄荷"
+        },
+        {
+          "name": "补觉与作息"
+        }
+      ],
+      "generatedAt": "2026-11-14T21:01:57.508Z"
+    }
   },
   {
     "id": "2026_11_14_15_08_43",
@@ -43,7 +182,8 @@
     "cover": "/data/streams/nagisa/2026_11_14_15_08_43/录制-31368705-20261114-150843-509-周六练练歌.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_11_14_15_08_43/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_11_14_15_08_43/录制-31368705-20261114-150843-509-周六练练歌_merged_COMIC_FACTORY.png"
+      "/data/streams/nagisa/2026_11_14_15_08_43/录制-31368705-20261114-150843-509-周六练练歌_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_14_15_08_43/录制-31368705-20261114-150843-509-周六练练歌_merged_SCREENSHOTS.jpg"
     ],
     "recap": {
       "overview": "杂谈、练歌并与观众互动",

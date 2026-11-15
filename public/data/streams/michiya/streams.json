@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_11_15_04_09_25",
+    "title": "不知名路人主播来了",
+    "date": "2026-11-14",
+    "time": "04:09:25",
+    "startTime": "04:09",
+    "endTime": "08:27",
+    "duration": 15512,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/michiya/2026_11_15_04_09_25/录制-27628030-20261115-040925-119-不知名路人主播来了.srt",
+    "xml": "/data/streams/michiya/2026_11_15_04_09_25/录制-27628030-20261115-040925-119-不知名路人主播来了.xml",
+    "cover": "/data/streams/michiya/2026_11_15_04_09_25/录制-27628030-20261115-040925-119-不知名路人主播来了.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_11_15_04_09_25/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_11_15_04_09_25/录制-27628030-20261115-040925-119-不知名路人主播来了_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_11_14_17_15_40",
     "title": "看看投稿视频....对吗？",
     "date": "2026-11-14",
@@ -13,8 +30,7 @@
     "cover": "/data/streams/michiya/2026_11_14_17_15_40/录制-27628030-20261114-171540-916-看看投稿视频....对吗？.cover.jpg",
     "highlights": "/data/streams/michiya/2026_11_14_17_15_40/highlights.md",
     "images": [
-      "/data/streams/michiya/2026_11_14_17_15_40/录制-27628030-20261114-171540-916-看看投稿视频....对吗？_merged_COMIC_FACTORY.png",
-      "/data/streams/michiya/2026_11_14_17_15_40/录制-27628030-20261114-171540-916-看看投稿视频....对吗？_merged_SCREENSHOTS.jpg"
+      "/data/streams/michiya/2026_11_14_17_15_40/录制-27628030-20261114-171540-916-看看投稿视频....对吗？_merged_COMIC_FACTORY.png"
     ]
   },
   {

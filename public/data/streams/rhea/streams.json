@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_11_15_19_41_10",
+    "title": "虚度健康周日",
+    "date": "2026-11-15",
+    "time": "19:41:10",
+    "startTime": "19:41",
+    "endTime": "23:12",
+    "duration": 12677,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/rhea/2026_11_15_19_41_10/录制-23260993-20261115-194110-704-虚度健康周日_merged.srt",
+    "xml": "/data/streams/rhea/2026_11_15_19_41_10/录制-23260993-20261115-194110-704-虚度健康周日_merged.xml",
+    "cover": "/data/streams/rhea/2026_11_15_19_41_10/录制-23260993-20261115-194110-704-虚度健康周日.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_11_15_19_41_10/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_11_15_19_41_10/录制-23260993-20261115-194110-704-虚度健康周日_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_11_15_19_41_10/录制-23260993-20261115-194110-704-虚度健康周日_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_15_02_29_06",
     "title": "她的熬夜，你很怕",
     "date": "2026-11-14",
@@ -20,14 +38,17 @@
     "date": "2026-11-14",
     "time": "22:30:42",
     "startTime": "22:30",
-    "endTime": "02:28",
-    "duration": 14302,
-    "durationStr": "4.0 小时",
-    "srt": null,
-    "xml": "/data/streams/rhea/2026_11_14_22_30_42/录制-23260993-20261114-223042-843-她的熬夜，你很怕.xml",
+    "endTime": "08:40",
+    "duration": 36616,
+    "durationStr": "10.2 小时",
+    "srt": "/data/streams/rhea/2026_11_14_22_30_42/录制-23260993-20261114-223042-843-她的熬夜，你很怕_merged.srt",
+    "xml": "/data/streams/rhea/2026_11_14_22_30_42/录制-23260993-20261114-223042-843-她的熬夜，你很怕_merged.xml",
     "cover": "/data/streams/rhea/2026_11_14_22_30_42/录制-23260993-20261114-223042-843-她的熬夜，你很怕.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/rhea/2026_11_14_22_30_42/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_11_14_22_30_42/录制-23260993-20261114-223042-843-她的熬夜，你很怕_merged_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_11_14_22_30_42/录制-23260993-20261114-223042-843-她的熬夜，你很怕_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_13_20_48_17",

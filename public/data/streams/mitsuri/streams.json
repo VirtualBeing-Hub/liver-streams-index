@@ -1,18 +1,39 @@
 [
   {
+    "id": "2026_11_15_21_01_46",
+    "title": "作息爆炸喽！！",
+    "date": "2026-11-15",
+    "time": "21:01:46",
+    "startTime": "21:01",
+    "endTime": "00:42",
+    "duration": 13295,
+    "durationStr": "3.7 小时",
+    "srt": "/data/streams/mitsuri/2026_11_15_21_01_46/录制-1967216004-20261115-210146-884-作息爆炸喽！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_11_15_21_01_46/录制-1967216004-20261115-210146-884-作息爆炸喽！！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_11_15_21_01_46/录制-1967216004-20261115-210146-884-作息爆炸喽！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_15_21_01_46/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_15_21_01_46/录制-1967216004-20261115-210146-884-作息爆炸喽！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_15_21_01_46/录制-1967216004-20261115-210146-884-作息爆炸喽！！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_15_02_10_57",
     "title": "全球总决赛！！",
     "date": "2026-11-14",
     "time": "02:10:57",
     "startTime": "02:10",
-    "endTime": "04:03",
-    "duration": 6831,
-    "durationStr": "1.9 小时",
-    "srt": null,
-    "xml": "/data/streams/mitsuri/2026_11_15_02_10_57/录制-1967216004-20261115-021057-635-全球总决赛！！.xml",
+    "endTime": "09:10",
+    "duration": 25201,
+    "durationStr": "7.0 小时",
+    "srt": "/data/streams/mitsuri/2026_11_15_02_10_57/录制-1967216004-20261115-021057-635-全球总决赛！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_11_15_02_10_57/录制-1967216004-20261115-021057-635-全球总决赛！！_merged.xml",
     "cover": "/data/streams/mitsuri/2026_11_15_02_10_57/录制-1967216004-20261115-021057-635-全球总决赛！！.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/mitsuri/2026_11_15_02_10_57/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_15_02_10_57/录制-1967216004-20261115-021057-635-全球总决赛！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_15_02_10_57/录制-1967216004-20261115-021057-635-全球总决赛！！_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_12_18_59_04",

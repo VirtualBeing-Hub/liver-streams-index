@@ -8,11 +8,12 @@
     "endTime": "03:00",
     "duration": 18098,
     "durationStr": "5.0 小时",
-    "srt": null,
+    "srt": "/data/streams/viridis/2026_11_14_21_59_10/录制-1727071052-20261114-215910-267-和小啾we were here forever （2）_merged.srt",
     "xml": "/data/streams/viridis/2026_11_14_21_59_10/录制-1727071052-20261114-215910-267-和小啾we were here forever （2）_merged.xml",
     "cover": "/data/streams/viridis/2026_11_14_21_59_10/录制-1727071052-20261114-215910-267-和小啾we were here forever （2）.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/viridis/2026_11_14_21_59_10/highlights.md",
     "images": [
+      "/data/streams/viridis/2026_11_14_21_59_10/录制-1727071052-20261114-215910-267-和小啾we were here forever （2）_merged_COMIC_FACTORY.png",
       "/data/streams/viridis/2026_11_14_21_59_10/录制-1727071052-20261114-215910-267-和小啾we were here forever （2）_merged_SCREENSHOTS.jpg"
     ]
   },

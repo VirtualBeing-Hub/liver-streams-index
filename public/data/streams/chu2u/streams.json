@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_11_15_23_01_02",
+    "title": "⭐悠悠哉哉⭐",
+    "date": "2026-11-15",
+    "time": "23:01:02",
+    "startTime": "23:01",
+    "endTime": "00:06",
+    "duration": 3926,
+    "durationStr": "1.1 小时",
+    "srt": "/data/streams/chu2u/2026_11_15_23_01_02/录制-1727074031-20261115-230102-767-⭐悠悠哉哉⭐_merged.srt",
+    "xml": "/data/streams/chu2u/2026_11_15_23_01_02/录制-1727074031-20261115-230102-767-⭐悠悠哉哉⭐_merged.xml",
+    "cover": "/data/streams/chu2u/2026_11_15_23_01_02/录制-1727074031-20261115-230102-767-⭐悠悠哉哉⭐.cover.jpg",
+    "highlights": "/data/streams/chu2u/2026_11_15_23_01_02/highlights.md",
+    "images": [
+      "/data/streams/chu2u/2026_11_15_23_01_02/录制-1727074031-20261115-230102-767-⭐悠悠哉哉⭐_merged_COMIC_FACTORY.png",
+      "/data/streams/chu2u/2026_11_15_23_01_02/录制-1727074031-20261115-230102-767-⭐悠悠哉哉⭐_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_14_21_59_11",
     "title": "⭐和小松绿玩!!⭐",
     "date": "2026-11-14",
@@ -8,11 +26,12 @@
     "endTime": "02:25",
     "duration": 16009,
     "durationStr": "4.4 小时",
-    "srt": null,
+    "srt": "/data/streams/chu2u/2026_11_14_21_59_11/录制-1727074031-20261114-215911-411-⭐和小松绿玩!!⭐_merged.srt",
     "xml": "/data/streams/chu2u/2026_11_14_21_59_11/录制-1727074031-20261114-215911-411-⭐和小松绿玩!!⭐_merged.xml",
     "cover": "/data/streams/chu2u/2026_11_14_21_59_11/录制-1727074031-20261114-215911-411-⭐和小松绿玩!!⭐.cover.jpg",
-    "highlights": "",
+    "highlights": "/data/streams/chu2u/2026_11_14_21_59_11/highlights.md",
     "images": [
+      "/data/streams/chu2u/2026_11_14_21_59_11/录制-1727074031-20261114-215911-411-⭐和小松绿玩!!⭐_merged_COMIC_FACTORY.png",
       "/data/streams/chu2u/2026_11_14_21_59_11/录制-1727074031-20261114-215911-411-⭐和小松绿玩!!⭐_merged_SCREENSHOTS.jpg"
     ]
   },

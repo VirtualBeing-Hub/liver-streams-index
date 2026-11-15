@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_15_20_02_27",
+    "title": "唱歌歌~",
+    "date": "2026-11-15",
+    "time": "20:02:27",
+    "startTime": "20:02",
+    "endTime": "00:03",
+    "duration": 14479,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/kloa/2026_11_15_20_02_27/录制-1986461465-20261115-200227-789-唱歌歌~_merged.srt",
+    "xml": "/data/streams/kloa/2026_11_15_20_02_27/录制-1986461465-20261115-200227-789-唱歌歌~_merged.xml",
+    "cover": "/data/streams/kloa/2026_11_15_20_02_27/录制-1986461465-20261115-200227-789-唱歌歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_15_20_02_27/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_15_20_02_27/录制-1986461465-20261115-200227-789-唱歌歌~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_15_20_02_27/录制-1986461465-20261115-200227-789-唱歌歌~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_15_14_08_42",
+    "title": "一起玩饥荒~",
+    "date": "2026-11-15",
+    "time": "14:08:42",
+    "startTime": "14:08",
+    "endTime": "16:52",
+    "duration": 9852,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/kloa/2026_11_15_14_08_42/录制-1986461465-20261115-140842-701-一起玩饥荒~_merged.srt",
+    "xml": "/data/streams/kloa/2026_11_15_14_08_42/录制-1986461465-20261115-140842-701-一起玩饥荒~_merged.xml",
+    "cover": "/data/streams/kloa/2026_11_15_14_08_42/录制-1986461465-20261115-140842-701-一起玩饥荒~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_15_14_08_42/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_15_14_08_42/录制-1986461465-20261115-140842-701-一起玩饥荒~_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_15_14_08_42/录制-1986461465-20261115-140842-701-一起玩饥荒~_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_14_21_15_27",
     "title": "南征北战-冬天可怎么过啊",
     "date": "2026-11-14",

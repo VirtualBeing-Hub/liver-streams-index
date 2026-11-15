@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_15_22_09_24",
+    "title": "【3d麦】獭狗冲击",
+    "date": "2026-11-15",
+    "time": "22:09:24",
+    "startTime": "22:09",
+    "endTime": "00:08",
+    "duration": 7181,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/mofu/2026_11_15_22_09_24/录制-1791260716-20261115-220924-757-【3d麦】獭狗冲击_merged.srt",
+    "xml": "/data/streams/mofu/2026_11_15_22_09_24/录制-1791260716-20261115-220924-757-【3d麦】獭狗冲击_merged.xml",
+    "cover": "/data/streams/mofu/2026_11_15_22_09_24/录制-1791260716-20261115-220924-757-【3d麦】獭狗冲击.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_11_15_22_09_24/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_11_15_22_09_24/录制-1791260716-20261115-220924-757-【3d麦】獭狗冲击_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_11_15_22_09_24/录制-1791260716-20261115-220924-757-【3d麦】獭狗冲击_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_15_12_38_26",
+    "title": "小狗小杂汪",
+    "date": "2026-11-15",
+    "time": "12:38:26",
+    "startTime": "12:38",
+    "endTime": "15:30",
+    "duration": 10337,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/mofu/2026_11_15_12_38_26/录制-1791260716-20261115-123826-089-小狗小杂汪.srt",
+    "xml": "/data/streams/mofu/2026_11_15_12_38_26/录制-1791260716-20261115-123826-089-小狗小杂汪.xml",
+    "cover": "/data/streams/mofu/2026_11_15_12_38_26/录制-1791260716-20261115-123826-089-小狗小杂汪.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_11_15_12_38_26/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_11_15_12_38_26/录制-1791260716-20261115-123826-089-小狗小杂汪_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_11_15_12_38_26/录制-1791260716-20261115-123826-089-小狗小杂汪_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_14_21_01_21",
     "title": "小狗小杂汪",
     "date": "2026-11-14",
