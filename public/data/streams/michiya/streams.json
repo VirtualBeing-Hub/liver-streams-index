@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_11_16_15_16_52",
+    "title": "不知名路人主播",
+    "date": "2026-11-16",
+    "time": "15:16:52",
+    "startTime": "15:16",
+    "endTime": "17:41",
+    "duration": 8719,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/michiya/2026_11_16_15_16_52/录制-27628030-20261116-151652-291-不知名路人主播_merged.srt",
+    "xml": "/data/streams/michiya/2026_11_16_15_16_52/录制-27628030-20261116-151652-291-不知名路人主播_merged.xml",
+    "cover": "/data/streams/michiya/2026_11_16_15_16_52/录制-27628030-20261116-151652-291-不知名路人主播.cover.jpg",
+    "highlights": "/data/streams/michiya/2026_11_16_15_16_52/highlights.md",
+    "images": [
+      "/data/streams/michiya/2026_11_16_15_16_52/录制-27628030-20261116-151652-291-不知名路人主播_merged_COMIC_FACTORY.png",
+      "/data/streams/michiya/2026_11_16_15_16_52/录制-27628030-20261116-151652-291-不知名路人主播_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_15_04_09_25",
     "title": "不知名路人主播来了",
     "date": "2026-11-14",

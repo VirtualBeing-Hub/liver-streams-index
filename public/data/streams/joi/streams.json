@@ -1,5 +1,22 @@
 [
   {
+    "id": "2026_11_16_22_01_15",
+    "title": "困困夜行电台zzZ",
+    "date": "2026-11-16",
+    "time": "22:01:15",
+    "startTime": "22:01",
+    "endTime": "00:54",
+    "duration": 10382,
+    "durationStr": "2.9 小时",
+    "srt": null,
+    "xml": "/data/streams/joi/2026_11_16_22_01_15/录制-21484828-20261116-220115-534-困困夜行电台zzZ_merged.xml",
+    "cover": "/data/streams/joi/2026_11_16_22_01_15/录制-21484828-20261116-220115-534-困困夜行电台zzZ.cover.jpg",
+    "highlights": "",
+    "images": [
+      "/data/streams/joi/2026_11_16_22_01_15/录制-21484828-20261116-220115-534-困困夜行电台zzZ_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_15_21_03_54",
     "title": "137泡泡镇餐厅",
     "date": "2026-11-15",

@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-15T20:03:36.281Z",
+  "generatedAt": "2026-11-16T20:00:45.148Z",
   "sessions": [
+    {
+      "id": "2bbba61e53a1050193af182a99f55823cb40f196799aa6833442556d2f40c709",
+      "recordedAt": "2026-11-16 20:17:08",
+      "title": "陪你这个猪过周一【新衣活动中】_merged",
+      "complete": true
+    },
     {
       "id": "e3bce16d5189f2db4f986d7ecfc820ad3c4ef416a73b8ef05990389e03455efd",
       "recordedAt": "2026-11-15 20:14:13",
@@ -226,36 +232,6 @@
     }
   ],
   "performances": [
-    {
-      "id": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8:activity-1",
-      "sessionId": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8",
-      "name": "One more time, One more chance",
-      "start": 4659,
-      "end": 5035,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1WWpr67End",
-        "part": 1,
-        "url": "https://www.bilibili.com/video/BV1WWpr67End/?p=1"
-      }
-    },
-    {
-      "id": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8:activity-2",
-      "sessionId": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8",
-      "name": "刻在我心底的名字",
-      "start": 5246.7,
-      "end": 5601,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1WWpr67End",
-        "part": 2,
-        "url": "https://www.bilibili.com/video/BV1WWpr67End/?p=2"
-      }
-    },
     {
       "id": "958d9f4f9561448da114700b425b0791e626eaf203b781895fd866c8bdd85def:activity-2",
       "sessionId": "958d9f4f9561448da114700b425b0791e626eaf203b781895fd866c8bdd85def",
@@ -770,6 +746,28 @@
       "clip": null
     },
     {
+      "id": "2bbba61e53a1050193af182a99f55823cb40f196799aa6833442556d2f40c709:activity-3",
+      "sessionId": "2bbba61e53a1050193af182a99f55823cb40f196799aa6833442556d2f40c709",
+      "name": "独自美丽",
+      "start": 5698.1,
+      "end": 5983,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "2bbba61e53a1050193af182a99f55823cb40f196799aa6833442556d2f40c709:activity-4",
+      "sessionId": "2bbba61e53a1050193af182a99f55823cb40f196799aa6833442556d2f40c709",
+      "name": null,
+      "start": 6351.279,
+      "end": 6626,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
       "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",
       "sessionId": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22",
       "name": "泡泡",
@@ -954,6 +952,36 @@
         "bvid": "BV1VEWc6pERT",
         "part": 2,
         "url": "https://www.bilibili.com/video/BV1VEWc6pERT/?p=2"
+      }
+    },
+    {
+      "id": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8:activity-1",
+      "sessionId": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8",
+      "name": "One more time, One more chance",
+      "start": 4659,
+      "end": 5035,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1WWpr67End",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1WWpr67End/?p=1"
+      }
+    },
+    {
+      "id": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8:activity-2",
+      "sessionId": "5c4c15c0b3ffa534826f2c07b3a954518bc5ae385e16cc451420944b95ed77c8",
+      "name": "刻在我心底的名字",
+      "start": 5246.7,
+      "end": 5601,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1WWpr67End",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1WWpr67End/?p=2"
       }
     }
   ]

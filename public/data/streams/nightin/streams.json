@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_16_22_35_07",
+    "title": "打电话来",
+    "date": "2026-11-16",
+    "time": "22:35:07",
+    "startTime": "22:35",
+    "endTime": "23:59",
+    "duration": 5089,
+    "durationStr": "1.4 小时",
+    "srt": "/data/streams/nightin/2026_11_16_22_35_07/录制-24872476-20261116-223507-830-打电话来.srt",
+    "xml": "/data/streams/nightin/2026_11_16_22_35_07/录制-24872476-20261116-223507-830-打电话来.xml",
+    "cover": "/data/streams/nightin/2026_11_16_22_35_07/录制-24872476-20261116-223507-830-打电话来.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_16_22_35_07/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_16_22_35_07/录制-24872476-20261116-223507-830-打电话来_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_16_22_35_07/录制-24872476-20261116-223507-830-打电话来_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_16_14_11_14",
+    "title": "nn的2",
+    "date": "2026-11-16",
+    "time": "14:11:14",
+    "startTime": "14:11",
+    "endTime": "16:36",
+    "duration": 8731,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/nightin/2026_11_16_14_11_14/录制-24872476-20261116-141114-852-nn的2.srt",
+    "xml": "/data/streams/nightin/2026_11_16_14_11_14/录制-24872476-20261116-141114-852-nn的2.xml",
+    "cover": "/data/streams/nightin/2026_11_16_14_11_14/录制-24872476-20261116-141114-852-nn的2.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_16_14_11_14/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_16_14_11_14/录制-24872476-20261116-141114-852-nn的2_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_16_14_11_14/录制-24872476-20261116-141114-852-nn的2_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_15_20_14_31",
     "title": "最后一次的kpl！！！",
     "date": "2026-11-15",

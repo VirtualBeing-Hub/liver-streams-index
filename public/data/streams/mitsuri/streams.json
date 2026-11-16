@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_16_22_35_07",
+    "title": "莉小妹来！",
+    "date": "2026-11-16",
+    "time": "22:35:07",
+    "startTime": "22:35",
+    "endTime": "02:00",
+    "duration": 12343,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/mitsuri/2026_11_16_22_35_07/录制-1967216004-20261116-223507-004-莉小妹来！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_11_16_22_35_07/录制-1967216004-20261116-223507-004-莉小妹来！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_11_16_22_35_07/录制-1967216004-20261116-223507-004-莉小妹来！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_16_22_35_07/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_16_22_35_07/录制-1967216004-20261116-223507-004-莉小妹来！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_16_22_35_07/录制-1967216004-20261116-223507-004-莉小妹来！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_16_15_04_35",
+    "title": "鸣潮3.8！！",
+    "date": "2026-11-16",
+    "time": "15:04:35",
+    "startTime": "15:04",
+    "endTime": "21:11",
+    "duration": 22058,
+    "durationStr": "6.1 小时",
+    "srt": "/data/streams/mitsuri/2026_11_16_15_04_35/录制-1967216004-20261116-150435-242-鸣潮3.8！！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_11_16_15_04_35/录制-1967216004-20261116-150435-242-鸣潮3.8！！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_11_16_15_04_35/录制-1967216004-20261116-150435-242-鸣潮3.8！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_16_15_04_35/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_16_15_04_35/录制-1967216004-20261116-150435-242-鸣潮3.8！！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_16_15_04_35/录制-1967216004-20261116-150435-242-鸣潮3.8！！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_15_21_01_46",
     "title": "作息爆炸喽！！",
     "date": "2026-11-15",
