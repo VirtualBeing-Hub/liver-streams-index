@@ -1,5 +1,67 @@
 [
   {
+    "id": "2026_11_17_17_10_43",
+    "title": "下午好！！",
+    "date": "2026-11-17",
+    "time": "17:10:43",
+    "startTime": "17:10",
+    "endTime": "00:44",
+    "duration": 27269,
+    "durationStr": "7.6 小时",
+    "srt": "/data/streams/shiori/2026_11_17_17_10_43/录制-26966466-20261117-171043-626-下午好！！_merged.srt",
+    "xml": "/data/streams/shiori/2026_11_17_17_10_43/录制-26966466-20261117-171043-626-下午好！！_merged.xml",
+    "cover": "/data/streams/shiori/2026_11_17_17_10_43/录制-26966466-20261117-171043-626-下午好！！.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_11_17_17_10_43/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_11_17_17_10_43/录制-26966466-20261117-171043-626-下午好！！_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_11_17_17_10_43/录制-26966466-20261117-171043-626-下午好！！_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌、玩《影之刃》",
+      "songs": [
+        {
+          "name": "太聪明"
+        },
+        {
+          "name": "江南"
+        }
+      ],
+      "games": [
+        {
+          "name": "影之刃"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "下午五点算不算傍晚"
+        },
+        {
+          "name": "红果短剧"
+        },
+        {
+          "name": "智商测试与做题"
+        },
+        {
+          "name": "睡眠与作息"
+        },
+        {
+          "name": "预制菜和椰子鸡"
+        },
+        {
+          "name": "水果口味"
+        },
+        {
+          "name": "岁己关系与夸奖"
+        },
+        {
+          "name": "萤火虫活动"
+        }
+      ],
+      "generatedAt": "2026-11-17T17:06:46.278Z"
+    }
+  },
+  {
     "id": "2026_11_15_22_09_25",
     "title": "狗獭冲击！！！",
     "date": "2026-11-15",
