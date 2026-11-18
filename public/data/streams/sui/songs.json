@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-16T20:00:45.148Z",
+  "generatedAt": "2026-11-18T20:00:56.988Z",
   "sessions": [
+    {
+      "id": "a7c36e8e93f2f255c8e4d92686cbd5d5717cf4d53d627e03c698bc6bb69a9f4a",
+      "recordedAt": "2026-11-18 20:39:02",
+      "title": "陪你这个猪过周三【新衣活动中_merged",
+      "complete": false
+    },
     {
       "id": "2bbba61e53a1050193af182a99f55823cb40f196799aa6833442556d2f40c709",
       "recordedAt": "2026-11-16 20:17:08",
