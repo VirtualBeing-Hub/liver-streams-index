@@ -1,5 +1,50 @@
 [
   {
+    "id": "2026_11_20_02_08_37",
+    "title": "GTA6",
+    "date": "2026-11-19",
+    "time": "02:08:37",
+    "startTime": "02:08",
+    "endTime": "04:00",
+    "duration": 6738,
+    "durationStr": "1.9 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_11_20_02_08_37/录制-21452505-20261120-020837-389-GTA6.xml",
+    "cover": "/data/streams/nana7mi/2026_11_20_02_08_37/录制-21452505-20261120-020837-389-GTA6.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_20_00_21_46",
+    "title": "GTA6",
+    "date": "2026-11-19",
+    "time": "00:21:46",
+    "startTime": "00:21",
+    "endTime": "02:06",
+    "duration": 6303,
+    "durationStr": "1.8 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_11_20_00_21_46/录制-21452505-20261120-002146-309-GTA6.xml",
+    "cover": "/data/streams/nana7mi/2026_11_20_00_21_46/录制-21452505-20261120-002146-309-GTA6.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_19_23_02_42",
+    "title": "GTA6",
+    "date": "2026-11-19",
+    "time": "23:02:42",
+    "startTime": "23:02",
+    "endTime": "00:20",
+    "duration": 4729,
+    "durationStr": "1.3 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_11_19_23_02_42/录制-21452505-20261119-230242-490-GTA6.xml",
+    "cover": "/data/streams/nana7mi/2026_11_19_23_02_42/录制-21452505-20261119-230242-490-GTA6.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_11_19_00_26_36",
     "title": "GTA6",
     "date": "2026-11-18",
@@ -20,14 +65,17 @@
     "date": "2026-11-18",
     "time": "23:56:52",
     "startTime": "23:56",
-    "endTime": "00:23",
-    "duration": 1633,
-    "durationStr": "0.5 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_11_18_23_56_52/录制-21452505-20261118-235652-033-GTA6.xml",
+    "endTime": "05:51",
+    "duration": 21350,
+    "durationStr": "5.9 小时",
+    "srt": "/data/streams/nana7mi/2026_11_18_23_56_52/录制-21452505-20261118-235652-033-GTA6_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_11_18_23_56_52/录制-21452505-20261118-235652-033-GTA6_merged.xml",
     "cover": "/data/streams/nana7mi/2026_11_18_23_56_52/录制-21452505-20261118-235652-033-GTA6.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_11_18_23_56_52/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_11_18_23_56_52/录制-21452505-20261118-235652-033-GTA6_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_18_23_56_52/录制-21452505-20261118-235652-033-GTA6_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_17_23_05_13",

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_19_22_03_16",
+    "title": "上天台呗",
+    "date": "2026-11-19",
+    "time": "22:03:16",
+    "startTime": "22:03",
+    "endTime": "23:03",
+    "duration": 3650,
+    "durationStr": "1.0 小时",
+    "srt": "/data/streams/sumire/2026_11_19_22_03_16/录制-1727076670-20261119-220316-198-上天台呗_merged.srt",
+    "xml": "/data/streams/sumire/2026_11_19_22_03_16/录制-1727076670-20261119-220316-198-上天台呗_merged.xml",
+    "cover": "/data/streams/sumire/2026_11_19_22_03_16/录制-1727076670-20261119-220316-198-上天台呗.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_19_22_03_16/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_19_22_03_16/录制-1727076670-20261119-220316-198-上天台呗_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_19_22_03_16/录制-1727076670-20261119-220316-198-上天台呗_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_19_11_00_52",
+    "title": "午休虚弱轻语系",
+    "date": "2026-11-19",
+    "time": "11:00:52",
+    "startTime": "11:00",
+    "endTime": "13:12",
+    "duration": 7943,
+    "durationStr": "2.2 小时",
+    "srt": "/data/streams/sumire/2026_11_19_11_00_52/录制-1727076670-20261119-110052-824-午休虚弱轻语系_merged.srt",
+    "xml": "/data/streams/sumire/2026_11_19_11_00_52/录制-1727076670-20261119-110052-824-午休虚弱轻语系_merged.xml",
+    "cover": "/data/streams/sumire/2026_11_19_11_00_52/录制-1727076670-20261119-110052-824-午休虚弱轻语系.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_19_11_00_52/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_19_11_00_52/录制-1727076670-20261119-110052-824-午休虚弱轻语系_merged_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_19_11_00_52/录制-1727076670-20261119-110052-824-午休虚弱轻语系_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_18_20_02_23",
     "title": "唱歌一定要好听吗",
     "date": "2026-11-18",

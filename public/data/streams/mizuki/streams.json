@@ -1,5 +1,106 @@
 [
   {
+    "id": "2026_11_19_21_03_16",
+    "title": "【音乐】⭐鉴赏周杰伦音乐",
+    "date": "2026-11-19",
+    "time": "21:03:16",
+    "startTime": "21:03",
+    "endTime": "00:30",
+    "duration": 12459,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/mizuki/2026_11_19_21_03_16/录制-30655190-20261119-210316-360-【音乐】⭐鉴赏周杰伦音乐_merged.srt",
+    "xml": "/data/streams/mizuki/2026_11_19_21_03_16/录制-30655190-20261119-210316-360-【音乐】⭐鉴赏周杰伦音乐_merged.xml",
+    "cover": "/data/streams/mizuki/2026_11_19_21_03_16/录制-30655190-20261119-210316-360-【音乐】⭐鉴赏周杰伦音乐.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_11_19_21_03_16/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_11_19_21_03_16/录制-30655190-20261119-210316-360-【音乐】⭐鉴赏周杰伦音乐_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_11_19_21_03_16/录制-30655190-20261119-210316-360-【音乐】⭐鉴赏周杰伦音乐_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "鉴赏周杰伦歌曲与MV，交流评分、聊天并穿插跟唱，也聊到智齿。",
+      "songs": [
+        {
+          "name": "开不了口"
+        },
+        {
+          "name": "花海"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "歌曲评分"
+        },
+        {
+          "name": "智齿与拔牙"
+        }
+      ],
+      "generatedAt": "2026-11-19T16:44:15.813Z"
+    }
+  },
+  {
+    "id": "2026_11_19_15_02_32",
+    "title": "【工作音】⭐学歌25-30",
+    "date": "2026-11-19",
+    "time": "15:02:32",
+    "startTime": "15:02",
+    "endTime": "18:04",
+    "duration": 10961,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/mizuki/2026_11_19_15_02_32/录制-30655190-20261119-150232-336-【工作音】⭐学歌25-30_merged.srt",
+    "xml": "/data/streams/mizuki/2026_11_19_15_02_32/录制-30655190-20261119-150232-336-【工作音】⭐学歌25-30_merged.xml",
+    "cover": "/data/streams/mizuki/2026_11_19_15_02_32/录制-30655190-20261119-150232-336-【工作音】⭐学歌25-30.cover.jpg",
+    "highlights": "/data/streams/mizuki/2026_11_19_15_02_32/highlights.md",
+    "images": [
+      "/data/streams/mizuki/2026_11_19_15_02_32/录制-30655190-20261119-150232-336-【工作音】⭐学歌25-30_merged_COMIC_FACTORY.png",
+      "/data/streams/mizuki/2026_11_19_15_02_32/录制-30655190-20261119-150232-336-【工作音】⭐学歌25-30_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、学唱多首歌曲并与观众互动",
+      "songs": [
+        {
+          "name": "AIZO"
+        },
+        {
+          "name": "永不失联的爱"
+        },
+        {
+          "name": "喜欢你"
+        },
+        {
+          "name": "花田错"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "日语歌学唱"
+        },
+        {
+          "name": "粤语歌与发音"
+        },
+        {
+          "name": "原神区直播安排"
+        },
+        {
+          "name": "冲千舰与粉丝数"
+        },
+        {
+          "name": "同事年假与离职"
+        },
+        {
+          "name": "动画《不死不幸》"
+        },
+        {
+          "name": "周杰伦歌曲鉴赏计划"
+        }
+      ],
+      "generatedAt": "2026-11-19T10:16:12.610Z"
+    }
+  },
+  {
     "id": "2026_11_18_21_05_09",
     "title": "【虚】⭐度",
     "date": "2026-11-18",

@@ -5,14 +5,45 @@
     "date": "2026-11-18",
     "time": "21:10:46",
     "startTime": "21:10",
-    "endTime": "03:57",
-    "duration": 24460,
-    "durationStr": "6.8 小时",
-    "srt": null,
+    "endTime": "05:47",
+    "duration": 31026,
+    "durationStr": "8.6 小时",
+    "srt": "/data/streams/nagisa/2026_11_18_21_10_46/录制-31368705-20261118-211046-306-「MONOMOON_ 幻月迷踪」初见.srt",
     "xml": "/data/streams/nagisa/2026_11_18_21_10_46/录制-31368705-20261118-211046-306-「MONOMOON_ 幻月迷踪」初见.xml",
     "cover": "/data/streams/nagisa/2026_11_18_21_10_46/录制-31368705-20261118-211046-306-「MONOMOON_ 幻月迷踪」初见.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nagisa/2026_11_18_21_10_46/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_18_21_10_46/录制-31368705-20261118-211046-306-「MONOMOON_ 幻月迷踪」初见_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_18_21_10_46/录制-31368705-20261118-211046-306-「MONOMOON_ 幻月迷踪」初见_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、长时间初见游玩《MONOMOON_ 幻月迷踪》，探索地图并破解谜题。",
+      "songs": [],
+      "games": [
+        {
+          "name": "MONOMOON_ 幻月迷踪"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "抽奖换礼物的盈亏"
+        },
+        {
+          "name": "元旦猫咪的行为"
+        },
+        {
+          "name": "游戏谜题与地图探索"
+        },
+        {
+          "name": "游戏引导与《动物井》比较"
+        },
+        {
+          "name": "直播排期与下播时间"
+        }
+      ],
+      "generatedAt": "2026-11-18T22:01:54.353Z"
+    }
   },
   {
     "id": "2026_11_18_08_11_05",
@@ -28,7 +59,8 @@
     "cover": "/data/streams/nagisa/2026_11_18_08_11_05/录制-31368705-20261118-081105-250-早歌一会儿.cover.jpg",
     "highlights": "/data/streams/nagisa/2026_11_18_08_11_05/highlights.md",
     "images": [
-      "/data/streams/nagisa/2026_11_18_08_11_05/录制-31368705-20261118-081105-250-早歌一会儿_COMIC_FACTORY.png"
+      "/data/streams/nagisa/2026_11_18_08_11_05/录制-31368705-20261118-081105-250-早歌一会儿_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_18_08_11_05/录制-31368705-20261118-081105-250-早歌一会儿_SCREENSHOTS.jpg"
     ],
     "recap": {
       "overview": "早歌中聊旧游戏与生活话题，并接连唱了多首歌。",
