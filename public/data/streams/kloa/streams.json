@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026_11_20_21_43_12",
+    "title": "吃自己做的晚饭！",
+    "date": "2026-11-20",
+    "time": "21:43:12",
+    "startTime": "21:43",
+    "endTime": "00:09",
+    "duration": 8766,
+    "durationStr": "2.4 小时",
+    "srt": "/data/streams/kloa/2026_11_20_21_43_12/录制-1986461465-20261120-214312-785-吃自己做的晚饭！.srt",
+    "xml": "/data/streams/kloa/2026_11_20_21_43_12/录制-1986461465-20261120-214312-785-吃自己做的晚饭！.xml",
+    "cover": "/data/streams/kloa/2026_11_20_21_43_12/录制-1986461465-20261120-214312-785-吃自己做的晚饭！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_20_21_43_12/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_20_21_43_12/录制-1986461465-20261120-214312-785-吃自己做的晚饭！_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_20_21_43_12/录制-1986461465-20261120-214312-785-吃自己做的晚饭！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_20_19_22_30",
+    "title": "做晚饭！",
+    "date": "2026-11-20",
+    "time": "19:22:30",
+    "startTime": "19:22",
+    "endTime": "21:23",
+    "duration": 7309,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/kloa/2026_11_20_19_22_30/录制-1986461465-20261120-192230-211-做晚饭！_merged.srt",
+    "xml": "/data/streams/kloa/2026_11_20_19_22_30/录制-1986461465-20261120-192230-211-做晚饭！_merged.xml",
+    "cover": "/data/streams/kloa/2026_11_20_19_22_30/录制-1986461465-20261120-192230-211-做晚饭！.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_20_19_22_30/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_20_19_22_30/录制-1986461465-20261120-192230-211-做晚饭！_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_20_19_22_30/录制-1986461465-20261120-192230-211-做晚饭！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_20_10_03_10",
+    "title": "学歌~",
+    "date": "2026-11-20",
+    "time": "10:03:10",
+    "startTime": "10:03",
+    "endTime": "12:38",
+    "duration": 9304,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/kloa/2026_11_20_10_03_10/录制-1986461465-20261120-100310-651-学歌~.srt",
+    "xml": "/data/streams/kloa/2026_11_20_10_03_10/录制-1986461465-20261120-100310-651-学歌~.xml",
+    "cover": "/data/streams/kloa/2026_11_20_10_03_10/录制-1986461465-20261120-100310-651-学歌~.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_20_10_03_10/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_20_10_03_10/录制-1986461465-20261120-100310-651-学歌~_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_20_10_03_10/录制-1986461465-20261120-100310-651-学歌~_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_18_20_02_43",
     "title": "女仆唱歌中",
     "date": "2026-11-18",

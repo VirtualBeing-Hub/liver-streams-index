@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-19T20:00:48.699Z",
+  "generatedAt": "2026-11-20T20:00:55.718Z",
   "sessions": [
+    {
+      "id": "e4a81e8ee5434071df1f387ce3612cec50f0bc77ea74267dffec11139c3b7cd2",
+      "recordedAt": "2026-11-20 23:29:34",
+      "title": "陪你这个猪过周舞【新衣活动中",
+      "complete": true
+    },
     {
       "id": "a7b0f490a6d3e20cc4edd53f34a0d400d65fc4a8f9d6ec60ed7f84f91e9b6da0",
       "recordedAt": "2026-11-19 20:16:03",
@@ -244,21 +250,6 @@
     }
   ],
   "performances": [
-    {
-      "id": "958d9f4f9561448da114700b425b0791e626eaf203b781895fd866c8bdd85def:activity-5",
-      "sessionId": "958d9f4f9561448da114700b425b0791e626eaf203b781895fd866c8bdd85def",
-      "name": "我",
-      "start": 12575,
-      "end": 12887.66,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1BxJz64Ehu",
-        "part": 1,
-        "url": "https://www.bilibili.com/video/BV1BxJz64Ehu/?p=1"
-      }
-    },
     {
       "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-1",
       "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
@@ -659,22 +650,11 @@
       "clip": null
     },
     {
-      "id": "a7b0f490a6d3e20cc4edd53f34a0d400d65fc4a8f9d6ec60ed7f84f91e9b6da0:activity-1",
-      "sessionId": "a7b0f490a6d3e20cc4edd53f34a0d400d65fc4a8f9d6ec60ed7f84f91e9b6da0",
-      "name": null,
-      "start": 5838,
-      "end": 5859,
-      "performance": "fragment",
-      "confirmed": false,
-      "boundariesConfirmed": false,
-      "clip": null
-    },
-    {
       "id": "a7b0f490a6d3e20cc4edd53f34a0d400d65fc4a8f9d6ec60ed7f84f91e9b6da0:activity-2",
       "sessionId": "a7b0f490a6d3e20cc4edd53f34a0d400d65fc4a8f9d6ec60ed7f84f91e9b6da0",
       "name": null,
-      "start": 5988,
-      "end": 6243,
+      "start": 5946,
+      "end": 6256,
       "performance": "fragment",
       "confirmed": false,
       "boundariesConfirmed": false,
@@ -906,6 +886,21 @@
         "bvid": "BV1WWpr67End",
         "part": 2,
         "url": "https://www.bilibili.com/video/BV1WWpr67End/?p=2"
+      }
+    },
+    {
+      "id": "958d9f4f9561448da114700b425b0791e626eaf203b781895fd866c8bdd85def:activity-5",
+      "sessionId": "958d9f4f9561448da114700b425b0791e626eaf203b781895fd866c8bdd85def",
+      "name": "我",
+      "start": 12575,
+      "end": 12887.66,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1BxJz64Ehu",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1BxJz64Ehu/?p=1"
       }
     }
   ]

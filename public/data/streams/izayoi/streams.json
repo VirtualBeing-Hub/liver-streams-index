@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_11_20_19_59_19",
+    "title": "1616我们喜浣你",
+    "date": "2026-11-20",
+    "time": "19:59:19",
+    "startTime": "19:59",
+    "endTime": "02:19",
+    "duration": 22853,
+    "durationStr": "6.3 小时",
+    "srt": "/data/streams/izayoi/2026_11_20_19_59_19/录制-1741667419-20261120-195919-179-1616我们喜浣你_merged.srt",
+    "xml": "/data/streams/izayoi/2026_11_20_19_59_19/录制-1741667419-20261120-195919-179-1616我们喜浣你_merged.xml",
+    "cover": "/data/streams/izayoi/2026_11_20_19_59_19/录制-1741667419-20261120-195919-179-1616我们喜浣你.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_20_19_59_19/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_20_19_59_19/录制-1741667419-20261120-195919-179-1616我们喜浣你_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_20_19_59_19/录制-1741667419-20261120-195919-179-1616我们喜浣你_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_20_08_58_09",
+    "title": "早茶第124天",
+    "date": "2026-11-20",
+    "time": "08:58:09",
+    "startTime": "08:58",
+    "endTime": "11:34",
+    "duration": 9401,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/izayoi/2026_11_20_08_58_09/录制-1741667419-20261120-085809-413-早茶第124天.srt",
+    "xml": "/data/streams/izayoi/2026_11_20_08_58_09/录制-1741667419-20261120-085809-413-早茶第124天.xml",
+    "cover": "/data/streams/izayoi/2026_11_20_08_58_09/录制-1741667419-20261120-085809-413-早茶第124天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_20_08_58_09/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_20_08_58_09/录制-1741667419-20261120-085809-413-早茶第124天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_18_20_01_26",
     "title": "MC初见",
     "date": "2026-11-18",

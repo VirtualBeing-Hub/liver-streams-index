@@ -1,5 +1,163 @@
 [
   {
+    "id": "2026_11_20_21_34_49",
+    "title": "周五的歌杂",
+    "date": "2026-11-20",
+    "time": "21:34:49",
+    "startTime": "21:34",
+    "endTime": "01:44",
+    "duration": 15012,
+    "durationStr": "4.2 小时",
+    "srt": "/data/streams/nagisa/2026_11_20_21_34_49/录制-31368705-20261120-213449-195-周五的歌杂_merged.srt",
+    "xml": "/data/streams/nagisa/2026_11_20_21_34_49/录制-31368705-20261120-213449-195-周五的歌杂_merged.xml",
+    "cover": "/data/streams/nagisa/2026_11_20_21_34_49/录制-31368705-20261120-213449-195-周五的歌杂.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_11_20_21_34_49/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_20_21_34_49/录制-31368705-20261120-213449-195-周五的歌杂_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_20_21_34_49/录制-31368705-20261120-213449-195-周五的歌杂_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、庆生并唱歌，聊猫咪、嗓子状态、游戏与二次元；计划下播后看电影",
+      "songs": [
+        {
+          "name": "生日快乐歌"
+        },
+        {
+          "name": "冻结"
+        },
+        {
+          "name": "最后一页"
+        },
+        {
+          "name": "绿光"
+        },
+        {
+          "name": "忽然之间"
+        },
+        {
+          "name": "你是我的关键词"
+        },
+        {
+          "name": "爱就一个字"
+        },
+        {
+          "name": "囚鸟"
+        },
+        {
+          "name": "Whiskey and Morphine"
+        },
+        {
+          "name": "爱的供养"
+        },
+        {
+          "name": "珊瑚海"
+        },
+        {
+          "name": "白日"
+        },
+        {
+          "name": "世末歌者"
+        },
+        {
+          "name": "我好想你"
+        },
+        {
+          "name": "讨厌"
+        },
+        {
+          "name": "心之所在"
+        },
+        {
+          "name": "里表"
+        },
+        {
+          "name": "寂寞寂寞就好"
+        },
+        {
+          "name": "あいぞめ（蓝染）"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "生日祝福"
+        },
+        {
+          "name": "元旦捣乱与猫咪伴唱"
+        },
+        {
+          "name": "吃辣与牛奶解辣"
+        },
+        {
+          "name": "《魔女审判》画师比例争议"
+        },
+        {
+          "name": "AI歌曲与歌词"
+        },
+        {
+          "name": "嗓子状态与慢性咽炎"
+        },
+        {
+          "name": "二次元与宅的定义"
+        },
+        {
+          "name": "下播后和妈妈看电影"
+        }
+      ],
+      "generatedAt": "2026-11-20T17:57:38.554Z"
+    }
+  },
+  {
+    "id": "2026_11_20_08_11_00",
+    "title": "「MONOMOON_ 幻月迷踪」第二回",
+    "date": "2026-11-20",
+    "time": "08:11:00",
+    "startTime": "08:11",
+    "endTime": "12:07",
+    "duration": 14186,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/nagisa/2026_11_20_08_11_00/录制-31368705-20261120-081100-083-「MONOMOON_ 幻月迷踪」第二回.srt",
+    "xml": "/data/streams/nagisa/2026_11_20_08_11_00/录制-31368705-20261120-081100-083-「MONOMOON_ 幻月迷踪」第二回.xml",
+    "cover": "/data/streams/nagisa/2026_11_20_08_11_00/录制-31368705-20261120-081100-083-「MONOMOON_ 幻月迷踪」第二回.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_11_20_08_11_00/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_20_08_11_00/录制-31368705-20261120-081100-083-「MONOMOON_ 幻月迷踪」第二回_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_20_08_11_00/录制-31368705-20261120-081100-083-「MONOMOON_ 幻月迷踪」第二回_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、游玩《MONOMOON：幻月迷踪》、观看黄金矿工PVP视频",
+      "songs": [],
+      "games": [
+        {
+          "name": "MONOMOON：幻月迷踪"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "作息与睡眠"
+        },
+        {
+          "name": "天气降温与保暖"
+        },
+        {
+          "name": "直播间粉丝牌改版"
+        },
+        {
+          "name": "游戏谜题与地图探索"
+        },
+        {
+          "name": "宠物睡觉和喂食"
+        },
+        {
+          "name": "黄金矿工PVP玩法"
+        }
+      ],
+      "generatedAt": "2026-11-20T04:17:49.836Z"
+    }
+  },
+  {
     "id": "2026_11_18_21_10_46",
     "title": "「MONOMOON_ 幻月迷踪」初见",
     "date": "2026-11-18",
