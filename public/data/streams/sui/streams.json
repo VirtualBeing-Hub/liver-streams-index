@@ -1,5 +1,68 @@
 [
   {
+    "id": "2026_11_21_20_16_38",
+    "title": "天才精算师玩深空当铺【新衣活动中",
+    "date": "2026-11-21",
+    "time": "20:16:38",
+    "startTime": "20:16",
+    "endTime": "02:27",
+    "duration": 22298,
+    "durationStr": "6.2 小时",
+    "srt": "/data/streams/sui/2026_11_21_20_16_38/录制-25788785-20261121-201638-830-陪你这个猪过周六！【新衣活动中.live.srt",
+    "xml": "/data/streams/sui/2026_11_21_20_16_38/录制-25788785-20261121-201638-830-陪你这个猪过周六！【新衣活动中.xml",
+    "cover": "/data/streams/sui/2026_11_21_20_16_38/录制-25788785-20261121-201638-830-陪你这个猪过周六！【新衣活动中.cover.jpg",
+    "highlights": "/data/streams/sui/2026_11_21_20_16_38/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_11_21_20_16_38/录制-25788785-20261121-201638-830-陪你这个猪过周六！【新衣活动中_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_11_21_20_16_38/录制-25788785-20261121-201638-830-陪你这个猪过周六！【新衣活动中_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌、玩《深空当铺》",
+      "songs": [
+        {
+          "name": "未识别歌名",
+          "start": 4478.859,
+          "end": 4758
+        },
+        {
+          "name": "未识别歌名",
+          "start": 4908,
+          "end": 5095
+        }
+      ],
+      "games": [
+        {
+          "name": "深空当铺"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "AI与数学证明"
+        },
+        {
+          "name": "游戏语音与夹子音"
+        },
+        {
+          "name": "GTA6与游戏定价"
+        },
+        {
+          "name": "老游戏与游戏偏好"
+        },
+        {
+          "name": "电影《我，机器人》选择讨论"
+        },
+        {
+          "name": "《深空当铺》经营玩法"
+        },
+        {
+          "name": "直播背景与歌词显示"
+        }
+      ],
+      "generatedAt": "2026-11-21T18:43:01.944Z"
+    }
+  },
+  {
     "id": "2026_11_20_23_29_34",
     "title": "陪你这个猪过周舞【新衣活动中",
     "date": "2026-11-20",
@@ -77,24 +140,52 @@
       "overview": "杂谈、唱歌、玩《影之刃零》",
       "songs": [
         {
-          "name": "未识别歌名",
+          "name": "シリョクケンサ",
           "start": 5946,
-          "end": 6256
+          "end": 6256,
+          "clips": [
+            {
+              "bvid": "BV1yhybzSEYo",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1yhybzSEYo/?p=1"
+            }
+          ]
         },
         {
-          "name": "未识别歌名",
+          "name": "给我一个理由忘记",
           "start": 6560,
-          "end": 6900
+          "end": 6900,
+          "clips": [
+            {
+              "bvid": "BV1yhybzSEYo",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1yhybzSEYo/?p=2"
+            }
+          ]
         },
         {
           "name": "蒲公英的约定",
           "start": 7088,
-          "end": 7347
+          "end": 7347,
+          "clips": [
+            {
+              "bvid": "BV1yhybzSEYo",
+              "part": 3,
+              "url": "https://www.bilibili.com/video/BV1yhybzSEYo/?p=3"
+            }
+          ]
         },
         {
           "name": "唯一",
           "start": 7658,
-          "end": 7863
+          "end": 7863,
+          "clips": [
+            {
+              "bvid": "BV1yhybzSEYo",
+              "part": 4,
+              "url": "https://www.bilibili.com/video/BV1yhybzSEYo/?p=4"
+            }
+          ]
         }
       ],
       "games": [

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_21_21_01_01",
+    "title": "绒绒好痛",
+    "date": "2026-11-21",
+    "time": "21:01:01",
+    "startTime": "21:01",
+    "endTime": "00:26",
+    "duration": 12302,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/mofu/2026_11_21_21_01_01/录制-1791260716-20261121-210101-242-绒绒好痛.srt",
+    "xml": "/data/streams/mofu/2026_11_21_21_01_01/录制-1791260716-20261121-210101-242-绒绒好痛.xml",
+    "cover": "/data/streams/mofu/2026_11_21_21_01_01/录制-1791260716-20261121-210101-242-绒绒好痛.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_11_21_21_01_01/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_11_21_21_01_01/录制-1791260716-20261121-210101-242-绒绒好痛_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_11_21_21_01_01/录制-1791260716-20261121-210101-242-绒绒好痛_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_21_12_00_32",
+    "title": "绒绒好困",
+    "date": "2026-11-21",
+    "time": "12:00:32",
+    "startTime": "12:00",
+    "endTime": "14:58",
+    "duration": 10703,
+    "durationStr": "3.0 小时",
+    "srt": "/data/streams/mofu/2026_11_21_12_00_32/录制-1791260716-20261121-120032-253-汪汪inu汪汪inu.srt",
+    "xml": "/data/streams/mofu/2026_11_21_12_00_32/录制-1791260716-20261121-120032-253-汪汪inu汪汪inu.xml",
+    "cover": "/data/streams/mofu/2026_11_21_12_00_32/录制-1791260716-20261121-120032-253-汪汪inu汪汪inu.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_11_21_12_00_32/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_11_21_12_00_32/录制-1791260716-20261121-120032-253-汪汪inu汪汪inu_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_11_21_12_00_32/录制-1791260716-20261121-120032-253-汪汪inu汪汪inu_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_20_21_00_38",
     "title": "晚上不见小绒吗？",
     "date": "2026-11-20",

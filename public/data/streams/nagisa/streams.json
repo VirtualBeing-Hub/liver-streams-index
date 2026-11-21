@@ -1,5 +1,106 @@
 [
   {
+    "id": "2026_11_21_21_13_15",
+    "title": "「MONOMOON_ 幻月迷踪」第三回",
+    "date": "2026-11-21",
+    "time": "21:13:15",
+    "startTime": "21:13",
+    "endTime": "03:01",
+    "duration": 20906,
+    "durationStr": "5.8 小时",
+    "srt": "/data/streams/nagisa/2026_11_21_21_13_15/录制-31368705-20261121-211315-531-「MONOMOON_ 幻月迷踪」第三回_merged.srt",
+    "xml": "/data/streams/nagisa/2026_11_21_21_13_15/录制-31368705-20261121-211315-531-「MONOMOON_ 幻月迷踪」第三回_merged.xml",
+    "cover": "/data/streams/nagisa/2026_11_21_21_13_15/录制-31368705-20261121-211315-531-「MONOMOON_ 幻月迷踪」第三回.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_11_21_21_13_15/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_21_21_13_15/录制-31368705-20261121-211315-531-「MONOMOON_ 幻月迷踪」第三回_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_21_21_13_15/录制-31368705-20261121-211315-531-「MONOMOON_ 幻月迷踪」第三回_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "直播中游玩《幻月迷踪》，探索地图、解谜收集，并在后段聊游戏设计与知识锁。",
+      "songs": [],
+      "games": [
+        {
+          "name": "幻月迷踪"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "地图探索与路线规划"
+        },
+        {
+          "name": "一笔画谜题"
+        },
+        {
+          "name": "图形推理题"
+        },
+        {
+          "name": "游戏引导与知识锁"
+        },
+        {
+          "name": "全收集与结局"
+        }
+      ],
+      "generatedAt": "2026-11-21T19:12:48.924Z"
+    }
+  },
+  {
+    "id": "2026_11_21_15_10_24",
+    "title": "周六练练歌",
+    "date": "2026-11-21",
+    "time": "15:10:24",
+    "startTime": "15:10",
+    "endTime": "18:13",
+    "duration": 11015,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/nagisa/2026_11_21_15_10_24/录制-31368705-20261121-151024-015-周六练练歌.srt",
+    "xml": "/data/streams/nagisa/2026_11_21_15_10_24/录制-31368705-20261121-151024-015-周六练练歌.xml",
+    "cover": "/data/streams/nagisa/2026_11_21_15_10_24/录制-31368705-20261121-151024-015-周六练练歌.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_11_21_15_10_24/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_21_15_10_24/录制-31368705-20261121-151024-015-周六练练歌_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_21_15_10_24/录制-31368705-20261121-151024-015-周六练练歌_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "周六下午聊电影、猫咪和直播间通知，也练唱多首歌曲。",
+      "songs": [
+        {
+          "name": "相思"
+        },
+        {
+          "name": "情非得已"
+        },
+        {
+          "name": "心愿便利贴"
+        },
+        {
+          "name": "忘记时间"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "和妈妈看电影"
+        },
+        {
+          "name": "元旦想进摄影棚"
+        },
+        {
+          "name": "直播间红色SC提醒"
+        },
+        {
+          "name": "调试歌曲升降调"
+        },
+        {
+          "name": "收播后嗓子发哑"
+        }
+      ],
+      "generatedAt": "2026-11-21T10:35:10.897Z"
+    }
+  },
+  {
     "id": "2026_11_20_21_34_49",
     "title": "周五的歌杂",
     "date": "2026-11-20",
