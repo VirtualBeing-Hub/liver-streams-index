@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_11_22_21_44_34",
+    "title": "顶美qsxy",
+    "date": "2026-11-22",
+    "time": "21:44:34",
+    "startTime": "21:44",
+    "endTime": "00:35",
+    "duration": 10318,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/rhea/2026_11_22_21_44_34/录制-23260993-20261122-214434-208-顶美qsxy.srt",
+    "xml": "/data/streams/rhea/2026_11_22_21_44_34/录制-23260993-20261122-214434-208-顶美qsxy.xml",
+    "cover": "/data/streams/rhea/2026_11_22_21_44_34/录制-23260993-20261122-214434-208-顶美qsxy.cover.jpg",
+    "highlights": "/data/streams/rhea/2026_11_22_21_44_34/highlights.md",
+    "images": [
+      "/data/streams/rhea/2026_11_22_21_44_34/录制-23260993-20261122-214434-208-顶美qsxy_COMIC_FACTORY.png",
+      "/data/streams/rhea/2026_11_22_21_44_34/录制-23260993-20261122-214434-208-顶美qsxy_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_21_20_42_50",
     "title": "顶美巴哥歌回",
     "date": "2026-11-21",

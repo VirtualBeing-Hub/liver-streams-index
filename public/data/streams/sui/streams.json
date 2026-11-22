@@ -1,5 +1,81 @@
 [
   {
+    "id": "2026_11_22_20_14_32",
+    "title": "陪你这个猪过周日！【新衣活动中",
+    "date": "2026-11-22",
+    "time": "20:14:32",
+    "startTime": "20:14",
+    "endTime": "01:57",
+    "duration": 20627,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/sui/2026_11_22_20_14_32/录制-25788785-20261122-201432-163-陪你这个猪过周日！【新衣活动中.live.srt",
+    "xml": "/data/streams/sui/2026_11_22_20_14_32/录制-25788785-20261122-201432-163-陪你这个猪过周日！【新衣活动中.xml",
+    "cover": "/data/streams/sui/2026_11_22_20_14_32/录制-25788785-20261122-201432-163-陪你这个猪过周日！【新衣活动中.cover.jpg",
+    "highlights": "/data/streams/sui/2026_11_22_20_14_32/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_11_22_20_14_32/录制-25788785-20261122-201432-163-陪你这个猪过周日！【新衣活动中_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_11_22_20_14_32/录制-25788785-20261122-201432-163-陪你这个猪过周日！【新衣活动中_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌、玩《深空当铺》。",
+      "songs": [
+        {
+          "name": "小跳蛙",
+          "start": 5516,
+          "end": 5713.5
+        },
+        {
+          "name": "小狗还有猫咪",
+          "start": 6060.609,
+          "end": 6254
+        },
+        {
+          "name": "未识别歌名",
+          "start": 6599.789,
+          "end": 6808.36
+        },
+        {
+          "name": "色香水",
+          "start": 18011,
+          "end": 18039
+        }
+      ],
+      "games": [
+        {
+          "name": "深空当铺"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "新衣造型与自拍"
+        },
+        {
+          "name": "口腔溃疡和嘉嘉"
+        },
+        {
+          "name": "牛轧糖误扔垃圾"
+        },
+        {
+          "name": "妈妈做蛋炒饭"
+        },
+        {
+          "name": "辣条与零食口味"
+        },
+        {
+          "name": "聊天记录与幽默"
+        },
+        {
+          "name": "净水经营与养鱼"
+        },
+        {
+          "name": "《老友记》等剧集"
+        }
+      ],
+      "generatedAt": "2026-11-22T18:16:01.402Z"
+    }
+  },
+  {
     "id": "2026_11_21_20_16_38",
     "title": "天才精算师玩深空当铺【新衣活动中",
     "date": "2026-11-21",
@@ -20,19 +96,41 @@
       "overview": "杂谈、唱歌、玩《深空当铺》",
       "songs": [
         {
-          "name": "未识别歌名",
+          "name": "当你",
           "start": 4478.859,
-          "end": 4758
+          "end": 4758,
+          "clips": [
+            {
+              "bvid": "BV1PAyvzPEkA",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1PAyvzPEkA/?p=1"
+            }
+          ]
         },
         {
-          "name": "未识别歌名",
+          "name": "如果有来生",
           "start": 4908,
-          "end": 5095
+          "end": 5095,
+          "clips": [
+            {
+              "bvid": "BV1PAyvzPEkA",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1PAyvzPEkA/?p=2"
+            }
+          ]
         }
       ],
       "games": [
         {
-          "name": "深空当铺"
+          "name": "深空当铺",
+          "clips": [
+            {
+              "bvid": "BV18xygz3ESu",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV18xygz3ESu/?p=1",
+              "title": "深空当铺 第01集｜查找创意工坊内容、当铺首日营业、配给站采购、辨认改造体顾客 2026-11-21"
+            }
+          ]
         }
       ],
       "watch": [],

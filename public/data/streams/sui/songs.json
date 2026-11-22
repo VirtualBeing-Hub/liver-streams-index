@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-21T20:00:47.688Z",
+  "generatedAt": "2026-11-22T20:00:52.457Z",
   "sessions": [
+    {
+      "id": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c",
+      "recordedAt": "2026-11-22 20:14:32",
+      "title": "陪你这个猪过周日！【新衣活动中",
+      "complete": true
+    },
     {
       "id": "8deaa5b83ea43f542ed22658b913a86738335b08ba60f51b286b18c51bccca06",
       "recordedAt": "2026-11-21 20:16:38",
@@ -256,51 +262,6 @@
     }
   ],
   "performances": [
-    {
-      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-1",
-      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
-      "name": "Virtual to LIVE",
-      "start": 703.639,
-      "end": 994,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1Fwnc6WEVh",
-        "part": 1,
-        "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=1"
-      }
-    },
-    {
-      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-2",
-      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
-      "name": "Virtual to LIVE（改编片段）",
-      "start": 1332,
-      "end": 1392,
-      "performance": "fragment",
-      "confirmed": false,
-      "boundariesConfirmed": false,
-      "clip": {
-        "bvid": "BV1Fwnc6WEVh",
-        "part": 2,
-        "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=2"
-      }
-    },
-    {
-      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-3",
-      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
-      "name": "雪の轍",
-      "start": 15056.17,
-      "end": 15309.38,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1Fwnc6WEVh",
-        "part": 3,
-        "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=3"
-      }
-    },
     {
       "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-1",
       "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
@@ -718,21 +679,73 @@
     {
       "id": "8deaa5b83ea43f542ed22658b913a86738335b08ba60f51b286b18c51bccca06:activity-1",
       "sessionId": "8deaa5b83ea43f542ed22658b913a86738335b08ba60f51b286b18c51bccca06",
-      "name": null,
+      "name": "当你",
       "start": 4478.859,
       "end": 4758,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1PAyvzPEkA",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1PAyvzPEkA/?p=1"
+      }
+    },
+    {
+      "id": "8deaa5b83ea43f542ed22658b913a86738335b08ba60f51b286b18c51bccca06:activity-2",
+      "sessionId": "8deaa5b83ea43f542ed22658b913a86738335b08ba60f51b286b18c51bccca06",
+      "name": "如果有来生",
+      "start": 4908,
+      "end": 5095,
+      "performance": "full",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1PAyvzPEkA",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1PAyvzPEkA/?p=2"
+      }
+    },
+    {
+      "id": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c:activity-1",
+      "sessionId": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c",
+      "name": "小跳蛙",
+      "start": 5516,
+      "end": 5713.5,
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
       "clip": null
     },
     {
-      "id": "8deaa5b83ea43f542ed22658b913a86738335b08ba60f51b286b18c51bccca06:activity-2",
-      "sessionId": "8deaa5b83ea43f542ed22658b913a86738335b08ba60f51b286b18c51bccca06",
-      "name": null,
-      "start": 4908,
-      "end": 5095,
+      "id": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c:activity-2",
+      "sessionId": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c",
+      "name": "小狗还有猫咪",
+      "start": 6060.609,
+      "end": 6254,
       "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c:activity-3",
+      "sessionId": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c",
+      "name": null,
+      "start": 6599.789,
+      "end": 6808.36,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c:activity-4",
+      "sessionId": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c",
+      "name": "色香水",
+      "start": 18011,
+      "end": 18039,
+      "performance": "fragment",
       "confirmed": false,
       "boundariesConfirmed": false,
       "clip": null
@@ -945,6 +958,51 @@
         "bvid": "BV1BxJz64Ehu",
         "part": 1,
         "url": "https://www.bilibili.com/video/BV1BxJz64Ehu/?p=1"
+      }
+    },
+    {
+      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-1",
+      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
+      "name": "Virtual to LIVE",
+      "start": 703.639,
+      "end": 994,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1Fwnc6WEVh",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=1"
+      }
+    },
+    {
+      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-2",
+      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
+      "name": "Virtual to LIVE（改编片段）",
+      "start": 1332,
+      "end": 1392,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1Fwnc6WEVh",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=2"
+      }
+    },
+    {
+      "id": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09:activity-3",
+      "sessionId": "67a5bbed015e8435ea38ee61508d5dbac9e7983493a8bda9e1e3ef2fa6ab0e09",
+      "name": "雪の轍",
+      "start": 15056.17,
+      "end": 15309.38,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1Fwnc6WEVh",
+        "part": 3,
+        "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=3"
       }
     }
   ]

@@ -1,5 +1,103 @@
 [
   {
+    "id": "2026_11_22_21_07_31",
+    "title": "「弗莱明庄园命案」当法医 初见",
+    "date": "2026-11-22",
+    "time": "21:07:31",
+    "startTime": "21:07",
+    "endTime": "01:15",
+    "duration": 14889,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/nagisa/2026_11_22_21_07_31/录制-31368705-20261122-210731-220-「弗莱明庄园命案」当法医 初见_merged.srt",
+    "xml": "/data/streams/nagisa/2026_11_22_21_07_31/录制-31368705-20261122-210731-220-「弗莱明庄园命案」当法医 初见_merged.xml",
+    "cover": "/data/streams/nagisa/2026_11_22_21_07_31/录制-31368705-20261122-210731-220-「弗莱明庄园命案」当法医 初见.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_11_22_21_07_31/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_22_21_07_31/录制-31368705-20261122-210731-220-「弗莱明庄园命案」当法医 初见_merged_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_22_21_07_31/录制-31368705-20261122-210731-220-「弗莱明庄园命案」当法医 初见_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "开场闲聊，游玩《弗莱明庄园命案》，调查庄园案件并体验战场伤员分类。",
+      "songs": [],
+      "games": [
+        {
+          "name": "弗莱明庄园命案"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "车祸现场与血型鉴定"
+        },
+        {
+          "name": "约翰沃克遇害案"
+        },
+        {
+          "name": "战场伤员分类救治"
+        },
+        {
+          "name": "过敏反应与急救"
+        },
+        {
+          "name": "养老院药物整理"
+        },
+        {
+          "name": "法医与医学知识"
+        }
+      ],
+      "generatedAt": "2026-11-22T17:27:56.363Z"
+    }
+  },
+  {
+    "id": "2026_11_22_15_08_40",
+    "title": "「断线」Demo体验",
+    "date": "2026-11-22",
+    "time": "15:08:40",
+    "startTime": "15:08",
+    "endTime": "18:22",
+    "duration": 11664,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/nagisa/2026_11_22_15_08_40/录制-31368705-20261122-150840-628-「断线」Demo体验.srt",
+    "xml": "/data/streams/nagisa/2026_11_22_15_08_40/录制-31368705-20261122-150840-628-「断线」Demo体验.xml",
+    "cover": "/data/streams/nagisa/2026_11_22_15_08_40/录制-31368705-20261122-150840-628-「断线」Demo体验.cover.jpg",
+    "highlights": "/data/streams/nagisa/2026_11_22_15_08_40/highlights.md",
+    "images": [
+      "/data/streams/nagisa/2026_11_22_15_08_40/录制-31368705-20261122-150840-628-「断线」Demo体验_COMIC_FACTORY.png",
+      "/data/streams/nagisa/2026_11_22_15_08_40/录制-31368705-20261122-150840-628-「断线」Demo体验_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "闲聊手机电量与奶茶，游玩《断线》Demo，解谜、改网页并体验隐藏彩票。",
+      "songs": [],
+      "games": [
+        {
+          "name": "断线"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "手机电量跳动"
+        },
+        {
+          "name": "奶茶甜度"
+        },
+        {
+          "name": "二分猜联网参数"
+        },
+        {
+          "name": "羊圈文件排序"
+        },
+        {
+          "name": "摩斯电码解谜"
+        },
+        {
+          "name": "隐藏彩票"
+        }
+      ],
+      "generatedAt": "2026-11-22T10:38:05.316Z"
+    }
+  },
+  {
     "id": "2026_11_21_21_13_15",
     "title": "「MONOMOON_ 幻月迷踪」第三回",
     "date": "2026-11-21",
