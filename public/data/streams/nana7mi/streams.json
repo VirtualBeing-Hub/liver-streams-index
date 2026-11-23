@@ -15,21 +15,6 @@
     "images": []
   },
   {
-    "id": "2026_11_23_01_45_16",
-    "title": "GTA6啊经营情侣生活",
-    "date": "2026-11-22",
-    "time": "01:45:16",
-    "startTime": "01:45",
-    "endTime": "01:52",
-    "duration": 455,
-    "durationStr": "0.1 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_11_23_01_45_16/录制-21452505-20261123-014516-957-GTA6啊经营情侣生活.xml",
-    "cover": "/data/streams/nana7mi/2026_11_23_01_45_16/录制-21452505-20261123-014516-957-GTA6啊经营情侣生活.cover.jpg",
-    "highlights": "",
-    "images": []
-  },
-  {
     "id": "2026_11_23_00_03_46",
     "title": "GTA6啊经营情侣生活",
     "date": "2026-11-22",
@@ -50,14 +35,17 @@
     "date": "2026-11-22",
     "time": "22:34:44",
     "startTime": "22:34",
-    "endTime": "00:02",
-    "duration": 5325,
-    "durationStr": "1.5 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_11_22_22_34_44/录制-21452505-20261122-223444-604-GTA6啊经营情侣生活.xml",
+    "endTime": "04:45",
+    "duration": 22292,
+    "durationStr": "6.2 小时",
+    "srt": "/data/streams/nana7mi/2026_11_22_22_34_44/录制-21452505-20261122-223444-604-GTA6啊经营情侣生活_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_11_22_22_34_44/录制-21452505-20261122-223444-604-GTA6啊经营情侣生活_merged.xml",
     "cover": "/data/streams/nana7mi/2026_11_22_22_34_44/录制-21452505-20261122-223444-604-GTA6啊经营情侣生活.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_11_22_22_34_44/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_11_22_22_34_44/录制-21452505-20261122-223444-604-GTA6啊经营情侣生活_merged_COMIC_FACTORY.png",
+      "/data/streams/nana7mi/2026_11_22_22_34_44/录制-21452505-20261122-223444-604-GTA6啊经营情侣生活_merged_SCREENSHOTS.jpg"
+    ]
   },
   {
     "id": "2026_11_21_22_03_37",

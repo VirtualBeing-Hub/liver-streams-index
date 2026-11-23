@@ -1,7 +1,43 @@
 [
   {
+    "id": "2026_11_23_20_07_04",
+    "title": "晚杂虚度",
+    "date": "2026-11-23",
+    "time": "20:07:04",
+    "startTime": "20:07",
+    "endTime": "23:57",
+    "duration": 13804,
+    "durationStr": "3.8 小时",
+    "srt": "/data/streams/kloa/2026_11_23_20_07_04/录制-1986461465-20261123-200704-506-晚杂虚度_merged.srt",
+    "xml": "/data/streams/kloa/2026_11_23_20_07_04/录制-1986461465-20261123-200704-506-晚杂虚度_merged.xml",
+    "cover": "/data/streams/kloa/2026_11_23_20_07_04/录制-1986461465-20261123-200704-506-晚杂虚度.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_23_20_07_04/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_23_20_07_04/录制-1986461465-20261123-200704-506-晚杂虚度_merged_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_23_20_07_04/录制-1986461465-20261123-200704-506-晚杂虚度_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_23_09_04_52",
+    "title": "早餐吃什么",
+    "date": "2026-11-23",
+    "time": "09:04:52",
+    "startTime": "09:04",
+    "endTime": "09:36",
+    "duration": 1943,
+    "durationStr": "0.5 小时",
+    "srt": "/data/streams/kloa/2026_11_23_09_04_52/录制-1986461465-20261123-090452-383-早餐吃什么.srt",
+    "xml": "/data/streams/kloa/2026_11_23_09_04_52/录制-1986461465-20261123-090452-383-早餐吃什么.xml",
+    "cover": "/data/streams/kloa/2026_11_23_09_04_52/录制-1986461465-20261123-090452-383-早餐吃什么.cover.jpg",
+    "highlights": "/data/streams/kloa/2026_11_23_09_04_52/highlights.md",
+    "images": [
+      "/data/streams/kloa/2026_11_23_09_04_52/录制-1986461465-20261123-090452-383-早餐吃什么_COMIC_FACTORY.png",
+      "/data/streams/kloa/2026_11_23_09_04_52/录制-1986461465-20261123-090452-383-早餐吃什么_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_22_20_19_36",
-    "title": "写周表~",
+    "title": "早餐吃什么",
     "date": "2026-11-22",
     "time": "20:19:36",
     "startTime": "20:19",

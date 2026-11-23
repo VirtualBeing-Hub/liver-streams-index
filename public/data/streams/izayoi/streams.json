@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_23_20_00_28",
+    "title": "来画头像！",
+    "date": "2026-11-23",
+    "time": "20:00:28",
+    "startTime": "20:00",
+    "endTime": "00:05",
+    "duration": 14737,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/izayoi/2026_11_23_20_00_28/录制-1741667419-20261123-200028-958-来画头像！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_11_23_20_00_28/录制-1741667419-20261123-200028-958-来画头像！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_11_23_20_00_28/录制-1741667419-20261123-200028-958-来画头像！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_23_20_00_28/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_23_20_00_28/录制-1741667419-20261123-200028-958-来画头像！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_23_20_00_28/录制-1741667419-20261123-200028-958-来画头像！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_23_09_00_20",
+    "title": "早茶第125天",
+    "date": "2026-11-23",
+    "time": "09:00:20",
+    "startTime": "09:00",
+    "endTime": "12:22",
+    "duration": 12164,
+    "durationStr": "3.4 小时",
+    "srt": "/data/streams/izayoi/2026_11_23_09_00_20/录制-1741667419-20261123-090020-151-早茶第125天.srt",
+    "xml": "/data/streams/izayoi/2026_11_23_09_00_20/录制-1741667419-20261123-090020-151-早茶第125天.xml",
+    "cover": "/data/streams/izayoi/2026_11_23_09_00_20/录制-1741667419-20261123-090020-151-早茶第125天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_23_09_00_20/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_23_09_00_20/录制-1741667419-20261123-090020-151-早茶第125天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_23_09_00_20/录制-1741667419-20261123-090020-151-早茶第125天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_22_19_58_36",
     "title": "法浣启动",
     "date": "2026-11-22",

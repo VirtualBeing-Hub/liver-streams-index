@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-22T20:00:52.457Z",
+  "generatedAt": "2026-11-23T20:00:42.898Z",
   "sessions": [
     {
       "id": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c",
@@ -262,43 +262,6 @@
     }
   ],
   "performances": [
-    {
-      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-1",
-      "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
-      "name": "慢冷",
-      "start": 2286,
-      "end": 2393,
-      "performance": "fragment",
-      "confirmed": false,
-      "boundariesConfirmed": false,
-      "clip": null
-    },
-    {
-      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-3",
-      "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
-      "name": "模特",
-      "start": 8012,
-      "end": 8076,
-      "performance": "fragment",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": null
-    },
-    {
-      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-4",
-      "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
-      "name": "我不难过",
-      "start": 8176,
-      "end": 8558,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1jznK6YEeW",
-        "part": 1,
-        "url": "https://www.bilibili.com/video/BV1jznK6YEeW/?p=1"
-      }
-    },
     {
       "id": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023:activity-2",
       "sessionId": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023",
@@ -715,7 +678,11 @@
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
-      "clip": null
+      "clip": {
+        "bvid": "BV1BWyEzyEQ8",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1BWyEzyEQ8/?p=1"
+      }
     },
     {
       "id": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c:activity-2",
@@ -726,18 +693,26 @@
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
-      "clip": null
+      "clip": {
+        "bvid": "BV1BWyEzyEQ8",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1BWyEzyEQ8/?p=2"
+      }
     },
     {
       "id": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c:activity-3",
       "sessionId": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c",
-      "name": null,
+      "name": "不怕",
       "start": 6599.789,
       "end": 6808.36,
       "performance": "full",
       "confirmed": true,
       "boundariesConfirmed": true,
-      "clip": null
+      "clip": {
+        "bvid": "BV1BWyEzyEQ8",
+        "part": 3,
+        "url": "https://www.bilibili.com/video/BV1BWyEzyEQ8/?p=3"
+      }
     },
     {
       "id": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c:activity-4",
@@ -748,7 +723,11 @@
       "performance": "fragment",
       "confirmed": false,
       "boundariesConfirmed": false,
-      "clip": null
+      "clip": {
+        "bvid": "BV1BWyEzyEQ8",
+        "part": 4,
+        "url": "https://www.bilibili.com/video/BV1BWyEzyEQ8/?p=4"
+      }
     },
     {
       "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",
@@ -1003,6 +982,43 @@
         "bvid": "BV1Fwnc6WEVh",
         "part": 3,
         "url": "https://www.bilibili.com/video/BV1Fwnc6WEVh/?p=3"
+      }
+    },
+    {
+      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-1",
+      "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
+      "name": "慢冷",
+      "start": 2286,
+      "end": 2393,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-3",
+      "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
+      "name": "模特",
+      "start": 8012,
+      "end": 8076,
+      "performance": "fragment",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
+      "id": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0:activity-4",
+      "sessionId": "de0f66060f6a8ad37fe515856a748626cf5e9849f48da86168c3d2eb386ff4c0",
+      "name": "我不难过",
+      "start": 8176,
+      "end": 8558,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1jznK6YEeW",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1jznK6YEeW/?p=1"
       }
     }
   ]

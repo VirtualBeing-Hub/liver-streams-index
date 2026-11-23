@@ -22,27 +22,63 @@
         {
           "name": "小跳蛙",
           "start": 5516,
-          "end": 5713.5
+          "end": 5713.5,
+          "clips": [
+            {
+              "bvid": "BV1BWyEzyEQ8",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1BWyEzyEQ8/?p=1"
+            }
+          ]
         },
         {
           "name": "小狗还有猫咪",
           "start": 6060.609,
-          "end": 6254
+          "end": 6254,
+          "clips": [
+            {
+              "bvid": "BV1BWyEzyEQ8",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1BWyEzyEQ8/?p=2"
+            }
+          ]
         },
         {
-          "name": "未识别歌名",
+          "name": "不怕",
           "start": 6599.789,
-          "end": 6808.36
+          "end": 6808.36,
+          "clips": [
+            {
+              "bvid": "BV1BWyEzyEQ8",
+              "part": 3,
+              "url": "https://www.bilibili.com/video/BV1BWyEzyEQ8/?p=3"
+            }
+          ]
         },
         {
           "name": "色香水",
           "start": 18011,
-          "end": 18039
+          "end": 18039,
+          "clips": [
+            {
+              "bvid": "BV1BWyEzyEQ8",
+              "part": 4,
+              "url": "https://www.bilibili.com/video/BV1BWyEzyEQ8/?p=4"
+            }
+          ]
         }
       ],
       "games": [
         {
-          "name": "深空当铺"
+          "name": "深空当铺",
+          "clips": [
+            {
+              "bvid": "BV1YiyEziENc",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1YiyEziENc/?p=1",
+              "title": "深空当铺 第02集｜伪人来客、老头处购买物品、店铺经营、囤水者来访 2026-11-22"
+            }
+          ]
         }
       ],
       "watch": [],
