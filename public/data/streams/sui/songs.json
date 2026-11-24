@@ -1,6 +1,6 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T17:35:01.841Z",
+  "generatedAt": "2026-11-24T20:01:04.517Z",
   "sessions": [
     {
       "id": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c",
@@ -738,13 +738,17 @@
     {
       "id": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c:activity-1",
       "sessionId": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c",
-      "name": null,
+      "name": "You'll See",
       "start": 3872,
       "end": 4177,
       "performance": "full",
       "confirmed": false,
       "boundariesConfirmed": false,
-      "clip": null
+      "clip": {
+        "bvid": "BV1Us1AzQE4f",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1Us1AzQE4f/?p=1"
+      }
     },
     {
       "id": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c:activity-2",
@@ -755,18 +759,26 @@
       "performance": "full",
       "confirmed": false,
       "boundariesConfirmed": false,
-      "clip": null
+      "clip": {
+        "bvid": "BV1Us1AzQE4f",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1Us1AzQE4f/?p=2"
+      }
     },
     {
       "id": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c:activity-3",
       "sessionId": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c",
-      "name": null,
+      "name": "绝世舞姬",
       "start": 5208,
       "end": 5394,
       "performance": "full",
       "confirmed": false,
       "boundariesConfirmed": false,
-      "clip": null
+      "clip": {
+        "bvid": "BV1Us1AzQE4f",
+        "part": 3,
+        "url": "https://www.bilibili.com/video/BV1Us1AzQE4f/?p=3"
+      }
     },
     {
       "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",

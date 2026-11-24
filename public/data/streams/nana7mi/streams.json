@@ -1,18 +1,35 @@
 [
   {
+    "id": "2026_11_25_03_02_32",
+    "title": "很和平的GTA6",
+    "date": "2026-11-24",
+    "time": "03:02:32",
+    "startTime": "03:02",
+    "endTime": "04:00",
+    "duration": 3519,
+    "durationStr": "1.0 小时",
+    "srt": null,
+    "xml": "/data/streams/nana7mi/2026_11_25_03_02_32/录制-21452505-20261125-030232-466-很和平的GTA6.xml",
+    "cover": "/data/streams/nana7mi/2026_11_25_03_02_32/录制-21452505-20261125-030232-466-很和平的GTA6.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_11_24_22_02_18",
     "title": "好冷啊唱歌欧漏别听",
     "date": "2026-11-24",
     "time": "22:02:18",
     "startTime": "22:02",
-    "endTime": "01:30",
-    "duration": 12521,
-    "durationStr": "3.5 小时",
-    "srt": null,
-    "xml": "/data/streams/nana7mi/2026_11_24_22_02_18/录制-21452505-20261124-220218-468-好冷啊唱歌欧漏别听.xml",
+    "endTime": "02:02",
+    "duration": 14429,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/nana7mi/2026_11_24_22_02_18/录制-21452505-20261124-220218-468-好冷啊唱歌欧漏别听_merged.srt",
+    "xml": "/data/streams/nana7mi/2026_11_24_22_02_18/录制-21452505-20261124-220218-468-好冷啊唱歌欧漏别听_merged.xml",
     "cover": "/data/streams/nana7mi/2026_11_24_22_02_18/录制-21452505-20261124-220218-468-好冷啊唱歌欧漏别听.cover.jpg",
-    "highlights": "",
-    "images": []
+    "highlights": "/data/streams/nana7mi/2026_11_24_22_02_18/highlights.md",
+    "images": [
+      "/data/streams/nana7mi/2026_11_24_22_02_18/录制-21452505-20261124-220218-468-好冷啊唱歌欧漏别听_merged_COMIC_FACTORY.png"
+    ]
   },
   {
     "id": "2026_11_23_01_54_30",
