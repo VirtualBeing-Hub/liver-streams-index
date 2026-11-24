@@ -1,5 +1,35 @@
 [
   {
+    "id": "2026_11_24_21_14_04",
+    "title": "魂大人还在游龙！",
+    "date": "2026-11-24",
+    "time": "21:14:04",
+    "startTime": "21:14",
+    "endTime": "01:31",
+    "duration": 15439,
+    "durationStr": "4.3 小时",
+    "srt": null,
+    "xml": "/data/streams/mingqian-nailv/2026_11_24_21_14_04/录制-25034104-20261124-211404-841-魂大人还在游龙！.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_11_24_21_14_04/录制-25034104-20261124-211404-841-魂大人还在游龙！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_24_19_50_18",
+    "title": "魂大人还在游龙！",
+    "date": "2026-11-24",
+    "time": "19:50:18",
+    "startTime": "19:50",
+    "endTime": "21:10",
+    "duration": 4848,
+    "durationStr": "1.3 小时",
+    "srt": null,
+    "xml": "/data/streams/mingqian-nailv/2026_11_24_19_50_18/录制-25034104-20261124-195018-973-魂大人还在游龙！.xml",
+    "cover": "/data/streams/mingqian-nailv/2026_11_24_19_50_18/录制-25034104-20261124-195018-973-魂大人还在游龙！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
     "id": "2026_11_22_18_52_50",
     "title": "魂大人游龙简称？",
     "date": "2026-11-22",

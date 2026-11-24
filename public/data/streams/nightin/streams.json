@@ -1,5 +1,40 @@
 [
   {
+    "id": "2026_11_24_21_05_29",
+    "title": "今天晚上干嘛",
+    "date": "2026-11-24",
+    "time": "21:05:29",
+    "startTime": "21:05",
+    "endTime": "23:30",
+    "duration": 8734,
+    "durationStr": "2.4 小时",
+    "srt": null,
+    "xml": "/data/streams/nightin/2026_11_24_21_05_29/录制-24872476-20261124-210529-050-今天晚上干嘛.xml",
+    "cover": "/data/streams/nightin/2026_11_24_21_05_29/录制-24872476-20261124-210529-050-今天晚上干嘛.cover.jpg",
+    "highlights": "",
+    "images": [
+      "/data/streams/nightin/2026_11_24_21_05_29/录制-24872476-20261124-210529-050-今天晚上干嘛_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_24_14_10_26",
+    "title": "N2来也！",
+    "date": "2026-11-24",
+    "time": "14:10:26",
+    "startTime": "14:10",
+    "endTime": "17:20",
+    "duration": 11427,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/nightin/2026_11_24_14_10_26/录制-24872476-20261124-141026-496-N2来也！.srt",
+    "xml": "/data/streams/nightin/2026_11_24_14_10_26/录制-24872476-20261124-141026-496-N2来也！.xml",
+    "cover": "/data/streams/nightin/2026_11_24_14_10_26/录制-24872476-20261124-141026-496-N2来也！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_24_14_10_26/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_24_14_10_26/录制-24872476-20261124-141026-496-N2来也！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_24_14_10_26/录制-24872476-20261124-141026-496-N2来也！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_23_18_03_28",
     "title": "酣畅睡眠后回归！",
     "date": "2026-11-23",

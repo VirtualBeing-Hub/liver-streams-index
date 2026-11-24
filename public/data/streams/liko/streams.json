@@ -1,5 +1,37 @@
 [
   {
+    "id": "2026_11_24_20_11_41",
+    "title": "影之刃零",
+    "date": "2026-11-24",
+    "time": "20:11:41",
+    "startTime": "20:11",
+    "endTime": "01:30",
+    "duration": 19166,
+    "durationStr": "5.3 小时",
+    "srt": null,
+    "xml": "/data/streams/liko/2026_11_24_20_11_41/录制-1713548468-20261124-201141-836-晚间波波！.xml",
+    "cover": "/data/streams/liko/2026_11_24_20_11_41/录制-1713548468-20261124-201141-836-晚间波波！.cover.jpg",
+    "highlights": "",
+    "images": []
+  },
+  {
+    "id": "2026_11_24_11_10_53",
+    "title": "中午波波！",
+    "date": "2026-11-24",
+    "time": "11:10:53",
+    "startTime": "11:10",
+    "endTime": "15:07",
+    "duration": 14220,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/liko/2026_11_24_11_10_53/录制-1713548468-20261124-111053-602-中午波波！_merged.srt",
+    "xml": "/data/streams/liko/2026_11_24_11_10_53/录制-1713548468-20261124-111053-602-中午波波！_merged.xml",
+    "cover": "/data/streams/liko/2026_11_24_11_10_53/录制-1713548468-20261124-111053-602-中午波波！.cover.jpg",
+    "highlights": "/data/streams/liko/2026_11_24_11_10_53/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_11_24_11_10_53/录制-1713548468-20261124-111053-602-中午波波！_merged_COMIC_FACTORY.png"
+    ]
+  },
+  {
     "id": "2026_11_23_19_10_31",
     "title": "影之刃零~",
     "date": "2026-11-23",

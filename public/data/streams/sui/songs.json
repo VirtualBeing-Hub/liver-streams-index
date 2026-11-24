@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-23T20:00:42.898Z",
+  "generatedAt": "2026-11-24T17:35:01.841Z",
   "sessions": [
+    {
+      "id": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c",
+      "recordedAt": "2026-11-24 20:13:57",
+      "title": "陪你这个猪过周二【新衣活动",
+      "complete": true
+    },
     {
       "id": "e2ffc2981469630e3e7a05dc3180644523970c5453d18c8cd42d359fa3fa900c",
       "recordedAt": "2026-11-22 20:14:32",
@@ -728,6 +734,39 @@
         "part": 4,
         "url": "https://www.bilibili.com/video/BV1BWyEzyEQ8/?p=4"
       }
+    },
+    {
+      "id": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c:activity-1",
+      "sessionId": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c",
+      "name": null,
+      "start": 3872,
+      "end": 4177,
+      "performance": "full",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c:activity-2",
+      "sessionId": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c",
+      "name": "东风破",
+      "start": 4666,
+      "end": 4936,
+      "performance": "full",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
+    },
+    {
+      "id": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c:activity-3",
+      "sessionId": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c",
+      "name": null,
+      "start": 5208,
+      "end": 5394,
+      "performance": "full",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": null
     },
     {
       "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",

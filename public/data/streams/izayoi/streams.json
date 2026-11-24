@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_11_24_18_53_05",
+    "title": "突击半小时",
+    "date": "2026-11-24",
+    "time": "18:53:05",
+    "startTime": "18:53",
+    "endTime": "21:01",
+    "duration": 7713,
+    "durationStr": "2.1 小时",
+    "srt": "/data/streams/izayoi/2026_11_24_18_53_05/录制-1741667419-20261124-185305-567-来画头像！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_11_24_18_53_05/录制-1741667419-20261124-185305-567-来画头像！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_11_24_18_53_05/录制-1741667419-20261124-185305-567-来画头像！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_24_18_53_05/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_24_18_53_05/录制-1741667419-20261124-185305-567-来画头像！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_24_18_53_05/录制-1741667419-20261124-185305-567-来画头像！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_23_20_00_28",
     "title": "来画头像！",
     "date": "2026-11-23",
