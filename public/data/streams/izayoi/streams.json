@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_25_19_58_48",
+    "title": "五浣狂翻垃圾桶ing",
+    "date": "2026-11-25",
+    "time": "19:58:48",
+    "startTime": "19:58",
+    "endTime": "23:55",
+    "duration": 14224,
+    "durationStr": "4.0 小时",
+    "srt": "/data/streams/izayoi/2026_11_25_19_58_48/录制-1741667419-20261125-195848-699-五浣狂翻垃圾桶ing.srt",
+    "xml": "/data/streams/izayoi/2026_11_25_19_58_48/录制-1741667419-20261125-195848-699-五浣狂翻垃圾桶ing.xml",
+    "cover": "/data/streams/izayoi/2026_11_25_19_58_48/录制-1741667419-20261125-195848-699-五浣狂翻垃圾桶ing.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_25_19_58_48/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_25_19_58_48/录制-1741667419-20261125-195848-699-五浣狂翻垃圾桶ing_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_25_19_58_48/录制-1741667419-20261125-195848-699-五浣狂翻垃圾桶ing_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_25_08_58_51",
+    "title": "早茶第126天",
+    "date": "2026-11-25",
+    "time": "08:58:51",
+    "startTime": "08:58",
+    "endTime": "11:31",
+    "duration": 9238,
+    "durationStr": "2.6 小时",
+    "srt": "/data/streams/izayoi/2026_11_25_08_58_51/录制-1741667419-20261125-085851-991-早茶第126天.srt",
+    "xml": "/data/streams/izayoi/2026_11_25_08_58_51/录制-1741667419-20261125-085851-991-早茶第126天.xml",
+    "cover": "/data/streams/izayoi/2026_11_25_08_58_51/录制-1741667419-20261125-085851-991-早茶第126天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_25_08_58_51/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_25_08_58_51/录制-1741667419-20261125-085851-991-早茶第126天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_25_08_58_51/录制-1741667419-20261125-085851-991-早茶第126天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_24_18_53_05",
     "title": "突击半小时",
     "date": "2026-11-24",

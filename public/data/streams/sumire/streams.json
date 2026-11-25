@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_25_21_03_25",
+    "title": "枝归！！！！",
+    "date": "2026-11-25",
+    "time": "21:03:25",
+    "startTime": "21:03",
+    "endTime": "23:52",
+    "duration": 10161,
+    "durationStr": "2.8 小时",
+    "srt": "/data/streams/sumire/2026_11_25_21_03_25/录制-1727076670-20261125-210325-246-枝归！！！！.srt",
+    "xml": "/data/streams/sumire/2026_11_25_21_03_25/录制-1727076670-20261125-210325-246-枝归！！！！.xml",
+    "cover": "/data/streams/sumire/2026_11_25_21_03_25/录制-1727076670-20261125-210325-246-枝归！！！！.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_25_21_03_25/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_25_21_03_25/录制-1727076670-20261125-210325-246-枝归！！！！_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_25_21_03_25/录制-1727076670-20261125-210325-246-枝归！！！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_25_13_00_24",
+    "title": "虚虚de陪",
+    "date": "2026-11-25",
+    "time": "13:00:24",
+    "startTime": "13:00",
+    "endTime": "15:42",
+    "duration": 9753,
+    "durationStr": "2.7 小时",
+    "srt": "/data/streams/sumire/2026_11_25_13_00_24/录制-1727076670-20261125-130024-808-虚虚de陪.srt",
+    "xml": "/data/streams/sumire/2026_11_25_13_00_24/录制-1727076670-20261125-130024-808-虚虚de陪.xml",
+    "cover": "/data/streams/sumire/2026_11_25_13_00_24/录制-1727076670-20261125-130024-808-虚虚de陪.cover.jpg",
+    "highlights": "/data/streams/sumire/2026_11_25_13_00_24/highlights.md",
+    "images": [
+      "/data/streams/sumire/2026_11_25_13_00_24/录制-1727076670-20261125-130024-808-虚虚de陪_COMIC_FACTORY.png",
+      "/data/streams/sumire/2026_11_25_13_00_24/录制-1727076670-20261125-130024-808-虚虚de陪_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_24_20_02_18",
     "title": "怎么样才能够抖",
     "date": "2026-11-24",

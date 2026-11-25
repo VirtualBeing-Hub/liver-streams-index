@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_25_20_08_15",
+    "title": "【联动】捡垃圾的王！",
+    "date": "2026-11-25",
+    "time": "20:08:15",
+    "startTime": "20:08",
+    "endTime": "23:01",
+    "duration": 10384,
+    "durationStr": "2.9 小时",
+    "srt": "/data/streams/nightin/2026_11_25_20_08_15/录制-24872476-20261125-200815-629-【联动】捡垃圾的王！.srt",
+    "xml": "/data/streams/nightin/2026_11_25_20_08_15/录制-24872476-20261125-200815-629-【联动】捡垃圾的王！.xml",
+    "cover": "/data/streams/nightin/2026_11_25_20_08_15/录制-24872476-20261125-200815-629-【联动】捡垃圾的王！.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_25_20_08_15/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_25_20_08_15/录制-24872476-20261125-200815-629-【联动】捡垃圾的王！_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_25_20_08_15/录制-24872476-20261125-200815-629-【联动】捡垃圾的王！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_25_14_09_29",
+    "title": "虚无N2",
+    "date": "2026-11-25",
+    "time": "14:09:29",
+    "startTime": "14:09",
+    "endTime": "17:37",
+    "duration": 12529,
+    "durationStr": "3.5 小时",
+    "srt": "/data/streams/nightin/2026_11_25_14_09_29/录制-24872476-20261125-140929-444-虚无N2.srt",
+    "xml": "/data/streams/nightin/2026_11_25_14_09_29/录制-24872476-20261125-140929-444-虚无N2.xml",
+    "cover": "/data/streams/nightin/2026_11_25_14_09_29/录制-24872476-20261125-140929-444-虚无N2.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_25_14_09_29/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_25_14_09_29/录制-24872476-20261125-140929-444-虚无N2_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_25_14_09_29/录制-24872476-20261125-140929-444-虚无N2_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_24_21_05_29",
     "title": "今天晚上干嘛",
     "date": "2026-11-24",

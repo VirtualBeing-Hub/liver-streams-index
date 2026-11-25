@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-24T20:01:04.517Z",
+  "generatedAt": "2026-11-25T20:00:58.841Z",
   "sessions": [
+    {
+      "id": "a880fa62e9801f6011b3e6a21d3aa98bf9075be59598b76b0cb3a43ae2eeda56",
+      "recordedAt": "2026-11-25 22:01:01",
+      "title": "煮你这个猪的周三！",
+      "complete": true
+    },
     {
       "id": "1ff3b3f4b475fbda293b1a4f7bbac54cc1b7da9500a0cb2ea6867de86406529c",
       "recordedAt": "2026-11-24 20:13:57",
@@ -268,21 +274,6 @@
     }
   ],
   "performances": [
-    {
-      "id": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023:activity-2",
-      "sessionId": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023",
-      "name": "風を食む",
-      "start": 5980,
-      "end": 6429,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1TSne68ExE",
-        "part": 1,
-        "url": "https://www.bilibili.com/video/BV1TSne68ExE/?p=1"
-      }
-    },
     {
       "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8:activity-1",
       "sessionId": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
@@ -781,6 +772,17 @@
       }
     },
     {
+      "id": "a880fa62e9801f6011b3e6a21d3aa98bf9075be59598b76b0cb3a43ae2eeda56:activity-2",
+      "sessionId": "a880fa62e9801f6011b3e6a21d3aa98bf9075be59598b76b0cb3a43ae2eeda56",
+      "name": null,
+      "start": 8638,
+      "end": 8662,
+      "performance": "fragment",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": null
+    },
+    {
       "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",
       "sessionId": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22",
       "name": "泡泡",
@@ -1070,6 +1072,21 @@
         "bvid": "BV1jznK6YEeW",
         "part": 1,
         "url": "https://www.bilibili.com/video/BV1jznK6YEeW/?p=1"
+      }
+    },
+    {
+      "id": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023:activity-2",
+      "sessionId": "c3d2f53f866b7413dc65bf9b21750182d39ba175ee871b90a0a185cc098e3023",
+      "name": "風を食む",
+      "start": 5980,
+      "end": 6429,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1TSne68ExE",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1TSne68ExE/?p=1"
       }
     }
   ]

@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_25_23_44_56",
+    "title": "明天来耐久回！",
+    "date": "2026-11-25",
+    "time": "23:44:56",
+    "startTime": "23:44",
+    "endTime": "00:40",
+    "duration": 3403,
+    "durationStr": "0.9 小时",
+    "srt": "/data/streams/mitsuri/2026_11_25_23_44_56/录制-1967216004-20261125-234456-265-看点好康的！.srt",
+    "xml": "/data/streams/mitsuri/2026_11_25_23_44_56/录制-1967216004-20261125-234456-265-看点好康的！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_25_23_44_56/录制-1967216004-20261125-234456-265-看点好康的！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_25_23_44_56/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_25_23_44_56/录制-1967216004-20261125-234456-265-看点好康的！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_25_23_44_56/录制-1967216004-20261125-234456-265-看点好康的！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_25_10_03_28",
+    "title": "喝一口早台咖啡！",
+    "date": "2026-11-25",
+    "time": "10:03:28",
+    "startTime": "10:03",
+    "endTime": "15:01",
+    "duration": 17913,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/mitsuri/2026_11_25_10_03_28/录制-1967216004-20261125-100328-432-喝一口早台咖啡！.srt",
+    "xml": "/data/streams/mitsuri/2026_11_25_10_03_28/录制-1967216004-20261125-100328-432-喝一口早台咖啡！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_25_10_03_28/录制-1967216004-20261125-100328-432-喝一口早台咖啡！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_25_10_03_28/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_25_10_03_28/录制-1967216004-20261125-100328-432-喝一口早台咖啡！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_25_10_03_28/录制-1967216004-20261125-100328-432-喝一口早台咖啡！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_22_21_03_05",
     "title": "嘟嘟啊！",
     "date": "2026-11-22",
