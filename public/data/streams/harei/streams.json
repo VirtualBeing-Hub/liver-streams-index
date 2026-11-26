@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_26_21_06_42",
+    "title": "小鼠来玩恐游^^",
+    "date": "2026-11-26",
+    "time": "21:06:42",
+    "startTime": "21:06",
+    "endTime": "02:07",
+    "duration": 18061,
+    "durationStr": "5.0 小时",
+    "srt": "/data/streams/harei/2026_11_26_21_06_42/录制-1820703922-20261126-210642-298-bilibili主播的直播间_merged.srt",
+    "xml": "/data/streams/harei/2026_11_26_21_06_42/录制-1820703922-20261126-210642-298-bilibili主播的直播间_merged.xml",
+    "cover": "/data/streams/harei/2026_11_26_21_06_42/录制-1820703922-20261126-210642-298-bilibili主播的直播间.cover.jpg",
+    "highlights": "/data/streams/harei/2026_11_26_21_06_42/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_11_26_21_06_42/录制-1820703922-20261126-210642-298-bilibili主播的直播间_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_11_26_21_06_42/录制-1820703922-20261126-210642-298-bilibili主播的直播间_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_26_14_03_25",
+    "title": "今天来鸣潮3.0下^^",
+    "date": "2026-11-26",
+    "time": "14:03:25",
+    "startTime": "14:03",
+    "endTime": "17:19",
+    "duration": 11797,
+    "durationStr": "3.3 小时",
+    "srt": "/data/streams/harei/2026_11_26_14_03_25/录制-1820703922-20261126-140325-448-今天来鸣潮3.0下^^_merged.srt",
+    "xml": "/data/streams/harei/2026_11_26_14_03_25/录制-1820703922-20261126-140325-448-今天来鸣潮3.0下^^_merged.xml",
+    "cover": "/data/streams/harei/2026_11_26_14_03_25/录制-1820703922-20261126-140325-448-今天来鸣潮3.0下^^.cover.jpg",
+    "highlights": "/data/streams/harei/2026_11_26_14_03_25/highlights.md",
+    "images": [
+      "/data/streams/harei/2026_11_26_14_03_25/录制-1820703922-20261126-140325-448-今天来鸣潮3.0下^^_merged_COMIC_FACTORY.png",
+      "/data/streams/harei/2026_11_26_14_03_25/录制-1820703922-20261126-140325-448-今天来鸣潮3.0下^^_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_25_21_02_30",
     "title": "小鼠来点歌吧^^",
     "date": "2026-11-25",

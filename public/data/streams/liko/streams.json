@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_26_21_10_47",
+    "title": "一起钻被窝",
+    "date": "2026-11-26",
+    "time": "21:10:47",
+    "startTime": "21:10",
+    "endTime": "01:02",
+    "duration": 13931,
+    "durationStr": "3.9 小时",
+    "srt": "/data/streams/liko/2026_11_26_21_10_47/录制-1713548468-20261126-211047-849-一起钻被窝_merged.srt",
+    "xml": "/data/streams/liko/2026_11_26_21_10_47/录制-1713548468-20261126-211047-849-一起钻被窝_merged.xml",
+    "cover": "/data/streams/liko/2026_11_26_21_10_47/录制-1713548468-20261126-211047-849-一起钻被窝.cover.jpg",
+    "highlights": "/data/streams/liko/2026_11_26_21_10_47/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_11_26_21_10_47/录制-1713548468-20261126-211047-849-一起钻被窝_merged_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_11_26_21_10_47/录制-1713548468-20261126-211047-849-一起钻被窝_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_26_11_08_38",
+    "title": "中午好呀",
+    "date": "2026-11-26",
+    "time": "11:08:38",
+    "startTime": "11:08",
+    "endTime": "14:16",
+    "duration": 11337,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/liko/2026_11_26_11_08_38/录制-1713548468-20261126-110838-227-中午好呀.srt",
+    "xml": "/data/streams/liko/2026_11_26_11_08_38/录制-1713548468-20261126-110838-227-中午好呀.xml",
+    "cover": "/data/streams/liko/2026_11_26_11_08_38/录制-1713548468-20261126-110838-227-中午好呀.cover.jpg",
+    "highlights": "/data/streams/liko/2026_11_26_11_08_38/highlights.md",
+    "images": [
+      "/data/streams/liko/2026_11_26_11_08_38/录制-1713548468-20261126-110838-227-中午好呀_COMIC_FACTORY.png",
+      "/data/streams/liko/2026_11_26_11_08_38/录制-1713548468-20261126-110838-227-中午好呀_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_24_20_11_41",
     "title": "影之刃零",
     "date": "2026-11-24",

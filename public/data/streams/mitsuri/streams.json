@@ -1,5 +1,23 @@
 [
   {
+    "id": "2026_11_26_10_02_21",
+    "title": "今天耐久回！",
+    "date": "2026-11-26",
+    "time": "10:02:21",
+    "startTime": "10:02",
+    "endTime": "21:28",
+    "duration": 41188,
+    "durationStr": "11.4 小时",
+    "srt": "/data/streams/mitsuri/2026_11_26_10_02_21/录制-1967216004-20261126-100221-751-今天耐久回！_merged.srt",
+    "xml": "/data/streams/mitsuri/2026_11_26_10_02_21/录制-1967216004-20261126-100221-751-今天耐久回！_merged.xml",
+    "cover": "/data/streams/mitsuri/2026_11_26_10_02_21/录制-1967216004-20261126-100221-751-今天耐久回！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_26_10_02_21/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_26_10_02_21/录制-1967216004-20261126-100221-751-今天耐久回！_merged_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_26_10_02_21/录制-1967216004-20261126-100221-751-今天耐久回！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_25_23_44_56",
     "title": "明天来耐久回！",
     "date": "2026-11-25",

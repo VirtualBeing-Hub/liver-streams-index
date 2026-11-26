@@ -1,5 +1,59 @@
 [
   {
+    "id": "2026_11_26_20_02_40",
+    "title": "一起来看久留美！",
+    "date": "2026-11-26",
+    "time": "20:02:40",
+    "startTime": "20:02",
+    "endTime": "00:06",
+    "duration": 14676,
+    "durationStr": "4.1 小时",
+    "srt": "/data/streams/izayoi/2026_11_26_20_02_40/录制-1741667419-20261126-200240-818-一起来看久留美！_merged.srt",
+    "xml": "/data/streams/izayoi/2026_11_26_20_02_40/录制-1741667419-20261126-200240-818-一起来看久留美！_merged.xml",
+    "cover": "/data/streams/izayoi/2026_11_26_20_02_40/录制-1741667419-20261126-200240-818-一起来看久留美！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_26_20_02_40/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_26_20_02_40/录制-1741667419-20261126-200240-818-一起来看久留美！_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_26_20_02_40/录制-1741667419-20261126-200240-818-一起来看久留美！_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_26_14_01_15",
+    "title": "健身浣一下！",
+    "date": "2026-11-26",
+    "time": "14:01:15",
+    "startTime": "14:01",
+    "endTime": "17:09",
+    "duration": 11289,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/izayoi/2026_11_26_14_01_15/录制-1741667419-20261126-140115-092-健身浣一下！.srt",
+    "xml": "/data/streams/izayoi/2026_11_26_14_01_15/录制-1741667419-20261126-140115-092-健身浣一下！.xml",
+    "cover": "/data/streams/izayoi/2026_11_26_14_01_15/录制-1741667419-20261126-140115-092-健身浣一下！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_26_14_01_15/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_26_14_01_15/录制-1741667419-20261126-140115-092-健身浣一下！_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_26_14_01_15/录制-1741667419-20261126-140115-092-健身浣一下！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_26_09_28_22",
+    "title": "早茶第127天",
+    "date": "2026-11-26",
+    "time": "09:28:22",
+    "startTime": "09:28",
+    "endTime": "11:58",
+    "duration": 9013,
+    "durationStr": "2.5 小时",
+    "srt": "/data/streams/izayoi/2026_11_26_09_28_22/录制-1741667419-20261126-092822-314-早茶第127天.srt",
+    "xml": "/data/streams/izayoi/2026_11_26_09_28_22/录制-1741667419-20261126-092822-314-早茶第127天.xml",
+    "cover": "/data/streams/izayoi/2026_11_26_09_28_22/录制-1741667419-20261126-092822-314-早茶第127天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_26_09_28_22/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_26_09_28_22/录制-1741667419-20261126-092822-314-早茶第127天_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_26_09_28_22/录制-1741667419-20261126-092822-314-早茶第127天_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_25_19_58_48",
     "title": "五浣狂翻垃圾桶ing",
     "date": "2026-11-25",
