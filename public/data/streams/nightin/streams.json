@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_27_21_07_24",
+    "title": "放映厅陪一根来",
+    "date": "2026-11-27",
+    "time": "21:07:24",
+    "startTime": "21:07",
+    "endTime": "23:04",
+    "duration": 7064,
+    "durationStr": "2.0 小时",
+    "srt": "/data/streams/nightin/2026_11_27_21_07_24/录制-24872476-20261127-210724-790-放映厅陪一根来.srt",
+    "xml": "/data/streams/nightin/2026_11_27_21_07_24/录制-24872476-20261127-210724-790-放映厅陪一根来.xml",
+    "cover": "/data/streams/nightin/2026_11_27_21_07_24/录制-24872476-20261127-210724-790-放映厅陪一根来.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_27_21_07_24/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_27_21_07_24/录制-24872476-20261127-210724-790-放映厅陪一根来_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_27_21_07_24/录制-24872476-20261127-210724-790-放映厅陪一根来_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_27_14_08_11",
+    "title": "周五的虚无N2",
+    "date": "2026-11-27",
+    "time": "14:08:11",
+    "startTime": "14:08",
+    "endTime": "17:11",
+    "duration": 11028,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/nightin/2026_11_27_14_08_11/录制-24872476-20261127-140811-200-周五的虚无N2.srt",
+    "xml": "/data/streams/nightin/2026_11_27_14_08_11/录制-24872476-20261127-140811-200-周五的虚无N2.xml",
+    "cover": "/data/streams/nightin/2026_11_27_14_08_11/录制-24872476-20261127-140811-200-周五的虚无N2.cover.jpg",
+    "highlights": "/data/streams/nightin/2026_11_27_14_08_11/highlights.md",
+    "images": [
+      "/data/streams/nightin/2026_11_27_14_08_11/录制-24872476-20261127-140811-200-周五的虚无N2_COMIC_FACTORY.png",
+      "/data/streams/nightin/2026_11_27_14_08_11/录制-24872476-20261127-140811-200-周五的虚无N2_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_26_21_05_15",
     "title": "雀魂复仇局",
     "date": "2026-11-26",

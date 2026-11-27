@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_27_20_31_19",
+    "title": "嘟嘟登场！！",
+    "date": "2026-11-27",
+    "time": "20:31:19",
+    "startTime": "20:31",
+    "endTime": "02:15",
+    "duration": 20658,
+    "durationStr": "5.7 小时",
+    "srt": "/data/streams/mitsuri/2026_11_27_20_31_19/录制-1967216004-20261127-203119-921-嘟嘟登场！！.srt",
+    "xml": "/data/streams/mitsuri/2026_11_27_20_31_19/录制-1967216004-20261127-203119-921-嘟嘟登场！！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_27_20_31_19/录制-1967216004-20261127-203119-921-嘟嘟登场！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_27_20_31_19/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_27_20_31_19/录制-1967216004-20261127-203119-921-嘟嘟登场！！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_27_20_31_19/录制-1967216004-20261127-203119-921-嘟嘟登场！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_27_14_02_44",
+    "title": "影之刃高手！！",
+    "date": "2026-11-27",
+    "time": "14:02:44",
+    "startTime": "14:02",
+    "endTime": "18:17",
+    "duration": 15341,
+    "durationStr": "4.3 小时",
+    "srt": "/data/streams/mitsuri/2026_11_27_14_02_44/录制-1967216004-20261127-140244-308-影之刃高手！！.srt",
+    "xml": "/data/streams/mitsuri/2026_11_27_14_02_44/录制-1967216004-20261127-140244-308-影之刃高手！！.xml",
+    "cover": "/data/streams/mitsuri/2026_11_27_14_02_44/录制-1967216004-20261127-140244-308-影之刃高手！！.cover.jpg",
+    "highlights": "/data/streams/mitsuri/2026_11_27_14_02_44/highlights.md",
+    "images": [
+      "/data/streams/mitsuri/2026_11_27_14_02_44/录制-1967216004-20261127-140244-308-影之刃高手！！_COMIC_FACTORY.png",
+      "/data/streams/mitsuri/2026_11_27_14_02_44/录制-1967216004-20261127-140244-308-影之刃高手！！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_26_10_02_21",
     "title": "今天耐久回！",
     "date": "2026-11-26",

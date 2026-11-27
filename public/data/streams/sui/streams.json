@@ -1,5 +1,79 @@
 [
   {
+    "id": "2026_11_27_20_21_42",
+    "title": "陪你这个猪过周五！唱唱聊聊",
+    "date": "2026-11-27",
+    "time": "20:21:42",
+    "startTime": "20:21",
+    "endTime": "01:42",
+    "duration": 19276,
+    "durationStr": "5.4 小时",
+    "srt": "/data/streams/sui/2026_11_27_20_21_42/录制-25788785-20261127-202142-320-陪你这个猪过周五！唱唱聊聊_merged.srt",
+    "xml": "/data/streams/sui/2026_11_27_20_21_42/录制-25788785-20261127-202142-320-陪你这个猪过周五！唱唱聊聊_merged.xml",
+    "cover": "/data/streams/sui/2026_11_27_20_21_42/录制-25788785-20261127-202142-320-陪你这个猪过周五！唱唱聊聊.cover.jpg",
+    "highlights": "/data/streams/sui/2026_11_27_20_21_42/highlights.md",
+    "images": [
+      "/data/streams/sui/2026_11_27_20_21_42/录制-25788785-20261127-202142-320-陪你这个猪过周五！唱唱聊聊_merged_COMIC_FACTORY.png",
+      "/data/streams/sui/2026_11_27_20_21_42/录制-25788785-20261127-202142-320-陪你这个猪过周五！唱唱聊聊_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "杂谈、唱歌，并游玩《动物井》。",
+      "songs": [
+        {
+          "name": "明天见",
+          "start": 2401,
+          "end": 2808,
+          "clips": [
+            {
+              "bvid": "BV1Ww18zpEaN",
+              "part": 1,
+              "url": "https://www.bilibili.com/video/BV1Ww18zpEaN/?p=1"
+            }
+          ]
+        },
+        {
+          "name": "请你杀死我的浪漫",
+          "start": 5335,
+          "end": 5803,
+          "clips": [
+            {
+              "bvid": "BV1Ww18zpEaN",
+              "part": 2,
+              "url": "https://www.bilibili.com/video/BV1Ww18zpEaN/?p=2"
+            }
+          ]
+        }
+      ],
+      "games": [
+        {
+          "name": "动物井"
+        }
+      ],
+      "watch": [],
+      "other": [
+        {
+          "name": "折耳根炒饭"
+        },
+        {
+          "name": "下楼梯摔跤"
+        },
+        {
+          "name": "给侄子买气球"
+        },
+        {
+          "name": "公园短租"
+        },
+        {
+          "name": "眼睛发炎"
+        },
+        {
+          "name": "健身比赛与饮食"
+        }
+      ],
+      "generatedAt": "2026-11-27T18:12:34.557Z"
+    }
+  },
+  {
     "id": "2026_11_26_21_07_15",
     "title": "陪你这个猪过周四",
     "date": "2026-11-26",

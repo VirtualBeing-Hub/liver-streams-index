@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_27_21_01_20",
+    "title": "周五啦一起学剪辑",
+    "date": "2026-11-27",
+    "time": "21:01:20",
+    "startTime": "21:01",
+    "endTime": "02:07",
+    "duration": 18419,
+    "durationStr": "5.1 小时",
+    "srt": "/data/streams/mofu/2026_11_27_21_01_20/录制-1791260716-20261127-210120-482-周五啦一起学剪辑_merged.srt",
+    "xml": "/data/streams/mofu/2026_11_27_21_01_20/录制-1791260716-20261127-210120-482-周五啦一起学剪辑_merged.xml",
+    "cover": "/data/streams/mofu/2026_11_27_21_01_20/录制-1791260716-20261127-210120-482-周五啦一起学剪辑.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_11_27_21_01_20/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_11_27_21_01_20/录制-1791260716-20261127-210120-482-周五啦一起学剪辑_merged_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_11_27_21_01_20/录制-1791260716-20261127-210120-482-周五啦一起学剪辑_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_27_12_02_25",
+    "title": "冷冷！",
+    "date": "2026-11-27",
+    "time": "12:02:25",
+    "startTime": "12:02",
+    "endTime": "15:10",
+    "duration": 11280,
+    "durationStr": "3.1 小时",
+    "srt": "/data/streams/mofu/2026_11_27_12_02_25/录制-1791260716-20261127-120225-403-冷冷！.srt",
+    "xml": "/data/streams/mofu/2026_11_27_12_02_25/录制-1791260716-20261127-120225-403-冷冷！.xml",
+    "cover": "/data/streams/mofu/2026_11_27_12_02_25/录制-1791260716-20261127-120225-403-冷冷！.cover.jpg",
+    "highlights": "/data/streams/mofu/2026_11_27_12_02_25/highlights.md",
+    "images": [
+      "/data/streams/mofu/2026_11_27_12_02_25/录制-1791260716-20261127-120225-403-冷冷！_COMIC_FACTORY.png",
+      "/data/streams/mofu/2026_11_27_12_02_25/录制-1791260716-20261127-120225-403-冷冷！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_26_21_02_03",
     "title": "冷冷！",
     "date": "2026-11-26",

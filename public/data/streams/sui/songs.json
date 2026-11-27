@@ -1,7 +1,13 @@
 {
   "version": 1,
-  "generatedAt": "2026-11-26T20:01:13.096Z",
+  "generatedAt": "2026-11-27T20:01:31.371Z",
   "sessions": [
+    {
+      "id": "261aafbdc1421b334afa2ebf4afaf72ee55b7a60322a94791c9f0887b447776a",
+      "recordedAt": "2026-11-27 20:21:42",
+      "title": "陪你这个猪过周五！唱唱聊聊_merged",
+      "complete": true
+    },
     {
       "id": "b53415dbe050c3e11432798b04126b4af934469c8574dd8888abc1bf05a2298f",
       "recordedAt": "2026-11-26 21:07:15",
@@ -286,51 +292,6 @@
     }
   ],
   "performances": [
-    {
-      "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8:activity-1",
-      "sessionId": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
-      "name": "情书",
-      "start": 706.509,
-      "end": 977.6,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1uenD6yEad",
-        "part": 1,
-        "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=1"
-      }
-    },
-    {
-      "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8:activity-2",
-      "sessionId": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
-      "name": "绝对占有 相对自由",
-      "start": 3152.389,
-      "end": 3597,
-      "performance": "full",
-      "confirmed": true,
-      "boundariesConfirmed": true,
-      "clip": {
-        "bvid": "BV1uenD6yEad",
-        "part": 2,
-        "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=2"
-      }
-    },
-    {
-      "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8:activity-4",
-      "sessionId": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
-      "name": "那个女孩",
-      "start": 7055.84,
-      "end": 7381,
-      "performance": "fragment",
-      "confirmed": false,
-      "boundariesConfirmed": false,
-      "clip": {
-        "bvid": "BV1uenD6yEad",
-        "part": 3,
-        "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=3"
-      }
-    },
     {
       "id": "d8ee0cdeb0b5cc212da81bb4e6d46ffc89d7badcbcd139f8b7ceadaeb76940c6:activity-1",
       "sessionId": "d8ee0cdeb0b5cc212da81bb4e6d46ffc89d7badcbcd139f8b7ceadaeb76940c6",
@@ -795,6 +756,36 @@
       "clip": null
     },
     {
+      "id": "261aafbdc1421b334afa2ebf4afaf72ee55b7a60322a94791c9f0887b447776a:activity-1",
+      "sessionId": "261aafbdc1421b334afa2ebf4afaf72ee55b7a60322a94791c9f0887b447776a",
+      "name": "明天见",
+      "start": 2401,
+      "end": 2808,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1Ww18zpEaN",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1Ww18zpEaN/?p=1"
+      }
+    },
+    {
+      "id": "261aafbdc1421b334afa2ebf4afaf72ee55b7a60322a94791c9f0887b447776a:activity-2",
+      "sessionId": "261aafbdc1421b334afa2ebf4afaf72ee55b7a60322a94791c9f0887b447776a",
+      "name": "请你杀死我的浪漫",
+      "start": 5335,
+      "end": 5803,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1Ww18zpEaN",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1Ww18zpEaN/?p=2"
+      }
+    },
+    {
       "id": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22:activity-1",
       "sessionId": "781977dcd37f5b1b516c738b725db57178ead246759649d2250874c5b57bce22",
       "name": "泡泡",
@@ -1099,6 +1090,51 @@
         "bvid": "BV1TSne68ExE",
         "part": 1,
         "url": "https://www.bilibili.com/video/BV1TSne68ExE/?p=1"
+      }
+    },
+    {
+      "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8:activity-1",
+      "sessionId": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
+      "name": "情书",
+      "start": 706.509,
+      "end": 977.6,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1uenD6yEad",
+        "part": 1,
+        "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=1"
+      }
+    },
+    {
+      "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8:activity-2",
+      "sessionId": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
+      "name": "绝对占有 相对自由",
+      "start": 3152.389,
+      "end": 3597,
+      "performance": "full",
+      "confirmed": true,
+      "boundariesConfirmed": true,
+      "clip": {
+        "bvid": "BV1uenD6yEad",
+        "part": 2,
+        "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=2"
+      }
+    },
+    {
+      "id": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8:activity-4",
+      "sessionId": "39f7cb757a1eea2a15c7d2b72aa3cdbc08fe8ab661dedf0e04bd25a2ead47df8",
+      "name": "那个女孩",
+      "start": 7055.84,
+      "end": 7381,
+      "performance": "fragment",
+      "confirmed": false,
+      "boundariesConfirmed": false,
+      "clip": {
+        "bvid": "BV1uenD6yEad",
+        "part": 3,
+        "url": "https://www.bilibili.com/video/BV1uenD6yEad/?p=3"
       }
     }
   ]

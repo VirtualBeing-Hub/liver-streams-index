@@ -1,5 +1,60 @@
 [
   {
+    "id": "2026_11_27_21_02_53",
+    "title": "小栞来杂谈！",
+    "date": "2026-11-27",
+    "time": "21:02:53",
+    "startTime": "21:02",
+    "endTime": "00:14",
+    "duration": 11532,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/shiori/2026_11_27_21_02_53/录制-26966466-20261127-210253-063-【S2噜咪】闪耀吧栞咪www_merged.srt",
+    "xml": "/data/streams/shiori/2026_11_27_21_02_53/录制-26966466-20261127-210253-063-【S2噜咪】闪耀吧栞咪www_merged.xml",
+    "cover": "/data/streams/shiori/2026_11_27_21_02_53/录制-26966466-20261127-210253-063-【S2噜咪】闪耀吧栞咪www.cover.jpg",
+    "highlights": "/data/streams/shiori/2026_11_27_21_02_53/highlights.md",
+    "images": [
+      "/data/streams/shiori/2026_11_27_21_02_53/录制-26966466-20261127-210253-063-【S2噜咪】闪耀吧栞咪www_merged_COMIC_FACTORY.png",
+      "/data/streams/shiori/2026_11_27_21_02_53/录制-26966466-20261127-210253-063-【S2噜咪】闪耀吧栞咪www_merged_SCREENSHOTS.jpg"
+    ],
+    "recap": {
+      "overview": "玩宠物捕捉养成游戏、杂谈、看动画、唱歌。",
+      "songs": [
+        {
+          "name": "大头儿子小头爸爸"
+        }
+      ],
+      "games": [],
+      "watch": [],
+      "other": [
+        {
+          "name": "宠物捕捉与家园经营"
+        },
+        {
+          "name": "周边商品设计"
+        },
+        {
+          "name": "是否报名游戏比赛"
+        },
+        {
+          "name": "直播时段与扩圈"
+        },
+        {
+          "name": "新衣主题与创作压力"
+        },
+        {
+          "name": "游戏和文字作品推荐"
+        },
+        {
+          "name": "恋爱与相处方式"
+        },
+        {
+          "name": "毛发护理与习惯"
+        }
+      ],
+      "generatedAt": "2026-11-27T16:27:00.043Z"
+    }
+  },
+  {
     "id": "2026_11_26_22_05_03",
     "title": "小栞来深空当铺！！",
     "date": "2026-11-26",

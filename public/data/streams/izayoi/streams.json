@@ -1,5 +1,41 @@
 [
   {
+    "id": "2026_11_27_20_01_19",
+    "title": "mc一下！",
+    "date": "2026-11-27",
+    "time": "20:01:19",
+    "startTime": "20:01",
+    "endTime": "02:00",
+    "duration": 21562,
+    "durationStr": "6.0 小时",
+    "srt": "/data/streams/izayoi/2026_11_27_20_01_19/录制-1741667419-20261127-200119-833-mc一下！.srt",
+    "xml": "/data/streams/izayoi/2026_11_27_20_01_19/录制-1741667419-20261127-200119-833-mc一下！.xml",
+    "cover": "/data/streams/izayoi/2026_11_27_20_01_19/录制-1741667419-20261127-200119-833-mc一下！.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_27_20_01_19/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_27_20_01_19/录制-1741667419-20261127-200119-833-mc一下！_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_27_20_01_19/录制-1741667419-20261127-200119-833-mc一下！_SCREENSHOTS.jpg"
+    ]
+  },
+  {
+    "id": "2026_11_27_08_58_06",
+    "title": "早茶第128天",
+    "date": "2026-11-27",
+    "time": "08:58:06",
+    "startTime": "08:58",
+    "endTime": "12:08",
+    "duration": 11453,
+    "durationStr": "3.2 小时",
+    "srt": "/data/streams/izayoi/2026_11_27_08_58_06/录制-1741667419-20261127-085806-516-早茶第128天_merged.srt",
+    "xml": "/data/streams/izayoi/2026_11_27_08_58_06/录制-1741667419-20261127-085806-516-早茶第128天_merged.xml",
+    "cover": "/data/streams/izayoi/2026_11_27_08_58_06/录制-1741667419-20261127-085806-516-早茶第128天.cover.jpg",
+    "highlights": "/data/streams/izayoi/2026_11_27_08_58_06/highlights.md",
+    "images": [
+      "/data/streams/izayoi/2026_11_27_08_58_06/录制-1741667419-20261127-085806-516-早茶第128天_merged_COMIC_FACTORY.png",
+      "/data/streams/izayoi/2026_11_27_08_58_06/录制-1741667419-20261127-085806-516-早茶第128天_merged_SCREENSHOTS.jpg"
+    ]
+  },
+  {
     "id": "2026_11_26_20_02_40",
     "title": "一起来看久留美！",
     "date": "2026-11-26",
